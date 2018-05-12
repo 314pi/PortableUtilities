@@ -1,0 +1,138 @@
+DSynchronize programmé par Dimitrios Coutsoumbas (Dimio)
+
+Traduction française : JP4U de l'Équipe du projet Liberkey (www.liberkey.com) 3ème version. 26 juin 2008
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La dernière version peut être trouvée à cette adresse:
+
+Site: "http://dimio.altervista.org/" 
+
+
+
+DESCRIPTION:
+~~~~~~~~~~~~
+
+DSynchronize est un programme gratuit (Freeware) qui synchronise deux répertoires ou plus sur un réseau local (LAN). 
+Le programme compare chaque "Source" avec sa "Destination" respective, puis change la «Destination» (en ajoutant, remplaçant, ou en supprimant les fichiers et sous-répertoires), de manière à rendre ces fichiers ou les sous-répertoires identiques à  la "Source"." Il supporte plusieurs filtres (séparées par des ";") de type *. exe, *. txt, etc...
+Vous pouvez configurer les synchronisations et utiliser des variables d'environnement  (% WINDIR%, % USERPROFILE% etc.). L'utilisation est assez intuitive.
+
+
+SYSTÊMES SUPPORTÉS:
+~~~~~~~~~~~~~~~~~~
+
+Windows VISTA
+Windows 2003
+Windows XP 
+Windows 2000 
+Windows NT4 with SP6a and IE4 et superieur. 
+
+
+
+OPTIONS:
+~~~~~~~~
+
+"Sauver et quitter" 
+Cette fonction sert à sauver tous les paramètres et à mémoriser les répertoires à synchroniser quand on ferme le logiciel. 
+
+"Antifragmentation" 
+Il réduit la fragmentation du disque: Afin d'éviter des trous dans la structure des fichiers : quand un fichier est remplacé, l'ancien fichier est d'abord retiré de la structure et le fichier de remplacement est écrit à l'emplacement de l'ancien fichier.
+
+"Réglage Chrono" 
+Cette option définit la synchronisation à lancer sur une base régulière. Vous pouvez préciser le temps d'attente entre les synchronisations en terme d'heures et minutes. Vous pouvez également spécifier les jours pour lesquels vous souhaitez que la synchronisation se produise ou fixer un moment spécifique pour synchroniser des jours spécifiés.
+
+"Éteindre en quittant" 
+Cette option permet d'arrêter automatiquement le PC en fin de synchronisation. 
+
+"Créer dossier s'il n'existe" 
+Si le répertoire spécifié n'existe pas sur la destination, il sera automatiquement créé avec le même nom que le répertoire source.
+
+"Dater le dossier destination" 
+Cette option ajoute la date des fichiers au dossier de destination. Par exemple, si le dossier source x est  "C:\mapindestination" il devient "C:\mapindestination 18-07-2004 22,30". Elle peut être utilisée pour la création de plusieurs sauvegardes en utilisant un laps de temps pour faire une différence entre elles. 
+
+"Copier que si nouveau" 
+Remplace les fichiers dans "Destination" seulement si le fichier d'"Origine" est plus récent. 
+
+
+"Définir la priorité Idle"
+Réglez le processus de priorité au minimum possible sur le système. Ce n'est pas nécessaire car DSynchronize utilise déjà très peu de ressources. L'utilisation de cette option entraînera une synchronisation plus lente. 
+NDT : je n'ai pas encore trouvé où se définissait cette possibilité. C'est peut-être un résidu des versions précédentes. Si vous trouvez tenez-moi au courant...
+
+"Synchro bidirectionnelle" 
+Cela permet au fichier le plus récent de chaque localisation d'être copié sur l'autre. Chaque fichier est vérifié à la source et à la destination des dossiers et la plus récente version de chaque fichier est copiée dans les deux emplacements. La source et la destination doivent être identiques après la synchronisation.
+
+"Synchro directe" 
+DSynchronize contrôle en permanence les dossiers spécifiés (Cette fonction utilise très peu de puissance CPU) pour relayer  les changements qui se produisent dans l'"Origine" et transmettre  en conséquence toutes les modifications apportées à la "Destination".
+Avant d'activer cette option, il est important de mener à bien une synchronisation normale. En fait, la fonction de cette option est de maintenir deux dossiers identiques dès le début.
+
+"Autostart" 
+Cela lance automatiquement le programme lorsque Windows démarre avec les dernières options vous avez enregistrées. 
+Si la synchronisation est sur le Chrono (la minuterie), elle aura lieu comme prévu, sinon la synchronisation se fera immédiatement. 
+
+"Autostart Service LAN" 
+Cela démarre automatiquement le programme à titre de service lorsque Windows démarre.  Il est possible de spécifier le compte de qui, en vertu duquel le programme fonctionnera. Il est important de vérifier que le compte spécifié dispose de suffisamment de privilèges pour accéder à la fois à la source et aux répertoires de destination.  
+
+"Copies de sécurité"
+Si l'on sélectionne cette option de sauvegarde le programme effectue une sauvegarde de sécurité des anciennes versions avant d'effectuer les synchronisations.
+No Backup : cette option de la liste désactive la sauvegarde en parallèle de l'ancienne version.
+Si l'on sélectionne "2" il conservera deux anciennes versions des fichiers remplacés et l'actuelle.
+
+Les autres options s'expliquent d'elles mêmes: -) [NDT : Surtout si l'on promène le curseur de la souris sur le nom de la commande ou dans les fenêtres :)) ]
+
+
+
+PARAMÈTRES DE LA LIGNE DE COMMANDES: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+Il est possible de spécifier certains paramètres en ligne de commande : 
+
+/START 
+La synchronisation débute immédiatement (avec les dernières options sauvegardées). 
+
+/MINIMIZE 
+Dsynchronise se lance minimisé dans la barre d'état du système. 
+
+/HIDDEN 
+DSynchronize commence la synchronisation en arrière-plan sans même afficher d'icône dans la barre des tâches. 
+
+/NOSECURITYCHECK 
+Avant d'effectuer la synchronisation, il n'y a pas vérification  des permissions que l'on a sur la lecture / écriture du porte-documents. En fait, dans de rares cas, il semble que le contrôle de sécurité empêche également de synchroniser le porte-documents sur lesquels on disposerait de telles autorisations. Sélectionner l'option ci-dessus, permet au logiciel de fonctionner normalement dans ces cas particuliers.
+
+/SOMEFILE.INI 
+Il utilise un fichier INI pour contrôler la synchronisation. De toute évidence, le nom et l'emplacement de ce FICHIER peuvent être modifiés le cas échéant ...
+
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE  : katafratto
+ICQ    : 145633952
+E-MAIL : cyberdimio@gmail.com
+HOME   : http://dimio.altervista.org/
+
+
+
+NOTES: 
+~~~~~
+	
+Le programme utilise la technologie UPX (http://upx.sourceforge.net/) afin d'accroître sa portabilité. 
+
+
+
+LICENSE: 
+~~~~~~~
+
+Le programme est distribué avec la licence Freeware.
+
+
+
+NOTES SUR LA SYNCHRONIZATION EN TEMPS-RÉEL:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+COMMENT ELLE FONCTIONNE:
+Le programme surveille tous les changements dans l'état d'origine et, toutes les 10 secondes, reflète les mêmes changements dans la destination.
+Il attend ensuite environ 10 secondes, ce qui a pour but d'éviter une consommation inutile de processeur, en fait, si un fichier est modifié deux fois en 10 secondes, il ne sera copié qu'une fois, ce qui réduit par deux la consommation de temps processeur.
+
+PROBLÈMES POSSIBLES:
+Il est normal qu'au cours de la synchronisation en temps réel dans la fenêtre certaines opérations montrent un résultat négatif (échec ou bloqué), Elles ne déterminent pas d'anomalies dans la synchronisation.
+Par exemple, si vous avez créé un fichier qui sera supprimé à son tour pour être remplacé dans quelques fractions de seconde, lorsque le programme tente de synchroniser, il produira deux erreurs, alors qu'en réalité tout est OK. En fait, la première chose que le programme va essayer de faire est de copier un fichier inexistant, et donc il va essayer ensuite de supprimer ce fichier. 
+
+La synchronisation en temps réel est considérée comme expérimentale. En fait, il existe quelques rares conditions qui peuvent causer des défaillances dans la synchronisation. Il vous est donc recommandé, si cette option est utilisée, d'effectuer aussi périodiquement des synchronisations normales.

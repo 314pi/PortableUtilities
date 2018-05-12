@@ -1,0 +1,22 @@
+Copy winpenguins.exe and winmon.dll somewhere and run them.  However 
+
+winmon.dll is no longer required, if it cannot be found winpenguins.exe
+
+will extract a copy of winmon.dll from it's resources and use that instead.
+
+Ricky Update: winmon.dll isn't required as it's now a resource embedded into the exe.
+Also I've made it so the MFC libraries are statically linked so there shouldn't be a problem with missing DLL files :) (I hope)
+
+
+Winpenguins has only been tested on Windows 2000 and Windows 98.  
+
+However it should work for Windows 95 or Windows NT.
+  
+
+I've received feedback that Winpenguins does work with Windows 95, 
+
+but you may need mfc42.dll.  This DLL is available for download 
+
+on the Winpenguins homepage.
+
+Ricky Update: Works on Windows 7 x64. Should also work on Windows 7 x86, XP and Vista x86/64. 

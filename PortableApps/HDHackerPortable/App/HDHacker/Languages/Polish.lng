@@ -1,0 +1,46 @@
+1 Sector image
+2 Obraz sektora
+1 About
+2 Info...
+1 Drive to operate
+2 Napêd
+1 Select sector
+2 Wybór sektora
+1 Read commands
+2 Komendy Odczytu
+1 Write commands
+2 Komendy Zapisu
+1 Logical Drive (BootSector)
+2 Dysk Logiczny Bootsektor
+1 Logical Drive
+2 Dysk Logiczny
+1 Physical Drive (MBR)
+2 Dysk Fizyczny (MBR)
+1 Physical Drive
+2 Dysk Fizyczny
+1 First sector (BootSector)
+2 Pierwszy Sektor (Bootsektor)
+1 First sector (MBR)
+2 Pierwszy Sektor (MBR)
+1 Specify a Sector
+2 Okreœl Sektor
+1 Number of continuous sectors to read
+2 Iloœæ sektorów do odczytu
+1 Read sector from disk
+2 Odczyt sektora z Dysku
+1 Load sector from file
+2 Odczyt sektora z pliku
+1 Save sector to File
+2 Zapis sektora do pliku
+1 Write sector on Disk
+2 Zapis sektora na Dysk
+1 The first sector of a Physical Drive is the Master Boot Record (MBR)
+2 Pierwszy sektor Dysku Fizycznego jest Master Boot Record (MBR)
+1 The first sector of a Logical Drive is the Boot sector
+2 Pierwszy sektor Dysku Logicznego jest Bootsektor
+1 Sector read
+2 Odczyt sektora
+1 Impossible to read sector on the disk
+2 Niemo¿liwy odczyt sektora na dysku
+1 HDHacker (By Dimio)
+2 HDHacker (od Dimio)

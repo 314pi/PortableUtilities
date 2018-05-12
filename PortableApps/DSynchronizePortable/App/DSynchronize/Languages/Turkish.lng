@@ -1,0 +1,252 @@
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize (Dimio tarafýndan hazýrlandý)
+1 Sources
+2 Kaynak
+1 C:\Sample 1 Of Source Path
+2 C:\Kaynak konum 1
+1 C:\Sample 2 Of Source Path
+2 C:\Kaynak konum 2
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\UzakBilgisayar\Hedef konum 1
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\UzakBilgisayar\Hedef konum 2
+1 Destinations
+2 Hedefler
+1 Insert path and then press "Enter"
+2 Kaynak konumu ekleyin ve "Enter"a basýn
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Konumu seçebilmek için "enter", silmek için "DEL", yerini deðiþtirmek için "PgUP" veya "PgDn" kullanýn
+1 Filter
+2 Süzgeç
+1 DSynchronize Filter
+2 DSynchronize Süzgeçi
+1 Filter settings
+2 Süzgeç ayarlarý
+1 Do not apply filters to folders
+2 Süzgeci klasörlere uygulama
+1 Exclusion filter
+2 Hariç tut
+1 Inclusion filter
+2 Dahil et
+1 Do not include subfolders on synchronization
+2 Eþleme sürecine alt klasörleri dahil etme
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Çoklu süzgeçleri kullanmak için onlarý ";" ile ayýrýn, örneðin *.exe;*.txt;settings.ini;*.da?
+1 Filter Extended
+2 Süzgeç geniþletme
+1 Jan
+2 Oca
+1 Feb
+2 Þub
+1 Mar
+2 Mar
+1 Apr
+2 Nis
+1 May
+2 May
+1 Jun
+2 Haz
+1 Jul
+2 Tem
+1 Aug
+2 Aðu
+1 Sep
+2 Eyl
+1 Oct
+2 Ekm
+1 Nov
+2 Kas
+1 Dec
+2 Ara
+1 Exclude files modified before:
+2 Þundan önce deðiþtirilen dosyalara dokunma:
+1 Cancel
+2 Ýptal
+1 Select a folder:
+2 Bir klasör seçin:
+1 Browse
+2 Göz at
+1 &Add New...
+2 &Yeni ekle...
+1 B&rowse...
+2 &Göz at...
+1 &Edit...
+2 &Düzenle...
+1 &Select all
+2 &Hepsini seç
+1 &Deselect all
+2 &Hiçbirini seçme
+1 Se&t filter...
+2 Süzgeci ayarla...
+1 S&wap paths
+2 Konumlarý deðiþtir
+1 Re&move
+2 Kaldýr
+1 About
+2 Bilgi
+1 DSynchronize About
+2 DSynchronize Hakkýnda
+1 Support with a Donation
+2 Baðýþ ile destekle
+1 Make a Donation
+2 Baðýþ ile katkýda bulun
+1 General options
+2 Genel seçenekler
+1 Copy only newer files
+2 Yeni dosyalarý kopyala
+1 Update files into destination folder only if source files are more recent
+2 Kaynak dosyalar daha yeniyse hedef dosyalara günceller
+1 Bidirectional synchronization
+2 Karþýlýklý eþle
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Her ikisindeki daha yeni dosyalarý kullanarak klasörleri eþler: Her ikisinden de en güncel dosyalarýn bulunduðu iki eþit klasörünüz olacak
+1 Add date to destination folder
+2 Hedef klasöre tarih ekle
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Hedef klasörün adýna güncel tarih ve saat ekler (Örneðin "C:\Hedef" klasörü "C:\Hedef 2007-09-10 18.30" þeklinde görülecek)
+1 Create folder if not exists
+2 Yoksa, yeni klasör oluþtur
+1 If destination path does not exists it creates a new one
+2 Eðer hedef konum yoksa yeni bir tane oluþturur
+1 Preview mode
+2 Önizleme
+1 Only preview (do not write anything on HD)
+2 Sadece önizleme sunar (Sürücüde herhangi bir deðiþiklik yapmaz)
+1 Exit at the end
+2 Bitince çýk
+1 Closes the program at the end of sync
+2 Eþleme sürecinin bitiminde programdan çýkar
+1 Shutdown at the end
+2 Bitince kapat
+1 Shutdown the system at the end of sync
+2 Eþleme sürecinin bitiminde sistemi kapatýr 
+1 Save on exit
+2 Çýkarken kaydet
+1 Saves all current settings on exit (source and destination path too)
+2 Mevcut tüm ayarlarý çýkarken kaydeder (kaynak ve hedef konum dahil)
+1 Save log
+2 Günlüðe kaydet
+1 Save log file
+2 Günlük klasörüne kaydeder
+1 Play sound when done
+2 Bitince ses ile bildir
+1 Generate a sound advise at the end of syncronization
+2 Eþleme sürecinin bitimini bildirmek için bir uyarý sesi duyarsýnýz
+1 Special options
+2 Özel seçenekler
+1 Antifragmentation
+2 Parçalanmayý önle
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Yenileriyle deðiþtirmeden önce dosyalarý kaldýrarak sürücü biriminin parçalara ayrýlmasýný azaltýr (Yeni dosyalarýn eklendiðini göreceksiniz)
+1 Ignore path errors
+2 Hatalarý yoksay
+1 If a path (source or destination) does not exists it skips without any error message
+2 Eðer bir konum (hedef ya da kaynak) yoksa, hata uyarýsý vermeksizin atlar
+1 Backup changes
+2 Yedekleme
+1 No Backup
+2 Yedekleme yok
+1 Timer sync
+2 Eþleme zamaný
+1 Set/enable timer
+2 Zamanlama ayarý
+1 DSynchronize Options
+2 DSynchronize Seçenekleri
+1 Timer choice
+2 Zamanlama seçeneði
+1 Synchronize every
+2 Hep þu saatte eþle 
+1 Synchronize at
+2 Þu saatte eþle
+1 Days choice
+2 Gün seçimi
+1 Synchronize every day
+2 Her gün eþle
+1 Specify the month's days on which to synchronize
+2 Eþlemenin yapýlacaðý ayýn günlerini belirle
+1 Specify the week's days on which to synchronize
+2 Eþlemenin yapýlacaðý haftanýn günlerini belirle
+1 Sunday
+2 Pazar
+1 Monday
+2 Pazartesi
+1 Tuesday
+2 Salý
+1 Wednesday
+2 Çarþamba
+1 Thursday
+2 Perþembe
+1 Friday
+2 Cuma
+1 Saturday
+2 Cumartesi
+1 Realtime sync
+2 Eþzamanlý eþle
+1 Real-time syncronization (experimental)
+2 Eþzamanlý eþleme süreci (Yöntem henüz geliþtirilmekte)
+1 Activation of the Real-Time Synchronization.
+2 Eþzamanlý eþlemeyi etkinleþtir
+1 Autostart
+2 Otomatik baþla
+1 Execute DSynchronize at system startup
+2 DSyncronize sistem açýlýþýnda baþlasýn
+1 Autostart as service...
+2 Hizmet olarak baþlat
+1 Execute DSyncronize at system startup as service
+2 DSyncronize yazýlýmýný sistem açýlýþýnda hizmet göreviyle baþlat
+1 DSyncronize Start As Service
+2 DSyncronize hizmet göreviyle baþlar
+1 Activation of the Real-Time Synchronization.
+
+Make sure to let a ''normal'' sync take place first before enabling the ''Real-Time sync''.
+2 Eþzamanlý eþleme etkinleþtirmesi.
+
+Eþzamanlý eþlemeyi seçmeden önce, bir "genel" eþleme yapýlmasýný saðlayýn.
+1 Install Service
+2 Hizmet görevini ata
+1 Start Service
+2 Hizmet görevini baþlat
+1 Done
+2 Bitti
+1 Commands
+2 Komutlar
+1 Synchronize
+2 Eþlemeyi baþlat
+1 Pause
+2 Duraklat
+1 Deleted files
+2 Silinmiþ dosyalar
+1 Ask before deleting files
+2 Dosyalarý silmeden önce sor
+1 Do not delete any file
+2 Hiçbir dosya silme
+1 Does not delete any file
+2 Dosyalarýn hiçbirini silmez
+1 Move files
+2 Dosyalarý taþý
+1 Move files from Source to Destination
+2 Dosyalarý kaynak yerden hedef yere taþý
+1 Added files
+2 Eklenen dosyalar
+1 Ask before adding files
+2 Dosya eklemeden önce sor
+1 Do not add any file
+2 Hiçbir dosya ekleme
+1 Does not add any new file
+2 Yeni dosya eklemez
+1 Replaced files
+2 Güncellenen dosyalar
+1 Ask before replacing files
+2 Dosyalarý güncellemeden önce sor
+1 Do not replace any file
+2 Hiçbir dosya güncelleme
+1 Does not replace any file
+2 Dosyalarýn hiçbirini güncellemez
+1 Synchronization complete.
+2 Eþleme tamamlandý
+1 Help
+2 Yardým
+1 Show
+2 Göster
+1 Close
+2 Kapat

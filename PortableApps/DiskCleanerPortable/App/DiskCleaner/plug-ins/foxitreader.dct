@@ -1,0 +1,8 @@
+[Info]
+Title=Foxit PDF Reader
+Description=Erase Foxit PDF Reader Recent File List
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Local AppWizard-Generated Applications\Foxit PDF Reader\Recent File List
+HKEY_CURRENT_USER|Software\Foxit Software\Foxit Reader\Recent File List

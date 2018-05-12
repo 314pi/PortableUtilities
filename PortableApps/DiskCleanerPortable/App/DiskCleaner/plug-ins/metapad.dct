@@ -1,0 +1,24 @@
+[Info]
+Title=Metapad
+Description=Erase Metapad Recent File List
+ 
+
+[registry]
+HKEY_CURRENT_USER|Software\metapad|mru_1
+HKEY_CURRENT_USER|Software\metapad|mru_2
+HKEY_CURRENT_USER|Software\metapad|mru_3
+HKEY_CURRENT_USER|Software\metapad|mru_4
+HKEY_CURRENT_USER|Software\metapad|mru_5
+HKEY_CURRENT_USER|Software\metapad|mru_6
+HKEY_CURRENT_USER|Software\metapad|mru_7
+HKEY_CURRENT_USER|Software\metapad|mru_8
+HKEY_CURRENT_USER|Software\metapad|mru_9
+HKEY_CURRENT_USER|Software\metapad|mru_10
+HKEY_CURRENT_USER|Software\metapad|mru_11
+HKEY_CURRENT_USER|Software\metapad|mru_12
+HKEY_CURRENT_USER|Software\metapad|mru_13
+HKEY_CURRENT_USER|Software\metapad|mru_14
+HKEY_CURRENT_USER|Software\metapad|mru_15
+HKEY_CURRENT_USER|Software\metapad|mru_16
+HKEY_CURRENT_USER|Software\metapad|FindArray
+HKEY_CURRENT_USER|Software\metapad|ReplaceArray

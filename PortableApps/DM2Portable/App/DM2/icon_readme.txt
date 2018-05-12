@@ -1,0 +1,1 @@
+The DM2 icon included in this package is a custom icon created by PortableApps.com based on icons from the Oxygen set and licensed under the GPL

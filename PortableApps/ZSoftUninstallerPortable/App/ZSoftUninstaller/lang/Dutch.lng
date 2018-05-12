@@ -1,0 +1,299 @@
+; DUTCH LANG FILE - DATE: 25-01-07 - for version 2.3.3
+; THIS WAY YOU CAN EASILY TRANSLATE THIS PROGRAM INTO YOUR OWN LANGUAGE!
+; EVERY LINE !!!STARTING!!! WITH A ";" IS CONSIDERED A COMMENT
+Weet u zeker dat u het wilt verwijderen?
+Er is een nieuwe versie beschikbaar! Wil je de website openen waar de nieuwe versie te downloaden is?
+Je hebt de laatste versie al!
+Er is een fout opgetreden... Probeer later opnieuw...
+Leegmaken
+Programmanaam
+&Bestand
+F&ilters
+F&uncties
+Ins&tellingen
+&Taal
+&Help
+&Sluiten
+Alleen 'dode links'tonen
+&Update de lijst
+Zoek programma-update's
+Roosterlijnen tonen
+Help
+ZSoft Software
+
+&Over
+deïnstalleren
+Verwijderen
+Vul minstens 3 tekens in.
+&Exporteer Lijst
+Tekstbestanden (*.txt)|*.txt|Alle bestanden (*.*)|*.*
+&Deïnstalleer
+Verwijder
+Hel&p
+Alleen "crapware" tonen
+Geen verborgen 'links' tonen
+verberg
+Bewerk verberg-Filter
+Bewerk het verberg-Filter
+Verwijder geselecteerde programma van de lijst en verberg het niet meer.
+Toont %d programma's!
+Info
+Welkom bij ZSoft Uninstaller!\n\nHier komt informatie te staan, dus hou je ogen hier open ;)\n\nVeel plezier :o)
+Bezig met wachten op het Deïnstallatieprogramma van %s tot het klaar is.
+%s zou nu gedeïnstalleerd moeten zijn.\n\nDe lijst met geïnstalleerde software is geüpdatet!
+Deïnstallatieprogramma van %s kan niet starten.
+;
+; ABOUT BOX:
+;
+Over ZSoft Uninstaller
+- O v e r -\nUninstaller is een klein, gratis, licht-gewicht programma dat meer of minder dezelfde\n functie's heeft als de ingebouwde Microsoft Windows \n- Uninstaller maar dan is het sneller geladen.\n\nUninstaller is geschreven, grotendeels door mezelf, omdat ik vind dat Windows\nXP's ingebouwde uninstaller een echte bitch is om te openen...\n\nOnthoud alstublieft dat het gebruik van dit programma volledig je eigen verantwoordelijkheid is,\nEn dat de programmeur niet verantwoordelijk kan worden gehouden voor verlies van gegevens enzovoorts!\n\n- M e t  D a n k  A a n-\nThis program includes code from the following projects:\nToolbar2000 & TBX (for components that make this program look good)\nIndy (for components enabling the internet)\nWisnu Aribowo (for this scrolling text component)\n\n- C o p y r i g h  N o t i c e -\nThis software is copyright (C) 2004-2005 ZSoft.\n\nPortions of this software are Copyright (c) 1993 - 2003, Chad Z.\nHower (Kudzu) and the Indy Pit Crew - IndyProject.org
+&Sluiten
+;
+; New
+;
+Toon/bewerk Info
+Bekijk/Bewerk Info
+Naam
+Waarde
+Opslaan
+Annuleren
+Verander
+OK
+Annuleren
+Kies een lettertype (alleen in lijst)
+Analyseer
+Analyseer Installatie
+;
+; The analyze function
+;
+Welkom!
+U kunt een programma-installatie analyseren of een geanalyseerde installatie voortzetten. Verder het is mogelijk een geanalyseerd programma volledig te deïnstalleren.
+Wat wil je doen?
+Analyseer een installatie
+Deïnstalleer een geanalyseerd programma.
+Annuleren
+Volgende >>
+Voordat je begint met de installatie moet een 'afbeelding' van je computer gemaakt worden. Kies dan hieronder welk station je wilt analyseren. Normaal is het C-station (behalve als dit anders is ingesteld) dat je wilt analyseren want daar installeer je het programma op.
+Station
+Voor-Installatie
+Na-Installatie
+Bestanden gevonden (ongeveer): 
+Registersleutels gevonden (ongeveer): 
+Tijd bezig (in sec.): 
+Vergelijken... even geduld!
+Voer Programmanaam in.
+Voer de naam van het programmma dat je geïnstalleerd hebt hier onder in.
+FOUT: Bestand bevat @ Voer programmanaam in
+FOUT: Bestandsnaam bestaat al. Vul een unieke naam van het programma hieronder in.
+Taak voltooid. Dit venster zal nu worden gesloten.
+Kies uit de lijst hieronder welk geanalyseerd programma je wilt deïnstalleren.
+Bevestig het volgende:
+Ik begrijp dat dit doe op mijn eigen verantwoordelijkheid.
+Ik begrijp dat verwijderde bestanden niet kunnen worden hersteld.
+De programmeur is niet verantwoordelijk voor verlies gegevens, enz.
+Deïnstalleer
+Je moet een programma in de lijst kiezen dat je wilt deïnstalleren!
+Je moet aangeven dat je de voorwaarden begrepen hebt: 
+Ik wil niet elke verwijdering bevestigen.
+Het bestand "%s" is nieuw; Wil je het verwijderen?
+Wil je bestand verwijderen?
+Wil je het logbestand verwijderen?
+Verwijder logbestand?
+Verwijderd: 
+De map "%s" kan niet verwijderd worden - wellicht is de map niet leeg.
+%d bestand(en) lijken verwijderd te zijn, dit is geen tool om bestanden terug te halen!
+Registersleutel "%s" is niet leeg en zal niet worden verwijderd!
+Ongeldig Log!
+Klaar
+Nieuw Item toevoegen
+Verwijder (kan niet worden ongedaan gemaakt)
+Nieuwe waarde:
+Naam van het nieuwe item:
+Inhoud van het nieuwe item:
+Weet je zeker dat je dit uit het register wilt verwijderen?\nPas op, dit kan niet ongedaan worden gemaakt!\nWil je doorgaan?
+Weet je het zeker?
+Geïnstalleerde Programma's
+Geanalyseerde Programma's
+&Temp-Bestanden
+Start zoeken
+Stop zoeken
+Zoek op dit station:
+Bestandsnaam
+Extensie
+Plaats
+Grootte
+Zoeken gestopt door gebruiker.
+Aan het zoeken in:
+Zoeken voltooid
+Verwijder Bestand(en) (Kan niet worden ongedaan gemaakt)
+Weet je het zeker?
+Weet je zeker dat je dit/deze bestanden(en) wilt verwijderen?\nPas op, dit kan niet ongedaan worden gemaakt!\nDWil je doorgaan?
+Installatiemap is er wellicht nog
+Ik vermoed dat dit: %s\n de map is waar het programma in geïnstalleerd was.\nIs dat correct?\nWil je deze map verwijderen? (Dit kan niet ongedaan worden gemaakt!)
+Back-up && verwijder de bestanden(en)
+Weet je het zeker?
+Dit zal de geselecteerde bestanden verwijderen. Het is mogelijk de bestanden later terug te halen als je dat wilt.\nWil je doorgaan?
+Back-ups
+Terughalen
+Hernoemen
+Schrijf de gewenste naam hieronder
+Hernoemen
+Verwijder
+Sommige bestanden en/of registersleutels kunnen niet worden verwijderd. Ik zal het de volgende keer als dit programma start nog een keer proberen!
+Het help-bestand kan niet gevonden worden!
+Niet gevonden!
+De waarde moet een heel getal zijn! (integer)
+Een waarde moet worden gekozen, en als het een heel getal moet zijn vul dan alleen een heel getal in!
+Tekst (String)
+Uitgebreide tekst (Expanded String)
+heel getal (integer)
+Maak een analyse af die al eens is gestart.
+Er is een fout opgetreden. Kan geen map maken, deze functie zal niet doorgaan.
+Fout!
+Toon Opgeslagen Informatie
+Negeerlijst
+Sectie
+Locatie
+Bewerk Negeerlijst
+Toevoegen
+Verwijder
+Sectie:
+Locatie:
+Bladeren
+Deze map moet je negeren.
+Bestand
+Register
+Annuleren
+Toevoegen
+Zoek:
+Prioriteit Deïnstallatie
+Hoog
+Normaal
+Laag
+Het item is al toegevoegd om te negeren.
+Je moet het formulier goed invullen.
+Instellingen
+Negeer Internet Explorer cache
+Negeer Firefox cache
+Geschatte grootte:
+Installatietijd:
+Gewijzigd op:
+Toegangstijd:
+Geen Windows update's tonen
+Haal alles terug
+;
+; NEW STUFF - TRANSLATERS THIS IS WHAT NEEDS TO BE TRANSLATED!
+;
+Alleen nieuwe 'links' tonen
+Nieuwe 'links' markeren
+Verborgen Programma's
+Registerbrowser
+Bestanden naar prullenbak verplaatsen
+Pictogrammen Tonen
+Het bestand '%s' kon niet worden gevonden. Back-up (misschien) beschadigd.
+Opslaan als...
+Als grote pictogrammen
+Als kleine pictogrammen in de lijst
+Kon niet worden verwijderd: 
+Directory gewist: 
+Registeritem gewist: 
+Registeritem gecreëerd: 
+Registeritem NIET gecreëerd: 
+Registeritem NIET gewist: 
+Registersleutel gewist: 
+Registersleutel gecreëerd: 
+Registersleutel NIET gecreëerd: 
+Even geduld a.u.b....
+Naar prullenbak verplaatsen
+Bestanden naar Prullenbak Verplaatsen
+Weet u zeker dat dit/deze bestand(en) naar de prullenbak moet(en) worden verplaatst?
+Alles Selecteren
+%d bestanden gevonden, totaal %s.
+Lijst Sorteren Op
+Naam (oplopend)
+Naam (aflopend)
+Tijd (oplopend)
+Tijd (aflopend)
+Verwijder van Verborgen Lijst
+Bewerken
+Bestandssysteem
+Register
+Logbestand Analyse Bewerken
+U hebt het logbestand gewijzigd. Wilt u deze wijzigingen opslaan?
+Wilt u de wijzigingen opslaan?
+Wijzig Achtergrondkleur Van
+Item toevoegen aan negeerlijst (Analyse-optie)
+Hier kunt u de geregistreerde wijzigingen, die door de geanalyseerde installatie zijn gemaakt, zien (en navigeren). U kunt items uit het log verwijderen (back-up wordt gemaakt, voor alle zekerheid), en u kunt mappen en sleutels toevoegen aan de negeerlijst, zodat ze niet meer worden geregistreerd.
+Lege Mappen Zoeken
+Scan deze directory op lege mappen:
+Alleen top-level
+Scan Starten
+Dir
+Scan deze directory
+Selectie Verwijderen
+Extra
+Opstartmanager
+Naam
+Gestart
+Deactiveren
+Activeren
+Programmanaam naar klembord kopiëren
+Tekst '%s' naar klembord gekopieerd!
+Zoekbalk verbergen
+Het programma %s zou nu gedeïnstalleerd moeten zijn. Wilt u naar overblijfselen zoeken?
+Zoeken naar overblijfselen?
+Deze sleutelwoorden zijn geselecteerd om naar te zoeken. Het wordt aanbevolen ze te bewerken, indien nodig. Gebruik één sleutelwoord per regel. Klik op 'Volgende' als u klaar bent.
+Volgende >>
+Ga naar
+Ga één niveau omhoog
+Plaats
+Soort
+Pad
+Waarde
+Post-Deïnstallatie Manager
+Programmanaam
+Post-Deïnstallatie uitvoeren voor geselecteerde programma
+Door
+Versie
+Installatiemap Openen
+Sommige bestanden of registeritems konden niet worden verwijderd of opnieuw gecreëerd.\nWilt u deze items in een nieuw logbestand opslaan?
+Wilt u een nieuw logbestand opslaan?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

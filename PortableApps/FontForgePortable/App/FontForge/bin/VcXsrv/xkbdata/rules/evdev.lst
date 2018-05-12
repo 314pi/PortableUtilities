@@ -1,0 +1,873 @@
+! model
+  pc101           
+  pc102           
+  pc104           
+  pc105           
+  dell101         
+  latitude        
+  dellm65         
+  everex          
+  flexpro         
+  microsoft       
+  omnikey101      
+  winbook         
+  pc98            
+  a4techKB21      
+  a4techKBS8      
+  a4_rfkb23       
+  airkey          
+  azonaRF2300     
+  scorpius        
+  brother         
+  btc5113rf       
+  btc5126t        
+  btc6301urf      
+  btc9000         
+  btc9000a        
+  btc9001ah       
+  btc5090         
+  btc9019u        
+  btc9116u        
+  cherryblue      
+  cherryblueb     
+  cherrybluea     
+  cherrycyboard   
+  cherrycmexpert  
+  cherrybunlim    
+  chicony         
+  chicony0108     
+  chicony0420     
+  chicony9885     
+  compaqeak8      
+  compaqik7       
+  compaqik13      
+  compaqik18      
+  cymotionlinux   
+  armada          
+  presario        
+  ipaq            
+  dell            
+  dellsk8125      
+  dellsk8135      
+  dellusbmm       
+  inspiron        
+  precision_m     
+  dexxa           
+  diamond         
+  dtk2000         
+  ennyah_dkb1008  
+  fscaa1667g      
+  genius          
+  geniuscomfy     
+  geniuscomfy2    
+  geniuskb19e     
+  geniuskkb2050hs 
+  gyration        
+  htcdream        
+  kinesis         
+  logitech_base   
+  logitech_g15    
+  hpi6            
+  hp250x          
+  hpxe3gc         
+  hpxe3gf         
+  hpxt1000        
+  hpdv5           
+  hpzt11xx        
+  hp500fa         
+  hp5xx           
+  hpnx9020        
+  hp6000          
+  honeywell_euroboard 
+  hpmini110       
+  rapidaccess     
+  rapidaccess2    
+  thinkpad        
+  thinkpad60      
+  thinkpadz60     
+  ibm_spacesaver  
+  logiaccess      
+  logiclx300      
+  logii350        
+  logimel         
+  logicd          
+  logicd_it       
+  logicd_nav      
+  logicd_opt      
+  logicda         
+  logicdpa2       
+  logicfn         
+  logicdn         
+  logiitc         
+  logiik          
+  itouch          
+  logicink        
+  logiex110       
+  logiinkse       
+  logiinkseusb    
+  logiultrax      
+  logiultraxc     
+  logidinovo      
+  logidinovoedge  
+  mx1998          
+  mx2500          
+  mx2750          
+  microsoft4000   
+  microsoft7000   
+  microsoftinet   
+  microsoftpro    
+  microsoftprousb 
+  microsoftprooem 
+  vsonku306       
+  microsoftprose  
+  microsoftoffice 
+  microsoftmult   
+  microsoftelite  
+  microsoftccurve2k 
+  oretec          
+  propeller       
+  qtronix         
+  samsung4500     
+  samsung4510     
+  sanwaskbkg3     
+  sk1300          
+  sk2500          
+  sk6200          
+  sk7100          
+  sp_inet         
+  sven            
+  sven303         
+  symplon         
+  toshiba_s3000   
+  trust           
+  trustda         
+  trust_slimline  
+  tm2020          
+  tm2030PS2       
+  tm2030USB       
+  tm2030USB-102   
+  tm2030USB-106   
+  yahoo           
+  macbook78       
+  macbook79       
+  macintosh       
+  macintosh_old   
+  macintosh_hhk   
+  acer_c300       
+  acer_ferrari4k  
+  acer_laptop     
+  asus_laptop     
+  apple           
+  apple_laptop    
+  applealu_ansi   
+  applealu_iso    
+  applealu_jis    
+  silvercrest     
+  emachines       
+  benqx           
+  benqx730        
+  benqx800        
+  hhk             
+  classmate       
+  olpc            
+  sun_type7_usb   
+  sun_type7_euro_usb 
+  sun_type7_unix_usb 
+  sun_type7_jp_usb 
+  sun_type6_usb   
+  sun_type6_euro_usb 
+  sun_type6_unix_usb 
+  sun_type6_jp_usb 
+  sun_type6_jp    
+  targa_v811      
+  unitekkb1925    
+  compalfl90      
+  creativedw7000  
+  htcdream        
+
+! layout
+  us              
+  af              
+  ara             
+  al              
+  am              
+  at              
+  az              
+  by              
+  be              
+  bd              
+  in              
+  ba              
+  br              
+  bg              
+  ma              
+  cm              
+  mm              
+  ca              
+  cd              
+  cn              
+  hr              
+  cz              
+  dk              
+  nl              
+  bt              
+  ee              
+  ir              
+  iq              
+  fo              
+  fi              
+  fr              
+  gh              
+  gn              
+  ge              
+  de              
+  gr              
+  hu              
+  is              
+  il              
+  it              
+  jp              
+  kg              
+  kh              
+  kz              
+  la              
+  latam           
+  lt              
+  lv              
+  mao             
+  me              
+  mk              
+  mt              
+  mn              
+  no              
+  pl              
+  pt              
+  ro              
+  ru              
+  rs              
+  si              
+  sk              
+  es              
+  se              
+  ch              
+  sy              
+  tj              
+  lk              
+  th              
+  tr              
+  tw              
+  ua              
+  gb              
+  uz              
+  vn              
+  kr              
+  nec_vndr/jp     
+  ie              
+  pk              
+  mv              
+  za              
+  epo             
+  np              
+  ng              
+  et              
+  sn              
+  brai            
+  tm              
+  ml              
+  tz              
+  ke              
+  bw              
+  ph              
+  md              
+
+! variant
+  chr             us: 
+  euro            us: 
+  intl            us: 
+  alt-intl        us: 
+  colemak         us: 
+  dvorak          us: 
+  dvorak-intl     us: 
+  dvorak-alt-intl us: 
+  dvorak-l        us: 
+  dvorak-r        us: 
+  dvorak-classic  us: 
+  dvp             us: 
+  rus             us: 
+  mac             us: 
+  altgr-intl      us: 
+  olpc2           us: 
+  hbs             us: 
+  workman         us: 
+  workman-intl    us: 
+  ps              af: 
+  uz              af: 
+  olpc-ps         af: 
+  fa-olpc         af: 
+  uz-olpc         af: 
+  azerty          ara: 
+  azerty_digits   ara: 
+  digits          ara: 
+  qwerty          ara: 
+  qwerty_digits   ara: 
+  buckwalter      ara: 
+  phonetic        am: 
+  phonetic-alt    am: 
+  eastern         am: 
+  western         am: 
+  eastern-alt     am: 
+  nodeadkeys      at: 
+  sundeadkeys     at: 
+  mac             at: 
+  cyrillic        az: 
+  legacy          by: 
+  latin           by: 
+  oss             be: 
+  oss_latin9      be: 
+  oss_sundeadkeys be: 
+  iso-alternate   be: 
+  nodeadkeys      be: 
+  sundeadkeys     be: 
+  wang            be: 
+  probhat         bd: 
+  ben             in: 
+  ben_probhat     in: 
+  ben_baishakhi   in: 
+  ben_bornona     in: 
+  ben_gitanjali   in: 
+  ben_inscript    in: 
+  guj             in: 
+  guru            in: 
+  jhelum          in: 
+  kan             in: 
+  mal             in: 
+  mal_lalitha     in: 
+  mal_enhanced    in: 
+  ori             in: 
+  tam_unicode     in: 
+  tam_keyboard_with_numerals in: 
+  tam_TAB         in: 
+  tam_TSCII       in: 
+  tam             in: 
+  tel             in: 
+  urd-phonetic    in: 
+  urd-phonetic3   in: 
+  urd-winkeys     in: 
+  bolnagri        in: 
+  hin-wx          in: 
+  eng             in: 
+  alternatequotes ba: 
+  unicode         ba: 
+  unicodeus       ba: 
+  us              ba: 
+  nodeadkeys      br: 
+  dvorak          br: 
+  nativo          br: 
+  nativo-us       br: 
+  nativo-epo      br: 
+  phonetic        bg: 
+  bas_phonetic    bg: 
+  french          ma: 
+  tifinagh        ma: 
+  tifinagh-alt    ma: 
+  tifinagh-alt-phonetic ma: 
+  tifinagh-extended ma: 
+  tifinagh-phonetic ma: 
+  tifinagh-extended-phonetic ma: 
+  french          cm: 
+  qwerty          cm: 
+  azerty          cm: 
+  dvorak          cm: 
+  fr-dvorak       ca: 
+  fr-legacy       ca: 
+  multix          ca: 
+  multi           ca: 
+  multi-2gr       ca: 
+  ike             ca: 
+  eng             ca: 
+  tib             cn: 
+  tib_asciinum    cn: 
+  uig             cn: 
+  alternatequotes hr: 
+  unicode         hr: 
+  unicodeus       hr: 
+  us              hr: 
+  bksl            cz: 
+  qwerty          cz: 
+  qwerty_bksl     cz: 
+  ucw             cz: 
+  dvorak-ucw      cz: 
+  nodeadkeys      dk: 
+  mac             dk: 
+  mac_nodeadkeys  dk: 
+  dvorak          dk: 
+  sundeadkeys     nl: 
+  mac             nl: 
+  std             nl: 
+  nodeadkeys      ee: 
+  dvorak          ee: 
+  us              ee: 
+  pes_keypad      ir: 
+  ku              ir: 
+  ku_f            ir: 
+  ku_alt          ir: 
+  ku_ara          ir: 
+  ku              iq: 
+  ku_f            iq: 
+  ku_alt          iq: 
+  ku_ara          iq: 
+  nodeadkeys      fo: 
+  classic         fi: 
+  nodeadkeys      fi: 
+  smi             fi: 
+  mac             fi: 
+  nodeadkeys      fr: 
+  sundeadkeys     fr: 
+  oss             fr: 
+  oss_latin9      fr: 
+  oss_nodeadkeys  fr: 
+  oss_sundeadkeys fr: 
+  latin9          fr: 
+  latin9_nodeadkeys fr: 
+  latin9_sundeadkeys fr: 
+  bepo            fr: 
+  bepo_latin9     fr: 
+  dvorak          fr: 
+  mac             fr: 
+  bre             fr: 
+  oci             fr: 
+  geo             fr: 
+  generic         gh: 
+  akan            gh: 
+  ewe             gh: 
+  fula            gh: 
+  ga              gh: 
+  hausa           gh: 
+  avn             gh: 
+  gillbt          gh: 
+  ergonomic       ge: 
+  mess            ge: 
+  ru              ge: 
+  os              ge: 
+  deadacute       de: 
+  deadgraveacute  de: 
+  nodeadkeys      de: 
+  T3              de: 
+  ro              de: 
+  ro_nodeadkeys   de: 
+  dvorak          de: 
+  sundeadkeys     de: 
+  neo             de: 
+  mac             de: 
+  mac_nodeadkeys  de: 
+  dsb             de: 
+  dsb_qwertz      de: 
+  qwerty          de: 
+  ru              de: 
+  legacy          de: 
+  simple          gr: 
+  extended        gr: 
+  nodeadkeys      gr: 
+  polytonic       gr: 
+  standard        hu: 
+  nodeadkeys      hu: 
+  qwerty          hu: 
+  101_qwertz_comma_dead hu: 
+  101_qwertz_comma_nodead hu: 
+  101_qwertz_dot_dead hu: 
+  101_qwertz_dot_nodead hu: 
+  101_qwerty_comma_dead hu: 
+  101_qwerty_comma_nodead hu: 
+  101_qwerty_dot_dead hu: 
+  101_qwerty_dot_nodead hu: 
+  102_qwertz_comma_dead hu: 
+  102_qwertz_comma_nodead hu: 
+  102_qwertz_dot_dead hu: 
+  102_qwertz_dot_nodead hu: 
+  102_qwerty_comma_dead hu: 
+  102_qwerty_comma_nodead hu: 
+  102_qwerty_dot_dead hu: 
+  102_qwerty_dot_nodead hu: 
+  Sundeadkeys     is: 
+  nodeadkeys      is: 
+  mac             is: 
+  dvorak          is: 
+  lyx             il: 
+  phonetic        il: 
+  biblical        il: 
+  nodeadkeys      it: 
+  mac             it: 
+  us              it: 
+  geo             it: 
+  ibm             it: 
+  kana            jp: 
+  kana86          jp: 
+  OADG109A        jp: 
+  mac             jp: 
+  dvorak          jp: 
+  phonetic        kg: 
+  ruskaz          kz: 
+  kazrus          kz: 
+  stea            la: 
+  nodeadkeys      latam: 
+  deadtilde       latam: 
+  sundeadkeys     latam: 
+  std             lt: 
+  us              lt: 
+  ibm             lt: 
+  lekp            lt: 
+  lekpa           lt: 
+  apostrophe      lv: 
+  tilde           lv: 
+  fkey            lv: 
+  modern          lv: 
+  ergonomic       lv: 
+  adapted         lv: 
+  cyrillic        me: 
+  cyrillicyz      me: 
+  latinunicode    me: 
+  latinyz         me: 
+  latinunicodeyz  me: 
+  cyrillicalternatequotes me: 
+  latinalternatequotes me: 
+  nodeadkeys      mk: 
+  us              mt: 
+  nodeadkeys      no: 
+  dvorak          no: 
+  smi             no: 
+  smi_nodeadkeys  no: 
+  mac             no: 
+  mac_nodeadkeys  no: 
+  colemak         no: 
+  legacy          pl: 
+  qwertz          pl: 
+  dvorak          pl: 
+  dvorak_quotes   pl: 
+  dvorak_altquotes pl: 
+  csb             pl: 
+  szl             pl: Silesian
+  ru_phonetic_dvorak pl: 
+  dvp             pl: 
+  nodeadkeys      pt: 
+  sundeadkeys     pt: 
+  mac             pt: 
+  mac_nodeadkeys  pt: 
+  mac_sundeadkeys pt: 
+  nativo          pt: 
+  nativo-us       pt: 
+  nativo-epo      pt: 
+  cedilla         ro: 
+  std             ro: 
+  std_cedilla     ro: 
+  winkeys         ro: 
+  phonetic        ru: 
+  phonetic_winkeys ru: 
+  typewriter      ru: 
+  legacy          ru: 
+  typewriter-legacy ru: 
+  tt              ru: 
+  os_legacy       ru: 
+  os_winkeys      ru: 
+  cv              ru: 
+  cv_latin        ru: 
+  udm             ru: 
+  kom             ru: 
+  sah             ru: 
+  xal             ru: 
+  dos             ru: 
+  mac             ru: 
+  srp             ru: 
+  bak             ru: 
+  chm             ru: 
+  yz              rs: 
+  latin           rs: 
+  latinunicode    rs: 
+  latinyz         rs: 
+  latinunicodeyz  rs: 
+  alternatequotes rs: 
+  latinalternatequotes rs: 
+  rue             rs: 
+  alternatequotes si: 
+  us              si: 
+  bksl            sk: 
+  qwerty          sk: 
+  qwerty_bksl     sk: 
+  nodeadkeys      es: 
+  deadtilde       es: 
+  sundeadkeys     es: 
+  dvorak          es: 
+  ast             es: 
+  cat             es: 
+  mac             es: 
+  nodeadkeys      se: 
+  dvorak          se: 
+  rus             se: 
+  rus_nodeadkeys  se: 
+  smi             se: 
+  mac             se: 
+  svdvorak        se: 
+  swl             se: 
+  legacy          ch: 
+  de_nodeadkeys   ch: 
+  de_sundeadkeys  ch: 
+  fr              ch: 
+  fr_nodeadkeys   ch: 
+  fr_sundeadkeys  ch: 
+  fr_mac          ch: 
+  de_mac          ch: 
+  syc             sy: 
+  syc_phonetic    sy: 
+  ku              sy: 
+  ku_f            sy: 
+  ku_alt          sy: 
+  legacy          tj: 
+  tam_unicode     lk: 
+  tam_TAB         lk: 
+  tis             th: 
+  pat             th: 
+  f               tr: 
+  alt             tr: 
+  sundeadkeys     tr: 
+  ku              tr: 
+  ku_f            tr: 
+  ku_alt          tr: 
+  intl            tr: 
+  crh             tr: 
+  crh_f           tr: 
+  crh_alt         tr: 
+  indigenous      tw: 
+  saisiyat        tw: 
+  phonetic        ua: 
+  typewriter      ua: 
+  winkeys         ua: 
+  legacy          ua: 
+  rstu            ua: 
+  rstu_ru         ua: 
+  homophonic      ua: 
+  extd            gb: 
+  intl            gb: 
+  dvorak          gb: 
+  dvorakukp       gb: 
+  mac             gb: 
+  mac_intl        gb: 
+  colemak         gb: 
+  latin           uz: 
+  kr104           kr: 
+  CloGaelach      ie: 
+  UnicodeExpert   ie: 
+  ogam            ie: 
+  ogam_is434      ie: 
+  urd-crulp       pk: 
+  urd-nla         pk: 
+  ara             pk: 
+  snd             pk: 
+  legacy          epo: 
+  igbo            ng: 
+  yoruba          ng: 
+  hausa           ng: 
+  left_hand       brai: 
+  right_hand      brai: 
+  alt             tm: 
+  fr-oss          ml: 
+  us-mac          ml: 
+  us-intl         ml: 
+  kik             ke: 
+  qwerty-bay      ph: 
+  capewell-dvorak ph: 
+  capewell-dvorak-bay ph: 
+  capewell-qwerf2k6 ph: 
+  capewell-qwerf2k6-bay ph: 
+  colemak         ph: 
+  colemak-bay     ph: 
+  dvorak          ph: 
+  dvorak-bay      ph: 
+  gag             md: 
+
+! option
+  grp                  
+  grp:switch           
+  grp:lswitch          
+  grp:lwin_switch      
+  grp:rwin_switch      
+  grp:win_switch       
+  grp:caps_switch      
+  grp:rctrl_switch     
+  grp:toggle           
+  grp:lalt_toggle      
+  grp:caps_toggle      
+  grp:shift_caps_toggle 
+  grp:shift_caps_switch 
+  grp:win_menu_switch  
+  grp:lctrl_rctrl_switch 
+  grp:alt_caps_toggle  
+  grp:shifts_toggle    
+  grp:alts_toggle      
+  grp:ctrls_toggle     
+  grp:ctrl_shift_toggle 
+  grp:lctrl_lshift_toggle 
+  grp:rctrl_rshift_toggle 
+  grp:ctrl_alt_toggle  
+  grp:alt_shift_toggle 
+  grp:lalt_lshift_toggle 
+  grp:alt_space_toggle 
+  grp:menu_toggle      
+  grp:lwin_toggle      
+  grp:rwin_toggle      
+  grp:lshift_toggle    
+  grp:rshift_toggle    
+  grp:lctrl_toggle     
+  grp:rctrl_toggle     
+  grp:sclk_toggle      
+  grp:lctrl_lwin_rctrl_menu 
+  lv3                  
+  lv3:switch           
+  lv3:menu_switch      
+  lv3:win_switch       
+  lv3:lwin_switch      
+  lv3:rwin_switch      
+  lv3:alt_switch       
+  lv3:lalt_switch      
+  lv3:ralt_switch      
+  lv3:ralt_switch_multikey 
+  lv3:ralt_alt         
+  lv3:enter_switch     
+  lv3:caps_switch      
+  lv3:bksl_switch      
+  lv3:lsgt_switch      
+  lv3:caps_switch_latch 
+  lv3:bksl_switch_latch 
+  lv3:lsgt_switch_latch 
+  ctrl                 
+  ctrl:nocaps          
+  ctrl:lctrl_meta      
+  ctrl:swapcaps        
+  ctrl:ac_ctrl         
+  ctrl:aa_ctrl         
+  ctrl:rctrl_ralt      
+  ctrl:menu_rctrl      
+  ctrl:ctrl_ralt       
+  grp_led              
+  grp_led:num          
+  grp_led:caps         
+  grp_led:scroll       
+  keypad               
+  keypad:legacy        
+  keypad:oss           
+  keypad:future        
+  keypad:legacy_wang   
+  keypad:oss_wang      
+  keypad:future_wang   
+  keypad:hex           
+  keypad:atm           
+  kpdl                 
+  kpdl:dot             
+  kpdl:comma           
+  kpdl:dotoss          
+  kpdl:dotoss_latin9   
+  kpdl:commaoss        
+  kpdl:momayyezoss     
+  kpdl:kposs           
+  kpdl:semi            
+  caps                 
+  caps:internal        
+  caps:internal_nocancel 
+  caps:shift           
+  caps:shift_nocancel  
+  caps:capslock        
+  caps:numlock         
+  caps:swapescape      
+  caps:escape          
+  caps:backspace       
+  caps:super           
+  caps:hyper           
+  caps:shiftlock       
+  caps:none            
+  caps:ctrl_modifier   
+  altwin               
+  altwin:menu          
+  altwin:meta_alt      
+  altwin:alt_win       
+  altwin:ctrl_win      
+  altwin:ctrl_alt_win  
+  altwin:meta_win      
+  altwin:left_meta_win 
+  altwin:hyper_win     
+  altwin:alt_super_win 
+  altwin:swap_alt_win  
+  Compose key          
+  compose:ralt         
+  compose:lwin         
+  compose:lwin-altgr   
+  compose:rwin         
+  compose:rwin-altgr   
+  compose:menu         
+  compose:menu-altgr   
+  compose:lctrl        
+  compose:lctrl-altgr  
+  compose:rctrl        
+  compose:rctrl-altgr  
+  compose:caps         
+  compose:caps-altgr   
+  compose:102          
+  compose:102-altgr    
+  compose:paus         
+  compose:prsc         
+  compose:sclk         
+  compat               
+  numpad:pc            
+  numpad:mac           
+  numpad:microsoft     
+  numpad:shift3        
+  srvrkeys:none        
+  apple:alupckeys      
+  shift:breaks_caps    
+  misc:typo            
+  shift:both_capslock  
+  shift:both_capslock_cancel 
+  shift:both_shiftlock 
+  keypad:pointerkeys   
+  grab:break_actions   
+  currencysign         
+  eurosign:e           
+  eurosign:2           
+  eurosign:4           
+  eurosign:5           
+  rupeesign:4          
+  lv5                  
+  lv5:lsgt_switch_lock 
+  lv5:ralt_switch_lock 
+  lv5:lwin_switch_lock 
+  lv5:rwin_switch_lock 
+  lv5:lsgt_switch_lock_cancel 
+  lv5:lsgt_switch_lock 
+  lv5:ralt_switch_lock 
+  lv5:lwin_switch_lock 
+  lv5:rwin_switch_lock 
+  nbsp                 
+  nbsp:none            
+  nbsp:level2          
+  nbsp:level3          
+  nbsp:level3s         
+  nbsp:level3n         
+  nbsp:level4          
+  nbsp:level4n         
+  nbsp:level4nl        
+  nbsp:zwnj2           
+  nbsp:zwnj2zwj3       
+  nbsp:zwnj2zwj3nb4    
+  nbsp:zwnj2nb3        
+  nbsp:zwnj2nb3s       
+  nbsp:zwnj2nb3zwj4    
+  nbsp:zwnj2nb3nnb4    
+  nbsp:zwnj3zwj4       
+  japan                
+  japan:kana_lock      
+  japan:nicola_f_bs    
+  japan:hztg_escape    
+  esperanto            
+  esperanto:qwerty     
+  esperanto:dvorak     
+  solaris              
+  solaris:sun_compat   
+  terminate            
+  terminate:ctrl_alt_bksp 

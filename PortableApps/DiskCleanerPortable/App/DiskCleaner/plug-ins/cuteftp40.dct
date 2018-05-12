@@ -1,0 +1,8 @@
+[Info]
+Title=CuteFTP 4.0 
+Description=Erase CuteFTP's Log Files & History Data
+
+[files]
+%appdata%\GlobalSCAPE\CuteFTP\sm.dat
+%appdata%\GlobalSCAPE\CuteFTP\sm.bak
+%appdata%\GlobalSCAPE\CuteFTP\log\*.*

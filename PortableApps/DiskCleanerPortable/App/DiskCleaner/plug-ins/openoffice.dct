@@ -1,0 +1,9 @@
+[Info]
+Title=OpenOffice 3 Recently opened files
+Description=Deletes OpenOffice 3's most recently opened files.
+ 
+ 
+ 
+[files]
+%appdata%\OpenOffice.org\3\user\registry\data\org\openoffice\Office\Histories.xcu
+%appdata%\OpenOffice.org\3\user\registry\cache\*.*

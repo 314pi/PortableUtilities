@@ -1,0 +1,7 @@
+[Info]
+Title=Microsoft FrontPage Express
+Description=Removes the Microsoft FrontPage Express recent file list
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\FrontPad\FrontPage Editor\Recent File List

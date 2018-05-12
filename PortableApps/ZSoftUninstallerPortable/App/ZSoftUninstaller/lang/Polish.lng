@@ -1,0 +1,296 @@
+; POLISH LANG FILE Tanslated by Piotr Dygda³owicz
+; THIS WAY YOU CAN EASILY TRANSLATE THIS PROGRAM INTO YOUR OWN LANGUAGE!
+; EVERY LINE !!!STARTING!!! WITH A ";" IS CONSIDERED A COMMENT
+Czy na pewno chcesz usun¹æ?
+Dostêpna jest nowsza wersja! Czy chcesz j¹ teraz pobraæ?
+Aktualnie posiadasz najnowasz¹ wersjê!
+Wyst¹pi³y pewne b³êdy... Spróbuj pó¿niej...
+Wyczyœæ
+Nazwa Programu
+&Plik
+F&iltry
+F&unkcje
+Us&tawienia
+&Jêzyk
+&Pomoc
+&Zamknij
+Poka¿ tylko 'martwe linki'
+&Uaktualnij listê
+SprawdŸ aktualizacjê...
+Poka¿ linie siatki
+Pomoc
+ZSoft Software
+
+&O programie
+Odinstaluj
+Usuñ
+Musisz podaæ co najmniej 3 znaki!
+&Eksportuj Listê
+Pliki Tekstowe (*.txt)|*.txt|Wszystkie Pliki (*.*)|*.*
+&Odinstaluj
+Us&uñ
+Pomo&c
+Poka¿ tylko "zepsute"
+Nie pokazuj ukrytych 'linków'
+Ukryj
+Edytuj filtr ukrywania
+Edytuj filtr ukrywania
+Usuñ wybrany z listy i nie ukrywaj go wiêcej
+Znalezionych programów: %d
+Informacja
+Witaj w ZSoft Uninstaller!\n\nZnajdziesz tu interesuj¹ce Ciê informacje, wiêc miej oczy szeroko otwarte ;)\n\nMi³ego u¿ytkowania :o)
+Oczekiwanie na zakoñczenie odinstalowywania programu %s.
+%s zosta³ odinstalowany.\n\nLista zosta³a uaktualniona!
+Nie mo¿na odinstalowaæ programu %s.
+;
+; ABOUT BOX:
+;
+O programie ZSoft Uninstaller
+- O programie -\nUninstaller jest ma³ym i darmowym programem, spe³niaj¹cym zadanie\ndomyœlnej funkcji Dodaj/Usuñ windowsa. Nie mniej ZSoft Uninstaller\nszybciej siê uruchamia i ma wiêcej opcji. Uninstaller zosta³ napisany\ng³ównie przeze mnie, przede wszystkim dlatego, gdy¿ uwa¿am t¹\ndomyœln¹ funkcjê Windowsa za kompletny gniot :P\n\nPamiêtaj, ¿e u¿ywasz go wy³¹cznie na w³asn¹ odpowiedzialnoœæ oraz o tym,\n¿e nie odpowiadam za ewentualn¹ utratê danych itp.\n\n- D z i ê k i  t e m u . . . -\nTen program zawiera kod nastêpuj¹cych projektów:\nToolbar2000 & TBX\nIndy\nWisnu Aribowo \n\n- P r a w a  a u t o r s k i e -\nTen program jest chroniony Prawem Autorskim (C) z 2004-2005 ZSoft.\n\nCzêœæ tego programu jest chroniona Prawem Autorskim (c) z 1993 - 2003 r.\nChad Z. Hower (Kudzu) and the Indy Pit Crew - IndyProject.org
+&Zamknij
+;
+; New
+;
+Poka¿/Edytuj Info
+Zobacz/Edytuj Info
+Nazwa
+Wartoœæ
+Zapisz
+Anuluj
+Zmieñ
+OK
+Anuluj
+Wybierz czcionkê (Lista)
+Analizuj
+Analizuj Instalacjê
+;
+; The analyze function
+;
+Witaj!
+Ten przewodnik przeprowadzi Ciê przez proces analizowania instalacji oraz odinstalowywania uprzednio przeanalizowanych programów.
+Co chcesz teraz zrobiæ?
+Analizuj instalacjê
+Odinstaluj ju¿ przeanalizowany program
+Anuluj
+Dalej >>
+Zamin rozpoczniesz instalacjê, 'obraz' Twojego komputeraz musi zostaæ utworzony. Wybierz poni¿ej dysk, który ma byæ przeanalizowany. Zwykle jest to dysk C lub ten, na którym coœ instalujesz.
+Dyski
+Przed Instalacj¹
+Po Instalacji
+Znalezione pliki (ok.): 
+Wpisy w rejestrze (ok.): 
+Zajê³o czasu (w sek.): 
+Porównywanie... Proszê czekaæ!
+Podaj nazwê programu
+Podaj nazwê zainstalowanego programu.
+B£¥D: Plik istnieje @ Podaj nazwê programu
+B£¥D: Plik istnieje. Podaj unikaln¹ nazwê zainstalowanego programu.
+Zakoñczono. Okno zostanie zamkniête.
+Wybierz poni¿ej, który z przeanalizowanych programów chcesz odinstalowaæ.
+PotwierdŸ:
+Wiem, ¿e robiê to na w³asn¹ odpowiedzialnoœæ
+Rozumiem, ¿e usuniêtych plików nie bêdzie mo¿na przywróciæ
+Odpowiedzialnoœæ za ew. utratê danych spoczyta tylko na mnie.
+Odinstaluj
+Wybierz program, który chcesz odinstalowaæ!
+PotwierdŸ, ¿e rozumiesz to co robisz: 
+Zawsze usuwaj bez mojego potwierdzania
+Ten plik "%s" jest nowy; chcesz go usun¹æ?
+Chcesz usun¹æ ten plik?
+Czy chcesz usun¹æ plik raportu?
+Usun¹æ plik raportu?
+Usuniêto: 
+Ten katalog "%s" nie móg³ zostaæ usuniêty - prawdopodonie nie jest pusty
+%d plik wydaje siê byæ usuniêty!
+Klucz rejestru "%s" nie jest pusty i nie zostanie usuniêty!
+Wadliwy raport!
+Wykonano
+Dodaj nowy element
+Usuñ (nieodwracalnie)
+Nowa wartoœæ:
+Nazwa nowego elementu:
+Zawartoœæ nowego elementu:
+Czy na pewno chcesz usun¹æ ten element z rejestru?\nTej czynnoœci nie bêdzie mo¿na cofn¹æ!\nChcesz kontynuowaæ?
+Czy na pewno?
+Zainstalowane Programy
+Analizowane Programy
+&Pliki Tymczasowe
+Szukaj
+Zatrzymaj
+Przeszukaj ten dysk:
+Nazwa pliku
+Rozszerzenie
+Miejsce
+Rozmiar
+Szukanie przerwane przez u¿ytkownika
+Szukanie w: 
+Szukanie zakoñczone
+Usuñ (nieodwracalnie)
+Czy na pewno?
+Czy na pewno usun¹æ ten/te plik(i)?\nTej czynnoœci nie bêdzie mo¿na cofn¹æ!\nChcesz kontynuowaæ?
+Prawdopodobnie nie pozbyto siê folderu
+Prawdopodobnie jest to folder, w którym zainstalowany by³ program:\n%s\nZgadza siê?\nCzy chcesz usun¹æ ten katalog? (nieodwracalnie!)
+Utwórz kopiê, a nastêpnie usuñ
+Czy na pewno?
+Zaznaczone pliki zostan¹ usuniête. Nie mniej bêdzie mo¿na je potem przywróciæ.\nChcesz kontynuowaæ?
+Kopie
+Przywróæ
+Zmieñ nazwê
+Wpisz po¿¹dan¹ nazwê
+Zmieñ nazwê
+Usuñ
+Niektórych plików i/lub wpisów rejestru nie da³o siê usun¹æ. Kolejna próba ich usuniêcia zostanie podjêta przy nastêpnym uruchomieniu programu!
+Plik pomocy nie zosta³ znaleziony!
+Nie znaleziono
+Wartoœæ musi byæ liczb¹ ca³kowit¹!
+Nale¿y okreœliæ wartoœæ oraz ew. liczbê ca³kowit¹!
+Ci¹g
+Rozszerzony ci¹g
+Liczba ca³kowita
+Zakoñcz rozpoczêt¹ poprzednio analizê
+Wyst¹pi³ b³¹d podczas próby utworzenia folderu. Czynnoœæ zostanie przerwana.
+B³¹d!
+Poka¿ zarejestrowane informacje
+Lista ignorowanych
+Sekcja
+Lokalizacja
+Edytuj listê ignorowanych
+Dodaj
+Usuñ
+Sekcja:
+Lokalizacja:
+Przegl¹daj
+Ten katalog powinien byæ ignorowany
+Plik
+Rejestr
+Anuluj
+Dodaj
+Szukaj:
+Priorytet odinstalowywania
+Wysoki
+Normalny
+Niski
+Element jest ju¿ ignorowany.
+Nale¿y prawid³owo wype³niæ formularz.
+Ustawienia
+Ignoruj cache Internet Explorera
+Ignoruj cache Firefoxa
+Rozmiar:
+Zainstalowano:
+Zmodyfikowano:
+U¿yto:
+Nie pokazuj uaktualnieñ Windowsa
+Przywróæ wszystko
+Poka¿ tylko nowe 'linki'
+Wyró¿niaj nowe 'linki'
+Ukryte Programy
+Przegl¹danie rejestru
+Usuñ pliki do kosza
+Poka¿ ikony
+Plik '%s' nie zosta³ znaleziony. Mo¿liwe, ¿e kopia jest zepsuta.
+Zapisz jako...
+Du¿e ikony
+Ma³e ikony (lista)
+Nie da³o siê usun¹æ: 
+Usuniêty katalog: 
+Rejestr (usuniêty wpis): 
+Rejestr (utworzony wpis): 
+Rejestr (nie utworzony wpis): 
+Rejestr (nie usuniêty wpis): 
+Rejestr (usuniêty klucz): 
+Rejestr (utworzony klucz): 
+Rejestr (nie utworzony klucz): 
+Proszê czekaæ...
+Usuñ do kosza
+Usuñ do kosza
+Czy na pewno chcesz usun¹æ ten/te plik(i) do kosza?
+Zaznacz wszystko
+%d - znalezione pliki, ³¹czna wielkoœæ %s.
+Sortuj listê
+Alfabetycznie (A-Z)
+Alfabetycznie (Z-A)
+Wed³ug daty zainstalowania (od najstarszych)
+Wed³ug daty zainstalowania (od najnowszych)
+Usuñ z listy ukrytych
+Edytuj
+System plików
+Rejestr
+Edytuj Raport
+Zosta³y wprowadzone zmiany w pliku raportu. Czy chcesz je zapisaæ?
+Czy chcesz zapisaæ zmiany?
+Zmieñ kolor t³a
+Dodaj element do listy ignorowanych (dot. analizowania)
+Mo¿esz przejrzeæ tutaj zarejestrowane zmiany dokonane podczas analizy instalacji. Mo¿esz usun¹æ elementy z raportu (kopia zostanie utworzona, na wszelki wypadek), mo¿esz dodaæ foldery i klucze do listy ignorowanych, przez co nie bêd¹ one w przysz³oœci rejestrowane.
+Znajdowanie pustych folderów
+Skanuj poni¿sz¹ lokalizacjê w poszukiwaniu pustych folderów:
+Bez podkatalogów
+Rozpocznij skanowanie
+Katalog
+Skanuj ten katalog
+Usuñ wybrane
+Narzêdzia
+Mened¿er autostartu
+Nazwa
+Œcie¿ka uruchamiania
+Wy³¹cz
+W³¹cz
+Kopiuj nazwê programu do schowka
+Nazwa '%s' zosta³a skopiowana do schowka!
+Ukryj Panel Szukania
+Program %s powinien byæ ju¿ odinstalowany. Spróbowaæ poszukaæ pozosta³oœci?
+Poszukaæ pozosta³oœci?
+Wydobyte zosta³y s³owa kluczowe dla szukania. Zaleca siê edytowaæ je w razie potrzeby. U¿yj jedno s³owo kluczowe na liniê. Po zakoñczeniu naciœnij 'Dalej'.
+Dalej >>
+PrzejdŸ do
+IdŸ jeden poziom w górê
+Miejsce
+Typ
+Œcie¿ka
+Wartoœæ
+Mened¿er Odinstalowywania
+Nazwa Programu
+Wykonaj proces sprawdzaj¹cy odinstalowanie programu
+By
+Wersja
+Otwórz Folder Instalacji
+Niektóre pliki tudzie¿ wpisy rejestru nie mog³y zostaæ usuniête lub na nowo utworzone.\nCzy chcesz zapisaæ te wpisy w nowym pliku raportu?
+Czy chcesz zapisaæ nowy plik raportu?
+Czy rozpocz¹æ poszukiwanie pozosta³oœci po programie?
+Skaner po odinstalowaniu
+Szukanie... Proszê czekaæ.
+Usuñ
+Czy na pewno?
+Czy na pewno chcesz kontynuowaæ?
+U¿yj tej funkcji, jeœli ju¿ rozpoczêto analisê - \nnp. jeœli konieczne jest zrestartowanie systemu.
+W celu przeprowadzenia dok³adniejszej analizy instalacji, zaleca siê, aby uruchomiæ\ni skonfigurowaæ zainstalowany program przed uruchomieniem skanowania 'Po instalacji'.
+Zaleca siê, aby odinstalowaæ program\nnajpierw w tradycyjny sposób (g³ówne okno ZSoft Uninstaller),\na dopiero potem wróciæ tutaj, w celu usuniêcia tutaj, w celu usuniêcia pozosta³oœci.
+Tutaj mo¿esz zobaczyæ wszystkie zarejestrowane zmiany.\nW razie potrzeby dokonania zmian, wybierz 'Edytuj'\nz menu kontekstowego w g³ównym oknie.
+Lista programów, które zosta³y odinstalowane w tej sesji,\nale których odinstalowanie nie zosta³o sprawdzone.\nKliknij dwa razy na nazwê programu, aby  Rozpocz¹æ sprawdzanie odinstalowania.
+Folder zawiera du¿o danych
+Próbujesz usun¹æ folder\n%s\nJednak¿e zawiera on du¿o danych. Czy na pewno chcesz go usun¹æ?
+Kopie wpisów rejestru
+Usuniête z listy zainstalowanych programów
+Usuniête po sprawdzeniu odinstalowania
+Nazwa
+Rozmiar Kopii
+Data Usuniêcia
+Poka¿ Dane
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

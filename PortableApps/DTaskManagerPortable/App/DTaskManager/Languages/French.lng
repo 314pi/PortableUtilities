@@ -1,0 +1,238 @@
+1 File
+2 Fichier
+1 New task (Run...)
+2 Nouvelle Tâche (exécuter...)
+1 New task (Run as user...)
+2 Nouveau processus (executer en tant qu'utilisateur...)
+1 Exit
+2 Quitter
+1 Options
+2 Options
+1 Set default Task Manager
+2 Définir Gestionnaire Tâches par défaut
+1 Windows TaskManager
+2 Gestionnaire tâches de Windows
+1 Start in Separate Desktop (requires restart)
+2 Démarrer dans le bureau séparé (nécessite un redémarrage)
+1 Show all windows
+2 Afficher toutes les fenêtres
+1 Select columns...
+2 Sélectionner colonne...
+1 Graphical CPU usage
+2 Utilisation graphique du CPU
+1 Graphical MEM usage
+2 Utilisation graphique MEMOIRE
+1 Hide loopback IP 
+2 Masquer l'IP en boucle
+1 Hide Time-Wait Ports
+2 Masquer les ports d'attente
+1 Resolve IP addresses
+2 Résoudre les adresses IP
+1 Show bytes exchanged (requires fast pc)
+2 Afficher les octets échangés (nécessite un PC rapide)
+1 Save on exit
+2 Enregistrer en quittant
+1 View
+2 Voir
+1 Always on top
+2 Toujours au-dessus
+1 Transparent window
+2 Fenêtre transparente
+1 Show in traybar
+2 Afficher dans la barre d'état système
+1 CPU Usage
+2 Utilisation CPU
+1 Mem usage
+2 Utilisation RAM
+1 Numeric tray bar
+2 Icône numérique dans la barre d'état
+1 Shutdown
+2 Fermer la session
+1 Lock workstation
+2 Bloquer poste travail
+1 Suspend to RAM
+2 Suspendre vers RAM
+1 Logoff
+2 Déconnecter
+1 Reboot 
+2 Redémarrer
+1 Shutdown
+2 Arrêter
+1 Shutdown force
+2 Forcer arrêt
+1 Shutdown force (hard)
+2 Forcer l'arrêt (dur)
+1 Tools
+2 Outils
+1 Auto manage priority of processes
+2 Gestion automatique de la priorité des processus
+1 Sound advise for variation of CPU usage
+2 Signal sonore pour la variation de l'utilisation du CPU
+1 Enable hotkeys (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12)
+2 Activer les raccourcis clavier (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12) 
+1 About
+2 A propos de
+1 Support with donation...
+2 Soutien avec don...
+1 About Dtaskmanager
+2 A propos de Dtaskmanager
+1 Applications
+2 Applications
+1 Freeze
+2 Geler
+1 End Task
+2 Fermer Processus
+1 Go To Process
+2 Aller au processus
+1 Switch To
+2 Basculer Vers
+1 New Task
+2 Nouvelle Tâche
+1 Processes
+2 Processus
+1 Suspend Task
+2 Suspendre Tâche
+1 Resume Task
+2 Reprendre Tâche
+1 Find Target File
+2 Rechercher Fichier Cible
+1 Kill Task
+2 Tuer Tâche
+1 Kill Task Override
+2 Tuer Suppression Tâches
+1 Performances
+2 Performances
+1 CPU usage history
+2 Historique utilisation du CPU
+1 Memory usage history
+2 Historique utilisation mémoire
+1 System details
+2 Détails du Système 
+1 Handles
+2 Poignées
+1 Threads
+2 Discussions
+1 CPU
+2 CPU
+1 Memory usage
+2 Utilisation de la mémoire
+1 Total
+2 Totale
+1 Physical
+2 Physique
+1 Committed
+2 Engagée
+1 Physical Memory
+2 Mémoire physique
+1 Installed
+2 Installée
+1 Available
+2 Disponibile
+1 System cache
+2 Cache système
+1 Commit charge memory
+2 Mémoire virtuelle
+1 Current
+2 Actuelle
+1 Limit
+2 Limite
+1 Kernel memory
+2 Mémoire du noyau
+1 Paged
+2 Paginée
+1 Nonpaged
+2 Non paginée
+1 Pagefile
+2 Fichier de pagination
+1 Size
+2 Taille
+1 Usage
+2 Utilisée
+1 Peak
+2 Niveau max
+1 Ports
+2 Ports
+1 Networking
+2 Mise en réseau
+1 Bluetooth Device (RFCOMM Protocol TDI)
+2 Périphérique Bluetooth (RFCOMM Protocole TDI)
+1 Bandwidth
+2 Bande passante
+1 Bandwith history
+2 Historique bande passante
+1 Details
+2 Détails
+1 PC name
+2 Nom du PC
+1 IP address
+2 Adresse IP
+1 SubNet Mask
+2 Masque S-R
+1 MAC Address
+2 Adresse MAC
+1 User Modules
+2 Modules users
+1 View by modules
+2 Voir par modules
+1 Kernel Modules
+2 Modules noyau
+1 Show Bytes
+2 Afficher les octets
+1 Find target file...
+2 Rechercher un fichier cible...
+1 Set Priority
+2 Définir la priorité
+1 Realtime
+2 Temps réel
+1 High
+2 Haute
+1 Above Normal
+2 Supérieure à la normale
+1 Normal
+2 Normale
+1 Below Normal
+2 Inférieur à la normale
+1 Low
+2 Faible
+1 Low To All Processes
+2 Faible pour tous les processus
+1 Set Affinity...
+2 Définir affinité...
+1 Trim RAM Usage
+2 Utilisation Garniture RAM
+1 Trim RAM to all processes
+2 Garniture RAM pour tous les processus
+1 Hide All Windows
+2 Masquer toutes les fenêtres
+1 Reveal All Windows
+2 Afficher les fenêtres cachées
+1 Suspend
+2 Suspendre
+1 Resume
+2 Reprendre
+1 End Process
+2 Terminer processus
+1 End Process Tree
+2 Terminer stucture processus
+1 Quit Process
+2 Quitter processus
+1 Quit Process Tree
+2 Quitter stucture processus
+1 Kill Process
+2 Tuer processus
+1 Kill Process Tree
+2 Tuer stucture processus
+1 Kill Process Override
+2 Tuer processus Passer outre
+1 Kill Process Tree Override
+2 Tuer stucture processus Passer outre 
+1 Kill Task (Override)
+2 Tuer la tâche (Passer outre)
+1 Show Window
+2 Afficher la fenêtre
+1 Hide Window
+2 Masquer fenêtre
+1 Hide Window Permanently
+2 Masquer la fenêtre en permanence
+1 Close Connection
+2 Fermer connexion 

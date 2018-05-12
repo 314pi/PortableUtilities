@@ -1,0 +1,13 @@
+[Info]
+Title=WinAce 
+Description=Delete WinAce
+Icon=Disk Cleaner.ICO
+Creator=AC
+
+[registry]
+HKEY_CURRENT_USER|Software\e-merge\WinAce\2.0\MRU Items
+HKEY_CURRENT_USER|Software\e-merge\WinAce\2.0\Favorites
+HKEY_CURRENT_USER|Software\e-merge\WinAce\2.0\Copy
+
+
+

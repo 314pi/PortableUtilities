@@ -1,0 +1,240 @@
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize (naprogramoval Dimio)
+1 Sources
+2 Zdroje
+1 C:\Sample 1 Of Source Path
+2 C:\Pøíklad 1 zdrojové cesty
+1 C:\Sample 2 Of Source Path
+2 C:\Pøíklad 2 zdrojové cesty
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\VzdálenéPC\Pøíklad 1 cílové cesty
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\VzdálenéPC\Pøíklad 2 cílové cesty
+1 Destinations
+2 Cíle
+1 Insert path and then press "Enter"
+2 Zadejte cestu a stisknìte "Enter"
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Pro zmìnu cesty stisknìte "Enter", pro smazání stisknìte "DEL", pro zmìnu poøadí stisknìte "PageUp" nebo "PageDown"
+1 Filter
+2 Filtr
+1 DSynchronize Filter
+2 DSynchronize Filtr
+1 Filter settings
+2 Nastavení filtru
+1 Do not apply filters to folders
+2 Nepoužívat filtry pro adresáøe
+1 Exclusion filter
+2 Filtr pro vylouèení
+1 Inclusion filter
+2 Filtr pro zahrnutí
+1 Do not include subfolders on synchronization
+2 Nezahrnovat do synchronizace adresáøe
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Pro použití více filtrù je musíte oddìlit ";", napø. *.exe;*.txt;settings.ini;*.da?
+1 Filter Extended
+2 Rozšíøený filtr
+1 Jan
+2 Leden
+1 May
+2 Kvìten
+1 Jun
+2 Èerven
+1 Jul
+2 Èervenec
+1 Aug
+2 Srpen
+1 Sep
+2 Záøí
+1 Oct
+2 Øíjen
+1 Dec
+2 Prosinec
+1 Exclude files modified before:
+2 Vylouèit soubory zmìnìné pøed:
+1 Cancel
+2 Storno
+1 Select a folder:
+2 Vyberte adresáø
+1 Browse
+2 Vybrat
+1 &Add New...
+2 &Pridat nový...
+1 B&rowse...
+2 &Vybrat...
+1 &Edit...
+2 &Upravit...
+1 &Select all
+2 &Vybrat všechny
+1 &Deselect all
+2 &Odoznaèit všechny
+1 Se&t filter...
+2 &Nastavit filtr...
+1 S&wap paths
+2 Pro&hodit cesty
+1 Re&move
+2 O&stranit
+1 About
+2 Info...
+1 DSynchronize About
+2 O programu DSynchronize
+1 Support with a Donation
+2 Podpoøit darem
+1 Make a Donation
+2 Darovat
+1 General options
+2 Hlavní nastavení
+1 Copy only newer files
+2 Kopírovat pouze nové
+1 Update files into destination folder only if source files are more recent
+2 Aktualizovat soubory v cílových adresáøích pouze pokud jsou zdrojové soubory novìjší
+1 Bidirectional synchronization
+2 Obousmìrná synchronizace
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Synchronizovat adresáøe se podle nejnovších souborù, po synchronizaci budou oba adresáøe totožné
+1 Add date to destination folder
+2 Datum do názvu adresáøe
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Pøidat do názvu cílového adresáøe aktuální datum a èas (napø. "C:\Destination" bude "C:\Destination 2004-12-10 22.30")
+1 Create folder if not exists
+2 Vytváøet adresáøe
+1 If destination path does not exists it creates a new one
+2 Jestliže cílový adresáø neexistuje, vytvoøit nový
+1 Preview mode
+2 Jen vyzkoušet
+1 Only preview (do not write anything on HD)
+2 Jen vyzkoušet synchronizaci (nezapisovat žádná data)
+1 Exit at the end
+2 Zavøít
+1 Closes the program at the end of sync
+2 Ukonèí program po skonèení synchronizace
+1 Shutdown at the end
+2 Vypnout PC
+1 Shutdown the system at the end of sync
+2 Vypne poèítaè po skonèení synchronizace
+1 Save on exit
+2 Uložit nastavení
+1 Saves all current settings on exit (source and destination path too)
+2 Uloží všechna nastavení pøi ukonèení (zdrojové a cílové cesty také)
+1 Save log
+2 Ukládat LOG
+1 Save log file
+2 Uložit LOG soubor
+1 Play sound when done
+2 Zvukový signál
+1 Generate a sound advise at the end of syncronization
+2 Pøehraje zvukový signál po synchonizaci
+1 Special options
+2 Rozšíøené možnosti
+1 Antifragmentation
+2 Antifragmentace
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Omezuje fragmentaci disku mazaním souborù pøed jejich nahrazením
+1 Set idle priority
+2 Nízká priorita
+1 Ignore path errors
+2 Ignorovat chyby
+1 If a path (source or destination) does not exists it skips without any error message
+2 Pokud je cesta zdroje nebo cile neplatná, tak operaci pøeskoèí bez varování
+1 Backup changes
+2 Uložit zmìny
+1 No Backup
+2 Neukládat zmìny
+1 Timer sync
+2 Plánovaè
+1 Set/enable timer
+2 Naplánovat
+1 DSynchronize Options
+2 Možnosti
+1 Timer choice
+2 Možnosti plánovaèe
+1 Synchronize every
+2 Synchronizovat po
+1 Synchronize at
+2 Synchronizovat v
+1 Days choice
+2 Výbìr dní
+1 Synchronize every day
+2 Synchronizovat každý den
+1 Specify the month's days on which to synchronize
+2 Vybrat dny v mìsíci
+1 Specify the week's days on which to synchronize
+2 Vybrat dny v týdnu
+1 Sunday
+2 Nedìle
+1 Monday
+2 Pondìlí
+1 Tuesday
+2 Úterý
+1 Wednesday
+2 Støeda
+1 Thursday
+2 Ètvrtek
+1 Friday
+2 Pátek
+1 Saturday
+2 Sobota
+1 Realtime sync
+2 V reálném èase
+1 Real-time syncronization (experimental)
+2 Synchronizovat v reálném èase (exporimentální položka)
+1 Autostart
+2 Automaticky
+1 Activation of the Real-Time Synchronization.
+2 Aktivace synchronizace v reálném èase
+1 Execute DSynchronize at system startup
+2 Automaticky spustí synchronizaci po startu PC
+1 Autostart as service...
+2 Spouštìt jako službu...
+1 Execute DSyncronize at system startup as service
+2 Spustí DSyncronize po startu systému jako službu
+1 DSyncronize Start As Service
+2 Spustit DSyncronize jako službu
+1 Install Service
+2 Instalovat službu
+1 Start Service
+2 Spustit službu
+1 Done
+2 Hotovo
+1 Commands
+2 Pøíkazy
+1 Synchronize
+2 Synchronizovat
+1 Pause
+2 Pozastavit
+1 Deleted files
+2 Smazané soubory
+1 Ask before deleting files
+2 Ptát se pøed smazáním souborù
+1 Do not delete any file
+2 Nezmazat soubory
+1 Does not delete any file
+2 Nesmaže pøi synchonizaci žádné soubory
+1 Move files
+2 Pøesunuté soubory
+1 Move files from Source to Destination
+2 Presunout soubory ze zdroje do cíle
+1 Added files
+2 Pøidané soubory
+1 Ask before adding files
+2 Ptát se pøed pøidáváním souborù
+1 Do not add any file
+2 Nepøidávat soubory
+1 Does not add any new file
+2 Nepøidá žádné
+1 Replaced files
+2 Nahrazené soubory
+1 Ask before replacing files
+2 Ptát se pøed nahrazením
+1 Do not replace any file
+2 Nenahrazovat soubory
+1 Does not replace any file
+2 Nenahradí žádné soubory pøi synchronizaci
+1 Synchronization complete.
+2 Synchronizace skonèila
+1 Help
+2 Nápovìda
+1 Show
+2 Zobrazit
+1 Close
+2 Zavøít

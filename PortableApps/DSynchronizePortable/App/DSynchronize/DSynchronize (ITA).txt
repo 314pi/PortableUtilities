@@ -1,0 +1,187 @@
+DSynchronize (By Dimio)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+La versione aggiornata si trova ai seguenti Link:
+
+Home: "http://dimio.altervista.org/"
+
+
+
+DESCRIZIONE
+~~~~~~~~~~~
+
+DSynchronize è un programma (Freeware) che permette di sincronizzare due o più directory in una rete locale.
+Anche la sincronizzazione FTP è supportata, ma si tratta di una funzione sperimentale non del tutto completa.
+
+Nella codifica del programma si è cercato di creare un algoritmo ultra-leggero, sia in termini di RAM che di CPU, in modo da non influire sulle prestazioni della macchina.
+
+Grazie al suo particolare algoritmo è infatti possibile sincronizzare directory anche enormi senza che ciò vada ad appesantirne il funzionamento. Durante una sincronizzazione è quindi possibile continuare ad usare il PC come se niente fosse.
+
+Il programma confronta ogni directory "Source" con la rispettiva "Destination", indi modifica "Destination" (aggiungendo, aggiornando o cancellando files e sottodirectory) in maniera tale da renderla identica a "Source". 
+Supporta sia la sincronizzazione temporizzata (è possibile specificare nei dettagli il giorno e l'orario) che quella in Real-Time.
+Supporta filtri multipli (separati da ";") tipo *.exe;*.txt etc.
+Quando si specificano i percorsi è possibile utilizzare Variabili d'ambiente (%WINDIR%, %USERPROFILE% etc.).
+
+DSynchronize può essere avviato come servizio, in maniera tale da girare anche se sul PC non vi è nessun utente loggato.
+
+
+
+SISTEMI SUPPORTATI
+~~~~~~~~~~~~~~~~~~
+
+Windows 8
+Windows Seven
+Windows Vista
+Windows 2003
+Windows XP
+Windows 2000
+Windows NT4 con SP6a e IE4 o superiori.
+
+
+
+SINCRONIZZAZIONE SU FTP
+~~~~~~~~~~~~~~~~~~~~~~~
+
+DSynchronize permette di sincronizzare i dati da e verso FTP.
+L'unica limitazione è che non è possibile sincronizzare tra di loro due FTP.
+Il path FTP deve essere specificato con gli standard Microsoft, per cui è necessario utilizzare formati del tipo:
+
+ftp://ftpserver.com  (Ftp con login anonimo e directory di default).
+
+ftp://User:Password@ftpserver.com/pictures  (Ftp con login specifico e indicazione della directory di lavoro).
+
+ftp://User:Password@ftpserver.com:1973/pictures  (Ftp con login specifico e indicazione della porta e della directory di lavoro).
+
+Va comunque tenuto presente che la sincronizzazione via FTP è sperimentale e non funziona su tutti i tipi di server (purtroppo lo standard FTP è uno standard un pò troppo elastico).
+
+
+
+OPZIONI
+~~~~~~~
+
+"Save on exit"
+Serve per salvare tutti i settaggi, compresi i percorsi delle directory da sincronizzare.
+
+"Antifragmentation"
+Riduce la frammentazione del disco: i files che devono essere sostituiti vengono prima cancellati in blocco, e poi sostituiti con le nuove copie (insomma, prima si fanno i buchi, e poi si riempiono).
+Con questa opzione attiva si perde la distinzione tra files sostituiti e files aggiunti. (i files sostituiti figureranno tra i files aggiunti).
+
+"Set/Enable timer"
+Effettua automaticamente la sincronizzazione ogni tot minuti/ore o, a scelta, ogni giorno all'orario specificato, è anche possibile selezionare o escludre con precisione uno o più giorni della settimana o del mese.
+
+"Shutdown at the end"
+Permette di spegnere il PC al termine della sincronizzazione.
+
+"Create folder if it does not exist"
+Se la directory specificata come percorso di destinazione non esiste viene creata una cartella con quel nome.
+
+"Add date to destination folder"
+Aggiunge la data al percorso di destinazione, per cui x es."C:\CartellaDiDestinazione" diventa "C:\CartellaDiDestinazione 18-07-2004 22.30", questo può essere utilizzato per creare dei BackUp temporizzati distinti tra loro.
+
+"Copy only newer files"
+Aggiorna un files in "Destinazioni" solamente se il file in "Origini" è più recente.
+
+"Adjust Path Drive"
+Capita a volte che, quando si effettua la sincronizzazione con delle chiavette USB o altre periferiche rimuovibili, all'inserimento delle stesse la lettera dell'unità cambi. Se si seleziona questa opzione, il path viene automaticamente cambiato, se necessario, in modo da farlo corrispondere all'unità rimuovibile a cui faceva in origine riferimento (ciò lo si ottiene memorizzando e confrontando i numeri di serie delle varie unità).
+
+"Bidirectional syncronization"
+Consente di sincronizzare le cartelle scegliendo i files più recenti (sia che si trovino in Origine che in Destinazione).
+Il risultato finale saranno quindi due cartelle identiche (Origine e Destinazione) contenenti ciascuna i files più recenti che si siano trovati.
+
+"Ignore path errors"
+Se un dato percorso non esiste al momento della sincronizzazione si limita a saltarlo senza fermarsi per visualizzare un messaggio di errore, oltre a ciò, questa opzione fa si che non venga effettuato il controllo dei permessi prima di sincronizzare un file, quindi è come se comprendesse l'opzione da linea di comando /NOSECURITYCHECK.
+Se è attiva la sincronizzazione in tempo reale, i percorsi che non esistono vengono comunque periodicamente verificati e, nel caso si rendano nuovamente disponibili, viene subito attivata la sincronizzazione anche per loro.
+
+"Real-Time Sync"
+Consente di monitorare continuativamente (e a costo zero in termini di CPU) le modifiche avvenute nel percorso di origine e di replicarle di conseguenza nel percorso di destinazione.
+Prima di attivare questa opzione è opportuno effettuare una sincronizzazione normale, infatti la funzione di questa opzione è quella di mantenere sincronizzate due cartelle identiche fin dall'inizio.
+
+"Autostart"
+Avvia il programma automaticamente all'avvio di Windows con le ultime opzioni salvate.
+Se è impostata la sincronizzazione temporizzata essa verrà eseguita all'orario specificato, altrimenti la sincronizzazione avverrà immediatamente.
+
+"Autostart as service"
+Avvia il programma automaticamente all'avvio di Windows come servizio. E'possibile specificare l'account con il quale si vuole che il programma giri.
+E' importante accertarsi che, con l'account specificato, il programma abbia i diritti di accesso sia per le cartelle di origine sia per quelle di destinazione.
+
+"Preview"
+Si limita a confrontare le cartelle senza effettuare le modifiche.
+
+Le altre opzioni si capiscono da sole (spero).
+
+
+
+PARAMETRI DELLA LINEA DI COMANDO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Volendo è possibile specificare dei parametri nella linea di comando.
+
+/START
+Avvia immediatamente la sincronizzazione (con le ultime opzioni salvate).
+
+/MINIMIZE
+Avvia DSynchronize minimizzato nella TrayBar.
+
+/HIDDEN
+Avvia DSynchronize in totale background e cioè senza nemmeno visualizzare l'icona nella TrayBar.
+
+/NOSECURITYCHECK
+Prima di effettuare la sincronizzazione, non controlla se si possiedono o meno i permessi di lettura/scrittura sulle cartelle. Infatti, In qualche raro caso, sembra che il security check impedisca la sincronizzazione anche su cartelle sulle quali si possiedono tali permessi, per cui, selezionare l'opzione suddetta, consente di operare normalmente anche in quei particolari casi.
+
+/NOMONITORCHECK
+Avvia il programma anche se la risoluzione è inferiore a 1024x768.
+
+/AUTOREALTIME
+Avvia DSynchronize minimizzato, effettua una sincronizzazione standard e poi attiva la sincronizzazione in RealTime.
+
+/NOMEFILE.INI
+Utilizza uno specifico file INI per effettuare la sincronizzazione.
+Ovviamente, al posto di NOMEFILE si può specificare il nome che si vuole. E' necessario che il file INI si trovi nella stessa cartella di DSynchronize.
+
+
+
+PROGRAMMATORE:
+~~~~~~~~~~~~~~
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE  : katafratto
+ICQ    : 145633952
+E-MAIL : cyberdimio@gmail.com
+HOME   : http://dimio.altervista.org/
+
+
+
+BETA TESTER:
+~~~~~~~~~~~~
+Umberto Barbella
+E-MAIL : umbertob67@gmail.com
+
+
+
+NOTE:
+~~~~~
+Il programma utilizza la tecnologia UPX (http://upx.sourceforge.net/) per aumentarne la portatilità.
+
+
+
+LICENZA:
+~~~~~~~~
+
+Il programma viene distribuito con la licenza Freeware inclusa nel pacchetto e che può essere così sintetizzata: il programma può essere liberamente utilizzato, distribuito e anche incorporato in progetti commerciali, l'unica cosa che non potete fare è decompilarlo o modificarlo.
+
+
+
+NOTE SULLA SINCRONIZZAZIONE IN REAL-TIME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+FUNZIONAMENTO:
+Il programma monitorizza tutte le modifiche nel percorso di Origine e, ogni 10 secondi, replica le stesse modifiche nel percorso di Destinazione.
+L'attesa dei 10 secondi ha lo scopo di evitare un inutile consumo di banda, infatti, se un file viene modificato per 2 volte nel giro dei 10 secondi, esso verrà poi copiato una sola volta allo scadere dei 10 secondi, il che riduce di 2 volte il consumo di banda.
+
+PERCORSO NON DISPONIBILE:
+Se, quando si avvia la sincronizzazione in real-time un dato percorso (di origine o destinazione) non è disponibile, questo verrà comunque verificato periodicamente e, qualora si rendesse nuovamente disponibile, anche per esso verrà attivata la sincronizzazione in real-time.
+
+POSSIBILI PROBLEMI:
+E'normale che, durante la sincronizzazione in Real-Time, nella finestra dei log, alcune operazioni mostrino esito negativo (FAILED o LOCKED), ciò non determina anomalie nella sincronizzazione.
+
+In ogni caso si consiglia, se si utilizza questa opzione, di effettuare periodicamente anche delle sincronizzazioni normali.

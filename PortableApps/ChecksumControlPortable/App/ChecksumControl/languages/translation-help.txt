@@ -1,0 +1,51 @@
+Legend :
+
+~0 =   1 Linebreak (carriage return)
+~0~0 = 2 Linebreaks
+
+&= Button keycode (e.g. &Test = Button can be activated with keyboard shortcut ALT+T / &Dummy = Button can be activated with keyboard shortcut ALT+D ... )
+
+"Dummy - Do not translate" = Means that there is no need for translation, this can be left as it is or it can be safly removed.
+
+Sample for a translation : (German to English)
+
+Note : Do not translate anything before the " = " sign 
+
+Source 			:  FormDirectoryFilter.ButtonCancel.Caption="&Abbrechen"
+Translated English	:  FormDirectoryFilter.ButtonCancel.Caption="&Cancel"
+Translated Spanish	:  FormDirectoryFilter.ButtonCancel.Caption="&Cancelar"
+
+Just replace the text after the " = " sign.
+Note : Sometimes there are missing quotation mark signs, this does not matter, it works with or without.
+
+Every language must be in a seperate file, and must be named as following :
+
+checksumcontrol-XX.nlf
+
+XX is the two-letter code of the language (http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+
+The file must contain an info block like this :
+
+[Info]
+Language="English-Alternate [en]"
+Version=2.4
+Date=20.05.2013 / V2.0
+Autolang="Automatically or English"
+
+
+Language : The name of the language e.g. : German [XX] (XX is again the two-letter code of the language).
+Version :  Program version needed for this file (do not change - must always fit)
+Date :	   Any date of translation and the version of the translation - e.g. 20.05.2013 / V1.0 
+Autolang : This should contain "Automatically or English" translated into your language. (e.g. "Automatisch oder Englisch" for german)
+
+
+
+
+
+
+
+
+
+
+
+

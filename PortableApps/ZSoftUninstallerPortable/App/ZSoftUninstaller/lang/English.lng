@@ -1,0 +1,296 @@
+; ENGLISH LANG FILE
+; THIS WAY YOU CAN EASILY TRANSLATE THIS PROGRAM INTO YOUR OWN LANGUAGE!
+; EVERY LINE !!!STARTING!!! WITH A ";" IS CONSIDERED A COMMENT
+Are you sure you want to delete it?
+There is a newer version available! Do you want me to open the website where you can download it?
+You already have the latest version!
+Some kind of error has occurred... Try again later...
+Clear
+Program Name
+&File
+F&ilters
+F&unctions
+Se&ttings
+&Language
+&Help
+&Close
+Only show 'dead links'
+&Update the List
+Search for program-updates
+Show Grid Lines
+Help
+ZSoft Software
+
+&About
+Uninstall
+Delete
+You need to use at least 3 characters!
+&Export List
+Text Files (*.txt)|*.txt|All Files (*.*)|*.*
+&Uninstall
+De&lete
+Hel&p
+Only show "crapware"
+Don't show hidden 'links'
+Hide
+Edit the Hide-Filter
+Edit the Hide-Filter
+Delete selected from the list and don't hide it anymore
+Showing %d programs!
+Info
+Welcome to ZSoft Uninstaller!\n\nYou will get information here as we go, so keep your eyes here ;).\n\nHave fun :o)
+Currently waiting for the uninstall program for %s to finish.
+%s should now be uninstalled.\n\nThe list has been updated!
+Can't run the uninstallation program to %s.
+;
+; ABOUT BOX:
+;
+About ZSoft Uninstaller
+- A b o u t -\nUninstaller is a small, free, light-weight program that more or less has the\nsame features as the build in function in Microsoft Windows have \n- Uninstaller is just faster to load.\n\nUninstaller was written, mostly to myself, because I think that Windows\nXP's build-in uninstall function is a real bitch to open...\n\nRemember that all use of this program is completely your own responsibility,\nand that the programmer can't be held responsible for loss of data etc!\n\n- T h a n k s  T o-\nThis program includes code from the following projects:\nToolbar2000 & TBX (for components that make this program look good)\nIndy (for components enabling the internet)\nWisnu Aribowo (for this scrolling text component)\n\n- C o p y r i g h  N o t i c e -\nThis software is copyright (C) 2004-2005 ZSoft.\n\nPortions of this software are Copyright (c) 1993 - 2003, Chad Z.\nHower (Kudzu) and the Indy Pit Crew - IndyProject.org
+&Close
+;
+; New
+;
+Show/Edit Info
+View/Edit Info
+Name
+Value
+Save
+Cancel
+Change
+OK
+Cancel
+Choose Font (Only in List)
+&Analyze
+Analyze Installation
+;
+; The analyze function
+;
+Welcome!
+This guide will get you through a process where you can either analyze an installation or uninstall a previous analyzed program completely.
+What do you wish to do?
+&Analyze an installation
+&Uninstall a previous analyzed program
+&Cancel
+&Next >>
+Before you start the installation 'an image' of your computer needs to be created. Choose below which harddrive(s) you wish to analyze. Normally the C-drive and the drive you install to (if different) is sufficient.
+Drives
+&Before Installation
+&After Installation
+Files Found (approx): 
+Reg. Found (approx): 
+Time taken (in sec.): 
+Comparing... Please Wait!
+Enter Application Name
+Enter the name of the application you have installed below.
+ERROR: File Exists @ Enter Application Name
+ERROR: File Exists. Enter a uniqe name of the application you have installed below.
+Task finished. The window will now close.
+Choose from below which previous analyzed program you wish to uninstall.
+Now, confirm the following:
+I understand that I do this on my own responsibility
+I understand that the files being deleted cannot be undeleted
+I will not hold the programmer responsible for loss of data etc.
+Uninstall
+You need to choose which program you wish to uninstall!
+You need to confirm that you understand: 
+I don't want to confirm every delete
+The file "%s" is new; do you want to delete it?
+Want to delete file?
+Do you want to delete the log file?
+Delete log file?
+Deleted: 
+The dir "%s" could not be deleted - maybe it's not empty
+%d file(s) seem to be deleted, but this is not an undelete tool!
+Registry Key "%s" is not empty and will not be removed!
+Malformed Log!
+Done
+Add New Item
+Remove (can't be reversed)
+New Value:
+Name of new item:
+Content of new item:
+Are you sure you want to remove this item from the registry?\nPlease note that this cannot be undone!\nDo you wish to continue?
+Are you sure?
+Installed Programs
+Analyzed Programs
+&Temp File Finder
+Start Search
+Stop Search
+Search this drive:
+Filename
+Extension
+Place
+Size
+Search stopped by user
+Searching in:
+Search finished
+Delete File(s) (can't be reversed)
+Are you sure?
+Are you sure you want to delete this/these file(s)?\nPlease note that this cannot be undone!\nDo you wish to continue?
+Folder might not be gone
+I think that this was the folder the program was installed into:\n%s\nIs that correct?\nDo you wish to remove this directory? (This can't be reversed!)
+Backup && delete file(s)
+Are you sure?
+This will delete the selected files. You can however undelete them later if you wish.\nDo you wish to continue?
+Backups
+Undelete
+Rename
+Write the desired name below
+Rename
+Delete
+Some files and/or registry entries could not be deleted. I will try again the next time you open this program!
+The help-file couln't be found!
+Not found
+The value have to be a interger!
+The value have to be choosen, and, if integer, be just that!
+String
+Expanded String
+Integer
+&Finish an analysis that has already been started
+An error occured when trying to create the folder, the function will not continue.
+Error!
+Show Recorded Info
+Ignore List
+Section
+Location
+&Edit Ignore List
+&Add
+Delete
+Section:
+Location:
+&Browse
+This directory should be ignored
+&File
+&Registry
+&Cancel
+&Add It
+Search:
+Uninstall Priority
+High
+Normal
+Low
+The item is allready ignored.
+You have to fill the form properly.
+Settings
+Ignore Internet Explorer cache
+Ignore Firefox cache
+Approx. size:
+Install Time:
+Modified Time:
+Access Time:
+Don't show Windows Updates
+Undelete All
+Only show new 'links'
+Mark new 'links'
+Hidden Programs
+Registry Browser
+Delete files to recycle bin
+Show Icons
+The file '%s' couldn't be found. Backup (might be) broken.
+Save as...
+As big icons
+As small icons in the list
+Couldn't be deleted: 
+Directory deleted: 
+Registry entry deleted: 
+Registry entry created: 
+Registry entry NOT created: 
+Registry entry NOT deleted: 
+Registry key deleted: 
+Registry key created: 
+Registry key NOT created: 
+Please stand by...
+Delete to recycle bin
+Delete File(s) to Recycle Bin
+Are you sure you want to delete this/these file(s) to the recycle bin?
+Select All
+%d files found, totaling %s.
+Sort List After
+Name (ascending)
+Name (descending)
+Time (ascending)
+Time (descending)
+Remove from Hidden List
+Edit
+Filesystem
+Registry
+Edit Analyzed Log
+You have made changes in the logfile. Do you want to save these changes?
+Do you want to save your changes?
+Change Background Color Of
+Add item to ignore-list (Analyze-feature)
+In this window you can see (and navigate) the recorded changes made bythe analyzed installation.\nYou can delete items from the log (a backup will be created, just in case),\nand you can add folders and keys to the ignore list, so they won't be recorded in the future.
+Empty Folders Finder
+Scan this directory for empty folders:
+Only scan top-level
+Start Scan
+Dir
+Scan this directory
+Remove Selected
+Tools
+Startup Manager
+Name
+Launches
+Disable
+Enable
+Copy program name to clipboard
+Text '%s' copied to clipboard!
+Hide Search-Bar
+The program %s should now be uninstalled. Do you want to search for leftovers?
+Search for leftovers?
+I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
+Next >>
+Jump To
+Go one level up
+Place
+Type
+Path
+Value
+Post Uninstall Manager
+Program Name
+Perform Post Uninstall on selected program
+By
+Version
+Open Install Folder
+Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
+Do you want to save a new logfile?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

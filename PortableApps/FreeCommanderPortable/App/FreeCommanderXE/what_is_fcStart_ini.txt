@@ -1,0 +1,2 @@
+The fcStart.ini file make the FreeCommander portable: the settings are saved in subfolder of the installation folder.
+If you already have the fcStart.ini in your target folder, then you should not overwrite the file.

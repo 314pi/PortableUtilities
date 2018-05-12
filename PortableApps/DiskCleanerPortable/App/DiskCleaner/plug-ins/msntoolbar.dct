@@ -1,0 +1,8 @@
+[Info]
+Title=MSN Toolbar
+Description=MSN Toolbar
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\MSN Toolbar|PopupGuardCount
+HKEY_CURRENT_USER|Software\Microsoft\MSN Toolbar|SearchString

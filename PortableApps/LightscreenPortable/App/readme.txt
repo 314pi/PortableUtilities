@@ -1,0 +1,1 @@
+The files in here are neccessary for the app to function.  There is normally no need to access them directly.

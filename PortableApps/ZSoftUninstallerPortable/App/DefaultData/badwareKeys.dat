@@ -1,0 +1,45 @@
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.HbAx
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.HbAx.1
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.HbInfoBand
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.HbInfoBand.1
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.IEButton
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.IEButton.1
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.IEButtonA
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.IEButtonA.1
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.RprtCtrl
+Zango	HKLM	SOFTWARE\Classes\ShoppingReport.RprtCtrl.1
+Zango	HKLM	SOFTWARE\Classes\Wallpaper.WallpaperManager
+Zango	HKLM	SOFTWARE\Classes\Wallpaper.WallpaperManager.1
+Zango	HKLM	SOFTWARE\Classes\WeatherDPA.WeatherController
+Zango	HKLM	SOFTWARE\Classes\WeatherDPA.WeatherController.1
+Zango	HKLM	SOFTWARE\Classes\ZangoAX.ClientDetector
+Zango	HKLM	SOFTWARE\Classes\ZangoAX.ClientDetector.1
+Zango	HKLM	SOFTWARE\Classes\ZangoAX.UserProfiles
+Zango	HKLM	SOFTWARE\Classes\ZangoAX.UserProfiles.1
+Zango	HKLM	SOFTWARE\Microsoft\Internet Explorer\Explorer Bars\{2AA2FBF8-9C76-4E97-A226-25C5F4AB6358}
+Zango	HKLM	SOFTWARE\Microsoft\Internet Explorer\Extensions\{C5428486-50A0-4a02-9D20-520B59A9F9B2}
+Zango	HKLM	SOFTWARE\Microsoft\Internet Explorer\Extensions\{C5428486-50A0-4a02-9D20-520B59A9F9B3}
+Zango	HKLM	SOFTWARE\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{0566A191-D675-4911-9C7E-50EDBEF90F32}
+Zango	HKLM	SOFTWARE\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{EDDBB5EE-BB64-4bfc-9DBE-E7C85941335B}
+Zango	HKLM	SOFTWARE\Microsoft\Office\Outlook\Addins\HostOL.MailAnim
+Zango	HKLM	SOFTWARE\Microsoft\Office\Word\Addins\HostOL.MailAnim
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{100EB1FD-D03E-47FD-81F3-EE91287F9465}
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{90B8B761-DF2B-48AC-BBE0-BCC03A819B3B}
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{0566A191-D675-4911-9C7E-50EDBEF90F32}
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{3788E535-897B-463d-B6D6-FEE5B86EC144}
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{69725738-CD68-4f36-8D02-8C43722EE5DA}
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{D3F940EA-4E87-423b-9091-934E1E4FCEAE}
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ShoppingReport
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ZangoSA
+Zango	HKLM	SOFTWARE\ShoppingReport
+Zango	HKLM	SOFTWARE\Zango
+Zango	HKCU	Software\Microsoft\Installer\Features\C798923C88134AE7B4FC891D0477FCDE
+Zango	HKCU	Software\Microsoft\Installer\Products\B5D683AADE7E4B5F8245223CA424E95A
+Zango	HKCU	Software\Microsoft\Internet Explorer\Explorer Bars\{2AA2FBF8-9C76-4E97-A226-25C5F4AB6358}
+Zango	HKCU	Software\Microsoft\Internet Explorer\Explorer Bars\{A7CDDCDC-BEEB-4685-A062-978F5E07CEEE}
+Zango	HKCU	Software\ShoppingReport
+Zango	HKCU	Software\Zango
+Zango	HKCU	Software\zangosa
+PC MightyMax	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3f6555c4-0a24-11dc-8314-0800200c9a66}
+PC MightyMax	HKCU	Software\PC MightyMax 2009
+PC MightyMax	HKCU	Software\PC MightyMax 2009

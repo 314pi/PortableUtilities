@@ -1,0 +1,7 @@
+[Info]
+Title=Sonique 
+Description = Erase Sonique Playlist and PlayURLs
+
+[registry]
+HKEY_CURRENT_USER|Software\MediaScience\Sonique\PLAY_HISTORY
+HKEY_CURRENT_USER|Software\MediaScience\Sonique\URL_HISTORY

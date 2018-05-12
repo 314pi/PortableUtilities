@@ -1,0 +1,7 @@
+[Info]
+Title=Adobe Flash Player
+Description=Clears Flash Player shared objects (Flash cookies)
+
+[files]
+%appdata%\Macromedia\*.* /s
+%APPDATA%\Adobe\Flash Player\AssetCache\*.* /s

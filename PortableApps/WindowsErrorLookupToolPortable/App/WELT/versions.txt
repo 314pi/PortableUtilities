@@ -1,0 +1,11 @@
+3.0.7
+* Fixed grammer mistake (ID:14, ID:16)
+
+3.0.6
+* Fixed bug (ID:13) "it crashes when i type an error 0x00000
+
+3.0.5
+* Fixed bug (ID:11) "Alt-tab doesn't hide About Window"
+* Fixed nuisance (ID:12) "Error Number or Define Highlighting"
+* Fixed About Window showing partially offscreen if main window is close to screen edge.
++ Added link to WELT forum on About Window

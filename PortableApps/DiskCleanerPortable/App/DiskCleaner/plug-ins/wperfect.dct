@@ -1,0 +1,19 @@
+[Info]
+Title=WordPerfect 7/8/9/10/11
+Description=Erases history items in WordPerfect 7 to 11
+
+[registry]
+HKEY_CURRENT_USER|Software\Corel\User Assistant\11\Recent Work
+HKEY_CURRENT_USER|Software\Corel\WordPerfect\11\Last Macros
+HKEY_CURRENT_USER|Software\Corel\QuattroPro\11\LastOpened
+HKEY_CURRENT_USER|Software\Corel\User Assistant\11\Settings
+HKEY_CURRENT_USER|Software\Corel\User Assistant\9\Recent Work\Corel Presentations
+HKEY_CURRENT_USER|Software\Corel\User Assistant\9\Recent Work\WordPerfect\Last Opened
+HKEY_CURRENT_USER|Software\Corel\User Assistant\9\Recent Work\QuattroPro\Last Opened
+HKEY_CURRENT_USER|Software\Corel\User Assistant\8\Recent Work\WordPerfect\Last Opened
+HKEY_CURRENT_USER|Software\Corel\User Assistant\8\Recent Work\QuattroPro\Last Opened
+HKEY_CURRENT_USER|Software\Corel\User Assistant\8\Recent Work\Presentations
+HKEY_CURRENT_USER|Software\PerfectOffice\WordPerfect\7\LastOpened
+HKEY_CURRENT_USER|Software\PerfectOffice\QuattroPro\7\LastOpened
+HKEY_CURRENT_USER|Software\PerfectOffice\Envoy\7\Viewer\Recent File List
+HKEY_CURRENT_USER|Software\Corel\User Assistant\10\Recent

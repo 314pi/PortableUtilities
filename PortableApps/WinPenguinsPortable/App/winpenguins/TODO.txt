@@ -1,0 +1,6 @@
+TODO List:
+- Get a new explosion sound. Currently using the same sound effect as splat.
+
+For version 0.8 I was thinking about adding a "super penguin" which you can move around the screen using the keyboard, bitmaps from XPenguins/Pingus are available. I've already synthesied movement using the WASD keys. I'm not sure though, may be a bit silly.
+
+If you have any suggestions or bugs email me at ricky.65@hotmail.com and I'll see what I can do.

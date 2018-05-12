@@ -1,0 +1,385 @@
+[formAbout]
+bnOK=d'Acord
+Label1=Copyright © 2000-2007 Safer-Networking Limited. Reservats tots els drets
+labelCopyright=Copyright © 2000-2007 Safer-Networking Limited.
+memoCredits=Traducció al català per Pep Isern%0D%0A
+labelCopyright2=Reservats tots els drets
+
+[formBookmarks]
+bnCancel=Cancel·lar
+bnOK=d'Acord
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Afegir marcador...
+aBookmarkDelete=Eliminar marcador
+aBookmarkRename=Canviar de nom marcador...
+aFolderAdd=Afegir carpeta...
+aFolderDelete=Eliminar carpeta
+aFolderExportOneLevel=Exportar un nivell
+aFolderExportRecursive=Exportació recursiva
+aFolderRename=Canviar de nom carpeta...
+aSortOneLevel=Ordenar un nivell
+aSortRecursive=Ordenació recursiva
+
+[formEditInteger]
+bnCancel=Cancel·lar
+bnOK=d'Acord
+labelDataBinary=Dades en Binari:
+labelDataDecimal=Dades en Decimal:
+labelDataHex=Dades en Hexadecimal:
+labelValue=Nom del valor:
+
+[formEditMultiString]
+bnCancel=Cancel·lar
+bnOK=d'Acord
+labelData=Dades del valor:
+labelValue=Nom del valor:
+
+[formEditResourceRequirementsList]
+bnCancel=Cancel·lar
+bnOK=d'Acord
+labelBusNumber=Número de Bus:
+labelInterfaceType=Tipus d'interfície:
+labelSlotNumber=Número d'slot:
+lvList.Items=Tipus%0D%0AAdreça mínima%0D%0AAdreça màxima%0D%0ALongitud%0D%0AAlinear%0D%0AOpcions%0D%0A
+
+[formEditString]
+bnCancel=Cancel·lar
+bnOK=d'Acord
+labelData=Dades del valor:
+labelValue=Nom del valor:
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.alMain]
+aAbout=Referent a...
+aBookmarksManage=&Administrar marcadors
+aFileConnectReg=Conectar-se al registre de &xarxa...
+aFileExit=&Sortir
+aFileOpenReg=Obrir &arxiu de registre...
+aHelpContents=Contingut
+aHelpIndex=Índex
+aInfoDBRefreshEntry=Actualitzar
+aInfoDBSaveKeyInfo=Desar informació de clau
+aInfoDBSaveValueInfo=Desar informació de valor
+aInfoDBStoreEntry=Emmagatzemar
+aKeyAdd=&Nova clau...
+aKeyAddBookmark=Afegir a marcadors...
+aKeyBack=Anterior
+aKeyCopyPath=Copiar el nom de la clau al porta-retalls
+aKeyDelete=E&liminar clau
+aKeyExport=&Exportar...
+aKeyForward=Següent
+aKeyImport=&Importar...
+aKeyJump=Anar a la clau...
+aKeyRefresh=A&ctualitzar
+aKeyRename=A&ctualitzar clau...
+aMenuHelp=Ajuda
+aSearch=&Cercar...
+aSecurityInformationExportToClipboard=Copiar la informació de seguretat al porta-retalls
+aSecurityInformationExportToFile=Exportar la informació de seguretat a un arxiu...
+aValueAdd=Nou
+aValueAddBEInteger=Valor numèric (32 bit, el byte més significatiu primer)
+aValueAddBinary=Dada binaria
+aValueAddExpandString=Cadena (amb placeholders)
+aValueAddFullResourceDescriptor=Descriptor de recursos detallat
+aValueAddInt64=Valor numèric (64 bit)
+aValueAddInteger=Valor numèric (32 bit)
+aValueAddLEInt64=Valor numèric (64 bit, el byte menys significatiu primer)
+aValueAddLEInteger=Valor numèric (32 bit, el byte menys significatiu primer)
+aValueAddLink=Enllaç
+aValueAddMultiString=Cadena (multi-línia)
+aValueAddNone=Cap (tipus buit)
+aValueAddResourceList=Llista de recursos
+aValueAddResourceRequirementsList=Llista de requisits del recurs
+aValueAddString=Cadena
+aValueChange=&Canviar dades...
+aValueDelete=E&liminar valor
+aValueRename=&Canviar el nom del valor...
+aValueSelectAll=Sel·leccionar-ho tot
+aSecurityInformationGrantAll=Donar drets a tothom en aquesta clau
+
+[formMain.menuMain]
+miBookmarks=&Marcadors
+miEdit=&Editar
+miFile=&Arxiu
+miHelp=&?
+miLanguages=&Idioma
+
+[formMain.panelMain.pcMain]
+tsData=Dades
+tsDatabaseInfo=Informació de la base de dades
+tsInfo=Informació de seguretat
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Nom%0D%0ATipus%0D%0AValor%0D%0ATamany%0D%0A
+lvHexDump.Items=Posició%0D%0ABuidat%0D%0AText%0D%0A
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Informació de la clau:
+labelInfoDBValue=Informació del valor:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panell2
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.alMain]
+aAbout=Referent a...
+aBookmarksManage=&Administrar marcadors
+aFileConnectReg=Conectarse al registro de &red...
+aFileExit=&Sortir
+aFileOpenReg=O&brir arxiu de registre...
+aKeyAdd=&Nova clau...
+aKeyAddBookmark=Afegir a marcadors...
+aKeyBack=Anterior
+aKeyCopyPath=Copiar el nom de la clau al porta-retalls
+aKeyDelete=E&liminar clau
+aKeyExport=&Exportar...
+aKeyForward=Següent
+aKeyImport=&Importar...
+aKeyJump=Anar a la clau...
+aKeyRefresh=A&ctualitzar
+aKeyRename=&Canviar de nom la clau...
+aSearch=&Cercar...
+aSecurityInformationExportToClipboard=Copiar la informació de seguritat al porta-retalls
+aSecurityInformationExportToFile=Exportar la informació de seguretat a un arxiu...
+aValueAdd=Nou
+aValueAddBEInteger=Valor numèric (32 bit, big endian)
+aValueAddBinary=Dada binària
+aValueAddExpandString=Cadena (amb placeholders)
+aValueAddFullResourceDescriptor=Descriptor de recursos detallat
+aValueAddInt64=Valor numèric (64 bit)
+aValueAddInteger=Valor numèric (32 bit)
+aValueAddLEInt64=Valor numèric (64 bit, little endian)
+aValueAddLEInteger=Valor numèric (32 bit, little endian)
+aValueAddLink=Enllaç
+aValueAddMultiString=Cadena (multi-linia)
+aValueAddResourceList=Llista de recursos
+aValueAddResourceRequirementsList=Llista de requisits del recurs
+aValueAddString=Cadena
+aValueChange=&Canviar dada...
+aValueDelete=E&liminar valor
+aValueRename=&Canviar de nom valor...
+
+[formRegalyzer.menuMain]
+miBookmarks=&Marcadors
+miEdit=&Editar
+miFile=&Arxiu
+miHelp=&?
+miLanguages=&Idioma
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Dades
+tsInfo=Informació de seguretat
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Nom%0D%0ATipus%0D%0AValor%0D%0ATamany%0D%0A
+lvHexDump.Items=Posició%0D%0ABuidat%0D%0AText%0D%0A
+
+[formRemoteConnect]
+bnCancel=Cancel·lar
+bnOK=d'Acord
+bnSearch=&Cercar
+labelNamePrompt=Si us plau, entreu el nom de l'ordinador remot:
+labelRemoteInfo=Nota: Conectar-se al registre de xarxa només funcionarà si l'ordinador remot treballa sota Windows NT, 2000 ó XP, o bé Windows ME si el servei remot està iniciat.
+
+[Forms]
+formAbout=Informació
+formBookmarks=Marcadors
+formEditInteger=Canviar dada numèrica
+formEditMultiString=Canviar valor de multi-cadena
+formEditResourceRequirementsList=Mostrar la llista de requisits del recurs
+formEditString=Canviar dada de cadena
+formMain=RegAlyzer
+formRegalyzer=RegAlyzer
+formRemoteConnect=Connectarse al registro de xarxa
+formSearch=Cercar
+
+[formSearch]
+bnCancel=Cancel·lar
+bnSearch=Cercar
+bnStop=Aturar
+
+[formSearch.alSearch]
+aReplace=&Reemplaçar
+aSearchResultsDeSelectAll=&Abandonar sel·lecció
+aSearchResultsDeSelectData=Abandonar sel·lecció dels resultats tipus dada
+aSearchResultsDeSelectKeys=Abandonar sel·lecció dels resultats tipus clau
+aSearchResultsDeSelectValues=Abandonar sel·lecció dels resultats tipus valor
+aSearchResultsExport=Exportar...
+aSearchResultsExportAll=&Exportar-ho tot...
+aSearchResultsExportKeyContents=Opció: Exportar també els continguts dels resultats de la clau
+aSearchResultsExportSelected=Exportar &únicament allò sel·leccionat...
+aSearchResultsSelectAll=&Sel·leccionar-ho tot
+aSearchResultsSelectData=Sel·leccionar els resultats de tipus dada
+aSearchResultsSelectKeys=Sel·leccionar els resultats de tipus clau
+aSearchResultsSelectValues=Sel·leccionar els resultats de tipus valor
+aSearchStart=Cercar
+
+[formSearch.pcSearch]
+tsByDate=... per data
+tsCriteria=Criteris de cerca
+tsReplace=Remplaçar
+tsResults=Resultats
+
+[formSearch.pcSearch.tsByDate]
+cbByDateMode.Items=qualsevol data.%0D%0Adesprés de:%0D%0Aabans de:%0D%0Aentre:%0D%0Afora de:%0D%0A
+Label1=C&ercar claus que estan
+Label2=i
+labelByDate=C&ercar claus que estan
+labelByDateAnd=i:
+labelByDateOSInfo=Aquest criteri de cerca està disponible només per a sistemes operatius Windows NT, Windows 2000 i Windows XP. Windows 9x i Me no suporten datas de claus de registre.
+
+[formSearch.pcSearch.tsCriteria]
+cbSearchStyle.Items=Cerca simple de subcadenes%0D%0ACerca amb màscares (*, ?)%0D%0ACerca booleana ( I -and- , O -or- , NO -not-)%0D%0A
+groupSearchDataTypes=Tipus de dades
+groupSearchFocus=Focus de la cerca
+groupSearchMisc=Altres opcions
+groupSearchRange=Abast de la cerca
+labelSearchFor=Cercar &per:
+labelSearchStyle=E&stil de cerca
+cbSearchStyle=Cerca simple de subcadenes
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeBinary=Dades &binaries
+cbDataTypeNumerics=&Numèrics
+cbDataTypeStrings=&Cadenes
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusData=&Dades
+cbFocusKeys=&Claus
+cbFocusValues=&Valors
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbHighSpeed=Cerca ràpida
+cbIgnoreCase=&Ignorar cas
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeComplete=&Tot el registre
+rbRangeKey=Única&ment aquesta clau
+
+[formSearch.pcSearch.tsReplace]
+groupReplaceMisc=Altres opcions
+labelReplaceLimitations=Si us plau, sel·leccioneu les entrades que s'haurien d'incloure en la substitució a la pestanya de resultats. La substitució només funcionarà per a noms de claus, valors i dades de tipus cadena.
+labelReplaceNew=Amb el text:
+labelReplaceSource=Reemplaçar això:
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignorar cas
+cbReplaceOverwrite=Sobreescriure
+cbReplaceOverwriteKeys=Sobreescriure les claus existents
+cbReplaceOverwriteValues=Sobreescriure els valors existents
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Clau%0D%0AValor%0D%0ADades%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000000000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD67FB67FB67FB67FB67FB67FB67FBFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFD67FB67FB67FB67FB67FB67FB67FBFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFD67FB67FB67FB67FB67FB67FB67FBFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFD67FB67FB67FB67FB67FB67FB67FBFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD%0D%0A
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000000000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD%0D%0A
+
+[Main]
+FontCharset=1
+FontName=MS Sans Serif
+FontSize=8
+HelpFile=Help\English.chm
+LanguageName=Català
+Use=Fer servir l'idioma català
+
+[Messages]
+BookmarkFolderAddCaption=Si us plau, entreu el nom de la nova carpeta
+BookmarkFolderAddTitle=Nou nom de carpeta
+BookmarkFolderDefaultName=Nova carpeta
+BookmarkFolderDeleteCaption=De debò voleu eliminar aquesta carpeta?
+BookmarkFolderRenameCaption=Si us plau, entreu un nom nou per la carpeta
+BookmarkFolderRenameTitle=Canviar el nom de la carpeta
+BookmarkItemAddCaption=Si us plau, entreu el nom del nou marcador
+BookmarkItemAddLocationCaption=Si us plau, entreu la ubicació on apuntarà el nou marcador
+BookmarkItemAddLocationTitle=Nova localització del marcador
+BookmarkItemAddTitle=Nou nom del marcador
+BookmarkItemDefaultName=Nou marcador
+BookmarkItemDeleteCaption=De debò voleu eliminar aquest marcador?
+BookmarkItemRenameCaption=Si us plau, entreu un nom nou pel marcador:
+BookmarkItemRenameTitle=Canviar el nom del marcador
+ConfirmCopyOverwrite=Ja existeix un valor amb aquest nom ("%%s") a la clau de destí. De debò voleu sobreescriure'l?
+ConfirmKeyDelete=De debò voleu eliminar aquesta clau ("%%%%s")?
+ConfirmValueDelete=De debò voleu eliminar aquest valor ("%%%%s")?
+DialogConfirmImport=De debò voleu importar aquest arxiu?
+DialogDataBinaryZero=(Dada binaria de longitud zero)
+DialogDataError=(Error mentre es llegien les dades)
+DialogDataNotDefined=(Dades no definides)
+DialogDataNotSupported=(Tipus de dada no suportada)
+DialogJumpToKeyCaption=Si us plau, entreu la clau on voleu anar:
+DialogJumpToKeyTitle=Anar a la clau
+DialogNewKeyCaption=Si us plau, entreu un nom per la nova clau:
+DialogNewKeyDefault=Nova clau
+DialogNewKeyTitle=Nova clau
+DialogNewValueBinaryCaption=Si us plau, entreu un nom pel nou valor binari
+DialogNewValueBinaryDefault=Nova dada binaria
+DialogNewValueBinaryTitle=Nova dada binaria
+DialogNewValueCaption=Si us plau, entreu un nom pel nou valor:
+DialogNewValueDefault=Nou valor
+DialogNewValueNumericCaption=Si us plau, entreu un nom pel nou valor numèric:
+DialogNewValueNumericDefault=Nou numèric
+DialogNewValueNumericTitle=Nou valor numèric
+DialogNewValueStringCaption=Si us plau, entreu un nom pel valor de la nova cadena:
+DialogNewValueStringDefault=Nova cadena
+DialogNewValueStringTitle=Nou valor de la cadena
+DialogNewValueTitle=Nou valor
+DialogRenameKeyCaption=Si us plau, entreu un nom nou per aquesta clau:
+DialogRenameKeyTitle=Canviar el nom de la clau ("%%s")
+DialogRenameValueCaption=Si us plau, entreu el nou nom per aquest valor:
+DialogRenameValueTitle=Canviar el nom del valor ("%%s")
+DialogSearchFinished=Ha finalitzat la cerca amb %%d resultats.
+DialogSearchFocusAll=Cercar en tot el registre.
+DialogSearchFocusLimited=Cerca limitada a %%s.
+DialogSearchHighSpeedStatus=Si us plau, sigueu pacients...
+DialogSearchReplaceStatus=S'ha reemplaçat %%s ocurrències.
+DialogSearchStatus=Cercant %%s
+DialogSearchStopped=S'ha aturat la cerca.
+DialogValueDefault=(Predeterminat)
+DragDropCopyStatus=Copiant valor(s) en %%s...
+DragDropKeyCopyStatus=Copiant clau %%s en %%s...
+DragDropKeyMoveStatus=Movent clau %%s en %%s...
+DragDropMoveStatus=Movent valor(s) a %%s...
+DragDropValueCopyStatus=Copiant valor(s) en %%s...
+DragDropValueMoveStatus=Movent valor(s) a %%s...
+DragDropWrongRootKeyWarning=No es poden moure claus entre diferents claus arrel (de moment)!
+MyComputer=El meu ordinador
+RemoteConnectCaption=Si us plau, entreu el nom de l'ordinador remot:
+RemoteConnectTitle=Connectar-se al Registre remot
+WarningComplicatedDataType=RegAlyzer pot afegir un valor d'aquest tipus, però únicament pot ser editat de forma binaria.%0D%0AUnes dades errònies podrien causar que Regedit de Windows es pengés.%0D%0A¿Quiere continuar?
+RemoteErrorAccessDenied=No teniu accés al recurs de xarxa.
+RemoteErrorAlreadyAssigned=Aquest dispositiu ja està connectat
+RemoteErrorBadDevice=El dispositiu especificat no és vàlid
+RemoteErrorBadNetName=El format del recurs de xarxa no és vàlid
+RemoteErrorBadProfile=El perfil d'usuari s'ha especificat en un format incorrecte.
+RemoteErrorBadProvider=L'adreça de xarxa no coincideix amb cap proveïdor de serveis de xarxa.
+RemoteErrorBusy=L'enrutador o el proveïdor estan col·lapsats. Si us plau, reintenteu-ho en uns segons.
+RemoteErrorInvalidPassword=La contrasenya que heu entrat no és vàlida en aquest recurs.
+RemoteErrorNoNetwork=La xarxa no està disponible.
+RemoteErrorNoNetOrBadPath=La xarxa no s'ha inicialitzat o l'adreça especificada no pot ser usada.
+
+[Dialogs]
+ButtonAll=Tot
+ButtonCancel=Cancel·la
+ButtonHelp=Ajuda
+ButtonIgnore=Ignora
+ButtonNoToAll=No a tot
+ButtonOK=d'Acord
+ButtonAbort=Abandona
+ButtonRetry=Reintentar
+ButtonYes=Sí
+ButtonYesToAll=Sí a tot
+DialogTitleConfirmation=Confirmació
+DialogTitleCustom=Personalitzat
+DialogTitleInformation=Informació
+DialogTitleWarning=Avís
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=No disponible en BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=No disponible en BartPE

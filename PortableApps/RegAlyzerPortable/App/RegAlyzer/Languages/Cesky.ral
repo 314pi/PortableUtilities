@@ -1,0 +1,393 @@
+[Dialogs]
+ButtonYes=Ano
+ButtonNo=Ne
+ButtonOK=OK
+ButtonCancel=Zrušit
+ButtonAbort=Pøerušit
+ButtonRetry=Znova
+ButtonIgnore=Ignorovat
+ButtonAll=Vše
+ButtonNoToAll=Ne všem
+ButtonYesToAll=Ano všem
+ButtonHelp=Nápovìda
+DialogTitleWarning=Varování
+DialogTitleError=Chyba
+DialogTitleInformation=Informace
+DialogTitleConfirmation=Potvrzení
+DialogTitleCustom=Vlastní
+
+[Messages]
+MyComputer=Tento poèítaè
+WarningComplicatedDataType=RegAlyzer mùe pøidat hodnotu tohoto typu, ale editovat pouze v binární podobì.%0D%0AŠpatné nastavení mùe zpùsobit nestabilitu Win-RegEditu.%0D%0AChcete pokraèovat?
+ConfirmValueDelete=Opravdu chete smazat tuto hodnotu ("%s")?
+ConfirmKeyDelete=Opravdu chcete smazat tento klíè ("%s")?
+DialogRenameValueTitle=Pøejmenovat hodnotu ("%s")
+DialogRenameValueCaption=Napište novı název pro tuto hodnotu:
+DialogRenameKeyTitle=Pøejmenovat klíè ("%s")
+DialogRenameKeyCaption=Napište novı název pro tento klíè:
+DialogNewKeyTitle=Novı klíè
+DialogNewKeyCaption=Napište název pro novı klíè:
+DialogNewValueTitle=Nová hodnota
+DialogNewValueCaption=Napište název pro novou hodnotu:
+DialogNewValueStringTitle=Nová øetìzcová hodnota
+DialogNewValueStringCaption=Napište název pro novou øetìzcovou hodnotu:
+DialogNewValueNumericTitle=Nová èíselná hodnota
+DialogNewValueNumericCaption=Napište název pro novou èíselnou hodnotu:
+DialogNewValueBinaryTitle=Nová binární hodnota
+DialogNewValueBinaryCaption=Napište název pro novou binární hodnotu:
+DialogJumpToKeyTitle=Pøejít na klíè
+DialogJumpToKeyCaption=Vlote klíè na kterı se má pøejít:
+DialogNewKeyDefault=Novı klíè
+DialogNewValueDefault=Nová hodnota
+DialogNewValueStringDefault=Novı øetìzec
+DialogNewValueNumericDefault=Nová èíselná hodn.
+DialogNewValueBinaryDefault=Nová binární hodn.
+DialogValueDefault=(Vıchozí)
+DialogDataNotDefined=(Data neurèena)
+DialogDataNotSupported=(Data nepodporována)
+DialogDataBinaryZero=(Binární data nulové velikosti)
+DialogDataError=(Chyba pøi ètení)
+DialogSearchStatus=Hledám %s
+DialogSearchFinished=Hledání dokonèeno s %d vısledky.
+DialogSearchStopped=Zastavil jste vyhledávání.
+DialogSearchFocusLimited=Vyhledávání omezeno na %s.
+DialogSearchFocusAll=Prohledat celı registr.
+DialogSearchHighSpeedStatus=Prosím èekejte...
+RemoteConnectTitle=Pøipojit k vzdálenému registru
+RemoteConnectCaption=Napište jméno vzdáleného poèítaèe:
+DialogConfirmImport=Opravdu chcete importovat tento soubor?
+BookmarkItemDefaultName=Nová záloka
+BookmarkItemAddTitle=Název nové záloky
+BookmarkItemAddCaption=Napište název pro novou záloku:
+BookmarkItemAddLocationTitle=Umístìní nové záloky
+BookmarkItemAddLocationCaption=Vlote cestu kam bude záloka odkazovat:
+BookmarkItemRenameTitle=Pøejmenovat záloku
+BookmarkItemRenameCaption=Napište nové jméno pro záloku:
+BookmarkItemDeleteCaption=Opravdu chcete smazat tuto záloku?
+BookmarkFolderDefaultName=Nová sloka
+BookmarkFolderAddTitle=Název nové sloky
+BookmarkFolderAddCaption=Napište název pro novou sloku:
+BookmarkFolderRenameTitle=Pøejmenovat sloku
+BookmarkFolderRenameCaption=Napište novı název pro sloku:
+BookmarkFolderDeleteCaption=Opravdu chcete smazat tuto sloku?
+DialogSearchReplaceStatus=%s vıskytù bylo nahrazeno.
+ConfirmCopyOverwrite=Hodnota tohoto názvu ("%s") ji existuje v cílovém klíèi. Chcete ji pøepsat?
+DragDropMoveStatus=Pøesouvám hodnoty do %%s...
+DragDropCopyStatus=Kopíruji hodnoty do %%s...
+DragDropValueMoveStatus=Pøesouvám hodnoty do %s...
+DragDropValueCopyStatus=Kopíruji hodnoty do %s...
+DragDropKeyMoveStatus=Pøesouvám klíè %s do %s...
+DragDropKeyCopyStatus=Koíruji klíè %s do %s...
+DragDropWrongRootKeyWarning=Nemùete pøesouvat mezi koøenovımi klíèi!
+RemoteErrorAccessDenied=Nemáte pøístup k síovému zdroji.
+RemoteErrorAlreadyAssigned=Zaøízení je ji pøipojené.
+RemoteErrorBadDevice=Uvedené zaøízení je neplatné.
+RemoteErrorBadNetName=Formát síového zdroje je neplatnı.
+RemoteErrorBadProfile=Uivatelskı profil byl uveden v nesprávném formátu.
+RemoteErrorBadProvider=Zadaná adresa neodpovídá ádnému síovému dodavateli.
+RemoteErrorBusy=Router nebo dodavatel je pøetíen. Zkuste to znova za pár sekund.
+RemoteErrorInvalidPassword=Zadané heslo je neplatné pro tento zdroj.
+RemoteErrorNoNetOrBadPath=Síové spojení nemohlo bıt navázáno, nebo je uvedená adresa neplatná
+RemoteErrorNoNetwork=Sí je nedopstupná.
+DialogHivesLoaded=%d hromady registrù byli nalezeny a uloeny do HKEY_LOCAL_MACHINE\PE_* a/nebo do HKEY_USERS\PE_*. Budou odstranìny po ukonèení programu.
+
+[Main]
+LanguageName=Èesky
+Use=Pouít èeskı jazyk
+HelpFile=Help\English.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Zmìnit øetìzcová data
+formEditInteger=Zmìnit èíselná data
+formEditMultiString=Zmìnit víceøetìzcovou hodnotu
+formSearch=Hledat
+formBookmarks=Záloky
+formAbout=Info
+formEditResourceRequirementsList=Zobrazit seznam poadavkù zdroje
+formRegalyzer=RegAlyzer
+formRemoteConnect=Pøipojit k vzdálenému registru
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Data
+tsInfo=Tajné informace
+tsDatabaseInfo=Info-databáze
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Název%0D%0ATyp%0D%0AHodnota%0D%0AVelikost%0D%0A
+lvHexDump.Items=Poz.%0D%0AVıpis%0D%0AText%0D%0A
+
+[formMain.alMain]
+aKeyDelete=&Smazat klíè
+aKeyAdd=&Novı klíè...
+aKeyRename=&Pøejmenovat klíè...
+aValueDelete=&Smazat hodnotu
+aValueRename=&Pøejmenovat hodnotu...
+aValueChange=&Zmìnit hodnotu...
+aKeyCopyPath=Zkopírovat název klíèe do schránky
+aSearch=&Hledat...
+aKeyRefresh=&Obnovit
+aKeyJump=Pøejít na klíè...
+aValueAdd=Novı
+aValueAddString=Øetìzec
+aValueAddExpandString=Øetìzec (s rezervovanım místem)
+aValueAddMultiString=Øetìzec (více-øádkovı)
+aValueAddInteger=Èíselná hodnota (32 bit)
+aValueAddLEInteger=Èíselná hodnota (32 bit, malı indián)
+aValueAddBEInteger=Èíselná hodnota (32 bit, velkı indián)
+aValueAddBinary=Binární data
+aSecurityInformationExportToFile=Expotrovat tajné informace do souboru...
+aSecurityInformationExportToClipboard=Kopírovat tajné informace do schránky
+aFileExit=U&konèit
+aValueAddInt64=Èíselná hodnota (64 bit)
+aValueAddLEInt64=Èíselná hodnota (64 bit, malı indián)
+aBookmarksManage=&Správce záloek
+aFileOpenReg=&Otevøít soubor registru...
+aKeyExport=&Exportovat...
+aFileConnectReg=Pøipojit ke &vzdálenému registru...
+aKeyImport=&Importovat...
+aKeyAddBookmark=Pøidat do záloek...
+aAbout=O programu...
+aValueAddLink=Odkaz
+aKeyBack=Zpìt
+aKeyForward=Další
+aValueAddResourceList=Seznam zdrojù
+aValueAddFullResourceDescriptor=Zdrojovı øetìzec
+aValueAddResourceRequirementsList=Seznam zdrojovıch poadavkù
+aInfoDBRefreshEntry=Obnovit
+aInfoDBStoreEntry=Uloit
+aInfoDBSaveKeyInfo=Uloit info o klíèi
+aInfoDBSaveValueInfo=Uloit info o hodnotì
+aHelpContents=Obsah nápovìdy
+aHelpIndex=Rejstøík
+aMenuHelp=Nápovìda
+aValueAddNone=Nic (prázdnı)
+aValueSelectAll=Vybrat vše
+aSecurityInformationGrantAll=Pøidìlit všechna práva tomuto klíèi a jeho obsahu
+
+[formMain.menuMain]
+miFile=&Soubor
+miEdit=&Úpravy
+miBookmarks=&Záloky
+miLanguages=&Jazyky
+miHelp=&Nápovìda
+
+[formEditString]
+labelValue=Název hodnoty:
+labelData=Data hodnoty:
+bnOK=OK
+bnCancel=Zrušit
+
+[formEditInteger]
+labelDataDecimal=Data honoty (desetinné):
+labelValue=Název hodnoty:
+labelDataHex=Data hodnoty (HEX):
+labelDataBinary=Data hodnoty (binární):
+bnCancel=Zrušit
+bnOK=OK
+
+[formEditMultiString]
+labelValue=Název hodnoty:
+labelData=Data hodnoty:
+bnCancel=Zrušit
+bnOK=OK
+
+[formSearch]
+bnCancel=Zrušit
+bnSearch=Hledat
+bnStop=Zastavit
+
+[formSearch.pcSearch]
+tsCriteria=Vyhledávací kritéria
+tsResults=Vısledky
+tsByDate=... podle data
+tsReplace=Nahradit
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=Hledat:
+groupSearchFocus=Støed vyhledávání
+groupSearchRange=Rozsah vyhledávání
+groupSearchMisc=Rozšíøené nastavení
+groupSearchDataTypes=Data typu
+labelSearchStyle=Vyhledávat styl:
+cbSearchStyle.Items=Jednoduché pod-øetìzcové hledání%0D%0AHledat podle pøípon (*, ?)%0D%0ABooleovské hledání (A, NEBO, NE)%0D%0APøesné vırazy%0D%0A
+cbSearchStyle=Jednoduché pod-øetìzcové hledání
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=&Klíèe
+cbFocusValues=&Hodnoty
+cbFocusData=&Data
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=Pouze tento &klíè
+rbRangeComplete=&Celı registr
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Ignorovat VeLiKoSt
+cbHighSpeed=Rychlé hledání
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=&Øetìzce
+cbDataTypeNumerics=&Èísla
+cbDataTypeBinary=&Binární data
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Klíè%0D%0AHodnota%0D%0AData%0D%0A
+
+[formBookmarks]
+bnOK=OK
+bnCancel=Zrušit
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Pøidat záloku...
+aBookmarkRename=Pøejmenovat záloku...
+aBookmarkDelete=Smazat záloku
+aFolderRename=Pøejmenovat sloku...
+aFolderDelete=Smazat sloku
+aSortOneLevel=Seøadit podle
+aSortRecursive=Seøadit rekurzivnì
+aFolderExportOneLevel=Exportovat jednu vrstvu
+aFolderExportRecursive=Exportovat rekurzivnì
+
+[formAbout]
+Label1=Copyright  2000-2007 Safer-Networking Limited. Všechna práva vyhrazena.
+bnOK=OK
+memoCredits=Titulky: %0D%0ADavid Watzke (czech translation)%0D%0AEnrico Maria Biancarelli (suggestions, italian translation)%0D%0AAndrey V. Sorokin (code for regular expressions)%0D%0AHevesi J?s (magyar translation)%0D%0AQuan Qi Tang (chinese simplified translation)%0D%0Aliwk (chinese traditional translation)%0D%0AnickW (french translation)%0D%0ADavid (spanish translation)%0D%0A
+labelCopyright=Copyright  2000-2005 Patrick M. Kolla / Safer Networking Ltd.
+labelCopyright2=Všechna práva vyhrazena.
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Typ rozhraní:
+labelBusNumber=Èíslo sbìrnice:
+labelSlotNumber=Èíslo slotu:
+bnCancel=Zrušit
+bnOK=OK
+lvList.Items=Typ%0D%0AMinimální adresa%0D%0AMaximální adresa%0D%0ADélka%0D%0ASeøadit%0D%0ANastavení%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFCF9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFCFCF9F9F9F9F9F9F9F9F9F9F9F9FDFDFCFCFCF9F9F9F9F9F9F9F9F9F9F9FDFDFCFCFCFCF9F9F9F9F9F9F9F9F9F9FDFDFCFCFCFCFCF9F9F9F9F9F9F9F9F9FDFDFCFCFCFCFCFCF9F9F9F9F9F9F9F9FDFDFCFCFCFCFCFCFFFFFFFFFFFFFFFFFDFDFCFCFCFCFCFFFFFFFFFFFFFFFFFFFDFDFCFCFCFCFFFFFFFFFFFFFFFFFFFFFDFDFCFCFCFFFFFFFFFFFFFFFFFFFFFFFDFDFCFCFFFFFFFFFFFFFFFFFFFFFFFFFDFDFCFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+
+[formSearch.pcSearch.tsByDate]
+Label1=Hledat &klíèe které jsou
+Label2=a
+cbByDateMode.Items=z data:%0D%0Anovìjší ne:%0D%0Astarší ne:%0D%0Amezi:%0D%0Amimo z:%0D%0A
+labelByDate=Hledat &klíèe které jsou
+labelByDateAnd=a:
+labelByDateOSInfo=Tyto vyhledávací kritéria jsou dostupná pouze pro systémy Win NT, 2000 a XP. Win 9x a ME nepodporují data vytvoøení klíèù.
+dtDate1=14.8.2003
+dtTime1=14.8.2003
+dtTime2=14.8.2003
+dtDate2=14.8.2003
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Data
+tsInfo=Tajné informace
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Název%0D%0ATyp%0D%0AHodnota%0D%0AVelikost%0D%0A
+lvHexDump.Items=Poz.%0D%0ADump%0D%0AText%0D%0A
+
+[formRegalyzer.alMain]
+aKeyDelete=&Smazat klíè
+aKeyAdd=&Novı klíè...
+aKeyRename=&Pøejmenovat klíè...
+aValueDelete=&Smazat hodnotu
+aValueRename=&Pøejmenovat hodnotu...
+aValueChange=&Zmìnit data...
+aKeyCopyPath=Zkopírovat název klíèe do schránky
+aSearch=&Hledat...
+aKeyRefresh=&Obnovit
+aKeyJump=Pøejít na klíè...
+aValueAdd=Novı
+aValueAddString=Øetìzec
+aValueAddExpandString=Øetìzec (s rezervovanım místem)
+aValueAddMultiString=Øetìzec (více-øádkovı)
+aValueAddInteger=Èíselná hodnota (32 bit)
+aValueAddLEInteger=Èíselná hodnota (32 bit, malı indián)
+aValueAddBEInteger=Èíselná hodnota (32 bit, velkı indián)
+aValueAddBinary=Binání data
+aSecurityInformationExportToFile=Exportovat tajné informace do souboru...
+aSecurityInformationExportToClipboard=Kopírovat tajné informace do schránky
+aFileExit=U&konèit
+aValueAddInt64=Èíselná hodnota (64 bit)
+aValueAddLEInt64=Èíselná hodnota (64 bit, little endian)
+aBookmarksManage=&Správce záloek
+aFileOpenReg=&Otevøít soubor registru...
+aKeyExport=&Exportovat...
+aFileConnectReg=Pøipojit ke &vzdálenému registru...
+aKeyImport=&Importovat...
+aKeyAddBookmark=Pøidat do záloek...
+aAbout=O programu...
+aValueAddLink=Odkaz
+aKeyBack=Zpìt
+aKeyForward=Další
+aValueAddResourceList=Seznam zdrojù
+aValueAddFullResourceDescriptor=Zdrojovı øetìzec
+aValueAddResourceRequirementsList=Seznam zdrojovıch poadavkù
+
+[formRegalyzer.menuMain]
+miFile=&Soubor
+miEdit=&Úpravy
+miBookmarks=&Záloky
+miLanguages=&Jazyky
+miHelp=&Nápovìda
+
+[formSearch.alSearch]
+aSearchResultsExport=Exportovat...
+aSearchResultsExportAll=&Exportovat vše...
+aSearchResultsExportSelected=Export pouze &vybrané...
+aSearchResultsSelectAll=&Oznaèit vše
+aSearchResultsDeSelectAll=&Odznaèit vše
+aSearchResultsSelectKeys=Oznaèit klíèové vısledky
+aSearchResultsDeSelectKeys=Odznaèit klíèové vısledky
+aSearchResultsSelectValues=Oznaèit hodnotové vısledky
+aSearchResultsDeSelectValues=Odznaèit hodnotové vısledky
+aSearchResultsSelectData=Oznaèit datové vısledky
+aSearchResultsDeSelectData=Odznaèit datové vısledky
+aSearchResultsExportKeyContents=Volba: Exportování obsahu klíèovıch vısledkù
+aReplace=&Nahradit
+aSearchStart=Hledat
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Info o klíèi:
+labelInfoDBValue=Info o hodnotì:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRemoteConnect]
+labelNamePrompt=Napište název vzdáleného poèítaèe:
+bnOK=OK
+bnCancel=Zrušit
+bnSearch=&Hledat
+labelRemoteInfo=Poznámka: Pøipojování k vzdálenému registru bude fungovat pouze kdy na vzdáleném poèítaèi bude systém: Win NT, 2000, XP, nebo ME a pokud bude sluba na vzdáleném poèítaèi povolena
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Prosím zvolte vstupy, které budou  které budou v nahrazení v záloce s vısledky. Nahrazení bude fungovat pouze pro názvy klíèù a hodnot a øetìzcová data.
+labelReplaceSource=Pøepsat toto:
+labelReplaceNew=tímto textem:
+groupReplaceMisc=Rozšíøené nastavení
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignorovat VeLiKoSt
+cbReplaceOverwrite=Pøepsat existující
+cbReplaceOverwriteValues=Pøepsat existující hodnoty
+cbReplaceOverwriteKeys=Pøepsat existující klíèe
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Nedostupné v BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Nedostupné v BartPE
+E
+

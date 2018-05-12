@@ -1,0 +1,9 @@
+[Info]
+Title=ACDSee
+Description=Erase ACDSee's Last Open Folder and Favorites
+
+
+[registry]
+HKEY_CURRENT_USER|Software\ACD Systems\ACDSee|Favorites
+HKEY_CURRENT_USER|Software\ACD Systems\ACDSee|LastFolder
+HKEY_CURRENT_USER|Software\ACD Systems\ACDSee|Openfolder

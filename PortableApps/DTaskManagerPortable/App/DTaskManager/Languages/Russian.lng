@@ -1,0 +1,228 @@
+1 File
+2 Файл
+1 New task (Run...)
+2 Новый процесс (Выполнить...)
+1 New task (Run as user...)
+2 Новый процесс (Запустить от имени...)
+1 Exit
+2 Выход
+1 Options
+2 Настройки
+1 Set default Task Manager
+2 Диспетчер задач Windows
+1 Windows TaskManager
+2 Диспетчер задач Windows
+1 Start in Separate Desktop (requires restart)
+2 Запускать в отдельном окне (требуется перезагрузка)
+1 Show all windows
+2 Показать все окна
+1 Select columns...
+2 Выбрать столбцы...
+1 Graphical CPU usage
+2 График использования ЦП
+1 Graphical MEM usage
+2 График использования памяти
+1 Hide loopback IP 
+2 Скрывать вирт.интерфейс
+1 Resolve IP addresses and port services
+2 Преобразовывать IP адреса и порты
+1 Show bytes exchanged (requires fast pc)
+2 Отображать обмен данными (нужен быстрый ПК)
+1 Save on exit
+2 Сохранять при выходе
+1 View
+2 Вид
+1 Always on top
+2 Поверх остальных окон
+1 Transparent window
+2 Прозрачное окно
+1 Show in traybar
+2 Значок в области уведомлений
+1 CPU Usage
+2 ЦП
+1 Mem usage
+2 Память
+1 Numeric tray bar
+2 Цифровой значок
+1 Shutdown
+2 Завершение работы
+1 Lock workstation
+2 Блокировка ПК
+1 Suspend to RAM
+2 Ждущий режим
+1 Logoff
+2 Завершить сеанс 
+1 Reboot 
+2 Перезагрузить
+1 Shutdown
+2 Выключить
+1 Shutdown force
+2 Принудительное выкл.
+1 Shutdown force (hard)
+2 Принудит.выкл (услиленн.)
+1 Tools
+2 Инструменты
+1 Auto manage priority of processes
+2 Автоуправление приоритетами процессов
+1 Sound advise for variation of CPU usage
+2 Звуковое уведомление при изменении использ.ЦП
+1 Enable hotkeys (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12)
+2 Разрешить горячие клавиши (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12) 
+1 About
+2 О программе
+1 Support with donation...
+2 Сделать пожертвование...
+1 About Dtaskmanager
+2 О программе Dtaskmanager
+1 Applications
+2 Программы
+1 Freeze
+2 Заморозить
+1 End Task
+2 Завершить
+1 Go to process
+2 К процессу
+1 Switch to
+2 Переключиться
+1 New Task
+2 Выполнить...
+1 Processes
+2 Процессы
+1 Suspend task
+2 Приостановить
+1 Resume task
+2 Возобновить
+1 Find target file
+2 Файл на диске
+1 Kill Task
+2 Прервать
+1 Kill Task Override
+2 Принудительно завершить
+1 Performance
+2 Призводит.
+1 CPU usage history
+2 График использования ЦП
+1 Memory usage history
+2 График использования памяти
+1 System details
+2 Система
+1 Handles
+2 Дескрипт.
+1 Threads
+2 Потоки
+1 CPU
+2 ЦП
+1 Memory usage
+2 Использование памяти
+1 Total
+2 Всего
+1 Physical
+2 Физическ.
+1 Physical Memory
+2 Физическая память
+1 Installed
+2 Всего
+1 Available
+2 Доступно
+1 System cache
+2 Системн.кэш
+1 Commit charge memory
+2 Вирт.память
+1 Current
+2 Сейчас
+1 Limit
+2 Лимит
+1 Kernel memory
+2 Память ядра
+1 Paged
+2 Выгружаемая
+1 Nonpaged
+2 Невыгружаемая
+1 Pagefile
+2 Файл подкачки
+1 Size
+2 Размер
+1 Usage
+2 Использование
+1 Peak
+2 Пик
+1 Ports
+2 Порты
+1 Networking
+2 Сеть
+1 Bandwidth
+2 Нагрузка
+1 Bandwith history
+2 История нагрузки
+1 Details
+2 Детали
+1 PC name
+2 Имя ПК
+1 IP address
+2 IP адрес
+1 SubNet Mask
+2 Маска
+1 MAC Address
+2 MAC адрес
+1 User Modules
+2 Модули приложений
+1 View by modules
+2 Просмотр по модулям
+1 Kernel Modules
+2 Модули ядра
+1 Show Bytes
+2 В байтах
+1 Find target file...
+2 Найти файл на диске...
+1 Set Priority
+2 Приоритет
+1 Realtime
+2 Реального времени
+1 High
+2 Высокий
+1 Above Normal
+2 Выше среднего
+1 Normal
+2 Средний
+1 Below Normal
+2 Ниже среднего
+1 Low
+2 Низкий
+1 Low To All Processes
+2 Низкий для всех процессов
+1 Set Affinity...
+2 Выбор ЦП/ядра ...
+1 Trim RAM Usage
+2 Ограничить память процессу
+1 Trim RAM to all processes
+2 Ограничить память всем
+1 Reveal All Windows
+2 На передний план
+1 Suspend
+2 Приостановить
+1 Resume
+2 Возобновить
+1 End Process
+2 Завершить процесс
+1 End Process Tree
+2 Завершить дерево процессов
+1 Quit Process
+2 Нормальное завершение процесса
+1 Quit Process Tree
+2 Нормальное завершение дерева процессов
+1 Kill Process
+2 Прервать процесс
+1 Kill Process Tree
+2 Прервать дерево процессов
+1 Kill Process Override
+2 Прервать процесс (усиленно)
+1 Kill Process Tree Override
+2 Прервать дерево процессов (усиленно) 
+1 Kill Task (Override)
+2 Завершить (принудительно)
+1 Show Window
+2 Показать окно
+1 Hide Window
+2 Скрыть окно
+1 Close Connection
+2 Закрыть соединение 

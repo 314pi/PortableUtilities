@@ -1,0 +1,494 @@
+[Dialogs]
+ButtonYes=Yes
+ButtonNo=No
+ButtonOK=OK
+ButtonCancel=Cancel
+ButtonAbort=Abort
+ButtonRetry=Retry
+ButtonIgnore=Ignore
+ButtonAll=All
+ButtonNoToAll=No to all
+ButtonYesToAll=Yes to all
+ButtonHelp=Help
+DialogTitleWarning=Warning
+DialogTitleError=Error
+DialogTitleInformation=Information
+DialogTitleConfirmation=Confirmation
+DialogTitleCustom=Custom
+
+[Messages]
+MyComputer=My Computer
+WarningComplicatedDataType=RegAlyzer can add a value of this type, but can only edit it in binary form.%0D%0ABad data can cause Windows Regedit to hang.%0D%0ADo you want to continue?
+ConfirmValueDelete=Do you really want to delete this value ("%s")?
+ConfirmKeyDelete=Do you really want to delete this key ("%s")?
+DialogRenameValueTitle=Rename value ("%s")
+DialogRenameValueCaption=Please enter the new name for this value:
+DialogRenameKeyTitle=Rename key ("%s")
+DialogRenameKeyCaption=Please enter the new name for this key:
+DialogNewKeyTitle=New key
+DialogNewKeyCaption=Please enter a name for the new key:
+DialogNewValueTitle=New value
+DialogNewValueCaption=Please enter a name for the new value:
+DialogNewValueStringTitle=New string value
+DialogNewValueStringCaption=Please enter a name for the new string value:
+DialogNewValueNumericTitle=New numeric value
+DialogNewValueNumericCaption=Please enter a name for the new numeric value:
+DialogNewValueBinaryTitle=New binary value
+DialogNewValueBinaryCaption=Please enter a name for the new binary value:
+DialogJumpToKeyTitle=Jump to key
+DialogJumpToKeyCaption=Please enter key to go to:
+DialogNewKeyDefault=New key
+DialogNewValueDefault=New value
+DialogNewValueStringDefault=New string
+DialogNewValueNumericDefault=New numeric
+DialogNewValueBinaryDefault=New binary data
+DialogValueDefault=(Default)
+DialogDataNotDefined=(Data not defined)
+DialogDataNotSupported=(Data type not supported)
+DialogDataBinaryZero=(Binary data of zero length)
+DialogDataError=(Error reading data)
+DialogSearchStatus=Searching %s
+DialogSearchFinished=Search has finished with %d results.
+DialogSearchStopped=You have stopped the search.
+DialogSearchFocusLimited=Search limited to %s.
+DialogSearchFocusAll=Search complete registry.
+DialogSearchHighSpeedStatus=Please be patient...
+RemoteConnectTitle=Connect to remote registry
+RemoteConnectCaption=Please enter name of remote computer:
+DialogConfirmImport=Do you really want to import this file?
+BookmarkItemDefaultName=New bookmark
+BookmarkItemAddTitle=New bookmark name
+BookmarkItemAddCaption=Please enter the name for the new bookmark:
+BookmarkItemAddLocationTitle=New bookmark location
+BookmarkItemAddLocationCaption=Please enter the location the new bookmark will point to:
+BookmarkItemRenameTitle=Rename bookmark
+BookmarkItemRenameCaption=Please enter the new name for the bookmark:
+BookmarkItemDeleteCaption=Do you really want to delete this bookmark?
+BookmarkFolderDefaultName=New folder
+BookmarkFolderAddTitle=New folder name
+BookmarkFolderAddCaption=Please enter the name for the new folder:
+BookmarkFolderRenameTitle=Rename folder
+BookmarkFolderRenameCaption=Please enter the new name for the folder:
+BookmarkFolderDeleteCaption=Do you really want to delete this folder?
+DialogSearchReplaceStatus=%s occurences have been replaced.
+ConfirmCopyOverwrite=A value of that name ("%s") already exists in your destination key. Do you really want to overwrite it?
+DragDropMoveStatus=Moving value(s) to %%s...
+DragDropCopyStatus=Copying value(s) to %%s...
+DragDropValueMoveStatus=Moving value(s) to %s...
+DragDropValueCopyStatus=Copying value(s) to %s...
+DragDropKeyMoveStatus=Moving key %s into %s...
+DragDropKeyCopyStatus=Copying key %s into %s...
+DragDropWrongRootKeyWarning=You cannot move keys between different root keys (yet)!
+RemoteErrorAccessDenied=You do not have access to the network resource.
+RemoteErrorAlreadyAssigned=That device is already connected.
+RemoteErrorBadDevice=The specified device is invalid.
+RemoteErrorBadNetName=The format of the network resource is invalid.
+RemoteErrorBadProfile=The user profile was specified in an incorrect format.
+RemoteErrorBadProvider=Your network address does not match any network provider.
+RemoteErrorBusy=The router or provider is busy. Please retry in a few seconds.
+RemoteErrorInvalidPassword=The password you entered is invalid for this resource.
+RemoteErrorNoNetOrBadPath=The network has not been not started or the specified address cannot be used.
+RemoteErrorNoNetwork=The network is unavailable.
+DialogHivesLoaded=%d registry hives have been found and loaded into HKEY_LOCAL_MACHINE\PE_* and/or HKEY_USERS\PE_*. They will be unloaded again on program exit.
+
+[Main]
+LanguageName=English
+Use=Use english language
+HelpFile=Help\English.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Change string data
+formEditInteger=Change numeric data
+formEditMultiString=Change multi-string value
+formSearch=Search
+formBookmarks=Bookmarks
+formAbout=Info
+formEditResourceRequirementsList=Display Resource Requirements List
+formRegalyzer=RegAlyzer
+formRemoteConnect=Connect to remote registry
+formImportProgress=Importing registry file...
+formValueType=Change registry value type
+formUserLogon=Additional User Logon
+formOpenCustomHive=Load custom hive
+formOpenSBIValue=Create OpenSBI for registry value
+formHistory=Change History
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Data
+tsInfo=Security information
+tsDatabaseInfo=Info database
+tsChangeLogs=Change logs
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Name%0D%0AType%0D%0AValue%0D%0ASize%0D%0ARegistry Value%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formMain.alMain]
+aKeyDelete=&Delete key
+aKeyAdd=&New key...
+aKeyRename=&Rename key...
+aValueDelete=&Delete value
+aValueRename=&Rename value...
+aValueChange=&Change data...
+aKeyCopyPath=Copy key name to clipboard
+aSearch=&Search...
+aKeyRefresh=&Refresh
+aKeyJump=Jump to key...
+aValueAdd=New
+aValueAddString=String
+aValueAddExpandString=String (with placeholders)
+aValueAddMultiString=String (multi-line)
+aValueAddInteger=Numeric value (32 bit)
+aValueAddLEInteger=Numeric value (32 bit, little endian)
+aValueAddBEInteger=Numeric value (32 bit, big endian)
+aValueAddBinary=Binary data
+aSecurityInformationExportToFile=Export security information to file...
+aSecurityInformationExportToClipboard=Copy security information to clipboard
+aFileExit=E&xit
+aValueAddInt64=Numeric value (64 bit)
+aValueAddLEInt64=Numeric value (64 bit, little endian)
+aBookmarksManage=&Manage bookmarks
+aFileOpenReg=&Open registry file...
+aKeyExport=&Export...
+aFileConnectReg=Connect to &remote registry...
+aKeyImport=&Import...
+aKeyAddBookmark=Add to bookmarks...
+aAbout=About...
+aValueAddLink=Link
+aKeyBack=Back
+aKeyForward=Forward
+aValueAddResourceList=Resource List
+aValueAddFullResourceDescriptor=Full Resource Descriptor
+aValueAddResourceRequirementsList=Resource Requirements List
+aInfoDBRefreshEntry=Refresh
+aInfoDBStoreEntry=Store
+aInfoDBSaveKeyInfo=Save key info
+aInfoDBSaveValueInfo=Save value info
+aHelpContents=Contents
+aHelpIndex=Index
+aMenuHelp=Help
+aValueAddNone=None (empty type)
+aValueSelectAll=Select all
+aSecurityInformationGrantAll=Grant all rights to everyone on this key
+aFileDiffOpenReg=Open registry file (&difference only)...
+aKeyJumpToHKCRCLSID=Jump to CLSID in HKCR
+aValueJumpToHKCRCLSID=Jump to CLSID in HKCR
+aValueChangeType=Change type
+aChangeLogRedoSave=Save
+aChangeLogRedoApply=Apply
+aChangeLogUndoSave=Save
+aChangeLogUndoApply=Apply
+aFileLogonUser=Open user registry (logon)...
+aFileOpenHive=Load hive file...
+aValueCreateRule=Copy OpenSBI rule to clipboard
+aKeyCreateRule=Copy OpenSBI rule to clipboard
+aShowHistory=Show history...
+
+[formMain.menuMain]
+miFile=&File
+miEdit=&Edit
+miBookmarks=&Bookmarks
+miLanguages=&Languages
+miHelp=&?
+
+[formEditString]
+labelValue=Name of value:
+labelData=Value data:
+bnOK=OK
+bnCancel=Cancel
+groupValue=Registry Value
+
+[formEditInteger]
+labelDataDecimal=Value data (decimal):
+labelValue=Name of value:
+labelDataHex=Value data (hex):
+labelDataBinary=Value data (binary):
+bnCancel=Cancel
+bnOK=OK
+
+[formEditMultiString]
+labelValue=Name of value:
+labelData=Value data:
+bnCancel=Cancel
+bnOK=OK
+
+[formSearch]
+bnCancel=Cancel
+bnSearch=Search
+bnStop=Stop
+
+[formSearch.pcSearch]
+tsCriteria=Search criteria
+tsResults=Results
+tsByDate=... by date
+tsReplace=Replace
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=Search &for:
+groupSearchFocus=Search focus
+groupSearchRange=Search range
+groupSearchMisc=Miscellaneous options
+groupSearchDataTypes=Data types
+labelSearchStyle=Search &style:
+cbSearchStyle.Items=Simple substring search%0D%0AWildcard search (*, ?)%0D%0ABoolean search (AND, OR, NOT)%0D%0ARegular expressions%0D%0A
+cbSearchStyle=Simple substring search
+cbHex=Hex
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=&Keys
+cbFocusValues=&Values
+cbFocusData=&Data
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=This key &only
+rbRangeComplete=&Whole registry
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Ignore case
+cbHighSpeed=High speed search
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=&Strings
+cbDataTypeNumerics=&Numerics
+cbDataTypeBinary=&Binary data
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Key%0D%0AValue%0D%0AData%0D%0A
+
+[formBookmarks]
+bnOK=OK
+bnCancel=Cancel
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Add bookmark...
+aBookmarkRename=Rename bookmark...
+aBookmarkDelete=Delete bookmark
+aFolderAdd=Add folder...
+aFolderRename=Rename folder...
+aFolderDelete=Delete folder
+aSortOneLevel=Sort one level
+aSortRecursive=Sort recursive
+aFolderExportOneLevel=Export one level
+aFolderExportRecursive=Export recursive
+
+[formAbout]
+Label1=Copyright © 2000-2007 Safer-Networking Limited. All rights reserved.
+bnOK=OK
+memoCredits=Credits go to: %0D%0AEnrico Maria Biancarelli (suggestions, italian translation)%0D%0AAndrey V. Sorokin (code for regular expressions)%0D%0AHevesi János (magyar translation)%0D%0AQuan Qi Tang (chinese simplified translation)%0D%0Aliwk (chinese traditional translation)%0D%0AnickW (french translation)%0D%0ADavid (spanish translation)%0D%0ANelson A. H. de Carvalho (brazil translation)%0D%0APep Isern (catalan translation)%0D%0AKristian Christensen (dansk translation)%0D%0AHeppocrates Giakoumis (hellenic translation)%0D%0ABartosz Czerwinski (polski translation)%0D%0A
+labelCopyright=Copyright © 2000-2007 Safer Networking Ltd.
+labelCopyright2=All rights reserved.
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Interface type:
+labelBusNumber=Bus number:
+labelSlotNumber=Slot number:
+bnCancel=Cancel
+bnOK=OK
+lvList.Items=Type%0D%0AMinimum Address%0D%0AMaximum Address%0D%0ALength%0D%0AAlign%0D%0AOptions%0D%0A
+
+[Images]
+Flag16=424DF60000000000000076000000280000001000000010000000010004000000000080000000000000000000000010000000000000000000000000008000008000000080800080000000800080008080000080808000C0C0C0000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD88888899888888DD8FFFFF99FFFFF8DD8FFFFF99FFFFF8DD8FFFFF99FFFFF8DD8FFFFF99FFFFF8DD99999999999999DD99999999999999DD8FFFFF99FFFFF8DD8FFFFF99FFFFF8DD8FFFFF99FFFFF8DD8FFFFF99FFFFF8DD88888899888888DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+Flag32=424D760200000000000076000000280000002000000020000000010004000000000000020000000000000000000010000000000000000000000000008000008000000080800080000000800080008080000080808000C0C0C0000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD8888888888999988888888888888DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD9999999999999999999999999999DDDD9999999999999999999999999999DDDD9999999999999999999999999999DDDD9999999999999999999999999999DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8888888888999988888888888888DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+
+[formSearch.pcSearch.tsByDate]
+Label1=Search &for keys that are
+Label2=and
+cbByDateMode.Items=of any date.%0D%0Anewer than:%0D%0Aolder than:%0D%0Abetween:%0D%0Aoutside of:%0D%0A
+labelByDate=Search &for keys that are
+labelByDateAnd=and:
+labelByDateOSInfo=This search criterion is only available on Windows NT, Windows 2000 and Windows XP systems. Windows 9x and Windows ME do not support registry key dates.
+dtDate1=8/14/2003
+dtTime1=8/14/2003
+dtTime2=8/14/2003
+dtDate2=8/14/2003
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Data
+tsInfo=Security information
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Name%0D%0AType%0D%0AValue%0D%0ASize%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formRegalyzer.alMain]
+aKeyDelete=&Delete key
+aKeyAdd=&New key...
+aKeyRename=&Rename key...
+aValueDelete=&Delete value
+aValueRename=&Rename value...
+aValueChange=&Change data...
+aKeyCopyPath=Copy key name to clipboard
+aSearch=&Search...
+aKeyRefresh=&Refresh
+aKeyJump=Jump to key...
+aValueAdd=New
+aValueAddString=String
+aValueAddExpandString=String (with placeholders)
+aValueAddMultiString=String (multi-line)
+aValueAddInteger=Numeric value (32 bit)
+aValueAddLEInteger=Numeric value (32 bit, little endian)
+aValueAddBEInteger=Numeric value (32 bit, big endian)
+aValueAddBinary=Binary data
+aSecurityInformationExportToFile=Export security information to file...
+aSecurityInformationExportToClipboard=Copy security information to clipboard
+aFileExit=E&xit
+aValueAddInt64=Numeric value (64 bit)
+aValueAddLEInt64=Numeric value (64 bit, little endian)
+aBookmarksManage=&Manage bookmarks
+aFileOpenReg=&Open registry file...
+aKeyExport=&Export...
+aFileConnectReg=Connect to &remote registry...
+aKeyImport=&Import...
+aKeyAddBookmark=Add to bookmarks...
+aAbout=About...
+aValueAddLink=Link
+aKeyBack=Back
+aKeyForward=Forward
+aValueAddResourceList=Resource List
+aValueAddFullResourceDescriptor=Full Resource Descriptor
+aValueAddResourceRequirementsList=Resource Requirements List
+
+[formRegalyzer.menuMain]
+miFile=&File
+miEdit=&Edit
+miBookmarks=&Bookmarks
+miLanguages=&Languages
+miHelp=&?
+
+[formSearch.alSearch]
+aSearchResultsExport=Export...
+aSearchResultsExportAll=&Export all...
+aSearchResultsExportSelected=Export selected &only...
+aSearchResultsSelectAll=&Select all
+aSearchResultsDeSelectAll=&Deselect all
+aSearchResultsSelectKeys=Select key results
+aSearchResultsDeSelectKeys=Deselect key results
+aSearchResultsSelectValues=Select value results
+aSearchResultsDeSelectValues=Deselect value results
+aSearchResultsSelectData=Select data results
+aSearchResultsDeSelectData=Deselect data results
+aSearchResultsExportKeyContents=Option: Export contents of key results as well
+aReplace=&Replace
+aSearchStart=Search
+aSearchResultsDeleteSelected=Delete selected
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Key information:
+labelInfoDBValue=Value information:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRemoteConnect]
+labelNamePrompt=Please enter the name of the remote computer:
+bnOK=OK
+bnCancel=Cancel
+bnSearch=&Search
+labelRemoteInfo=Note: Connecting to a remote registry will only work if the remote computer is running Windows NT, 2000 or XP, or Windows ME if the remote service is running.
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Please select the entries that should be included in the replace on the Results tab. Replace will only work for key and value names and string data.
+labelReplaceSource=Replace this:
+labelReplaceNew=With this Text:
+groupReplaceMisc=Miscellaneous options
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignore case
+cbReplaceOverwrite=Overwrite existing
+cbReplaceOverwriteValues=Overwrite existing values
+cbReplaceOverwriteKeys=Overwrite existing keys
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Not available in BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Not available in BartPE
+
+[formMain.panelMain.pcMain.tsChangeLogs.pcChangeLogs]
+tsChangeLogRedo=Redo log
+tsChangeLogUndo=Undo log
+
+[formEditString.groupValue]
+labelValue=Name of value:
+labelData=Value data:
+
+[formValueType]
+groupValue=Registry Value
+bnOK=OK
+bnCancel=Cancel
+
+[formValueType.groupValue]
+labelValue=Name of value:
+labelData=Value data:
+labelTypeCurrent=Current type:
+labelTypeNew=Change type to:
+
+[formUserLogon]
+labelInfo=This function allows you to log on additional users to see and edit their registry, using the documented official way (contrary to the /allhives function).
+labelUsername=&User name:
+labelPassword=&Password:
+bnOk=OK
+bnCancel=Cancel
+cbUsername.Items=Administrator%0D%0AASPNET%0D%0AGuest%0D%0AHomeGroupUser$%0D%0AMcx1-GANDALF%0D%0ASQLDebugger%0D%0A
+
+[formOpenCustomHive]
+labelHiveKeyName=&Key name:
+labelInfo=Select a hive file and choose where to mount this hive please. If you load user hives, these users may not log in unless you close this application, or not until a restart if you check the "persisent" option.
+labelRootKey=&Root key:
+labelFile=Hive &file:
+bnOk=OK
+bnCancel=Cancel
+cbRootKey=HKEY_LOCAL_MACHINE
+cbRootKey.Items=HKEY_LOCAL_MACHINE%0D%0AHKEY_USERS%0D%0A
+cbPersisent=Persist hive until reboot
+
+[formOpenSBIValue]
+bnOK=O&K
+bnCancel=Cancel
+groupInput=&Location
+groupDescription=Description
+groupSBI=OpenSBI command
+
+[formOpenSBIValue.groupInput]
+labelRootKeyLabel=Root:
+labelKeyPathLabel=Path:
+labelValueNameLabel=Value:
+labelTypeLabel=Type:
+labelDataLabel=Data:
+
+[formOpenSBIValue.groupDescription]
+cbDescription=enter or select description text here
+cbDescription.Items=<$REG_CLASSID>%0D%0A<$REG_INTERFACE>%0D%0A<$REG_TYPELIB>%0D%0A<$REG_ROOTCLASS>%0D%0A<$REG_BHO>%0D%0A<$REG_DPF>%0D%0A<$REG_IEEXTENSION>%0D%0A<$REG_IEMENUEXT>%0D%0A<$REG_IETOOLBAR>%0D%0A<$REG_EXPLORERBAR>%0D%0A<$REG_SETTINGS>%0D%0A<$REG_GLOBALSETTINGS>%0D%0A<$REG_USERSETTINGS>%0D%0A<$REG_ACTIVEXSETTINGS>%0D%0A<$REG_IESEARCHHOOK>%0D%0A<$REG_RASPROFILE>%0D%0A<$REG_APPID>%0D%0A<$REG_FILEEXTENSION>%0D%0A<$REG_AUTORUN>%0D%0A<$REG_UNINSTALL>%0D%0A<$REG_MODULEUSAGE>%0D%0A<$REG_SHAREDDLL>%0D%0A<$REG_IESEARCHURL>%0D%0A<$REG_IESEARCHBAR>%0D%0A<$REG_IESEARCHPAGE>%0D%0A<$REG_IESTARTPAGE>%0D%0A<$REG_IEDEFAULTPAGE>%0D%0A<$REG_TCPHIJACK>%0D%0A<$REG_PROTOCOLFILTER>%0D%0A<$REG_SERVICE>%0D%0A<$FILE_LIBRARY>%0D%0A<$FILE_DATA>%0D%0A<$FILE_EXE>%0D%0A<$FILE_AD>%0D%0A<$FILE_INSTSTUB>%0D%0A<$FILE_INSTALLER>%0D%0A<$FILE_UNINSTALLER>%0D%0A<$FILE_WEBPAGE>%0D%0A<$FILE_TEXT>%0D%0A<$FILE_SYSTEM>%0D%0A<$FILE_SOUND>%0D%0A<$FILE_DPF>%0D%0A<$FILE_HELP>%0D%0A<$FILE_DIALEREXE>%0D%0A<$FILE_BADBOOKMARK>%0D%0A<$FILE_TEMP>%0D%0A<$FILE_LINK>%0D%0A<$FILE_PICTURE>%0D%0A<$FILE_LOG>%0D%0A<$FILE_PROG>%0D%0A<$FILE_AUTOSTART>%0D%0A<$FILE_UNINSTALLER>%0D%0A<$FILE_DESKTOPLINK>%0D%0A<$FILE_GROUPENTRY>%0D%0A<$FILE_STARTMENUITEM>%0D%0A<$FILE_QUICKLAUNCH>%0D%0A<$FILE_CONFIGURATION>%0D%0A<$FILE_SERVICE>%0D%0A<$FILE_ADS>%0D%0A<$DIR_PROG>%0D%0A<$DIR_DOWNLOAD>%0D%0A<$DIR_PROGGROUP>%0D%0A<$DIR_TEMP>%0D%0A<$DIR_PERSONAL>%0D%0A<$DIR_APPDATA>%0D%0A<$DIR_COMMON_APPDATA>%0D%0A<$DIR_COMMON_DOCS>%0D%0A<$DIR_COMMON_FILES>%0D%0A<$BROWSER_TRACKINGCOOKIE>%0D%0A<$BROWSER_COOKIE>%0D%0A<$BROWSER_CACHE>%0D%0A<$BROWSER_BOOKMARK>%0D%0A<$BROWSER_BOOKMARKGROUP>%0D%0A<$BROWSER_PAGE>%0D%0A<$API_WINSOCK>%0D%0A
+
+[formOpenSBIValue.groupSBI]
+rbRegyValue=Regy&Value,
+rbRegyRemove=Regy&Remove, removing the text below from the data:
+rbRegyChange=Regy&Change, changing the data back to the default below:
+rbRegyFix=Regy&Fix, removing the value if the data is the same as below:
+cbVerifier=using the &advanced registry parameter below:
+
+[formHistory]
+lvHistory.Items=ID%0D%0ATimestamp%0D%0AType%0D%0AAction%0D%0ARoot%0D%0AKey Path%0D%0AValue%0D%0AType%0D%0A
+toolbarHistory=toolbarHistory
+
+[formHistory.alHistory]
+aUndoSaveReg4=Save undo for selected to .reg file...
+aRedoSaveReg4=Save redo for selected to .reg file...
+aUndoSelected=&Undo selected
+aRedoSelected=&Redo selected
+aDeleteSelected=&Delete selected
+
+[formHistory.menuMain]
+miFile=&File
+miEdit=&Edit
+

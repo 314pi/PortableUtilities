@@ -1,0 +1,251 @@
+#[TranslatorInfo]
+#Language=Swedish
+#TranslatorName=Åke Engelbrektson
+#Contact=eson57@gmail.com
+#TranslatorURL=http://svenskasprakfiler.tejpad.se
+#LastUpdated=Feb 05, 2011
+#
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize
+1 Sources
+2 Källa
+1 C:\Sample 1 Of Source Path
+2 C:\Exempel 1 på sökväg till källa
+1 C:\Sample 2 Of Source Path
+2 C:\Exempel 2 på sökväg till källa
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\Fjärrdator\Exempel 1 på sökväg till mål
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\ExternDisk\Exempel 2 på sökväg till mål
+1 Destinations
+2 Mål
+1 Insert path and then press "Enter"
+2 Ange sökväg och tryck "Enter"
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Tryck "Enter" för att ändra sökväg, "DEL" för att ta bort den, "PageUp" eller "PageDown" för att flytta posten uppåt eller neråt
+1 Filter
+2 Filter
+1 DSynchronize Filter
+2 DSynchronize Filter
+1 Filter settings
+2 Filterinställningar
+1 Do not apply filters to folders
+2 Filtrera inte kataloger
+1 Exclusion filter
+2 Undantagsfilter
+1 Inclusion filter
+2 Integrationsfilter
+1 Do not include subfolders on synchronization
+2 Undanta underkataloger från synkronisering
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Separera filterposter med semikolon ";". Exempel: *.exe;*.txt;settings.ini;*.dat
+1 Filter Extended
+2 Utökad filtrering
+1 Jan
+2 Jan
+1 Feb
+2 Feb
+1 Mar
+2 Mar
+1 Apr
+2 Apr
+1 May
+2 Maj
+1 Jun
+2 Jun
+1 Jul
+2 Jul
+1 Aug
+2 Aug
+1 Sep
+2 Sep
+1 Oct
+2 Okt
+1 Nov
+2 Nov
+1 Dec
+2 Dec
+1 Exclude files modified before:
+2 Undanta filer ändrade före:
+1 Cancel
+2 Avbryt
+1 Select a folder:
+2 Välj en katalog:
+1 Browse
+2 Bläddra
+1 &Add New...
+2 &Lägg till ny...
+1 B&rowse...
+2 &Bläddra
+1 &Edit...
+2 &Redigera...
+1 &Select all
+2 &Markera alla
+1 &Deselect all
+2 &Avmarkera alla
+1 Se&t filter...
+2 Filtrera
+1 S&wap paths
+2 Växla sökvägar
+1 Re&move
+2 &Ta bort
+1 About
+2 Om
+1 DSynchronize About
+2 Om DSynchronize
+1 Support with a Donation
+2 Stöd oss med en donation
+1 Make a Donation
+2 Donera
+1 General options
+2 Allmäna alternativ
+1 Copy only newer files
+2 Kopiera endast nya filer
+1 Update files into destination folder only if source files are more recent
+2 Uppdaterar filer i målkatalogen endast om källfilerna är nyare
+1 Bidirectional synchronization
+2 Dubbelriktad synkronisering
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Synkronisera kataloger med senaste filerna i bägge riktningar. Både källa och mål kommer att innehålla den senaste filversionen
+1 Add date to destination folder
+2 Tidsstämpla målkatalogen
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Lägger till datum och tid i katalognamnet ("D:\Destination" ändras till "D:\Destination 2011-02-10 22.30")
+1 Create folder if not exists
+2 Skapa katalog som saknas
+1 If destination path does not exists it creates a new one
+2 Om målkatalogen inte existerar kommer den att skapas
+1 Preview mode
+2 Förhandsgranska
+1 Only preview (do not write anything on HD)
+2 Endast förhandsgranskning (skriver inget till disk)
+1 Exit at the end
+2 Avsluta vid klar
+1 Closes the program at the end of sync
+2 Avslutar programmet efter slutförd synkronisering
+1 Shutdown at the end
+2 Stäng av vid klar
+1 Shutdown the system at the end of sync
+2 Stänger ner systemet vid slutförd synkronisering
+1 Save on exit
+2 Spara vid avslut
+1 Saves all current settings on exit (source and destination path too)
+2 Sparar alla aktuella inställningar vid avslut (källa och målkatalog också)
+1 Save log
+2 Spara logg
+1 Save log file
+2 Sparar en loggfil
+1 Play sound when done
+2 Ljudsignal vid klar
+1 Generate a sound advise at the end of syncronization
+2 Spelar upp en ljudsignal vid slutförd synkronisering
+1 Special options
+2 Specialalternativ
+1 Antifragmentation
+2 Antifragmentering
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Reducerar diskfragmentering genom att ta bort filer innan dom uppdateras (ändrade filer visas som tillagda istället för ändrade)
+1 Ignore path errors
+2 Ignorera adressfel
+1 If a path (source or destination) does not exists it skips without any error message
+2 Om en sökväg (källa eller mål) inte existerar undantas den utan felmeddelande
+1 Backup changes
+2 Säkerhetskopia
+1 No Backup
+2 Ingen
+1 Timer sync
+2 Timer-synkronisering
+1 Set/enable timer
+2 Aktivera timer
+1 DSynchronize Options
+2 DSynchronize alternativ
+1 Timer choice
+2 Timer-alternativ
+1 Synchronize every
+2 Synkronisera varje
+1 Synchronize at
+2 Synkronisera kl.
+1 Days choice
+2 Dagar
+1 Synchronize every day
+2 Synkronisera varje dag
+1 Specify the month's days on which to synchronize
+2 Specificera vilka av månadens dagar synkronisering skall utföras
+1 Specify the week's days on which to synchronize
+2 Specificera vilka veckodagar synkronisering skall utföras
+1 Sunday
+2 Söndag
+1 Monday
+2 Måndag
+1 Tuesday
+2 Tisdag
+1 Wednesday
+2 Onsdag
+1 Thursday
+2 Torsdag
+1 Friday
+2 Fredag
+1 Saturday
+2 Lördag
+1 Realtime sync
+2 Realtids-synk
+1 Real-time syncronization (experimental)
+2 Realtids-synkronisering (experimentell)
+1 Activation of the Real-Time Synchronization.
+2 Aktiverar realtids-synkronisering
+1 Execute DSynchronize at system startup
+2 Autostartar DSynchronize vid systemstart
+1 Autostart as service...
+2 Autostarta som service...
+1 Execute DSyncronize at system startup as service
+2 Autostartar DSynchronize som service vid systemstart
+1 DSyncronize Start As Service
+2 DSyncronize startar som service
+1 Install Service
+2 Installera service
+1 Start Service
+2 Starta service
+1 Done
+2 Klar
+1 Commands
+2 Kommandon
+1 Synchronize
+2 Synkronisera
+1 Pause
+2 Paus
+1 Deleted files
+2 Borttagna filer
+1 Ask before deleting files
+2 Fråga innan filer tas bort
+1 Do not delete any file
+2 Ta inte bort filer
+1 Does not delete any file
+2 Tar inte bort några filer
+1 Move files
+2 Flytta filer
+1 Move files from Source to Destination
+2 Flyttar filer från källa till mål
+1 Added files
+2 Tillagda filer
+1 Ask before adding files
+2 Fråga innan filer läggs till
+1 Do not add any file
+2 Lägg inte till filer
+1 Does not add any new file
+2 Lägger inte till några filer
+1 Replaced files
+2 Ändrade filer
+1 Ask before replacing files
+2 Fråga innan filer ändras
+1 Do not replace any file
+2 Ändra inte filer
+1 Does not replace any file
+2 Ändrar inte några filer
+1 Synchronization complete.
+2 Synkronisering slutförd
+1 Help
+2 Hjälp
+1 Show
+2 Visa
+1 Close
+2 Stäng

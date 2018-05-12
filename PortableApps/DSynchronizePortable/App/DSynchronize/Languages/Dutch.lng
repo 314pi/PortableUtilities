@@ -1,0 +1,264 @@
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize (Geprogrammeerd door Dimio)
+1 Sources
+2 Bron
+1 C:\Sample 1 Of Source Path
+2 C:\Voorbeeld 1 van het bron pad
+1 C:\Sample 2 Of Source Path
+2 C:\Voorbeeld 2 van het bron pad
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\RemotePC\Voorbeeld 1 van het doel pad
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\RemotePC\Voorbeeld 2 van het doel pad
+1 Destinations
+2 Doel
+1 Insert path and then press "Enter"
+2 Pad ingeven en "Enter" drukken
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Druk op "Enter" om het pad te wijzigen, "Wissen" om te verwijderen, "Pagina omhoog" of "Pagina naar beneden" om het pad omhoog of omlaag te bewegen
+1 Filter
+2 Filter
+1 DSynchronize Filter
+2 DSynchronize Filter
+1 Filter settings
+2 Filter instellingen
+1 Do not apply filters to folders
+2 Geen filters op de folders zetten.
+1 Exclusion filter
+2 Uitzonderingsfilter
+1 Inclusion filter
+2 Insluitingsfilter
+1 Do not include subfolders on synchronization
+2 Geen subfolders toevoegen bij de synchronisatie
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Om meerdere filters te gebruiken dienen deze met een ";" gescheiden te worden. (bijv. *.exe;*.txt;settings.ini;*.da?)
+1 Filter Extended
+2 Uitgebreide filters
+1 Jan
+2 Jan
+1 Feb
+2 Feb
+1 Mar
+2 Mrt
+1 April
+2 April
+1 May
+2 Mei
+1 Jun
+2 Jun
+1 Jul
+2 Jul
+1 Aug
+2 Aug
+1 Sep
+2 Sep
+1 Oct
+2 Okt
+1 Nov
+2 Nov
+1 Dec
+2 Dec
+1 Exclude files modified before:
+2 Sluit bestanden uit, gewijzigd voor:
+1 Cancel
+2 Afbreken
+1 Select a folder:
+2 Map selecteren:
+1 Browse
+2 Bladeren
+1 &Add New...
+2 &Nieuwe toevoegen...
+1 B&rowse...
+2 &Bladeren...
+1 &Edit...
+2 &Wijzigen...
+1 &Select all
+2 &Selecteer alles
+1 &Deselect all
+2 &Selectie verwijderen
+1 Se&t filter...
+2 Zet &filter...
+1 S&wap paths
+2 Wissel &paden
+1 Re&move
+2 &Verwijder
+1 About
+2 Over...
+1 DSynchronize About
+2 Over DSynchronize
+1 Support with a Donation
+2 Ondersteun met Donatie
+1 Make a Donation
+2 Doneer
+1 General options
+2 Opties
+1 Copy only newer files
+2 Kopieer alleen nieuwe bestanden
+1 Update files into destination folder only if source files are more recent
+2 Alleen nieuwere bronbestanden in de doel map bijwerken
+1 Bidirectional synchronization
+2 In beide richtingen synchroniseren
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Synchroniseren van mappen met de nieuwste bestanden, zodat de 2 mappen gelijk zijn met de nieuwste bestanden aan beide zijden
+1 Add date to destination folder
+2 Datum aan doel map toevoegen
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Voegt de huidige datum en tijd toe aan de naam van de doel map (dus "C:\Doelmap" word "C:\Doelmap 2004-12-10 22.30")
+1 Create folder if not exists
+2 Maak nieuwe folder aan als deze niet bestaat
+1 If destination path does not exists it creates a new one
+2 Als het doel pad niet bestaat, word hij gemaakt
+1 Save file timings too
+2 Bestandstijd opslaan
+1 Copy creation and last modify time too
+2 Kopieer aanmaakdatum en wijzigingsdatum mee
+1 Preview mode
+2 Voorbeeld modus
+1 Only preview (do not write anything on HD)
+2 Alleen voorbeeld (schrijft niets weg op de harddisk)
+1 Exit at the end
+2 Einde programma
+1 Closes the program at the end of sync
+2 Sluit het programma af na de synchronisatie
+1 Shutdown at the end
+2 PC afsluiten
+1 Shutdown the system at the end of sync
+2 Sluit het systeem af na de synchronisatie
+1 Save settings on exit
+2 Opslaan bij afsluiten
+1 Saves all current settings on exit (source and destination path too)
+2 Slaat alle aktuele instellingen op (inclusief bron- en doel pad)
+1 Save log
+2 Log opslaan
+1 Save log file
+2 Logbestand opslaan
+1 Play sound when done
+2 Geluid afspelen bij einde
+1 Generate a sound advise at the end of syncronization
+2 Speel een geluidsbericht af na de synchronisatie
+1 Eject USB key at the end
+2 USB uitwerpen aan het eind
+1 Special options
+2 Speciale opties
+1 Antifragmentation
+2 Defragmenteren
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Vermindert de harddisk fragmentatie door het verwijderen van bestanden voor ze te vervangen (vervangen bestanden zien er uit als toegevoegd)
+1 Ignore path errors
+2 Negeer pad fouten
+1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
+2 Als een pad (bron of doel) niet bestaat, word hij zonder foutmelding of beveiligingsmelding overgeslagen
+1 Adjust path drive
+2 Het pad aanpassen
+1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
+2 Als de letter van het pad wijzigd, wijzigen de paden ook (a.u.b. "opslaan bij afsluiten" optie kiezen!")
+1 Verify
+2 Verifiëren
+1 Verify copy (can slow down sync)
+2 Kopiëren verifiëren (kan de synchronistie vertragen!)
+1 Backup changes
+2 Backup veranderingen
+1 No Backup
+2 Geen Backup
+1 Timer sync
+2 Timer synchronisatie
+1 Set/enable timer
+2 Timer instellen...
+1 DSynchronize Options
+2 DSynchronize Opties
+1 Timer choice
+2 Timer keuze
+1 Synchronize every
+2 Synchroniseer alles
+1 Synchronize at
+2 Synchronisieer om
+1 Days choice
+2 Dag keuze
+1 Synchronize every day
+2 Synchronisieer elke dag
+1 Specify the month's days on which to synchronize
+2 Definieer de dagen van de maand waarop gesynchroniseert moet worden
+1 Specify the week's days on which to synchronize
+2 Definieer de weekdagen waarop gesynchronisieert moet worden
+1 Sunday
+2 Zondag
+1 Monday
+2 Maandag
+1 Tuesday
+2 Dinsdag
+1 Wednesday
+2 Woensdag
+1 Thursday
+2 Donderdag
+1 Friday
+2 Vrijdag
+1 Saturday
+2 Zaterdag
+1 Realtime sync
+2 Real-time sync.
+1 Real-time syncronization (experimental)
+2 Real-time synchronisatie (experimenteel)
+1 Activation of the Real-Time Synchronization
+2 Activering van de real-time synchronisatie
+1 Execute DSynchronize at system startup
+2 DSyncronize bij het starten van het systeem uitvoeren
+1 Autostart
+2 Autostart
+1 Autostart as service...
+2 Autostart als service...
+1 Execute DSyncronize at system startup as service
+2 DSyncronize bij het opstarten van het systeem uitvoeren
+1 DSyncronize Start As Service
+2 DSyncronize starten als service
+1 Install Service
+2 Service installeren
+1 Start Service
+2 Service starten
+1 Done
+2 Gereed
+1 Commands
+2 Opdrachten
+1 Synchronize
+2 Synchroniseren
+1 Pause
+2 Pauze
+1 Deleted files
+2 Verwijderde bestanden
+1 Ask before deleting files
+2 Verwijderen bestanden bevestigen
+1 Do not delete any file
+2 Geen enkel bestand verwijderen
+1 Does not delete any file
+2 Verwijdert geen enkel bestand
+1 Move files
+2 Bestanden verplaatsen
+1 Move files from Source to Destination
+2 Verplaats bestanden van bron naar doel
+1 No visual log
+2 Log niet tonen
+1 Added files
+2 Bestanden toevoegen
+1 Ask before adding files
+2 Bestanden toevoegen bevestigen
+1 Do not add any file
+2 Voeg geen bestanden toe
+1 Does not add any new file
+2 Voegt geen nieuwe bestanden toe
+1 Replaced files
+2 Vervangen bestanden
+1 Ask before replacing files
+2 Vervangen van bestanden bevestigen
+1 Do not replace any file
+2 Geen enkel bestand vervangen
+1 Does not replace any file
+2 Vervangt geen enkel bestand
+1 Synchronization complete
+2 Synchronisatie beïndigd
+1 Help
+2 Help
+1 Show
+2 Toon
+1 Close
+2 Sluiten
+1 Test selected paths
+2 Test geselecteerde paden

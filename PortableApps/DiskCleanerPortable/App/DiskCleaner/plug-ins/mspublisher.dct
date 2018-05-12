@@ -1,0 +1,8 @@
+[Info]
+Title=Microsoft Publisher
+Description=Removes recent file list
+
+[registry]
+HKEY_LOCAL_MACHINE|SOFTWARE\Microsoft\Publisher\Recent File List
+
+

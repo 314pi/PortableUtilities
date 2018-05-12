@@ -1,0 +1,81 @@
+Info]
+Title=Lotus SmartSuite 96/97/9.5/9.6/9.7
+Description=Removes Lotus SmartSuite recent file list
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\lwpuser.ini\WordProUser|LastTextType
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen1
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen2
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen3
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen4
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen5
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen6
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen7
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen8
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen9
+HKEY_CURRENT_USER|Software\Lotus\WordPro\99.0\Paths\LastOpen10
+HKEY_CURRENT_USER|Software\Lotus\123\99.0\User Preferences|MostRecentFileList
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile1
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile2
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile3
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile4
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile5
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile6
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile7
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile8
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile9
+HKEY_CURRENT_USER|Software\Lotus\Approach\99.0\General|sRecentFile10
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 1
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 2
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 3
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 4
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 5
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 6
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 7
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 8
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 9
+HKEY_CURRENT_USER|Software\Lotus\FastSite\2.0\Sites|Item 10
+HKEY_CURRENT_USER|Software\Lotus\Freelance\99.0\Last 5 Files
+HKEY_CURRENT_USER|Software\Lotus\123\97.0\User Preferences|MostRecentFileList
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen1
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen2
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen3
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen4
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen5
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen6
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen7
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen8
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen9
+HKEY_CURRENT_USER|Software\Lotus\WordPro\97.0\lwpuser.ini\WordProUser|LastOpen10
+HKEY_CURRENT_USER|Software\Lotus\Freelance\97.0\Last 5 Files
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile1
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile2
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile3
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile4
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile5
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile6
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile7
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile8
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile9
+HKEY_CURRENT_USER|Software\Lotus\Approach\97.0\General|sRecentFile10
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen1
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen2
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen3
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen4
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen5
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen6
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen7
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen8
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen9
+HKEY_CURRENT_USER|Software\Lotus\WordPro\96.0\lwpuser.ini\WordProUser|LastOpen10
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile1
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile2
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile3
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile4
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile5
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile6
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile7
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile8
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile9
+HKEY_CURRENT_USER|Software\Lotus\Approach\4.0\General|sRecentFile10

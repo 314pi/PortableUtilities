@@ -1,0 +1,386 @@
+[Main]
+LanguageName=Português Brasil
+Use=Use idioma Poruguês-Brasil
+HelpFile=Help\English.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD0202020202020202020202020202FDFD0202020202020202020202020202FDFD020202020202FBFB020202020202FDFD0202020202FBFBFBFB0202020202FDFD020202FBFBFBFCFCFBFBFB020202FDFD02FBFBFBFBFCFCFCFCFBFBFBFB02FDFD02FBFBFBFBFCFCFCFCFBFBFBFB02FDFD020202FBFBFBFCFCFBFBFB020202FDFD0202020202FBFBFBFB0202020202FDFD020202020202FBFB020202020202FDFD0202020202020202020202020202FDFD0202020202020202020202020202FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD020202020202020202020202FBFBFBFB020202020202020202020202FDFDFDFD0202020202020202020202FBFBFBFBFBFB0202020202020202020202FDFDFDFD020202020202020202FBFBFBFBFBFBFBFBFBFB020202020202020202FDFDFDFD0202020202020202FBFBFBFBFBFBFBFBFBFBFBFB0202020202020202FDFDFDFD020202020202FBFBFBFBFBFBFCFCFCFCFBFBFBFBFBFB020202020202FDFDFDFD0202020202FBFBFBFBFBFBFCFCFEFCFCFCFBFBFBFBFBFB0202020202FDFDFDFD020202FBFBFBFBFBFBFBFCFCFCFCFCFEFCFCFBFBFBFBFBFBFB020202FDFDFDFD0202FBFBFBFBFBFBFBFBFCFEFCFCFCFCFCFAFBFBFBFBFBFBFBFB0202FDFDFDFD0202FBFBFBFBFBFBFBFBFCFCFCFCFFFAFFFCFBFBFBFBFBFBFBFB0202FDFDFDFD020202FBFBFBFBFBFBFBFAFAFFFAFCFCFCFCFBFBFBFBFBFBFB020202FDFDFDFD0202020202FBFBFBFBFBFBFCFCFCFCFCFCFBFBFBFBFBFB0202020202FDFDFDFD020202020202FBFBFBFBFBFBFCFCFCFCFBFBFBFBFBFB020202020202FDFDFDFD0202020202020202FBFBFBFBFBFBFBFBFBFBFBFB0202020202020202FDFDFDFD020202020202020202FBFBFBFBFBFBFBFBFBFB020202020202020202FDFDFDFD0202020202020202020202FBFBFBFBFBFB0202020202020202020202FDFDFDFD020202020202020202020202FBFBFBFB020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+
+[Dialogs]
+ButtonAbort=Abortar
+ButtonAll=Todos
+ButtonCancel=Cancelar
+ButtonHelp=Ajuda
+ButtonIgnore=Ignorar
+ButtonNo=Não
+ButtonNoToAll=Não para todos
+ButtonOK=OK
+ButtonRetry=Tentar de novo
+ButtonYes=Sim
+ButtonYesToAll=Sim para todos
+DialogTitleConfirmation=Confirmação
+DialogTitleCustom=Personalizado
+DialogTitleError=Erro
+DialogTitleInformation=Informação
+DialogTitleWarning=Atenção
+
+[formAbout]
+bnOK=OK
+Label1=Copyright © 2000-2007 Safer-Networking Limited. Todos os direitos reservados.
+labelCopyright=Copyright © 2000-2005 Patrick M. Kolla / Safer Networking Ltd.
+labelCopyright2=Todos os direitos reservados.
+memoCredits=Créditos a: %0D%0AEnrico Maria Biancarelli (sugestões, tradução ao italiano)%0D%0AAndrey V. Sorokin (código para expressão regular)%0D%0AHevesi János (tradução ao magyar)%0D%0AQuan Qi Tang (tradução ao chinês simplificado)%0D%0Aliwk (tradução ao chinês tradicional)%0D%0AnickW (tradução ao francês)%0D%0ADavid (tradução ao espanhol)%0D%0A
+
+[formBookmarks]
+bnCancel=Cancelar
+bnOK=OK
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Adicionar aos Favoritos...
+aBookmarkDelete=Excluir Favoritos
+aBookmarkRename=Renomear Favoritos...
+aFolderAdd=Adicionar Pasta...
+aFolderDelete=Excluir Pasta
+aFolderExportOneLevel=Exportar um nível
+aFolderExportRecursive=Exportação recursiva
+aFolderRename=Renomear pasta...
+aSortOneLevel=Ordenar um nível
+aSortRecursive=Ordenação recursiva
+
+[formEditInteger]
+bnCancel=Cancelar
+bnOK=OK
+labelDataBinary=Valor do dado (binário):
+labelDataDecimal=Valor do dado (decimal):
+labelDataHex=Valor do dado (hex):
+labelValue=Nome do valor:
+
+[formEditMultiString]
+bnCancel=Cancelar
+bnOK=OK
+labelData=Valor do dado:
+labelValue=Nome do valor:
+
+[formEditResourceRequirementsList]
+bnCancel=Cancelar
+bnOK=OK
+labelBusNumber=Bus número:
+labelInterfaceType=Tipo de interface:
+labelSlotNumber=Número do slot:
+lvList.Items=Tipo%0D%0AEndereço Mínimo%0D%0AEndereço Máximo%0D%0AComprimento%0D%0AAlinhamento%0D%0AOpções%0D%0A
+
+[formEditString]
+bnCancel=Cancelar
+bnOK=OK
+labelData=Valor do dado:
+labelValue=Nome do valor:
+
+[formMain.alMain]
+aAbout=Sobre...
+aBookmarksManage=&Gerenciar favoritos
+aFileConnectReg=Conectar ao registro &remoto...
+aFileExit=&Sair
+aFileOpenReg=&Abrir arquivo de registro...
+aHelpContents=Conteúdo
+aHelpIndex=Índice
+aInfoDBRefreshEntry=Atualizar
+aInfoDBSaveKeyInfo=Salvar info da chave
+aInfoDBSaveValueInfo=Salvar info do valor
+aInfoDBStoreEntry=Guardar
+aKeyAdd=&Nova chave...
+aKeyAddBookmark=Adicionar aos favoritos...
+aKeyBack=Voltar
+aKeyCopyPath=Copiar nome da chave ao clipboard
+aKeyDelete=&Excluir chave
+aKeyExport=&Exportar...
+aKeyForward=Próxima
+aKeyImport=&Importar...
+aKeyJump=Pular à chave...
+aKeyRefresh=&Atualizar
+aKeyRename=&Renomear chave...
+aMenuHelp=Ajuda
+aSearch=&Procurar...
+aSecurityInformationExportToClipboard=Copiar informação de segurança ao clipboard
+aSecurityInformationExportToFile=Exportar informação de segurança ao arquivo...
+aSecurityInformationGrantAll=Conceder os direitos sobre esta chave a todos
+aValueAdd=Nova
+aValueAddBEInteger=Valor numérico (32 bit, big endian)
+aValueAddBinary=Dado binário
+aValueAddFullResourceDescriptor=Descrição completa do recurso
+aValueAddInt64=Valor numérico (64 bit)
+aValueAddInteger=Valor numérico (32 bit)
+aValueAddLEInt64=Valor numérico (64 bit, little endian)
+aValueAddLEInteger=Valor numérico (32 bit, little endian)
+aValueAddLink=Link
+aValueAddMultiString=String (multi-linha)
+aValueAddNone=Nada (tipo vazio)
+aValueAddResourceList=Lista de recursos
+aValueAddResourceRequirementsList=Lista de recursos requeridos
+aValueAddString=String
+aValueChange=&Alterar dado...
+aValueDelete=&Excluir valor
+aValueRename=&Renomear valor...
+aValueSelectAll=Selecionar Todos
+
+[formMain.menuMain]
+miBookmarks=&Favoritos
+miEdit=&Editar
+miFile=&Arquivo
+miHelp=&?
+miLanguages=&Idiomas
+
+[formMain.panelMain.pcMain]
+tsData=Dados
+tsDatabaseInfo=Info base de dados
+tsInfo=Informação de Segurança
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Nome%0D%0ATipo%0D%0AValor%0D%0ATamanho%0D%0A
+lvHexDump.Items=Posição%0D%0ADump%0D%0ATexto%0D%0A
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Info chave:
+labelInfoDBValue=Info chave:
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Não disponível em BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Não disponível em BartPE
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Painel2
+
+[formRegalyzer.alMain]
+aAbout=Sobre...
+aBookmarksManage=&Gerenciar favoritos
+aFileConnectReg=Conectar ao registro &remoto...
+aFileExit=&Sair
+aFileOpenReg=&Abrir o arquivo de registro...
+aKeyAdd=&Nova chave...
+aKeyAddBookmark=Adicionar a favoritos...
+aKeyBack=Voltar
+aKeyCopyPath=Copiar nome da chave ao clipboard
+aKeyDelete=&Excluir chave
+aKeyExport=&Exportar...
+aKeyForward=Próximo
+aKeyImport=&Importar...
+aKeyJump=Pular à chave...
+aKeyRefresh=&Atualizar
+aKeyRename=&Renomear chave...
+aSearch=&Procurar...
+aSecurityInformationExportToClipboard=Copiar informação de segurança ao clipboard
+aSecurityInformationExportToFile=Exportar informação de segurança ao arquivo...
+aValueAdd=Nova
+aValueAddBEInteger=Valor numérico (32 bit, big endian)
+aValueAddBinary=Dado binário
+aValueAddExpandString=String (with placeholders)
+aValueAddFullResourceDescriptor=Descrição completa do recurso
+aValueAddInt64=Valor numérico (64 bit)
+aValueAddInteger=Valor numérico (32 bit)
+aValueAddLEInt64=Valor numérico (64 bit, little endian)
+aValueAddLEInteger=Valor numérico (32 bit, little endian)
+aValueAddLink=Link
+aValueAddMultiString=String (multi-linha)
+aValueAddResourceList=Lista de recursos
+aValueAddResourceRequirementsList=Lista de recursos requeridos
+aValueAddString=String
+aValueChange=&Alterar dado...
+aValueDelete=&Excluir valro
+aValueRename=&Renomear valor...
+
+[formRegalyzer.menuMain]
+miBookmarks=&Favoritos
+miEdit=&Editar
+miFile=&Arquivo
+miHelp=&?
+miLanguages=&Idiomas
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Dado
+tsInfo=Informação de segurança
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Nome%0D%0ATipo%0D%0AValor%0D%0ATamanho%0D%0A
+lvHexDump.Items=Posição%0D%0ADump%0D%0ATexto%0D%0A
+
+[formRemoteConnect]
+bnCancel=Cancelar
+bnOK=OK
+bnSearch=&Procurar
+labelNamePrompt=Favor entrar com o nome do computador remoto:
+labelRemoteInfo=Obs: Conectando a um registro remoto irá funcionar apenas se o computador remoto estiver rodando sob Windows NT, 2000 or XP, ou Windows ME se o serviço remoto estiver rodando.
+
+[Forms]
+formAbout=Info
+formBookmarks=Favoritos
+formEditInteger=Alterar dado numérico
+formEditMultiString=Alterar valor multi-string
+formEditResourceRequirementsList=Mostrar lista de recursos requeridos
+formEditString=Alterar dado string
+formMain=RegAlyzer
+formRegalyzer=RegAlyzer
+formRemoteConnect=Conectar ao registro remoto
+formSearch=Procurar
+
+[formSearch]
+bnCancel=Cancelar
+bnSearch=Procurar
+bnStop=Parar
+
+[formSearch.alSearch]
+aReplace=&Substituir
+aSearchResultsDeSelectAll=&Deselecionar Todos
+aSearchResultsDeSelectData=Deselecionar resultados de dados
+aSearchResultsDeSelectKeys=Deselecionar resultados de chave
+aSearchResultsDeSelectValues=Deselecionar resultado de valores
+aSearchResultsExport=Exportar...
+aSearchResultsExportAll=&Exportar todos...
+aSearchResultsExportKeyContents=Opção: Exportar conteúdo de resultados de chave também
+aSearchResultsExportSelected=Exp&ortar apenas selecionados...
+aSearchResultsSelectAll=&Selecionar todos
+aSearchResultsSelectData=Selecionar resultados de dados
+aSearchResultsSelectKeys=Selecionar resultados de chaves
+aSearchResultsSelectValues=Selecionar resultados de valores
+aSearchStart=Procurar
+
+[formSearch.pcSearch]
+tsByDate=... por data
+tsCriteria=Critério de procura
+tsReplace=Substituir
+tsResults=Resultados
+
+[formSearch.pcSearch.tsByDate]
+cbByDateMode.Items=de qualquer data.%0D%0Aanterior a:%0D%0Aposterior a:%0D%0Aentre:%0D%0Afora de:%0D%0A
+dtDate1=14.08.2003
+dtDate2=14.08.2003
+dtTime1=14.08.2003
+dtTime2=14.08.2003
+Label1=Procurar &por chaves que são
+Label2=e
+labelByDate=Procurar &por chaves que são
+labelByDateAnd=e:
+labelByDateOSInfo=Este critério de procura só está disponível em sistemas Windows NT, Windows 2000 e Windows XP. Windows 9x e Windows ME não suportam registro de data de chave.
+
+[formSearch.pcSearch.tsCriteria]
+cbSearchStyle=Procurar por pedaço de texto
+cbSearchStyle.Items=Pedaço de testo%0D%0AProcura com máscara (*, ?)%0D%0AProcura Booleana  (E, OU, NÃO)%0D%0AExpressão regular%0D%0A
+groupSearchDataTypes=Tipos de dados
+groupSearchFocus=Foco da procura
+groupSearchMisc=Opções diversas
+groupSearchRange=Intervalo da procura
+labelSearchFor=Procurar &por:
+labelSearchStyle=E&stilo da procura:
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeBinary=Dado &Binário
+cbDataTypeNumerics=&Numéricos
+cbDataTypeStrings=&Strings
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusData=&Dado
+cbFocusKeys=&Chaves
+cbFocusValues=&Valores
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbHighSpeed=Procura rápida
+cbIgnoreCase=&Ignorar caixa
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeComplete=&Todo o registro
+rbRangeKey=Apenas esta chave
+
+[formSearch.pcSearch.tsReplace]
+groupReplaceMisc=Opções diversas
+labelReplaceLimitations=Favor selecionar as entradas que devem ser incluídas na substituição da tabela de resultados. As substituições só ocorrerão para as chaves e nomes de valores e dados string.
+labelReplaceNew=Com este Texto:
+labelReplaceSource=Substituir isto:
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignorar caixa
+cbReplaceOverwrite=Sobrecrever existentes
+cbReplaceOverwriteKeys=Sobrescrever chaves existente
+cbReplaceOverwriteValues=Sobrescrever valores existentes
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Chave%0D%0AValor%0D%0ADado%0D%0A
+
+[Messages]
+BookmarkFolderAddCaption=Favor entrar com o nome da nova pasta:
+BookmarkFolderAddTitle=Nome da nova pasta
+BookmarkFolderDefaultName=Nova pasta
+BookmarkFolderDeleteCaption=Confirma a exclusão da pasta?
+BookmarkFolderRenameCaption=Favor entrar com o novo nome da pasta:
+BookmarkFolderRenameTitle=Renomear pasta
+BookmarkItemAddCaption=Favor entrar com o nome do novo Favorito:
+BookmarkItemAddLocationCaption=Favor entrar o local para onde o novo Favorito apontará:
+BookmarkItemAddLocationTitle=Nova localização do Favorito
+BookmarkItemAddTitle=Novo nome do Favorito
+BookmarkItemDefaultName=Novo Favorito
+BookmarkItemDeleteCaption=Confirma exclusão deste Favorito ?
+BookmarkItemRenameCaption=Favor entrar com o novo nome do Favorito:
+BookmarkItemRenameTitle=Renomear Favorito
+DragDropCopyStatus=Copiando valor(es) a %%s...
+DragDropKeyCopyStatus=Copiando chave %%s em %%s...
+DragDropKeyMoveStatus=Movendo chave %%s em %%s...
+DragDropMoveStatus=Movendo valor(es) a %%s...
+DragDropValueCopyStatus=Copiando valor(es) a %%s...
+DragDropValueMoveStatus=Movendo valor(es) a %%s...
+DragDropWrongRootKeyWarning=Você não pode mover chaves entre diferente chaves de raiz diferente!
+MyComputer=Meu Computador
+RemoteConnectCaption=Favor entrar com o nome ou computador remoto:
+RemoteConnectTitle=Conectar ao registro remoto
+RemoteErrorAccessDenied=Você não tem acesso aos recursos da rede.
+RemoteErrorAlreadyAssigned=Este dispositivo já está conectado.
+RemoteErrorBadDevice=O dispositivo especificado é inválido.
+RemoteErrorBadNetName=O formato de recurso de rede é inválido.
+RemoteErrorBadProfile=O perfil de usuário foi especificado em um formato incorreto.
+RemoteErrorBadProvider=Seu endereço de rede não coincide com nenhum provedor de rede.
+RemoteErrorBusy=O roteador ou provedor está ocupado. Por favor tente daqui a alguns segundos.
+RemoteErrorInvalidPassword=A senha que você informou é inválida para este recurso.
+RemoteErrorNoNetwork=A rede está indisponível.
+DialogDataError=(Erro ao tentar ler dado)
+DialogDataNotDefined=(Dado não definido)
+DialogDataNotSupported=(Tipo de dado não suportado)
+DialogJumpToKeyCaption=Favor informe a chava para onde ir:
+DialogJumpToKeyTitle=Pular à chave
+DialogDataBinaryZero=(Dado binário de tamanho zero)
+DialogHivesLoaded=%%d registry hives have been found and loaded into HKEY_LOCAL_MACHINE\PE_* e/ou HKEY_USERS\PE_*. Eles serão descarregados novamente ao encerrar o programa.
+DialogNewKeyCaption=Por favor informe o nome da nova chave:
+DialogNewKeyDefault=Nova chave
+DialogNewKeyTitle=Nova chave
+DialogNewValueBinaryCaption=Por favor entre com o nome do novo valor binário:
+DialogNewValueBinaryDefault=Novo dado binário
+DialogNewValueBinaryTitle=Novo valor binário
+DialogNewValueCaption=Por favor informe o nome do novo valor:
+DialogNewValueDefault=Novo valor
+DialogNewValueNumericCaption=Por favor informe o nome do novo valor numérico:
+DialogNewValueNumericDefault=Novo numérico
+DialogNewValueNumericTitle=Novo valor numérico
+DialogNewValueStringCaption=Por favor informe um nome para o novo valor string:
+DialogNewValueStringDefault=Novo string
+DialogNewValueStringTitle=Novo valor string
+DialogNewValueTitle=Novo valor
+DialogRenameKeyCaption=Por favor informe o novo nome desta chave:
+DialogRenameKeyTitle=Renomear chave ("%%s")
+DialogRenameValueCaption=Por favor informe o novo nome para este valor:
+DialogRenameValueTitle=Renomear valor ("%%s")
+DialogSearchFinished=A procura foi concluída com %%d resultado(s).
+DialogSearchFocusAll=Procurar em todo o registro..
+DialogSearchFocusLimited=Procurar limitada a %%s.
+DialogSearchHighSpeedStatus=Por favor aguarde...
+DialogValueDefault=(Padrão)
+DialogSearchStopped=Procura interrompida pelo usuário.
+RemoteErrorNoNetOrBadPath=A rede não foi inicializada ou o endereço especificado não pode ser usado.
+DialogSearchStatus=Procurando %%s
+DialogSearchReplaceStatus=%%s ocorrências foram substituídas.
+DialogConfirmImport=Confirma a importação deste arquivo?
+ConfirmValueDelete=Confirma a exclusão deste valor ("%%s")?
+ConfirmKeyDelete=Confirma a exclusão desta chave ("%%s")?
+ConfirmCopyOverwrite=Um valor de nome ("%%s") já existe em sua chave de destino. Sobrescrever ?
+WarningComplicatedDataType=RegAlyzer pode adicionar um valor deste tipo, mas apenas pode editá-lo em modo binário.%0D%0ADados incorretos poderão causar problemas ao Regedit do Windows.%0D%0ADo you want to continue?
+

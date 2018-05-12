@@ -1,0 +1,547 @@
+1 Sources
+2 Источник
+1 C:\SourcePath
+2 C:\ПутьИсточника
+1 \\RemotePC\DestinationPath
+2 \\УдаленныйПК\ПутьНазначения
+1 Destinations
+2 Назначение
+1 Swap Paths (double click on arrows to swap selected source path with selected destination path)
+2 Обмен путей (дважды щелкните по стрелкам для обмена местами выбранных путей)
+1 Insert path and then press "Enter"
+2 Введите путь и нажмите "Enter"
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Нажмите "Enter" для изменения пути, "DEL" для его удаления, "PageUp" или "PageDown" для сдвига вверх или вниз
+1 Filter
+2 Фильтр
+1 DSynchronize Filter
+2 Фильтр DSynchronize
+1 File selection
+2 Выбор файла
+1 Do not apply filters to folders
+2 Не применять фильтры к папкам
+1 Exclusion filter:
+2 Фильтр исключения:
+1 Inclusion filter:
+2 Фильтр включения:
+1 Do not include subfolders on synchronization
+2 Не включать подпапки в синхронизацию
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Для использования нескольких фильтров, разделяйте их ";" (например: *.exe;*.txt;settings.ini;*.da?)
+1 Exclude files modified before:
+2 Исключить файлы, изменённые до:
+1 Exclude files modified within:
+2 Исключить файлы, изменённые в пределах:
+1 Days
+2 дней
+1 Filter Timings
+2 Фильтр по времени
+1 Reset Defaults
+2 По умолчанию
+1 Cancel
+2 Отмена
+1 Selected path not exists...
+2 Выбранный путь не существует...
+1 Select a folder:
+2 Выберите папку:
+1 &Add New...
+2 &Добавить путь...
+1 B&rowse...
+2 &Обзор...
+1 &Edit...	F2
+2 &Правка...
+1 Explore Path...
+2 Обзор пути...
+1 Test this Path
+2 Протестировать этот путь
+1 Source path verify:
+2 Проверка пути источника
+1 Destination path verify:
+2 Проверка пути назначения:
+1 Destination paths verify:
+2 Проверка путей назначения:
+1 Source paths verify:
+2 Проверка путей источника
+1 Se&t filter...
+2 Установка &фильтра...
+1 Swap
+2 П&оменять пути местами
+1 Move Up	PagUp
+2 Сместить выше	PagUp
+1 Move Down	PagDn
+2 Сместить ниже	PagDn
+1 &Select all
+2 &Выбрать все
+1 &Deselect all
+2 &Отменить выбор
+1 Remove	Del
+2 Удалить	Del
+1 Properties
+2 Свойства
+1 Are you sure to want delete this sync path?
+2 Уверны, что хотите удалить этот путь?
+1 File
+2 Файл
+1 Change Ini File...
+2 Редактировать Ini-файл
+1 Open Ini file...
+2 Открыть Ini-файл...
+1 Exit without Save Settings	Alt+F5
+2 Выйти без сохранения настроек	Alt+F5
+1 &Exit	Alt+F4
+2 &Выйти	Alt+F4
+1 Options
+2 Опции
+1 Remember Window Size
+2 Запоминать размер окна
+1 Show Summary after sync
+2 Показывать сводку после синхронизации
+1 Close button minimizes window
+2 Кнопка закрытия сворачивает окно
+1 Enable Sound Fx
+2 Включить звуки
+1 Tools
+2 Инструменты
+1 Test selected Paths
+2 Тест выбранных путей
+1 Show Log file
+2 Показать файл журнала
+1 Erase Log file
+2 Очистить файл журнала
+1 Find Ini File
+2 Найти Ini-файл
+1 About
+2 Инфо
+1 Help
+2 Помощь
+1 Home Page Web
+2 Домашняя страница
+1 Support with Donation...
+2 Поддержать пожертвованием
+1 About DSynchronize
+2 О программе
+1 Make a Donation
+2 Пожертвовать
+1 General options
+2 Общие опции
+1 Preview sync
+2 Режим просмотра
+1 Does not writes nor changes anything on disk
+2 Ничего не пишет и не вносит изменений на жесткий диск
+1 Not save settings on exit
+2 Не сохранять настройки
+1 Deny to save all current settings on exit
+2 Не сохраняет все текущие настройки при выходе
+1 Verify byte to byte
+2 Сверять побайтно
+1 Compare files "byte to byte". This option is not designed for normal sync operations, you should use it only in particular situations because it will slow down very much the sync.
+2 Сравнивает файлы "побайтно". Эта опция не является стандартной для синхронизации, используйте ее в особенных ситуациях, так как это сильно замедлит синхронизацию.
+1 Log only errors
+2 В журнале только ошибки
+1 Move files to destination
+2 Перемещать файлы
+1 Move files from Source to Destination (and NOT delete any file on Destination)
+2 Перемещает файлы от источника к назначению (и НЕ удаляет никаких файлов в назначении)
+1 Sync file/folder timings too
+2 Метки времени файла/папки
+1 Sync creation and last modify time too
+2 Синхронизировать метки времени создания и изменения
+1 Hidden and system files too
+2 Скрытые и системные файлы
+1 Sync hidden and system files too
+2 Синхронизировать также скрытые и системные файлы
+1 Sound advise at the end
+2 Звук по завершению
+1 Generate a sound advise at the end of synchronization
+2 Генерировать звук по завершению синхронизации
+1 Exit at the end
+2 Выйти по завершению
+1 Closes the program at the end of sync
+2 Закроет программу после окончания синхронизации
+1 Copy only newer files
+2 Только новые файлы
+1 Update files into destination folder only if source files are more recent
+2 Обновляет файлы в папке назначения, только если файлы источника более новые
+1 Eject USB key at the end
+2 Безопасно извлечь USB
+1 Write log on disk
+2 Сохранять журнал
+1 Save log file "DSynchronize.log" on disk
+2 Сохранять файл журнала "DSynchronize.log" на диске
+1 Send log by Email
+2 Журнал по E-mail
+1 DSynchronize - Log by Email
+2 DSynchronize - журнал по E-mail
+1 Log Email Settings
+2 Настройки отправки E-mail
+1 Send To:
+2 Send To:
+1 Email Sender:
+2 Email Sender:
+1 Email Sender (only if is different from "Send To")
+2 E-mail отправителя (только если отличается от "Адресат")
+1 Sender Passwd:
+2 Sender Passwd:
+1 Email Sender Password
+2 Email Sender Password
+1 Show Passwd
+2 Показать пароль
+1 SMTP Server:
+2 SMTP Server:
+1 SMTP Port:
+2 SMTP Port:
+1 Use SSL encryption
+2 Использовать SSL-шифрование
+1 Send a screenshot in attachment
+2 Приложить скриншот к письму
+1 Add date to folder
+2 Дату к папке назначения
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Добавляет к имени папки назначения дату и время (было "C:\Quelle" станет "C:\Quelle 2004-12-10 22.30")
+1 Use fast copy algorithm
+2 "Быстрое" копирование
+1 Use the new algorithm that is faster and copies also ACLs
+2 Использует новый алгоритм, который быстрее и копирует также ACL
+1 Create folder if not exists
+2 Создать папку, если ее нет
+1 If destination path does not exists it creates a new one
+2 Если путь назначения не существует, создает его
+1 Ignore path errors
+2 Пропуск ошибок
+1 If a path (source or destination) does not exists it skips without any error message
+2 Если путь(источник или назначение) не существует, пропускает этот шаг без сообщения об ошибке
+1 Show Jobs at start
+2 "Задачи" при старте
+1 Special options
+2 Спец. опции
+1 Antifragmentation
+2 Дефрагментация
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Уменьшает фрагментацию диска удалением файлов прежде, чем заменить их (замененные файлы появятся как добавленные)
+1 Adjust path drive
+2 Коррекция пути
+1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
+2 Если меняется буква диска - скорректировать путь в новом соответствии (необходимо так же выбрать "Сохранять настройки")
+1 Pre calculates size
+2 Предрасчет размера
+1 Before to start sync, compute number of files to sync to show the progress bar
+2 Перед началом синхронизации, подсчитывается число синхронизируемых файлов, чтобы показать индикатор выполнения
+1 Check free space
+2 Проверять место
+1 Check free space before start file copy
+2 Проверять свободное место перед началом копирования
+1 Copy symbolic links
+2 Символич. ссылки
+1 Copy symbolic links as is
+2 Копирует символические ссылки, как есть
+1 Verify symbolic links
+2 Проверить символ. ссылки
+1 Verify symbolic links validity before copying, if itsn't valid on destination path (e.g. relative links), copies the target file.
+2 Проверяет правильность символических ссылок перед копировнием,если они не действительны в пути назначения, копирует файл источника.
+1 Copy hard links
+2 Жесткие ссылки
+1 If it's possible try to recreate hard links too (all hard links of a file must be on same partition)
+2 Если возможно, пытается пересоздать жесткие ссылки также (все жесткие ссылки на файл должны быть на одном разделе)
+1 Copy ACL
+2 Копировать ACL
+1 Copy ACL (Access Control List) on NTFS
+2 Копирует ACL (список контроля доступа) на NTFS 
+1 Acknowledge DST
+2 Учитывать летнее время
+1 If filetime is different only by DST (daylight saving time), skips synchronising
+2 Если время файла отличается только по DST (летнее время), пропускать синхронизацию
+1 Timer options
+2 Установки таймера
+1 Realtime sync
+2 Реальное время
+1 Real-time synchronization
+2 Синхронизация в реальном времени
+1 Activation of the Real-Time Synchronization.
+
+Do you want that a Standard sync take place first before enabling the Real-Time sync?
+2 Активация синхронизации в реальном времени.
+
+Хотите выполнить "обычную" синхронизацию перед первым включением режима синхронизации в реальном времени?
+1 RealTime sync active...
+2 Режим синхронизации реального времени включен.
+1 Error: destination path not exists, retry?
+2 Ошибка: путь назначения не существует, повторить?
+1 Bidirectional sync
+2 В обе стороны
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Обе папки синхронизируются с более новыми файлами в обе стороны. Вы получите две одинаковые папки с более новыми файлами в обоих.
+1 Timer sync...
+2 Планировщик
+1 Main Selection
+2 Основной выбор
+1 RealTime Sync Enabled
+2 Синхронизация в реальном времени включена
+1 Timer Sync Enabled
+2 Планировщик включен
+1 Do a first sync immediatly (10 secs after start).
+2 Немедленная синхронизация (через 10 с. после запуска)
+1 Timer
+2 Выбор таймера
+1 Synchronize every
+2 Запускать каждые
+1 Synchronize at
+2 Запускать в
+1 Days selection
+2 Выбор дней
+1 Synchronize every day
+2 Каждый день
+1 Specify the month's days on which to synchronize
+2 Указать дни месяца для синхронизации
+1 Specify the week's days on which to synchronize
+2 Указать дни недели для синхронизации
+1 Sunday
+2 Воскрес.
+1 Monday
+2 Понедел.
+1 Tuesday
+2 Вторник
+1 Wednesday
+2 Среда
+1 Thursday
+2 Четверг
+1 Friday
+2 Пятница
+1 Saturday
+2 Суббота
+1 Autostart
+2 Автозапуск
+1 Execute DSynchronize at system startup
+2 Автозапуск программы при старте системы
+1 Start as service
+2 Запускать службой
+1 Start As Service
+2 Запуск в виде службы
+1 Install Service
+2 Установить службу
+1 Uninstall Service
+2 Удалить службу
+1 Start Service
+2 Запустить службу
+1 Stop Service
+2 Остановить службу
+1 Account:
+2 Аккаунт:
+1 Password:
+2 Пароль:
+1 System Account
+2 Аккаунт системы
+1 Done
+2 Готово
+1 Shutdown PC at the end
+2 Выключать ПК в конце
+1 Shutdown the system at the end of sync
+2 Выключить компьютер в конце синхронизации
+1 Maintain old versions
+2 Бэкап старых версий
+1 When a file is replaced, create, in destination path, a folder with the old file.
+2 Когда файл заменяется, создает в пути назначения папку со старым файлом.
+1 No old versions
+2 Не сохранять
+1 Old Versions
+2 старых версий
+1 Infinite old versions
+2 Бесконечно
+1 Commands
+2 Команды
+1 Synchronize
+2 СТАРТ
+1 Pause
+2 Пауза
+1 Deleted
+2 Удалено
+1 Ask before deleting files
+2 Запрос перед удалением
+1 Do not delete any file
+2 Не удалять файлы
+1 Does not delete any file
+2 Не удаляет никаких файлов
+1 Confirm Delete:
+2 Подтвердить удаление:
+1 Added
+2 Добавлено
+1 Ask before adding files
+2 Запрос перед добавлением
+1 Do not add any file
+2 Не добавлять файлы
+1 Does not add any new file
+2 Не добавляет никаких новых файлов
+1 Confirm Add:
+2 Подтвердить добавление:
+1 Replaced
+2 Заменено
+1 Ask before replace files
+2 Запрос перед заменой
+1 Do not replace any file
+2 Не заменять файлы
+1 Does not replace any file
+2 Не заменяет никаких файлов
+1 Confirm Replace:
+2 Подтвердить замену:
+1 Realtime
+2 Реальное время
+1 Reset list if too full
+2 Очищать список, если много элементов
+1 If they are too many items (over 1000), reset list
+2 Если их слишком много (более 1000), список сбрасывается
+1 Show
+2 Показать
+1 Close
+2 Закрыть
+1 Stop
+2 Стоп
+1 Resume
+2 Продолжить
+1 Synchronization interrupted.
+2 Синхронизация прервана
+1 Synchronization paused.
+2 Синхронизация приостановлена.
+1 Synchronization resumed.
+2 Синхронизация возобновлена.
+1 DSynchronize Warning
+2 Предупреждение
+1 Another instance of ''DSynchronize.exe'' is running, press OK to exit.
+2 Запущен другой экземпляр программы, нажмите OK для выхода.
+1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
+2 Если папка (источник или назначение) не существует - пропустить это без сообщений об ошибках, так же игнорировать проверку прав доступа
+1 Source paths verify
+2 Проверка пути источника
+1 Source path error:
+2 Ошибка пути источника
+1 Destination paths verify
+2 Проверка пути к назначению
+1 Destination path error:
+2 Ошибка пути назначения
+1 Error: source path not exists
+2 Ошибка: путь источника не существует
+1 Error: destination path not exists
+2 Ошибка: путь к назначению не существует
+1 Adding/replacing files in <Destination>.
+2 Добавление/замена файлов в <Назначение>.
+1 Erasing files in <Destination>.
+2 Очистка файлов в <Назначение>.
+1 Sync (stage 1/2):
+2 Синхронизация (этап 1/2)
+1 Sync (stage 2/2):
+2 Синхронизация (этап 2/2)
+1 Sync complete
+2 Синхронизация завершена
+1 Elapsed:
+2 Прошло:
+1 Add/Err:
+2 Доб/Ош.:
+1 Repl/Err:
+2 Зам/Ош.:
+1 Del/Err:
+2 Уд/Ош.:
+1 Eject/Err:
+2 Извл/Ош.:
+1 Adding
+2 Добавление
+1 Deleting
+2 Удаление
+1 Replacing
+2 Замена
+1 Sync progress
+2 Индикатор синхронизации
+1 Single file copy progress
+2 Индикатор копирования одиночного файла
+1 JOBS
+2 Задачи
+1 Select and manage Jobs
+2 Выбор и управление задачами
+1 Test Paths
+2 Проверить пути
+1 Set filter to include/exclude files or folders from sync
+2 Назначить фильтры для включения/исключения файлов или папок из синхронизации
+1 Folder Selection
+2 Выбор папок
+1 RESET
+2 СБРОС
+1 Job selection
+2 Выбор задачи
+1 Load Job
+2 Загрузить задачу
+1 New Job
+2 Новая задача
+1 Duplicate Job
+2 Дублировать задачу
+1 Rename	F2
+2 Переименовать	F2
+1 Move Up	PgUp
+2 Сместить выше	PgUp
+1 Move Down	PgDn
+2 Сместить ниже	PgDn
+1 Delete Job
+2 Удалить задачу
+1 Delete Job	Canc
+2 Удалить задачу	Canc
+1 Show at Start
+1 INSTANT UPDATE
+2 Быстрые опции
+1 When you select a Job, loads his options immediately
+2 Когда вы выбираете задачу, ее опции немедленно загружаются
+1 Show me again
+2 Показ при старте
+1 Show job's window at start
+2 Показывать окно задач при запуске
+1 'F2' to rename Jobs
+'Del' to delete a job
+'Del+Shift' to delete a job without confirms
+'PagUp' to move Up an Item
+'PagDn' to move Down an Item
+2 'F2' - переименовать задачи
+'Del' - удалить задачу
+'Del+Shift' - удалить задачу без подтверждения
+'PagUp' - сместить элемент выше
+'PagDn' - сместить элемент ниже
+1 F1 = Open this window.
+
+F2 / Enter = Modify Paths.
+
+Del = Delete Paths couple.
+
+PagUp / PagDn = Move item up or down.
+
+Right Click = Test Path, Set Filters, Browse Paths.
+
+Alt+F4 = Exit program.
+
+Alt+F5 = Exit program without save settings.
+
+Right / Left = Switch between Sources and Destinations.
+
+Up / Down = Select previous / next item.
+
+Further Down = Add new couple of paths (Source and Destination).
+2 F1 = Открыть это окно.
+
+F2 / Enter = Изменить пути.
+
+Del = Удалить пару путей.
+
+PagUp / PagDn = Сместить элемент выше или ниже.
+
+Щелчок правой кнопкой мыши = тест пути, установка фильтров, обзор путей.
+
+Alt+F4 = Выйти из программы.
+
+Alt+F5 = Выйти из программы без сохранения настроек.
+
+Вправо/Влево(стрелки) = Переход между источником и назначением.
+
+Вверх/Вниз(стрелки) = Переход на предыдущий/следующий элемент.
+
+Далее вниз(стрелка) = Добавить новую пару путей (Источник и Назначение).
+1 ''Right Click'' to test paths and set filters
+''Enter'' to modify path
+''DEL'' to delete item
+''PagUp'' or ''PagDn'' to move item up or down
+2 ''Щелчок правой'' - тест путей и установка фильтров
+''Enter'' - изменить путь
+''DEL'' - удалить элемент
+''PagUp'' или ''PagDn'' - сместить элемент выше или ниже

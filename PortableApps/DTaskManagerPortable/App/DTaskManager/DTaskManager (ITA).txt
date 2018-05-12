@@ -1,0 +1,113 @@
+DTaskManager
+~~~~~~~~~~~~~~~~~~~
+
+
+La versione aggiornata si trova ai seguenti Link:
+
+Home:   "http://dimio.altervista.org/"
+
+
+DESCRIZIONE:
+~~~~~~~~~~~~
+
+DTaskManager è, ovviamente, un Task-Manager che è stato progettato specificamente per fornire una serie di funzionalità avanzate rispetto al TaskManager integrato di Windows, pur mantenendone le funzioni e il look.
+Le principali caratteristiche sono:
+
+1. DTaskManager è un programma stand-alone e non richiede setup, ciò ne rende agevole l'utilizzo come Tool portatile.
+
+2. Offre quattro differenti modalità per la chiusura di un processo:
+ - RICHIESTA DI CHIUSURA, come quando si preme sulla crocetta della barra del titolo.
+ - RICHIESTA DI TERMINAZIONE, simile a quella inviata dal SO al momento dello shutdown.
+ - TERMINAZIONE FORZATA.
+ - TERMINAZIONE DI OGNI TIPO DI PROCESSO CON BYPASS DI PERMESSI E PROTEZIONI, ciò lo rende in grado di terminare anche servizi e processi di sistema.
+
+3. E' possibile selezionare più processi contemporaneamente in modo da poterli killare insieme (utile con alcuni virus).
+
+4. Sospensione / riattivazione dell'esecuzione di un processo (come su Linux), utile ad es. per sospendere temporaneamente un task che occupa risorse ma che non si desidera terminare (tipo una codifica AVI).
+
+5. Rapida individuazione del file eseguibile associato ad un processo (Funzione "Find Target File") e visualizzazione del percorso dello stesso.
+
+6. Visualizzazione delle porte TCP/IP aperte dai vari processi (utile per l'identificazione di troyans e spyware) con possibilità di terminare connessioni TCP in atto o risalire immediatamente al processo incriminato.
+
+7. Dispone inoltre di molte altre caratteristiche minori, tra cui la visualizzazione del path dei processi attualmente in esecuzione, la selezione multilinea, la possiblità di avviare un processo con le credenziali di un altro utente, la possibilità di ottenere uno shutdown forzato e, non ultima, la mancata richiesta di inutili conferme per le varie operazioni.
+
+8. Possibilità di nascondere temporaneamente una o più finestre.
+
+9. Possibilità di visualizzare tutti i moduli (dll) caricati da un dato processo o, al contrario, visualizzare tutti i processi che fanno uso di un dato modulo (qesto può essere utile per sapere quale processo sta attualmente utilizzando un file).
+
+10. Possibilià di visualizzare l'elenco dei moduli che stanno girando nello spazio Kernel con il path associato (per lo più si tratta dei drivers di periferica).
+
+11. Possibilità di avviare un processo come altro utente (simile al servizio "Run As").
+
+12. E' anche possibile effettuare il lock/shutdown/reboot del sistema semplicemente da una voce di menu.
+
+13. Il tab "Performances" mostra informazioni più dettagliate.
+
+14. Sono implementate anche una serie di funzionalità minori che possono venire utili in ambiti particolari:
+  A. Possiblità di ridurre al volo il working set di tutti i processi.
+  B. Possibilità di rendere DTaskManager semi-trasparente in modo da vedere quello che sta succedendo al di sotto pur mantenendone il pieno controllo.
+  C. Visualizzazione numerica nella TrayBar per quel che riguarda l'occupazione della CPU.
+  D. Visualizzazione grafica della percentuale di occupazione della CPU da parte di un processo (permette di individuarlo immediatamente).
+  E. Possibilità di impostare al volo la priorità di tutti i processi non di sistema a Idle.
+  F. Il comando "Reveal All Windows" è in grado di visualizzare tutte le finestre associate ad un processo anche se nascoste.
+
+15. Tramite una apposita opzione è possibile effettuare la risoluzione degli IP locali e remoti in modo da poterli identificare con facilità, la medesima opzione permette di visualizzare anche i nomi dei servizi associati alle singole porte (se ve ne sono).
+
+16. Nel TAB delle porte, spuntando l'opzione "Show Bytes Exchanged", si può ottenere la visualizzazione dei bytes che vengono inviati e ricevuti da ogni porta, questo può essere utile per individuare se un processo sta generando traffico e valutarne l'entità.
+In ogni caso bisogna tenere presente che, in condizioni di pesante traffico LAN, mantenere selezionata l'opzione, può occupare molti cicli di CPU (infatti, per funzionare richiede di filtrare ogni singolo pacchetto IP).
+
+17. Se dal menu "Tools" si seleziona "Auto manage priority of processes", DTM provvederà a impedire che un processo blocchi il sistema monopolizzandone la CPU tramite la variazione della sua priorità. La gestione della priorità avviene comunque in maniera ragionata in modo da impedire che programmi come i software di masterizzazione si vedano ridurre la priorità (che in quei casi viene settata a ragione ad un valore elevato).
+
+18. Nel menu Tools è presente un'opzione che permette di ottenere un riscontro sonoro (beep) in caso l'utilizzo della CPU salga o scenda oltre un certo limite per un certo tempo. Questo può essere utile, ad esempio, per avere un avviso di quando un processo che occupa pesantemente la CPU termina.
+
+19. Sempre nel menu Tools, è possibile abilitare degli HotKey da associare allo shutdown del sistema: CTRL+ALT+F8 (lock workstation), CTRL+ALT+F9 (sound advise), CTRL+ALT+F10 (reboot), CTRL+ALT+F11 (shutdown regolare) e CTRL+ALT+F12 (shutdown forzato) e l'hotkey per avviare DTM in un Desktop separato, CTRL+ALT+BACKSPACE, (utile per riprendere il controllo del sistema in caso di crash dell'interfaccia grafica).
+
+21. Dal menu Options ---> Set Default Task Manager è possibile sostituire il Task Manager di windows con DTaskManager (ovviamente è possibile tornare indietro in qualsiasi momento).
+
+22. Nel menu contestuale del TAB Processes, è possibile impostare l'affinità per una o più CPU da parte di un processo attualmente in esecuzione.
+
+23. Non richiede inutili conferme su ogni operazione.
+
+
+LINEA DI COMANDO:
+~~~~~~~~~~~~~~~~~
+
+Nella linea di comando è possibile utilizzare le seguenti opzioni:
+
+/MINIMIZE
+/TRAYNUMERIC
+/END NomeProcesso|PID
+/KILL NomeProcesso|PID
+/KILLOVERRIDE NomeProcesso|PID
+/NORESOLUTIONCHECK
+
+
+COMPATIBILITA':
+~~~~~~~~~~~~~~~
+
+Il programma gira su Windows 2000 e superiori, a richiesta, ne esiste anche una versione per NT4 (più limitata).
+
+
+LICENZA:
+~~~~~~~~
+
+Il programma viene distribuito con la licenza Freeware. 
+Questo, tradotto in due parole, significa: il software è gratuito e potete usarlo come vi pare, anche integrarlo in pacchetti commerciali se volete. Le uniche cose che non sono permesse sono la decompilazione e la modifica dei sorgenti.
+
+
+PROGRAMMATORI:
+~~~~~~~~~~~~~~
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE  : katafratto
+ICQ    : 145633952
+E-MAIL : cyberdimio@gmail.com
+HOME   : http://dimio.altervista.org/
+
+
+NOTE:
+~~~~~
+
+- E' possibile che alcuni antivirus segnalino DTaskManager come un possibile spyware/Keylogger, cioè è dovuto al monitoraggio che esso fa della combinazione di tasti CTRL+SHIFT+ESC (popup del TaskManager) e CTRL+ALT+F11|12 (shutdown) e non è, ovviamente, da ritenersi pericolosa :-)
+
+- La maggior parte delle funzioni avanzate di DTaskManager sono disponibili solo se si è "Administrator".

@@ -1,0 +1,8 @@
+[Info]
+Title=Macromedia Dreamweaver 4.0
+Description=Erase Recent Files Of Macromedia Dreamweaver  4.0
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Macromedia\Dreamweaver 4\Recent File List
+HKEY_CURRENT_USER|Software\Macromedia\Dreamweaver 4\Temp File List

@@ -1,0 +1,58 @@
+pulse.interactive sonique plugin v1.02
+
+
+Programmed by Sascha Fraembs
+Copyright 2001 by pulse.interactive (http://www.pulse.nl)
+
+Pulse.Interactive is an interactive architect. We engage in a relationship with 
+our clients to empower them in every aspect of their interactive ventures. 
+First, we develop a strategy for them, then we create user-centric, interactive 
+productions and after that, we help them keep their interactive strategy at a 
+high level. Constantly exploring and expanding the outer limits of new media 
+architecture and design, we work with our clients to make their interactive 
+communication strong and effective. 
+
+
+
+Sonique Vis.ini settings:
+  base_flash=1 (default)       type of flash effect used on the plasma
+                               0 = no flashing
+                               1 = normal flash
+                               2 = heavy flash
+                               3 = disco flash
+
+
+  logo=1 (default)             0 = never visible
+                               1 = visible during silences
+                               2 = always visible
+
+
+  logo_move=1 (default)        0 = does nothing
+                               1 = rotates
+                               2 = rotation speed affected by music
+                               4 = pulses on music
+                               5 = rotates & pulses on music
+                               6 = rotates & pulses on music, rotation speed affected by music
+
+  show_framerate=0 (default)   0 = don't show frame rate
+                               1 = show frame rate
+
+
+
+Some words from the author:
+  I want to thank pulse.interactive for giving me the opportunity to write this visual in their
+  precious time, relieving me from other projects during development.
+
+  Greetings out to all,
+  SF... (sf@pulse.nl)
+
+  I almost forgot, please contact pulse.interactive and become a client. They will probably
+  encourage me to write more nice visuals in the future :)
+
+
+
+Copyright © 2001 Pulse.Interactive BV
+All rights reserved. This plugin may not be reproduced or altered in any
+form or by any electronic or mechanical means, including information
+storage and retrieval systems, without prior written permission of
+Pulse.Interactive BV.

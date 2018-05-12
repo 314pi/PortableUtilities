@@ -1,0 +1,36 @@
+1 Sector image
+2 Immagine del settore
+1 About
+2 Info
+1 Drive to operate
+2 Unità su cui agire
+1 Select sector
+2 Selezione settore
+1 Read commands
+2 Comandi di lettura
+1 Write commands
+2 Comandi di scrittura
+1 Logical Drive (BootSector)
+2 Unità logica (Sett. di avvio)
+1 Logical Drive
+2 Unità logica
+1 Physical Drive (MBR)
+2 Unità fisica (MBR)
+1 Physical Drive
+2 Unità fisica
+1 First sector (BootSector)
+2 Primo settore (Sett. di avvio)
+1 First sector (MBR)
+2 Primo settore (MBR)
+1 Specify a Sector
+2 Specifica un settore
+1 Number of continuous sectors to read
+2 Numero di settori contigui da leggere
+1 Read sector from disk
+2 Leggi settore da disco
+1 Load sector from file
+2 Carica settore da disco
+1 Save sector to File
+2 Salva settore su file
+1 Write sector on Disk
+2 Scrivi settore su disco

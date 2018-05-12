@@ -1,0 +1,7 @@
+[info]
+Title=Windows Defender
+Description=Removes Windows Defender Scan History
+
+[files]
+%commonappdata%\Microsoft\Windows Defender\Scans\History\Results\Quick\*.*
+%commonappdata%\Microsoft\Windows Defender\Scans\History\Results\Resource\*.*

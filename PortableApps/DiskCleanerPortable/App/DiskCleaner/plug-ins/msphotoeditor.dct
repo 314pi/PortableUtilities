@@ -1,0 +1,8 @@
+[Info]
+Title=Microsoft Photo Editor
+Description=Erase the recent files of Microsoft Photo Editor
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\Photo Editor\3.0\Microsoft Photo Editor|LastFile
+HKEY_CURRENT_USER|Software\Microsoft\Photo Editor\3.0\File Options|Path

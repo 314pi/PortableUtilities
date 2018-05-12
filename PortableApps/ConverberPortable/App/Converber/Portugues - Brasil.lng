@@ -1,0 +1,98 @@
+[0]
+1901=Tradução para o Português:  Charles Alves http://portatil.jaca.com.br
+
+[1]
+1001=
+
+[2]
+1101=&Arquivo
+1102=Sair
+1103=&Importar /Exportar
+1104=&Importar Favoritos
+1105=&Exportar Favoritos
+1106=&Editar
+1107=&Localizar
+1120=&Ferramentas
+1121=&Opções
+1122=&Copiar Resultados para área de transferência
+1123=&Mostrar unidades comuns
+1124=Mostrar &Todas as unidades
+1125=Arquivos
+1126=Arquivos de ajuda
+1127=Usar arquivo de ajuda instalado
+1128=Usar ajuda online
+1129=&Gravar posição e tamanho da janela
+1130=&Transparência
+1131=&Idioma
+1133=&Digítos significantes
+1134=&Precisão de pontos decimais
+1135=&Notação Cientifíca
+1136=Arquivos de configuração
+1137="e" Indica um &Expoente
+1138="E" Indica um &Expoente
+1139=&Usar arquivos de configuração múltiplos(padrão)
+1140=&Usar arquivo de configuração único(USB Drive)
+1141=Atualizações
+1142=Verificar &atualizações
+1143=Verificar novas &versões
+1144=Verificar arquivos de &conversões
+1145=Verificar arquivo de &linguagem
+1146=Verificar as atualizações no início do programa
+1150=&Editor de conversões
+1151=F&avoritos
+1152=&Adicionar aos favoritos
+1153=&Excluir favoritos
+1154=Apagar &tudo
+1171=&Troca
+1181=&Ajuda
+1182=&Conteúdo
+1183=&Informar Bug
+1184=&Sobre
+
+[3]
+1202=&Ok
+1203=&Cancelar
+1204=&Novo
+1205=&Adicionar
+1206=&Excluir
+1207=&Atualizar
+1208=&Exibir
+1211=Créditos
+1212=Ícones
+1213=Usados com permissão de FOOOD's Icons
+1220=Introdução
+1221=Desenvolvido por
+1222=Versão
+1223=Copyright
+1224=Pasta de instalação
+1230=Geral
+1250=Facor
+1251=&Mostrar arquivo
+1252=Unidade
+1253=-OU- Equação requer espaços
+1254=&Categoria
+1255=&Relacionar unidade com
+
+[4]
+1301=Erro
+1302=existe
+1303=Você gostaria de fazer o download da última versao?
+1304=Não há atualizações
+1305=Não há arquivo ajuda. Gostaria de ver a ajuda on-line?
+1306=Há um novo arquivo de conversão disponível
+1307=há um novo arquivo de idioma
+1308=Você quer atualizar seu arquivo automaticamente?
+1311=Não há arquivo de conversão
+1312=Por favor, reinstale.
+1313=Novo arquivo de conversão
+1314=O seguinte arquivo de conversão foi encontrado
+1315=Você quer usar este arquivo?
+1316=O seguinte arquivo de conversão será excluído
+1317=Você quer excluir este arquivo?
+1318=Você deve escolher um arquivo de conversão
+1319=Não posso
+1320=Existe uma entrada vazia
+1321=As unidades escolhidas já existem.
+1323=Entre com o nome de seu novo arquivo de conversão, sem a extensão
+1324=Tem certeza?
+1325=Uma das unidades selecionadas já existe em outra categoria

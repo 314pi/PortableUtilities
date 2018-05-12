@@ -1,0 +1,113 @@
+HDHacker
+~~~~~~~~
+
+La versione aggiornata si trova al seguente Link:
+
+Home:   "http://dimio.altervista.org/"
+
+
+DESCRIZIONE:
+~~~~~~~~~~~~
+
+HDHacker è una mini utilità (Freeware) che permette, da Windows, di salvare, visualizzare o ripristinare l'MBR, il Boot Sector o anche un qualsiasi altro settore a piacimento di un Hard Disk o di un Floppy.
+
+
+UTILIZZO:
+~~~~~~~~~
+
+Come prima cosa è necessario scegliere se operare su di un drive logico o fisico.
+Se si sceglie un drive fisico il primo settore corrisponderà all'MBR, mentre se si sceglie un drive logico il primo settore sarà il Boot Sector.
+
+A questo punto è possibile effettuare una delle seguenti operazioni:
+
+"READ SECTOR FROM DISK"
+Carica in memoria il settore specificato leggendolo dal disco.
+
+"LOAD SECTOR FROM FILE"
+Carica in memoria un settore precedentemente salvato in un file.
+
+"SAVE SECTOR TO FILE"
+Salva in un file il settore attualmente in memoria.
+
+"WRITE SECTOR ON DISK"
+Scrive su disco il settore attualmente in memoria nella posizione specificata.
+
+Quindi, per salvare ad es. l'MBR, bisognerà:
+1. Selezionare Physical Drive.
+2. Premere "READ SECTOR FROM DISK"
+3. Premere "SAVE SECTOR TO FILE" per salvare l'MBR in un file.
+
+Mentre per ripristinarlo i passaggi saranno:
+1. Selezionare Physical Drive.
+2. Premere "LOAD SECTOR FROM FILE" e selezionare il file precedentemente salvato.
+3. Premere "WRITE SECTOR ON DISK" per completare la procedura.
+
+Il programma funziona solamente se si è "Administrator", infatti richiede che l'utente abbia i permessi di lettura/scrittura in qualsiasi parte del disco.
+
+Ovviamente, se l'MBR/BootSector vengono danneggiati, Windows non riuscirà ad avviarsi ed è quindi impossibile utilizzare HDHacker per ripristinare lo stato precedente.
+In questa situazione si può utilizzare una Live di Windows avviabile da CD o da Chiavetta USB che permetta di far funzionare HDHAcker. Personalmente consiglio l'ottimo Hiren's Boot CD che integra HDHacker tra le varie utilities.
+In alternativa è possibile creare preventivamente un disco di emergenza che consente di avviare Windows anche con un MBR/BootSector danneggiato (http://support.microsoft.com/kb/314079), una volta fatto questo si potrà utilizzare HDHacker per ripristinare l'MBR/BootSector salvati precedentemente.
+
+
+ALTRE OPZIONI:
+~~~~~~~~~~~~~~
+
+Volendo è possibile specificare la posizione specifica del settore che si vuole andare a leggere. E' anche possibile leggere più settori contigui di seguito fino ad un massimo di 16, ciò può essere utile in quei casi in cui ci si trovi ad aver a che fare con MBR particolarmente grandi che occupano più di un settore.
+Ora è anche possibile editare i settori visualizzati (ciò è ovviamente molto pericoloso e andrebbe fatto solo da utenti esperti).
+Infine un'ultima opzione è quella che consente di confrontare uno o più settori caricati nel programma con degli analoghi settori su disco o salvati in precedenza sotto forma di file.
+
+
+LINEA DI COMANDO:
+~~~~~~~~~~~~~~~~
+
+Sono disponibili quattro combinazioni di parametri da usarsi con la linea di comando, essi servono rispettivamente per leggere o scrivere su disco un dato numero di settori e salvarli/leggerli a loro volta in un file.
+
+/SAVELogicalOnFile Drive Filename StartSector SectorCount
+
+Per salvare un dato numero di settori di un'unità logica su di un file.
+
+/SAVEPhysicalOnFile NumDrive Filename StartSector SectorCount
+
+Per salvare un dato numero di settori di un'unità fisica su di un file.
+
+/SAVEFileOnLogical FileName StartSector Drive
+
+Per salvare il contenuto di un file su di un drive logico a partire dal settore indicato.
+
+/SAVEFileOnPhysical FileName StartSector NumDrive
+
+Per salvare il contenuto di un file su di un drive fisico a partire dal settore indicato.
+
+
+COMPATIBILITA':
+~~~~~~~~~~~~~~~
+
+HDHacker è stato testato solo su sistemi NT.
+
+
+NOTE:
+~~~~~
+
+Il programma è stato scritto in una circostanza specifica:
+su di un PC con Linux e Win2000 e con LILO come boot manager c'era la necessità di reinstallare Windows (cosa che avrebbe sovrascritto LILO e reso inaccessibile Linux).
+HDHacker in questo caso permette di salvare l'MBR (con LILO), reinstallare Win2000 e di ripristinare poi LILO da Windows.
+
+Il programma utilizza la tecnologia UPX (http://upx.sourceforge.net/) per aumentarne la portatilità.
+
+
+LICENZA:
+~~~~~~~~
+
+Il programma viene distribuito con la licenza Freeware. 
+Questo, tradotto in due parole, significa: il software è gratuito e potete usarlo come vi pare, anche integrarlo in pacchetti commerciali se volete. Le uniche cose che non sono permesse sono la decompilazione e la modifica dei sorgenti.
+
+
+
+PROGRAMMATORI:
+~~~~~~~~~~~~~~
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE  : katafratto
+ICQ    : 145633952
+E-MAIL : cyberdimio@gmail.com
+HOME   : http://dimio.altervista.org/

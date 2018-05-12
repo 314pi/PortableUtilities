@@ -1,0 +1,8 @@
+[Info]
+Title=Feedreader Cache
+Description=Clears Feedreader's cache of read articles
+Process=feedreader.exe
+Application=Feedreader
+
+[files]
+%appdata%\Feedreader\cache\*.* /s

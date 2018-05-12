@@ -1,0 +1,292 @@
+; ФАЙЛ РУСИФИКАЦИИ
+; кАЖДАЯ СТРОКА !!!НАЧИНАЮЩАЯСЯ!!! С ";" ОЗНАЧАЕТ КОММЕНТАРИЙ
+Вы уверены, что хотите это удалить?
+Доступна новая версия! Хотите, чтобы я открыл Веб-узел, откуда Вы сможете загрузить её?
+У Вас уже есть последняя версия!
+Возникли некоторые ошибки... Попробуйте позднее ещё раз...
+Очистить
+Название программы
+&Файл
+Фи&льтры
+Ф&ункции
+&Настройки
+&Язык
+С&правка
+&Выход
+Показать только «битые ссылки»
+&Обновить список
+Поиск обновлений программы
+Показать сетку
+Помощь
+Программное обеспечение ZSoft
+
+&О программе
+Удалить
+Вычеркнуть
+Вам следует использовать хотя бы 3 символа!
+&Экспортировать список
+Текст (*.txt)|*.txt|Все файлы (*.*)|*.*
+У&далить
+&Стереть
+По&мощь
+Показать только «гнилой продукт»
+Не показывать скрытые ссылки
+Скрыть
+Править скрывающий фильтр
+Править скрывающий фильтр
+Удалить отмеченное из списка, и больше не прятать
+Показано программ - %d!
+Инфо
+«Деинсталятор ZSoft» приветствует Вас!\n\nЗдесь Вам будут выдаваться сведения по ходу дела, и потому глаз отсюда не отрывайте ;).\n\nШутка :o)
+Ждём завершения программы деинсталляции %s.
+Программа %s теперь удалена.\n\nСписок обновлён!
+Не могу запустить программу деинсталляции %s.
+;
+; ОКНО О ПРОГРАММЕ:
+;
+О деинсталляторе ZSoft
+- О б . . . -\nДеинсталлятор - маленькая, бесплатная, легковесная программа,\nкоторая имеет приблизительно те же свойства, что и встроенная\nв Microsoft Windows функция.\n- Только Деинсталлятор быстрее грузится.\n\nВ основном, Деинсталлятор был написан для себя, потому что я думаю,\nзапускать встроенную в Windows XP функцию деинсталляции,\nвоистину медвежья услуга...\n\nПомните, что ответственность за любое использование этой\nпрограммы полностью ложится на Вас самих, и, что программист\nне может отвечать за потерю данных и т.п.!\n\n- Б л а г о д а р н о с т и -\nВ эту программу вошли коды из следующих проектов:\nToolbar2000 & TBX (компоненты, которые придали\nэтой программе приятный вид)\nIndy (компоненты, включившие интернет)\nWisnu Aribowo (за этот движущийся текст)\n\n- А в т о р с к и е   п р а в а -\nАвторское право (C) 2004-2005 на этот\nпрограммный продукт принадлежит ZSoft.\n\nАвторские права (c) 1993 - 2003 на части\nэтого программного продукта принадлежат Chad Z.\nHower (Kudzu) и Indy Pit Crew - IndyProject.org\n\n- П е р е в о д -\nПеревод интерфейса программы и\nсправки на русский язык сделал Александр Шикин\nserfilin@hotmail.ru
+&Закрыть
+Показать/править сведения
+Просмотр/правка сведений
+Название
+Значение
+Сохранить
+Отмена
+Изменить
+OK
+Отмена
+Выбрать шрифт (только из списка)
+Разбор
+Просмотр установки
+Приветствую!
+Этот проводник проведёт Вас через процесс, в котором Вы можете либо исследовать установку, либо полностью удалить ранее просмотренную программу.
+Что Вы собираетесь сделать?
+Исследовать установку
+Удалить ранее просмотренную программу
+Отмена
+Далее >>
+Прежде, чем Вы начнёте установку, нужно создать «слепок» Вашего компьютера. Ниже отметьте какой из жёстких дисков Вы хотите исследовать. Обычно достаточно: диск C и (если не всё равно) диск для Вашей установки.
+Диски
+До установки
+После установки
+Файлов (прибл.): 
+Ключей (прибл.): 
+Прошло времени (сек.): 
+Сравнение... Пожалуйста, подождите!
+Введите название приложения
+Ниже введите название приложения, установленного Вами.
+Ошибка: Файл @ существует. Введите название приложения
+Ошибка: Файл существует. Ниже введите неповторимое название приложения, установленного Вами.
+Задание завершено. Теперь закройте окно.
+Ниже выбирете, какую из ранее исследованных программ, Вы хотите удалить.
+Теперь подтвердите следующее:
+Я понимаю, что делаю это под собственную ответственность
+Я понимаю, что удалённые файлы не могут быть восстановлены
+Я не привлеку программиста к ответу за утерю данных и т.п.
+Удалить
+Вы должны выбрать, какую программу хотите удалить!
+Вы должны подтвердить согласие: 
+Я не буду подтверждать каждое удаление
+Файл "%s" – новый. Хотите удалить его?
+Хотите удалить файл?
+Хотите удалить файл протокола?
+Удалить файл протокола?
+Удалено: 
+Не удаётся удалить папку "%s": возможно она не пуста
+Кажется %d файл(а/ов) стёрт(ы), а это средство не для восстановления!
+Ключ реестра "%s" не пуст и не может быть удалён!
+Неверный протокол!
+Сделано
+Вставить новый пункт
+Удалить (отменить невозможно)
+Новое значение:
+Название нового пункта:
+Содержание нового пункта:
+Вы уверены, что хотите удалить этот пункт из реестра?\nПожалуйста, имейте ввиду, что это нельзя отменить!\nХотите продолжить?
+Вы уверены?
+Установленные программы
+Исследованные программы
+&Врем. файлы
+Начать поиск
+Остановить
+Искать на диске:
+Название файла
+Расширение
+Место
+Размер
+Поиск прерван пользователем
+Искать в: 
+Поиск завершён
+Удалить файл(ы) (отменить нельзя)
+Вы уверены?
+Вы уверены, что хотите удалить этот/эти файл(ы)?\nПожалуйста, имейте ввиду, что это нельзя отменить!\nХотите продолжить?
+Вероятно папка осталась
+Кажется, программа была установлена в эту папку:\n%s\nТак ли это?\nЖелаете папку удалить? (Это не обратимо!)
+Резервировать и &удалить файл(ы)
+Вы уверены?
+Это удалит выбранные файлы. Однако, если пожелаете, то позже Вы сможете восстановить их.\nХотите продолжить?
+Резерв
+Вернуть
+Переименовать
+Ниже впишите желаемое имя
+Переименовать
+Стереть
+Некоторые файлы и/или записи реестра невозможно удалить. Попробую снова в следующий раз, когда Вы запустите эту программу!
+Не могу найти справочный файл!
+Не обнаружено
+Значение должно быть целым числом!
+Значение должно быть выбрано, и если это целое число, то станет именно таким!
+Строка
+Расширенная строка
+Целое число
+Продолжить «старый» разбор
+Возникла ошибка при попытке создать папку, функция не будет продолжена.
+Ошибка!
+Показать записанное инфо
+Список пропусков
+Раздел
+Место
+Править список пропусков
+Вставить
+Удалить
+Раздел:
+Место:
+Обзор
+Эту директорию следует опустить
+Файл
+Реестр
+Отмена
+Вставить это
+Поиск:
+Приоритет удаления
+Высокий
+Обычный
+Низкий
+Пункт уже пропущен.
+Вы верно заполнили форму.
+Установки
+Минуя запасник «Internet Explorer»
+Минуя запасник (кэш) «Firefox»
+Прибл. размер:
+Время установки:
+Время изменения:
+Последний вызов:
+Не показывать обновления Windows
+Вернуть всё
+Показать только новые ссылки
+Отметить новые ссылки
+Скрытые программы
+;
+; NEW STUFF - TRANSLATERS THIS IS WHAT NEEDS TO BE TRANSLATED!
+;
+Registry Browser
+Delete files to recycle bin
+Show Icons
+The file '%s' couldn't be found. Backup (might be) broken.
+Save as...
+As big icons
+As small icons in the list
+Couldn't be deleted: 
+Directory deleted: 
+Registry entry deleted: 
+Registry entry created: 
+Registry entry NOT created: 
+Registry entry NOT deleted: 
+Registry key deleted: 
+Registry key created: 
+Registry key NOT created: 
+Please stand by...
+Delete to recycle bin
+Delete File(s) to Recycle Bin
+Are you sure you want to delete this/these file(s) to the recycle bin?
+Select All
+%d files found, totaling %s.
+Sort List After
+Name (ascending)
+Name (descending)
+Time (ascending)
+Time (descending)
+Remove from Hidden List
+Edit
+Filesystem
+Registry
+Edit Analyzed Log
+You have made changes in the logfile. Do you want to save these changes?
+Do you want to save your changes?
+Change Background Color Of
+Add item to ignore-list (Analyze-feature)
+In this window you can see (and navigate) the recorded changes made by the analyzed installation. You can delete items from the log (a backup will be created, just in case), and you can add folders and keys to the ignore list, so they won't be recorded in the future.
+Empty Folders Finder
+Scan this directory for empty folders:
+Only scan top-level
+Start Scan
+Dir
+Scan this directory
+Remove Selected
+Tools
+Startup Manager
+Name
+Launches
+Disable
+Enable
+Copy program name to clipboard
+Text '%s' copied to clipboard!
+Hide Search-Bar
+The program %s should now be uninstalled. Do you want to search for leftovers?
+Search for leftovers?
+I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
+Next >>
+Jump To
+Go one level up
+Place
+Type
+Path
+Value
+Post Uninstall Manager
+Program Name
+Perform Post Uninstall on selected program
+By
+Version
+Open Install Folder
+Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
+Do you want to save a new logfile?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

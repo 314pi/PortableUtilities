@@ -1,0 +1,7 @@
+[Info]
+Title=CuteHTML 
+Description=Erase CuteHTML Recent Files
+
+
+[registry]
+HKEY_CURRENT_USER|Software\GlobalSCAPE\CuteHTML\1.X\Recent File List

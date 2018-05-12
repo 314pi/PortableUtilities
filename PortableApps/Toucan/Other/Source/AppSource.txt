@@ -1,0 +1,6 @@
+The source code for Toucan, 7-Zip & CCrypt are available from the Toucan homepage:
+http://portableapps.com/Toucan
+
+All of the small icons apart from the 'Add Variable' icon (which is a mash-up of two of the other icons) are from the Oxygen icon set which is licensed under the GNU LGPL.
+
+The large icons are copyright Neorame and in the app directory

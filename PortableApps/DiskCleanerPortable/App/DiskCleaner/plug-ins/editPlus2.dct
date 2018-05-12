@@ -1,0 +1,9 @@
+[Info]
+Title=EditPlus2
+Description=Cleans EditPlus2
+Icon=Disk Cleaner.ICO
+Creator=AC
+
+[registry]
+HKEY_USERS|.DEFAULT\SOFTWARE\ES-Computing\EditPlus 2\Recent Dir List
+HKEY_USERS|.DEFAULT\SOFTWARE\ES-Computing\EditPlus 2\Recent File List

@@ -1,0 +1,32 @@
+What's new in IObit Uninstaller 7:
+
+v7.3
++ Quicker program startup. 
++ Expanded database to remove more stubborn programs.
++ Optimized the algorithm to support removing more Windows 10 apps.
++ Fixed the occasional failure in removing Firefox plug-ins.
++ Updated multiple languages.
+* Fixed bugs.
+
+v7.2
++ Expanded database to remove 220+ new malicious toolbars & plug-ins.
++ Enhanced scan engine for more thorough and faster scan.
++ Improved File Shredder to increase the deletion speed by 10%.
++ Updated multiple languages.
+* Fixed all known bugs. 
+
+v7.1
++ Newly supported completely uninstalling the stubborn Avira System Speedup and Yet Another Cleaner. 
++ Expanded database to remove 200+ new malicious toolbars & plug-ins.
++ Supported removing plug-ins & extensions of the latest Microsoft Edge.
++ Optimized Cleanup Residual to speed up scan and deletion by 20%.
+* Fixed all known bugs.
+
+v7.0
++ Newly supported removing bundleware & bundled plugins completely.
++ Added Software Updater to update important programs easily and quickly.
++ Enhanced scan engine for faster and more thorough scan.
++ Improved uninstall process for better user experience.
++ Supported two skins: White & Classic.
++ Supported 38 languages.
+* And more can be discovered by you.

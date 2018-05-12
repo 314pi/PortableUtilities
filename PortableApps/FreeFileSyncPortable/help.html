@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>FreeFileSync Portable Help</title>
+<link rel="alternate" href="http://portableapps.com/feeds/general" type="application/rss+xml" title="PortableApps.com">
+<link rel="shortcut icon" href="Other/Help/Images/Favicon.ico">
+<style type="text/css">
+	body {
+		font-family : Verdana,Arial,Helvetica,sans-serif;
+		font-size   : 76%;
+		color       : black;
+		margin      : 20px;
+		background  : #e6e8ea;
+		text-align  : center;
+	}
+	a {
+		color       : #b31616;
+		font-weight : bold;
+	}
+	a:link, a:visited, a:active {}
+	a:hover {
+		color : red;
+	}
+	h1, h2, h3, h4, h5, h6 {
+		font-family : Arial, sans-serif;
+		font-weight : normal;
+	}
+	h1 {
+		color          : #b31616;
+		font-weight    : bold;
+		letter-spacing : -2px;
+		font-size      : 2.2em;
+		border-bottom  : 1px solid silver;
+		padding-bottom : 5px;
+	}
+	h2 {
+		font-size      : 1.5em;
+		border-bottom  : 1px solid silver;
+		padding-bottom : 3px;
+		clear          : both;
+	}
+	h3 { font-size : 1.2em; }
+	h4 { font-size : 1.1em; }
+	h5 { font-size : 1.0em; }
+	h6 { font-size : 0.8em; }
+	img { border : 0; }
+	ol, ul, li, p, pre, table, tr, td, th { font-size : 1.0em; }
+	pre { font-family : monospace; }
+	strong, b { font-weight : bold; }
+	td, th {
+		border          : 1px solid #aaaaaa;
+		border-collapse : collapse;
+		padding         : 3px;
+	}
+	th {
+		background : #3667a8;
+		color      : white;
+	}
+	ol ol { list-style-type : lower-alpha; }
+	.content {
+		text-align       : left;
+		margin-left      : auto;
+		margin-right     : auto;
+		width            : 780px;
+		background-color : white;
+		border-left      : 1px solid black;
+		border-right     : 1px solid black;
+		padding          : 12px 30px;
+		line-height      : 150%;
+	}
+	.logo {
+		background   : white url("Other/Help/Images/Help_Background_Header.png") repeat-x;
+		width        : 840px;
+		margin-top   : 20px;
+		margin-left  : auto;
+		margin-right : auto;
+		text-align   : left;
+		border-right : 1px solid black;
+		border-left  : 1px solid black;
+	}
+	.footer {
+		background   : white url("Other/Help/Images/Help_Background_Footer.png") repeat-x;
+		width        : 840px;
+		height       : 16px;
+		margin-left  : auto;
+		margin-right : auto;
+		text-align   : left;
+		border-right : 1px solid black;
+		border-left  : 1px solid black;
+	}
+	.logo img {
+		padding-left : 0px;
+		border       : none;
+		position     : relative;
+		top          : -4px;
+	}
+	* html .content { width : 760px; }
+	* html .logo, * html .footer { width : 820px; }
+	.content h1 { margin : 0px; }
+	h1.hastagline { border : 0; }
+	h2.tagline {
+		color      : #747673;
+		clear      : none;
+		margin-top : 0em;
+	}
+
+	/* printer styles */
+	@media print {
+		body, .content {
+			margin  : 0;
+			padding : 0;
+		}
+		.navigation, .locator, .footer a, .message, .footer-links { display : none; }
+		.footer, .content, .header { border : none; }
+		a {
+			text-decoration : none;
+			font-weight     : normal;
+			color           : black;
+		}
+	}
+</style>
+</head>
+
+<body>
+<div class="logo"><a href="http://portableapps.com/"><img src="Other/Help/Images/Help_Logo_Top.png" alt="PortableApps.com - Your Digital Life, Anywhere"></a></div>
+<div class="content">
+<h1 class="hastagline">FreeFileSync Portable Help</h1>
+<h2 class="tagline">synchronize files and folders</h2>
+<p>FreeFileSync helps you synchronize files and synchronize folders. Its design is focussed on user productivity and runtime performance to help get your work done quickly without getting in the way. <a href="http://freefilesync.sourceforge.net/index.php">Learn more about FreeFileSync...</a></p>
+
+<p><a href="http://portableapps.com/donate"><img src="Other/Help/Images/Donation_Button.png" style="vertical-align:middle" alt="Make a Donation"></a> - Support PortableApps.com's Hosting and Development</p>
+
+<p><a href="http://portableapps.com/apps/utilities/freefilesync-portable">Go to the FreeFileSync Portable Homepage &gt;&gt;</a></p>
+<p><a href="http://portableapps.com/">Get more portable apps at PortableApps.com</a></p>
+
+<p>This software is OSI Certified Open Source Software. OSI Certified is a certification mark of the Open Source Initiative.</p>
+
+<h2>FreeFileSync Portable Issues</h2>
+<p>Save any configuration files (*.ffs_*) to "App\FreeFileSync" (which should be the default).</p>
+<p>To use any of the following features, copy "\FreeFileSyncPortable\Other\Source\FreeFileSyncPortable.ini" to "\FreeFileSyncPortable" then edit the relevant entry.</p>
+<p><strong>AdditionalParameters</strong>: Batch jobs
+<ul>
+<li>If you run batch jobs (*.ffs_batch) using AdditionalParameters, make sure the entry points to a file in "App\FreeFileSync" & not "Data\ffs" (these files are not present when the app is running) eg: AdditionalParameters="X:\PortableApps\FreeFileSyncPortable\App\FreeFileSync\job.ffs_batch". Paths with spaces must be quoted.</li>
+</ul></p>
+<p><strong>RealtimeSync</strong>: RealtimeSync.exe
+<ul>
+<li>The RealtimeSync entry allows you to run "RealtimeSync.exe" instead of "FreeFileSync.exe".</li>
+<li>Values: true / false</li>
+<li>Default: false</li>
+</ul></p>
+<h2>FreeFileSync Issues</h2>
+<ul>
+<li><a href="http://sourceforge.net/projects/freefilesync/forums/">FreeFileSync Support</a></li>
+</ul>
+
+<h2>Portable App Issues</h2>
+<ul>
+	<li><a href="http://portableapps.com/support/portable_app#downloading">Downloading a Portable App</a></li>
+	<li><a href="http://portableapps.com/support/portable_app#installing">Installing a Portable App</a></li>
+	<li><a href="http://portableapps.com/support/portable_app#using">Using a Portable App</a></li>
+	<li><a href="http://portableapps.com/support/portable_app#upgrading">Upgrading a Portable App</a></li>
+</ul>
+<p>You can read about advanced configuration options for the PortableApps.com Launcher in its <a href="Other/Source/Readme.txt">readme file</a>.</p>
+</div>
+<div class="footer"></div>
+</body>
+</html>

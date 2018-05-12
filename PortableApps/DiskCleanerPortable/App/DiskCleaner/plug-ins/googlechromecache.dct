@@ -1,0 +1,8 @@
+[Info]
+Title=Google Chrome Cache
+Description=Erase Google Chrome browser cache
+Process=chrome.exe
+Application=Google Chrome
+
+[files]
+%localappdata%\Google\Chrome\User Data\Default\Cache\*.* /s

@@ -1,0 +1,7 @@
+[Info]
+Title=MS Imaging
+Description=Erase MS Imaging Recent Files
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Kodak\Imaging\Recent File List

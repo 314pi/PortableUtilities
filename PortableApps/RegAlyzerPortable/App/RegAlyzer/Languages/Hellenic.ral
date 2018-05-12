@@ -1,0 +1,393 @@
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFCFCFFFCFCFFFFFFFFFFFFFFFFFFFDFDFFFFFFFFFFFCFCFCFCFCFCFCFCFCFDFDFCFCFFFCFCFFFFFFFFFFFFFFFFFFFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFCFCFCFCFCFFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+
+[Main]
+FontCharset=161
+FontName=MS Sans Serif
+FontSize=8
+HelpFile=Help\English.chm
+LanguageName=Hellenic (Ελληνικά)
+Use=Χρήση Ελληνικής γλώσσας
+
+[Dialogs]
+ButtonAbort=Ακύρωση
+ButtonAll=Όλα
+ButtonCancel=’κυρο
+ButtonHelp=Βοήθεια
+ButtonIgnore=Παράβλεψη
+ButtonNo=Όχι
+ButtonNoToAll='Οχι σε όλα
+ButtonOK=OK
+ButtonRetry=Επανάληψη
+ButtonYes=Ναί
+ButtonYesToAll=Ναί σε όλα
+DialogTitleConfirmation=Επιβεβαίωση
+DialogTitleError=Λάθος
+DialogTitleInformation=Πληροφορίες
+DialogTitleWarning=Προειδοποίηση
+DialogTitleCustom=Προσωπικό
+
+[formSearch]
+bnCancel=’κυρο
+bnSearch=Εύρεση
+bnStop=Διακοπή
+
+[Forms]
+formAbout=Πληροφορίες
+formBookmarks=Σελιδοδείκτες
+formEditInteger=Αλλαγή αριθμητικών δεδομένων
+formEditString=Τροποποίηση δεδομένων χαρακτήρων
+formRemoteConnect=Σύνδεση με απομακρυσμένο μητρώο
+formSearch=Εύρεση
+formRegalyzer=RegAlyzer
+formMain=RegAlyzer
+formEditMultiString=Αλλαγή multi-string τιμής
+formEditResourceRequirementsList=Εμφάνιση λίστας απαιτήσεων πηγών
+
+[formSearch.alSearch]
+aReplace=&Αντικατάσταση
+aSearchResultsDeSelectAll=Α&ποεπιλογή όλων
+aSearchResultsDeSelectData=Αποεπιλογή αποτελεσμάτων δεδομένων
+aSearchResultsDeSelectKeys=Αποεπιλογή αποτελεσμάτων κλειδιών
+aSearchResultsDeSelectValues=Αποεπιλογή αποτελεσμάτων τιμών
+aSearchResultsExport=Εξαγωγή...
+aSearchResultsExportAll=&Εξαγωγή όλων...
+aSearchStart=Αναζήτηση
+aSearchResultsSelectValues=Επιλογή αποτελεσμάτων τιμών
+aSearchResultsSelectKeys=Επιλογή αποτελεσμάτων κλειδιών
+aSearchResultsSelectData=Επιλογή αποτελεσμάτων δεδομένων
+aSearchResultsSelectAll=Ε&πιλογή όλων
+aSearchResultsExportSelected=Εξαγωγή &μόνο επιλεγμένων...
+aSearchResultsExportKeyContents=Επιλογή: Εξαγωγή περιεχομένων των αποτελεσμάτων κλειδιών επίσης
+
+[formAbout]
+bnOK=OK
+labelCopyright2=Πνευματικά δικαιώματα κατοχυρωμένα.
+Label1=Copyright © 2000-2007 Safer-Networking Limited. Πνευματικά δικαιώματα κατοχυρωμένα.
+labelCopyright=Copyright © 2000-2007 Safer-Networking Limited.
+memoCredits=Credits go to: %0D%0AEnrico Maria Biancarelli (suggestions, italian translation)%0D%0AAndrey V. Sorokin (code for regular expressions)%0D%0AHevesi Janos (magyar translation)%0D%0AQuan Qi Tang (chinese simplified translation)%0D%0Aliwk (chinese traditional translation)%0D%0AnickW (french translation)%0D%0ADavid (spanish translation)
+
+[formBookmarks]
+bnCancel=’κυρο
+bnOK=OK
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Προσθήκη σελιδοδείκτη...
+aBookmarkDelete=Διαγραφή σελιδοδείκτη
+aBookmarkRename=Μετονομασία σελιδοδείκτη...
+aFolderAdd=Προσθήκη φακέλου...
+aFolderDelete=Διαγραφή φακέλου
+aFolderRename=Μετονομασία φακέλου...
+aSortOneLevel=Ταξινόμηση ενός επιπέδου
+aFolderExportOneLevel=Εξαγωγή ενός επιπέδου
+aFolderExportRecursive=Επαναληπτική εξαγωγή
+aSortRecursive=Επαναληπτική ταξινόμηση
+
+[formEditInteger]
+bnCancel=’κυρο
+bnOK=OK
+labelValue=Όνομα τιμής:
+labelDataHex=Δεδομένα τιμής (δεκαεξαδικά):
+labelDataDecimal=Δεδομένα τιμής (δεκαδικά):
+labelDataBinary=Δεδομένα τιμής (δυαδικά):
+
+[formEditMultiString]
+bnCancel=’κυρο
+bnOK=OK
+labelData=Δεδομένα τιμής:
+labelValue=Όνομα τιμής:
+
+[formEditResourceRequirementsList]
+bnCancel=’κυρο
+bnOK=OK
+labelBusNumber=Αριθμός Bus:
+labelInterfaceType=Τύπος Interface:
+labelSlotNumber=Αριθμός Slot:
+lvList.Items=Τύπος%0D%0AΕλάχιστη διεύθυνση%0D%0AΜέγιστη διεύθυνση%0D%0AΜήκος%0D%0AΣτοίχιση%0D%0AΕπιλογές%0D%0A
+
+[formEditString]
+bnCancel=’κυρο
+bnOK=OK
+labelData=Δεδομένα τιμής:
+labelValue=Όνομα τιμής:
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.alMain]
+aAbout=Περί...
+aBookmarksManage=&Διαχείριση σελιδοδεικτών
+aFileConnectReg=&Σύνδεση με απομακρυσμένο μητρώο...
+aFileExit=Έ&ξοδος
+aFileOpenReg=’&νοιγμα αρχείου μητρώου...
+aHelpContents=Περιεχόμενα
+aHelpIndex=Ευρετήριο
+aInfoDBRefreshEntry=Ανανέωση
+aInfoDBSaveValueInfo=Αποθήκευση πληροφοριών τιμής
+aInfoDBSaveKeyInfo=Αποθήκευση πληροφοριών κλειδιού
+aInfoDBStoreEntry=Αποθήκευση
+aKeyAdd=&Νέο κλειδί...
+aKeyAddBookmark=Προσθήκη στους σελιδοδείκτες...
+aKeyBack=Πίσω
+aKeyCopyPath=Αντιγραφή ονόματος κλειδιού στο πρόχειρο
+aKeyDelete=&Διαγραφή κλειδιού
+aKeyExport=&Εξαγωγή...
+aKeyImport=Ε&ισαγωγή...
+aKeyForward=Μπροστά
+aKeyJump=Πήγαινε στο κελιδί...
+aKeyRefresh=Ανανέωσ&η
+aKeyRename=&Μετονομασία κλειδιού...
+aMenuHelp=Βοήθεια
+aSearch=Ανα&ζήτηση...
+aSecurityInformationExportToClipboard=Αντιγραφή πληροφοριών ασφάλειας στο πρόχειρο
+aSecurityInformationExportToFile=Εξαγωγή πληροφοριών ασφάλειας στο αρχείο...
+aSecurityInformationGrantAll=Παραχώρηση όλων των δικαιωμάτων σε όλους σε αυτό το κλειδί
+aValueAdd=Νέο
+aValueAddBEInteger=Αριθμιτική τιμή (32 bit, big endian)
+aValueAddBinary=Δυαδικά δεδομένα
+aValueAddInt64=Αριθμητική αξία (64 bit)
+aValueAddInteger=Αριθμητική αξία (32 bit)
+aValueAddLEInt64=Αριθμητική αξία (64 bit, little endian)
+aValueAddLEInteger=Αριθμητική αξία (32 bit, little endian)
+aValueAddLink=Συντόμευση
+aValueAddNone=Τίποτα (άδειος τύπος)
+aValueAddResourceList=Λίστα πηγών
+aValueAddMultiString=Χαρακτήρες (πολλές γραμμές)
+aValueAddString=Χαρακτήρες
+aValueAddResourceRequirementsList=Λίστα απαιτήσεων πηγών
+aValueAddExpandString=Χαρακτήρες (με placeholders)
+aValueChange=&Τροποποίηση δεδομένων...
+aValueDelete=&Διαγραφή τιμής
+aValueRename=&Μετονομασία τιμής...
+aValueSelectAll=Επιλογή όλων
+aValueAddFullResourceDescriptor=Πλήρης περιγραφέας πηγής
+
+[formMain.menuMain]
+miBookmarks=&Σελιδοδείκτες
+miEdit=&Τροποποίηση
+miFile=&Αρχείο
+miHelp=&?
+miLanguages=&Γλώσσες
+
+[formMain.panelMain.pcMain]
+tsData=Δεδομένα
+tsDatabaseInfo=Βάση δεδομένων πληροφοριών
+tsInfo=Πληροφορίες ασφάλειας
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Όνομα%0D%0AΤύπος%0D%0AΤιμή%0D%0AΜέγεθος%0D%0A
+lvHexDump.Items=Θέση%0D%0ADump%0D%0AΚείμενο%0D%0A
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Πληροφορίες κλειδιού:
+labelInfoDBValue=Πληροφορίες τιμής:
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Μη διαθέσιμο στο BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Μη διαθέσιμο στο BartPE
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Καρτέλα2
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.alMain]
+aAbout=Περί...
+aBookmarksManage=&Διαχείριση σελιδοδεικτών
+aFileConnectReg=Σύνδεση με &απομακρυσμένο μητρώο...
+aFileExit=&Έξοδος
+aFileOpenReg=’&νοιγμα αρχείου μητρώου...
+aKeyAdd=Νέο &κλειδί...
+aKeyAddBookmark=Προσθήκη στους σελιδοδείκτες...
+aKeyBack=Πίσω
+aKeyCopyPath=Αντιγραφή ονόματος κλειδιού στο πρόχειρο
+aKeyDelete=Διαγρα&φή κλειδιού
+aKeyExport=Ε&ξαγωγή...
+aKeyForward=Μπροστά
+aKeyImport=Εισαγ&ωγή...
+aKeyJump=Πήγαινε στο κλειδί...
+aKeyRefresh=Ανανέω&ση
+aKeyRename=Με&τονομασία κλειδιού...
+aSearch=Εύ&ρεση...
+aSecurityInformationExportToClipboard=Αντιγραφή πληροφοριών ασφάλειας στο πρόχειρο
+aSecurityInformationExportToFile=Εξαγωγή πληροφοριών ασφάλειας στο αρχείο...
+aValueAdd=Νέο
+aValueAddBEInteger=Αριθμητική τιμή (32 bit, big endian)
+aValueAddBinary=Δυαδικά δεδομένα
+aValueAddInt64=Αριθμητική τιμή (64 bit)
+aValueAddInteger=Αριθμητική τιμή (32 bit)
+aValueAddLEInt64=Αριθμητική τιμή (64 bit, little endian)
+aValueAddLEInteger=Αριθμητική τιμή (32 bit, little endian)
+aValueAddLink=Συντόμευση
+aValueAddMultiString=Χαρακτήρες (πολλές γραμμές)
+aValueAddResourceList=Λίστα πηγών
+aValueAddResourceRequirementsList=Λίστα απαιτήσεων πηγών
+aValueAddString=Χαρακτήρες
+aValueChange=&Τροποποίηση δεδομένων...
+aValueDelete=&Διαγραφή τιμής
+aValueRename=&Μετονομασία τιμής...
+aValueAddFullResourceDescriptor=Πλήρης περιγραφέας πηγής
+aValueAddExpandString=Ακολουθία χαρακτήρων (με placeholders)
+
+[formRegalyzer.menuMain]
+miBookmarks=&Σελιδοδείκτες
+miEdit=&Επεξεργασία
+miFile=&Αρχείο
+miHelp=&?
+miLanguages=&Γλώσσες
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Δεδομένα
+tsInfo=Πληροφορίες ασφάλειας
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Όνομα%0D%0AΤύπος%0D%0AΤιμή%0D%0AΜέγεθος%0D%0A
+lvHexDump.Items=Θέση%0D%0ADump%0D%0AΚείμενο%0D%0A
+
+[formRemoteConnect]
+bnCancel=’κυρο
+bnOK=OK
+bnSearch=&Αναζήτηση
+labelNamePrompt=Παρακαλώ εισάγετε το όνομα του απομακρυσμένου υπολογιστή:
+labelRemoteInfo=Σημειώστε: Η σύνδεση σε ένα απομακρυσμένο μητρώο θα λειτουργήσει μόνο εαν ο απομακρυσμένος υπολογιστής τρέχει Windows NT, 2000, ή XP, ή Windows ME εαν η υπηρεσία απομακρυσμένης σύνδεσης είναι ενεργή.
+
+[Messages]
+BookmarkFolderAddCaption=Παρακαλώ εισάγετε το όνομα του νέου φακέλου:
+BookmarkFolderAddTitle=Όνομα νέου φακέλου
+BookmarkFolderDefaultName=Νέος φάκελος
+BookmarkFolderDeleteCaption=Θέλετε πραγματικά να διαγράψετε αυτόν το φάκελο;
+BookmarkFolderRenameCaption=Παρακαλώ εισάγετε το νέο όνομα για το φάκελο:
+BookmarkFolderRenameTitle=Μετονομασία φακέλου
+BookmarkItemAddCaption=Παρακαλώ εισάγετε το όνομα για το νέο σελιδοδείκτη:
+BookmarkItemAddLocationCaption=Παρακαλώ εισάγετε την τοποθεσία που θα σχετίζεται με το νέο σελιδοδείκτη:
+BookmarkItemAddLocationTitle=Νέα τοποθεσία σελιδοδείκτη
+BookmarkItemAddTitle=Νέο όνομα σελιδοδείκτη
+BookmarkItemDefaultName=Νέος σελιδοδείκτης
+RemoteErrorNoNetwork=Το δίκτυο δεν είναι διαθέσιμο.
+MyComputer=Ο υπολογιστής μου
+RemoteConnectCaption=Παρακαλώ εισάγετε το όνομα του απομακρυσμένου υπολογιστή:
+RemoteConnectTitle=Σύνδεση με απομακρυσμένο μητρώο
+RemoteErrorAlreadyAssigned=Η συσκευή είναι ήδη συνδεδεμένη.
+RemoteErrorBadDevice=Η καθορισμένη συσκευή δεν είναι έγκυρη.
+RemoteErrorAccessDenied=Δεν έχετε πρόσβαση στην πηγή του δικτύου.
+DragDropValueMoveStatus=Μετακινούνται οι τιμές σε %s...
+DragDropValueCopyStatus=Αντιγράφονται οι τιμές σε  %s...
+DragDropMoveStatus=Μετακινούνται οι τιμές σε  %s...
+DragDropKeyMoveStatus=Μετακινείται το κλειδί %s στο %s...
+DragDropKeyCopyStatus=Αντιγράφεται το κλειδί %s στο %s...
+DialogValueDefault=(Προεπιλογή)
+DialogSearchStopped=Σταματήσατε την αναζήτηση.
+DialogSearchStatus=Αναζητούνται %s
+DialogSearchHighSpeedStatus=Παρακαλώ περιμένετε...
+BookmarkItemDeleteCaption=Θέλετε πραγματικά να διαγράψετε αυτόν το σελιδοδείκτη;
+BookmarkItemRenameCaption=Παρακαλώ εισάγετε το νέο όνομα για το σελιδοδείκτη:
+BookmarkItemRenameTitle=Μετονομασία σελιδοδείκτη
+DialogJumpToKeyCaption=Παρακαλώ εισάγετε το κλειδί που θέλετε να μεταβείτε:
+DialogJumpToKeyTitle=Μετάβαση στο κλειδί
+DialogNewKeyTitle=Νέο κλειδί
+DialogNewKeyDefault=Νέο κλειδί
+DialogNewKeyCaption=Παρακαλώ εισάγετε όνομα για το νέο κλειδί:
+DialogNewValueBinaryCaption=Παρακαλώ εισάγετε όνομα για τη νέα δυαδική τιμή:
+DialogNewValueBinaryDefault=Νέα δυαδικά δεδομένα
+DialogNewValueBinaryTitle=Νέα δυαδική τιμή
+DialogNewValueDefault=Νέα τιμή
+DialogNewValueNumericTitle=Νέα αριθμητική τιμή
+DialogNewValueNumericDefault=Νέα αριθμητική
+DialogNewValueStringDefault=Νέα ακολουθία χαρακτήρων
+DialogNewValueStringTitle=Νέα τιμή ακολουθίας χαρακτήρων
+DialogNewValueStringCaption=Παρακαλώ εισάγετε όνομα για τη νέα ακολουθία χαρακτήρων:
+DialogNewValueTitle=Νέα τιμή
+DialogNewValueNumericCaption=Παρακαλώ εισάγετε όνομα για τη νέα αριθμητική τιμή:
+DialogNewValueCaption=Παρακαλώ εισάγετε όνομα για τη νέα τιμή:
+DialogRenameKeyCaption=Παρακαλώ εισάγετε όνομα για αυτό το κλειδί:
+DialogRenameKeyTitle=Μετονομασία κλειδιού ("%s")
+DialogRenameValueTitle=Μετονομασία τιμής ("%s")
+DialogSearchFinished=Η αναζήτηση τελείωσε με %d αποτελέσματα.
+DialogSearchFocusAll=Αναζήτηση σε όλο το μητρώο.
+DialogSearchFocusLimited=Αναζήτηση περιορισμένη σε %s.
+DialogRenameValueCaption=Παρακαλώ εισάγετε νέο όνομα για αυτήν την τιμή:
+DragDropCopyStatus=Αντιγράφονται οι τιμές στο %s...
+DragDropWrongRootKeyWarning=Δεν μπορείτε να μετακινήσετε κλειδιά ανάμεσα σε κλειδιά ρίζας (ακόμα)!
+DialogDataError=(Σφάλμα κατα την ανάγνωση δεδομένων)
+DialogDataNotDefined=(Δεδομένα μη ορισμένα)
+DialogDataNotSupported=(Ο τύπος δεδομένων δεν υποστηρίζεται)
+ConfirmCopyOverwrite=Μια τιμή με αυτό το όνομα ("%s") υπάρχει ήδη στο κλειδί προοριμού σας. Θέλετε πραγματικά να την αντικαταστήσετε;
+ConfirmKeyDelete=Θέλετε πραγματικά να διαγράψετε αυτό το κλειδί ("%s");
+ConfirmValueDelete=Θέλετε πραγματικά να διαγράψετε αυτήν την τιμή ("%s");
+DialogConfirmImport=Θέλετε πραγματικά να εισάγετε αυτό το αρχείο;
+DialogDataBinaryZero=(Δυαδικά δεδομένα μηδενικού μήκους)
+DialogSearchReplaceStatus=%s όμοια αντικαταστάθηκαν.
+RemoteErrorBadProfile=Το προφίλ χρήστη καθορίστηκε σε εσφαλμένη μορφή.
+RemoteErrorBadProvider=Η διεύθυνση δικτύοθ σας δεν ταιριάζει με κανένα παροχέα δικτύου.
+RemoteErrorBusy=Ο router ή ο παροχέας είναι απασχολημένος. Παρακαλώ ξαναδοκιμάστε σε μερικά δευτερόλεπτα.
+RemoteErrorBadNetName=Η μορφή της πηγής του δικτύου δεν είναι έγκυρη.
+RemoteErrorInvalidPassword=Ο κωδικός που εισάγατε δεν είναι έγκυρος για αυτήν την πηγή.
+RemoteErrorNoNetOrBadPath=Το δίκτυο δεν έχει εκκινηθεί ή η καθορισμένη διεύθυνση δεν μπορεί να χρησιμοποιηθεί.
+WarningComplicatedDataType=Το RegAlyzer μπορεί να προσθέσει μια τιμή αυτού του τύπου, αλλά μπορεί να την επεξεργαστεί μόνο σε δυαδική μορφή.%0D%0AΕσφαλμένα δεδομένα μπορεί να προκαλέσουν πάγωμα στο Regedit.%0D%0AΘέλετε να συνεχίσετε;
+DialogHivesLoaded=%d  hives του μητρώου βρέθηκαν και φορτώθηκαν στο HKEY_LOCAL_MACHINE\PE_* και/ή HKEY_USERS\PE_*. Θα αποφορτωθούν κατα την έξοδο του προγράμματος.
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Κλειδί%0D%0AΤιμή%0D%0AΔεδομένα%0D%0A
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Αγνόησε αν είναι κεφαλαία ή μικρά
+cbReplaceOverwrite=Αντικατάστησε τα υπάρχοντα
+cbReplaceOverwriteKeys=Αντικατάστησε τα υπάρχοντα κλειδιά
+cbReplaceOverwriteValues=Αντικατάστησε τις υπάρχουσες τιμές
+
+[formSearch.pcSearch.tsReplace]
+groupReplaceMisc=Διάφορες επιλογές
+labelReplaceSource=Αντικατάστησε αυτό:
+labelReplaceNew=Με αυτό το κείμενο:
+labelReplaceLimitations=Παρακαλώ επιλέξτε τις εγγραφές που θα συμπεριληφθούν στην αντικατάσταση στην καρτέλα Αποτελέσματα.%0D%0AΗ αντικατάσταση θα δουλέψει μόνο για ονόματα κλειδιών και τιμών και για δεδομένα ακολουθιών χαρακτήρων.
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeComplete=&Ολόκληρο το μητρώο
+rbRangeKey=&Μόνο αυτό το κλειδί
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbHighSpeed=Γρήγορη αναζήτηση
+cbIgnoreCase=&Αγνόησε αν είναι κεφαλαία ή μικρά
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusData=&Δεδομένα
+cbFocusKeys=&Κλειδιά
+cbFocusValues=&Τιμές
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeBinary=&Δυαδικά δεδομένα
+cbDataTypeNumerics=&Αριθμητικά
+cbDataTypeStrings=&Χαρακτήρες
+
+[formSearch.pcSearch]
+tsByDate=... κατα ημερομηνία
+tsCriteria=Κριτήρια αναζήτησης
+tsReplace=Αντικατάστησε
+tsResults=Αποτελέσματα
+
+[formSearch.pcSearch.tsByDate]
+Label2=και
+labelByDateAnd=και:
+dtDate1=14/8/2003
+dtDate2=14/8/2003
+dtTime1=14/8/2003
+dtTime2=14/8/2003
+Label1=Αναζήτηση &για κλειδιά που είναι
+labelByDate=Αναζήτηση &για κλειδιά που είναι
+labelByDateOSInfo=Αυτό το κριτήριο είναι διαθέσιμο μόνο σε Windows NT, 2000 και XP. Windows 9x και ME δεν υποστηρίζουν ημερομηνίες κλειδιών μητρώου.
+cbByDateMode.Items=κάθε ημερομηνίας.%0D%0Aνεότερης απο:%0D%0Aπαλαιότερης απο:%0D%0Aανάμεσα σε:%0D%0Aεκτος απο:%0D%0A
+
+[formSearch.pcSearch.tsCriteria]
+groupSearchMisc=Διάφορες επιλογές
+groupSearchRange=Ακτίνα αναζήτησης
+labelSearchFor=Αναζήτηση &για:
+labelSearchStyle=&Στύλ αναζήτησης:
+groupSearchFocus=Συγκέντρωση αναζήτησης:
+groupSearchDataTypes=Τύποι δεδομένων
+cbSearchStyle.Items=Απλή αναζήτηση υπο των ακολουθιων χαρακτήρων%0D%0AΑναζήτηση με μπαλαντέρ (*, ?)%0D%0ABoolean αναζήτηση (AND, OR, NOT)%0D%0AΚανονικές εκφράσεις%0D%0A
+cbSearchStyle=Απλή αναζήτηση υπο των ακολουθιων χαρακτήρων
+

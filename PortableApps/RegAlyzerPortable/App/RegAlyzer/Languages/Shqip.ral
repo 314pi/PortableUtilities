@@ -1,0 +1,401 @@
+[Dialogs]
+ButtonAbort=Ndërprite
+ButtonAll=Gjithçka
+ButtonCancel=Anulo
+ButtonHelp=Ndihmë
+ButtonIgnore=Përbuze
+ButtonNo=Jo
+ButtonNoToAll=Jo, asgjë
+ButtonOK=OK
+ButtonRetry=Riprovo
+ButtonYes=Po
+ButtonYesToAll=Po, gjithçka
+DialogTitleConfirmation=Miratimi
+DialogTitleCustom=Me porosi
+DialogTitleError=Gabim
+DialogTitleInformation=Informacion
+DialogTitleWarning=Kujdes
+
+[Images]
+Flag16=424D360300000000000036000000280000001000000010000000010018000000000000030000120B0000120B00000000000000000000FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FF2611D82611D82611D82611D82611D82611D82510D42510D32611D82611D82611D82611D82611D82611D8FF00FFFF00FF2611D82611D82611D82611D82611D82510D51A0B951609812510D32611D82611D82611D82611D82611D8FF00FFFF00FF2611D82611D82611D8210FC3210FC01E0DB00903350602261C0CA3210EC0200EBB2611D82611D82611D8FF00FFFF00FF2611D82611D82611D81A0B9B180B8F13086E0E06570C0549100762190B96170A8B2510D62611D82611D8FF00FFFF00FF2611D82611D82611D81A0B9B12076A0F065A0301150201110C054D12076A170A8A2510D72611D82611D8FF00FFFF00FF2611D82611D82611D8190B930D054F0100080000000000000100060A043C1609832510D72611D82611D8FF00FFFF00FF2611D82611D82611D8180A8B0D054E0000000000010000000000000A043B1408792510D72611D82611D8FF00FFFF00FF2611D82611D82611D81609840D064F0602220904370602260903360A043B1408762510D52611D82611D8FF00FFFF00FF2611D82611D82611D8180A8F1B0B9C0E055210075F1408730D054C1A0B97170A892510D42611D82611D8FF00FFFF00FF2611D82611D82611D82510D22510D4220FC62410CE2410D1220FC52510D22510D32510D72611D82611D8FF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF
+Flag32=424D360C000000000000360000002800000020000000200000000100180000000000000C0000120B0000120B00000000000000000000FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8120869220FC52611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82410CF200EB602000C170A82210EBE2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D81D0DAA0E065004021A0A043B190B8F2410D12611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D8210FC02611D82611D82611D82510D61107640904380000000602230D064D1F0DB02611D82611D82611D82510D2220FC22611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82510D712086B190B8E200EB812086B1F0EB40C0548030111000000000000090436190B90170A871A0B941F0DB10F0657220FC42611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D8190B8F1107620E064F120869150978180A8A1B0C9A10075F000000040219210FBF130870170A8612086B0F065611076513086C2310CB2611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82410CF15097C210FC02611D8200EB601000605021F210FBF00000014097212086B00000012086B2611D82510D7160A821E0DAF2611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D81E0DAB07032B0D064E1D0DA9160A801C0CA30301120E06520000040E064F0100071108661F0EB515097B180A8906032712086B2611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D8230FCA1C0CA41A0B970D054A0F065611076208032E00000000000000000004021B0B05420C0549170A850E06501F0EB51F0EB42611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D8180B8D0F06560C05440D054B09043705021F00000000000000000000000000000005021E07032906022312086A0C054910075E2510D72611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D81B0C9B10075B1A0B9804011900000000000000000000000000000000000000000000000000000001000813087114087212086A2510D72611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D81D0DA61A0B9310075C0904350000000000000000000000000000000000000000000000000000000301140D054B190B90180A892510D72611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D813086C0A043A12086B0602240000000000000000000000000000000000000000000000000000000000011208680E065107032B2510D62611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D8210FC1140975160A80080330000000000000000000000000000000000000000000000000000000000005160A8013086F1C0C9F2510D72611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D815097C170A831A0C980603260000000000000D064C00000100000000000008033104021A000000000003160A7F190B911107612410CF2611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D81308710A043D12086808032F00000002000B2510D602010D0000000000001A0B9310075D0000000100061208690F07590803302410D12611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D81E0DAE1A0B970D064E070328070327180A89170A87000000180A8A0502200A043C1F0DB10C054702010F0D054B1409741D0DA82510D22611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D81007600C0546230FC7230FC816097E0803310000000B05402510D7190B8F00000004021A120866210EBD2510D6170A83050220230FC82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D8170A832410D12611D81D0DA91308700A043A0D054C190B932611D8210EBB10075F0B05420C05481C0CA4210FBF2611D8180B8D230FC72611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FF2611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D82611D8FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF
+
+[formAbout]
+bnOK=OK
+Label1=Copyright © 2000-2007 Safer-Networking Limited. Gjithë të drejtat të rezervuara .
+labelCopyright=Copyright © 2000-2007 Safer Networking Ltd.
+labelCopyright2=Gjithë të drejtat të rezervuara.
+memoCredits=Nderime për: %0D%0AEnrico Maria Biancarelli (sugjerime, përkthimi në italisht)%0D%0AAndrey V. Sorokin (kodi për shprehjet e rregullta)%0D%0ABesmir Godole (përkthimi në shqip)%0D%0AHevesi János (përkthimi në magiar)%0D%0AQuan Qi Tang (përkthimi në kineze të thjeshtë)%0D%0Aliwk (përkthimi në kineze tradicionale)%0D%0AnickW (përkthimi në frengjisht)%0D%0ADavid (përkthimi në spanjisht)%0D%0ANelson A. H. de Carvalho (përkthimi në braziliane)%0D%0APep Isern (përkthimi në katalane)%0D%0AKristian Christensen (përkthimi në daneze)%0D%0AHeppocrates Giakoumis (përkthimi në greqisht)%0D%0ABartosz Czerwinski (përkthimi në polonisht)%0D%0A
+
+[formBookmarks]
+bnCancel=Anulo
+bnOK=OK
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Shto një librezë...
+aBookmarkDelete=Fshije librezën
+aBookmarkRename=Riemërto librezën...
+aFolderAdd=Shto një dosje...
+aFolderDelete=Fshije dosjen
+aFolderExportOneLevel=Eksporto një nivel
+aFolderExportRecursive=Eksporto me rikthim
+aFolderRename=Riemërto dosjen...
+aSortOneLevel=Radhit një nivel
+aSortRecursive=Radhit me rikthim
+
+[formEditInteger]
+bnCancel=Anulo
+bnOK=OK
+labelDataBinary=Të dhënat e vlerës (binare):
+labelDataDecimal=Të dhënat e vlerës (dhjetore):
+labelDataHex=Të dhënat e vlerës (hex):
+labelValue=Emri i vlerës:
+
+[formEditMultiString]
+bnCancel=Anulo
+bnOK=OK
+labelData=Të dhënat e vlerës:
+labelValue=Emri i vlerës:
+
+[formEditResourceRequirementsList]
+bnCancel=Anulo
+bnOK=OK
+labelBusNumber=Numri i busit:
+labelInterfaceType=Lloji i ndërfaqes:
+labelSlotNumber=Numri i tragës:
+lvList.Items=Lloji%0D%0AAdresa Minimale%0D%0AAdresa Maksimale%0D%0AGjatësia%0D%0ARenditja%0D%0AMundësi%0D%0A
+
+[formEditString]
+bnCancel=Anulo
+bnOK=OK
+labelData=Të dhënat e vlerës:
+labelValue=Emri i vlerës:
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.alMain]
+aAbout=Info...
+aBookmarksManage=&Menaxhoni librezat
+aFileConnectReg=Lidhu në një regjistër të &largët...
+aFileDiffOpenReg=Hap një skedë regjistri (vetëm &ndryshimet)...
+aFileExit=D&il
+aFileOpenReg=&Hap një skedë regjistri...
+aHelpContents=Përmbajtje
+aHelpIndex=Indeksi
+aInfoDBRefreshEntry=Rifresko
+aInfoDBSaveKeyInfo=Ruaje infon e kodit
+aInfoDBSaveValueInfo=Ruaje infon e vlerës
+aInfoDBStoreEntry=Depozito
+aKeyAdd=Kod i &ri...
+aKeyAddBookmark=Shto në librezë...
+aKeyBack=Pas
+aKeyCopyPath=Kopjo në fushëkapje emrin e kodit
+aKeyDelete=&Fshije kodin
+aKeyExport=&Eksporto...
+aKeyForward=Para
+aKeyImport=&Importo...
+aKeyJump=Hidhu në kod...
+aKeyJumpToHKCRCLSID=Hidhu te CLSID e HKCR
+aKeyRefresh=&Rifresko
+aKeyRename=&Riemërto kodin...
+aMenuHelp=Ndihmë
+aSearch=&Kërko...
+aSecurityInformationExportToClipboard=Kopjo në fushëkapje infon e sigurisë
+aSecurityInformationExportToFile=Eksporto informacionin e sigurisë...
+aSecurityInformationGrantAll=Jepi të gjithëve të drejtat për këtë kod
+aValueAdd=I ri
+aValueAddBEInteger=Vlerë numerike (32 bit, big endian)
+aValueAddBinary=Të dhëna binare
+aValueAddExpandString=Varg (me shifra zero)
+aValueAddFullResourceDescriptor=Përshkrues i Plotë i Burimit
+aValueAddInt64=Vlerë numerike (64 bit)
+aValueAddInteger=Vlerë numerike (32 bit)
+aValueAddLEInt64=Vlerë numerike (64 bit, little endian)
+aValueAddLEInteger=Vlerë numerike (32 bit, little endian)
+aValueAddLink=Link
+aValueAddMultiString=Varg (multi-rresht)
+aValueAddNone=Asgjë (lloj bosh)
+aValueAddResourceList=Listë e Burimeve
+aValueAddResourceRequirementsList=Listë e Kërkesave të Burimeve
+aValueAddString=Varg
+aValueChange=&Ndrysho të dhënat...
+aValueDelete=&Fshije vlerën
+aValueJumpToHKCRCLSID=Hidhu te CLSID e HKCR
+aValueRename=&Riemërto vlerën...
+aValueSelectAll=Zgjidhe gjithçka
+
+[formMain.menuMain]
+miBookmarks=&Librezat
+miEdit=&Editim
+miFile=&Skedë
+miHelp=&?
+miLanguages=&Gjuhë
+
+[formMain.panelMain.pcMain]
+tsChangeLogs=Ditari i ndryshimeve
+tsData=Të dhënat
+tsDatabaseInfo=Baza e të dhënave të infos
+tsInfo=Informacioni i sigurisë
+
+[formMain.panelMain.pcMain.tsChangeLogs.pcChangeLogs]
+tsChangeLogRedo=Ribë ditarin
+tsChangeLogUndo=Kthe ditarin
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Emri%0D%0ALloji%0D%0AVlera%0D%0APërmasa%0D%0AVlera në Regjistër%0D%0A
+lvHexDump.Items=Poz%0D%0AVrima%0D%0ATeksti%0D%0A
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Informacioni i kodit:
+labelInfoDBValue=Informacioni i vlerës:
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Nuk vlen në BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Nuk vlen në BartPE
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Paneli2
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[Main]
+FontCharset=1
+FontName=MS Sans Serif
+FontSize=8
+HelpFile=Help\English.chm
+LanguageName=Shqip
+Use=Përdorni gjuhën shqipe
+
+[formRegalyzer.alMain]
+aAbout=Info...
+aBookmarksManage=&Menaxhoni librezat
+aFileConnectReg=Lidhu në një regjistër të &largët...
+aFileExit=D&il
+aFileOpenReg=&Hap një skedë regjistri...
+aKeyAdd=Kod i &ri...
+aKeyAddBookmark=Shto në librezë...
+aKeyBack=Pas
+aKeyCopyPath=Kopjo në fushëkapje emrin e kodit
+aKeyDelete=&Fshije kodin
+aKeyExport=&Eksporto...
+aKeyForward=Para
+aKeyImport=&Importo...
+aKeyJump=Hidhu në kod...
+aKeyRefresh=&Rifresko
+aKeyRename=&Riemërto kodin...
+aSearch=&Kërko...
+aSecurityInformationExportToClipboard=Kopjo në fushëkapje infon e sigurisë
+aSecurityInformationExportToFile=Eksporto informacionin e sigurisë...
+aValueAdd=I ri
+aValueAddBEInteger=Vlerë numerike (32 bit, big endian)
+aValueAddBinary=Të dhëna binare
+aValueAddExpandString=Varg (me shifra zero)
+aValueAddFullResourceDescriptor=Përshkrues i Plotë i Burimit
+aValueAddInt64=Vlerë numerike (64 bit)
+aValueAddInteger=Vlerë numerike (32 bit)
+aValueAddLEInt64=Vlerë numerike (64 bit, little endian)
+aValueAddLEInteger=Vlerë numerike (32 bit, little endian)
+aValueAddLink=Link
+aValueAddMultiString=Varg (multi-rresht)
+aValueAddResourceList=Listë e Burimeve
+aValueAddResourceRequirementsList=Listë e Kërkesave të Burimeve
+aValueAddString=Varg
+aValueChange=&Ndrysho të dhënat...
+aValueDelete=&Fshije vlerën
+aValueRename=&Riemërto vlerën...
+
+[formRegalyzer.menuMain]
+miBookmarks=&Librezat
+miEdit=&Editim
+miFile=&Skedë
+miHelp=&?
+miLanguages=&Gjuhë
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Të dhënat
+tsInfo=Informacioni i sigurisë
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Emri%0D%0ALloji%0D%0AVlera%0D%0APërmasa%0D%0A
+lvHexDump.Items=Poz%0D%0AVrima%0D%0ATeksti%0D%0A
+
+[formRemoteConnect]
+bnCancel=Anulo
+bnOK=OK
+bnSearch=&Kërko
+labelNamePrompt=Ju lutemi shkruani emrin e kompjuterit të largët:
+labelRemoteInfo=Shënim: Lidhja në një regjistër të largët do të funksionojë vetëm nëse kompjuteri i largët po vepron Windows NT, 2000 apo XP, ose Windows ME, kur shërbimi i largët është në veprim.
+
+[Forms]
+formAbout=Info
+formBookmarks=Librezat
+formEditInteger=Ndrysho të dhënat numerike
+formEditMultiString=Ndrysho vlerën shumë-vargëshe
+formEditResourceRequirementsList=Shfaq Listën e Kërkesave të Burimeve
+formEditString=Ndrysho të dhënat e vargut
+formMain=RegjAlizues
+formRegalyzer=RegjAlizues
+formRemoteConnect=Lidhuni në një regjistër të largët
+formSearch=Kërko
+
+[formSearch]
+bnCancel=Anulo
+bnSearch=Kërko
+bnStop=Ndalo
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeBinary=Të dhëna &binare
+cbDataTypeNumerics=&Numerike
+cbDataTypeStrings=&Vargje
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusData=Të &dhëna
+cbFocusKeys=&Kode
+cbFocusValues=&Vlera
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbHighSpeed=Kërkim me shpejtësi
+cbIgnoreCase=&Përbuzi rastet
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeComplete=&Tërë regjistrin
+rbRangeKey=&Vetëm kodin
+
+[formSearch.pcSearch.tsReplace]
+groupReplaceMisc=Mundësi të përziera
+labelReplaceLimitations=Ju lutemi zgjidhni hyrjet që do të zëvendësoni në tabelën Rezultatet. Zëvendësimi do të punojë vetëm për emrin e kodit, vlerës dhe të dhënat e vargut.
+labelReplaceNew=Me këtë Tekst:
+labelReplaceSource=Zëvendëso:
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Përbuzi rastet
+cbReplaceOverwrite=Mbishkruaji ekzistuesit
+cbReplaceOverwriteKeys=Mbishkruaji kodet ekzistuese
+cbReplaceOverwriteValues=Mbishkruaji vlerat ekzistuese
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Kodi%0D%0AVlera%0D%0ATë dhënat%0D%0A
+
+[formSearch.pcSearch]
+tsByDate=... sipas datës
+tsCriteria=Kritere kërkimi
+tsReplace=Zëvendëso
+tsResults=Rezultatet
+
+[formSearch.alSearch]
+aReplace=&Zëvendëso
+aSearchResultsDeSelectAll=&Lësho gjithçka
+aSearchResultsDeSelectData=Lësho rezultatet e të dhënës
+aSearchResultsDeSelectKeys=Lësho rezultatet e kodit
+aSearchResultsDeSelectValues=Lësho rezultatet e vlerës
+aSearchResultsExport=Eksporto...
+aSearchResultsExportAll=&Eksporto gjithçka...
+aSearchResultsExportKeyContents=Mundësi: Eksporto përmbajtjet e rezultateve
+aSearchResultsExportSelected=Eksporto &vetëm zgjedhjen...
+aSearchResultsSelectAll=&Zgjidhe gjithçka
+aSearchResultsSelectData=Zgjidh rezultatet e të dhënës
+aSearchResultsSelectKeys=Zgjidh rezultatet e kodit
+aSearchResultsSelectValues=Zgjidh rezultatet e vlerës
+aSearchStart=Kërko
+
+[formSearch.pcSearch.tsByDate]
+cbByDateMode.Items=në çdo datë.%0D%0Amë të reja se:%0D%0Amë të vjetra se:%0D%0Amidis:%0D%0Ajashtë:%0D%0A
+dtDate1=8/14/2003
+dtDate2=8/14/2003
+dtTime1=8/14/2003
+dtTime2=8/14/2003
+Label1=Kërko &për kode
+Label2=dhe
+labelByDate=Kërko &për kode
+labelByDateAnd=dhe:
+labelByDateOSInfo=Ky kriter vlen vetëm për sistemet Windows NT, Windows 2000 dhe Windows XP. Windows 9x dhe Windows ME nuk përkrahin datat e kodeve në regjistër.
+
+[formSearch.pcSearch.tsCriteria]
+cbSearchStyle=Kërkim thjesht në varg
+cbSearchStyle.Items=Kërkim thjesht në varg%0D%0AKërkim me shenja (*, ?)%0D%0AKërkim boolean (AND, OR, NOT)%0D%0AShprehje e rregullt%0D%0A
+groupSearchDataTypes=Lloji i të dhënave
+groupSearchFocus=Vatra e kërkimit
+groupSearchMisc=Mundësi të përziera
+groupSearchRange=Kufiri i kërkimit
+labelSearchFor=Kërko &për:
+labelSearchStyle=&Stili i kërkimit:
+
+[Messages]
+BookmarkFolderAddCaption=Ju lutemi shkruani emrin e dosjes së re:
+BookmarkFolderAddTitle=Emërtoni dosjen e re
+BookmarkFolderDefaultName=Dosje e re
+BookmarkFolderDeleteCaption=Vërtet doni të fshini këtë dosje?
+BookmarkFolderRenameCaption=Ju lutemi shkruani emrin e ri të dosjes:
+BookmarkFolderRenameTitle=Riemërtoni dosjen
+BookmarkItemAddCaption=Ju lutemi shkruani emrin e librezës së re:
+BookmarkItemAddLocationCaption=Ju lutemi shkruani pozicionin ku duhet të prijë libreza e re:
+BookmarkItemAddLocationTitle=Pozicioni i ri i librezës
+BookmarkItemAddTitle=Emërtoni librezën e re
+BookmarkItemDefaultName=Librezë e re
+BookmarkItemDeleteCaption=Vërtet doni të fshini këtë librezë?
+BookmarkItemRenameCaption=Ju lutemi shkruani emrin e ri të librezës:
+BookmarkItemRenameTitle=Riemërtoni librezën
+ConfirmCopyOverwrite=Një vlerë me emrin ("%s") ekziston edhe më parë në kod-destinacionin. Vërtet doni të mbishkruani atë?
+ConfirmKeyDelete=Vërtet doni të fshini kodin ("%s")?
+ConfirmValueDelete=Vërtet doni të fshini vlerën ("%s")?
+DialogConfirmImport=Vërtet doni të importoni këtë skedë?
+DialogDataBinaryZero=(Të dhëna binare me gjatësi zero)
+DialogDataError=(Gabim në leximin e të dhënave)
+DialogDataNotDefined=(Të dhëna të pacaktuara)
+DialogDataNotSupported=(Lloji i të dhënave nuk përkrahet)
+DialogHivesLoaded=U gjendën %d hive regjistri dhe u ngarkuan në HKEY_LOCAL_MACHINE\PE_* and/or HKEY_USERS\PE_*. Ato do të shkarkohen përsëri në dalje të programit.
+DialogJumpToKeyCaption=Ju lutemi shkruani kodin ku do të shkoni:
+DialogJumpToKeyTitle=Hidhuni në kod
+DialogNewKeyCaption=Ju lutemi shkruani emrin e kodit të ri:
+DialogNewKeyDefault=Kod i ri
+DialogNewKeyTitle=Kod i ri
+DialogNewValueBinaryCaption=Ju lutemi shkruani emrin e vlerës binare të re:
+DialogNewValueBinaryDefault=E dhënë binare e re
+DialogNewValueBinaryTitle=Vlerë binare e re
+DialogNewValueCaption=Ju lutemi shkruani emrin e vlerës së re:
+DialogNewValueDefault=Vlerë e re
+DialogNewValueNumericCaption=Ju lutemi shkruani emrin e vlerës numerike të re:
+DialogNewValueNumericDefault=Numerike e re
+DialogNewValueNumericTitle=Vlerë numerike e re
+DialogNewValueStringCaption=Ju lutemi shkruani emrin e vlerës së vargut të ri:
+DialogNewValueStringDefault=Varg i ri
+DialogNewValueStringTitle=Vlerë e vargut e re
+DialogNewValueTitle=Vlerë e re
+DialogRenameKeyCaption=Ju lutemi shkruani emrin e ri të kodit:
+DialogRenameKeyTitle=Riemërtoni kodin ("%s")
+DialogRenameValueCaption=Ju lutemi shkruani emrin e ri të vlerës:
+DialogRenameValueTitle=Riemërtoni vlerën ("%s")
+DialogSearchFinished=Kërkimi përfundoi me %d rezultate.
+DialogSearchFocusAll=Kërko tërë regjistrin.
+DialogSearchFocusLimited=Kërkimi i kufizuar në %s.
+DialogSearchHighSpeedStatus=Ju lutemi prisni...
+DialogSearchReplaceStatus=%s dukuri u zëvendësuan.
+DialogSearchStatus=Në kërkim %s
+DialogSearchStopped=Kërkimi ndaloi.
+DialogValueDefault=(Tipike)
+DragDropCopyStatus=Po kopjoj vlerat në %s...
+DragDropKeyCopyStatus=Po kopjoj kodin %s në %s...
+DragDropKeyMoveStatus=Po lëviz kodin %s në %s...
+DragDropMoveStatus=Po lëviz vlerat në %s...
+DragDropValueCopyStatus=Po kopjoj vlerat në %s...
+DragDropValueMoveStatus=Po lëviz vlerat në %s...
+DragDropWrongRootKeyWarning=Ju nuk mund të lëvizni kodet mes rrënjëve të ndryshme të kodeve (ende)!
+MyComputer=Kompjuteri Im
+RemoteConnectCaption=Ju lutemi shkruani emrin e kompjuterit të largët:
+RemoteConnectTitle=Lidhuni në një regjistër të largët
+RemoteErrorAccessDenied=Ju nuk lejoheni të hyni në burimin e rrjetit.
+RemoteErrorAlreadyAssigned=Mjeti është tashmë i lidhur.
+RemoteErrorBadDevice=Mjeti i përcaktuar është pa vlerë.
+RemoteErrorBadNetName=Formati i burimit të rrjetit është pa vlerë.
+RemoteErrorBadProfile=Profili i përdoruesit u përcaktua në format jokorrekt.
+RemoteErrorBadProvider=Adresa e rrjetit tuaj nuk shkon me asnjë provajder rrjeti.
+RemoteErrorBusy=Routeri ose provajderi janë të zënë. Ju lutemi provoni pas disa sekondash.
+RemoteErrorInvalidPassword=Fjalëkalimi që shkruat nuk vlen për këtë burim.
+RemoteErrorNoNetOrBadPath=Rrjeti nuk ka nisur ose adresa e përcaktuar nuk mund të përdoret.
+RemoteErrorNoNetwork=Rrjeti është i pavlefshëm.
+WarningComplicatedDataType=RegjAlizuesi mund të shtojë një vlerë të këtij lloji, por mund të editojë vetëm në formën binare.%0D%0ATë dhënat e këqija mund të bëjnë që RegEdit i Windows të ndalë.%0D%0AA doni të vijoni?
+

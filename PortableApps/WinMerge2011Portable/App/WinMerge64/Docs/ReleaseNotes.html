@@ -1,0 +1,119 @@
+<!DOCTYPE HTML 4.0 Transitional>
+<html>
+<head>
+<title>Release Notes</title>
+<meta http-equiv='content-type' content='text/html; charset=ISO-8859-1'>
+<style type='text/css'>
+body
+{
+	font-family: verdana, sans-serif;
+	font-size: 10pt;
+}
+li
+{
+	margin-bottom: 1em;
+}
+</style>
+<script type='text/javascript'>
+function OnReadyStateChangeExternalDoc()
+{
+	var doc = window.event.srcElement;
+	if (doc.readyState == "interactive")
+	{
+		var elements = document.getElementsByName(doc.src);
+		for (var i = 0; i < elements.length; ++i)
+		{
+			elements[i].href = doc.src;
+			elements[i].onclick = function()
+			{
+				var sh = new ActiveXObject("wscript.shell");
+				sh.run(document.URL.replace(/(.*)(\/+)(.*[\/\\])(.*)/, "$3") + this.href);
+				return false;
+			}
+		}
+	}
+}
+</script>
+</head>
+<body>
+<h2>WinMerge 0.2011.007.444 Release Notes</h2>
+This is a beta release of WinMerge&nbsp;2011.
+<br>Besides fixing bugs, it includes the following functional enhancements as
+compared to the latest stable release:
+<ul>
+<li><p>File transform scriptlets can provide custom logic for writing back
+	edited files. They do so by implementing method <code>CreateTextFile</code>,
+	which returns an interface that implements method <code>Write</code>.
+	<br>As an example of such scriptlet, <i>gedcom.wsc</i> transforms GEDCOM
+	files in a way that enables WinMerge to produce more meaningful results, by
+	adding complete nesting context to every line of involved files.
+	<br>When saving back edited files, <i>gedcom.wsc</i> removes the added
+	context, thereby restoring syntactic integrity.
+	<br>Another interesting aspect of <i>gedcom.wsc</i> is how it reads ANSEL or
+	UTF-8 input, and writes UTF-8 output, using the Scripting.FileSystemObject,
+	despite its TextStream interface not exactly being designed to support
+	anything but ANSI or UTF-16 encoding.
+<li><p>File transform scriptlet <i>astyle.wsc</i> can be used to run several types of source code files
+	through <a target='_blank' href='http://astyle.sourceforge.net/'>Artistic Style</a>.
+	<br>It takes effect when you choose to <i>Compare As &rarr; Astyle Formatted Source Code</i>.
+	<br>The <i>FileTransforms</i> folder also contains an associated options file <i>astyle.opt</i>,
+	which you may want to edit to tweak various aspects of source code formatting to your needs.
+<li><p>It has become easier to get the prerequisites for file transform scriptlet
+	<i>xdoc2txt.wsc</i> in place, by simply confirming the respective prompt that
+	shows up during setup.
+	<br>This involves downloading the xdoc2txt distribution package from
+	<a target='_blank' href='http://ebstudio.info'>http://ebstudio.info</a>,
+	because that software is not as free for redistribution as it is for use.
+<li><p>The binary editor finally supports undo/redo &mdash; some two years and a half after
+	<a target='_blank' href='https://bitbucket.org/sdottaka/winmerge-v2'>Takashi's fork</a> came up  with this feature.
+<li><p>Find &amp; Replace with regular expressions allows replacement strings to
+	contain submatch references \0 through \9 (where \0 refers to the complete
+	match), as well as C-style control character escapes.
+	<br>As a side effect, this enhancement solves
+	<a target='_blank' href='https://bitbucket.org/jtuc/winmerge2011/issues/70'>Issue #70</a>.
+<li><p>Option <i>/config</i> points WinMerge to a JSON configuration file which
+	it will use instead of the system registry to maintain most of its settings.
+	<br>Settings for the WinMerge shell extension are an exception in that they
+	are always kept in the system registry.
+	<br><i>/config</i> replaces the defective <i>/reghive</i> option, which
+	turned out to be inherently unfixable.
+	<br>If a <i>WinMergeU.json</i> exists in the folder from where
+	<i>WinMergeU.exe</i> is started, then WinMerge will use it by default.
+	This is a preferable way to install WinMerge on portable media.
+	<br>There is no <i>WinMergeU.json</i> included in the distro because it can
+	be trivially created as an empty text file.
+<li><p>When creating a .WinMerge project file, you can instruct WinMerge to
+	maintain most settings in a project specific JSON configuration file so you
+	can tweak them to specific needs without affecting the global settings. 
+	The configuration file is created in the same folder as the project file.
+	The name of the configuration file is formed by appending extension
+	<i>.json</i> to the name of the project file.
+<li><p>Menu command <i>File &rarr; Use desktop specific settings</i> allows you
+	to maintain settings in a desktop specific location.
+	<br>The core motivation for this option was to ease working with TFS and
+	ClearCase at the same time, by doing ClearCase stuff on a separate desktop.
+	<br>The feature is designed to work with
+	<a target='_blank' href='https://technet.microsoft.com/en-us/sysinternals/cc817881'>Sysinternals Desktops v2.0</a>.
+	<br>It may or may not work with other tools which create (the illusion of) additional desktops.
+	<br>In particular, it does not work with the <i>Virtual Desktops</i> feature built into Windows&nbsp;10.
+<li><p>Context menu commands <i>Open &rarr; Containing Folder</i> are
+	provided where applicable, essentially following the suggestion from
+	<a target='_blank' href='https://bitbucket.org/jtuc/winmerge2011/issues/54'>Issue #54</a>.
+<li><p>When prompted to confirm a <i>Copy/Move &rarr; Left/Right to...</i>
+	operation, you have the option to <i>Ignore folder structure</i>.
+<li><p>The <i>Open</i> dialog allows you to specify filter masks with spaces
+	by enclosing them in quotation marks, as per 
+	<a target='_blank' href='http://forums.winmerge.org/viewtopic.php?f=4&t=1142'>this suggestion</a>.
+<li><p>Disabling the new system option <i>Use Shell file operations</i> allows the
+	Folder Compare window to perform file operations on files with long paths.
+	<br>Note, however, that this option comes at the price of losing the option to
+	<i>Send deleted files to Recycle Bin</i>.
+</ul>
+<p>
+Click <a href='https://bitbucket.org/jtuc/winmerge2011/get/0.2011.007.444.zip'>here</a> to obtain the source code for this release.
+<p>
+Click <a href='https://bitbucket.org/jtuc/frhed/get/0.10904.2017.zip'>here</a> to obtain source code for Frhed binaries included in this release.
+<p>
+<i>Jochen Neubeck, November 2017</i>
+<xml src='WinMerge.chm' onreadystatechange='OnReadyStateChangeExternalDoc()'></xml>
+</body>

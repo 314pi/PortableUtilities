@@ -1,0 +1,299 @@
+; HUNGARIAN LANG FILE
+; THIS WAY YOU CAN EASILY TRANSLATE THIS PROGRAM INTO YOUR OWN LANGUAGE!
+; EVERY LINE !!!STARTING!!! WITH A ";" IS CONSIDERED A COMMENT
+Biztos le akarja törölni?
+Elkészült az újabb verzió! Meglátogatja a program weboldalát, hogy letöltse azt?
+Ön a legfrissebb verzióval rendelkezik.
+Hiba történt, próbálja meg késõbb.
+Törlés
+A program neve
+&File
+F&ilterek
+F&unkciók
+&Beállítások
+&Nyelv
+&Segitség
+&Kilépés
+Csak a '&halott linkeket' mutassa
+Lista &frissítése
+Új &verzió keresése
+&Vonalak mutatása
+&Súgó
+&Weboldal...
+
+&Névjegy
+Eltávolítás
+Törlés
+Legalább 3 karaktert kell megadnia!
+A lista &exportálása...
+Szöveg File (*.txt)|*.txt|Minden File (*.*)|*.*
+&Eltávolítás
+Tör&lés
+&Segitség
+Csak a '&crap' linkeket mutassa
+&Ne mutassa az elrejtett linkeket
+Elrejtés
+&Rejtett filter szerkesztése...
+Rejtett filter szerkesztése
+A kiválasztott program eltávolítása a listából
+Listán levõ programok száma: %d !
+Információk
+Üdvözlöm a ZSoft Uninstaller-ben!\n\nItt segítséget kaphat a program során, szóval néha nézzen ide is. ;)\n\nJó szórakozást! :o)
+Kis türelmet, amig a/z %s program befejezi az eltávolítását...
+%s program eltávolítva.\n\nLista frissítve!
+Nem tudom futtatni a/z %s program eltávolító programját.
+;
+; ABOUT BOX:
+;
+A ZSoft Uninstaller névjegye:
+- N é v j e g y -\nAz Uninstaller egy kicsi, ingyenes program, aminek többé-kevésbé\nugyanazok a funkciói, mint a beépített Microsoft Windows Uninstallernek,\ncsak gyorsabban töltõdik be. A programot nagyrészt jómagam írtam,\nmert azt gondolom, hogy a Windows XP-s elég gagyi...\nSose felejtse el, hogy ezt a programot csak saját felelõségedre használja,\nés a programozója nem vonható felelõségre adatvesztés, stb esetén!\n\n - K ö s z ö n e t  I l l e t i - \n Ez a program a következõ programokból kölcsönzött kódokat: \nToolbar2000 & TBX (A kinézetben segítettek.)\nIndy (Az internetes dolgokért.)\nWisnu Aribowo (Ezért a scrollozó szövegért.)\n\n- C o p y r i g h t  M e g j e g y z é s -\nEz a program jogvédett, a (C) 2004-2005 ZSoft tulajdona.\n\nEgyes részei pedig a (c) 1993 - 2003, Chad Z.\nHower (Kudzu) és a Indy Pit Crew - IndyProject.org tulajdona.
+&Bezár
+;
+; New
+;
+Info
+Info megmutatása/szerkesztése
+Név
+Érték
+Mentés
+Mégsem
+Csere
+OK
+Mégse
+A lista betütipusának kiválasztása...
+Analizálás
+Az installált program analizálása
+;
+; The analyze function
+;
+Üdvözlöm!
+Itt tud analizálni egy installációt, vagy teljesen eltávolítani egy, már analizált programot.
+Mi legyen tehát?
+Egy installált program analizálása
+Egy korábban analizált program eltávolítása
+Mégsem
+Tovább >>
+Mielõtt folytatnánk, szükséges, hogy a számítógépén létrehozzunk egy 'kép file'-t. Kérem válassza ki, hogy melyik winchesterét akarja analizálni. Alap esetben ez a 'C' meghajtóját jelenti, és az a meghajtó (ha az más, mint a 'C') ahova installálta a programot.
+Meghajtók:
+Installálás elõtt.
+Installálás után.
+File-ok (kb.): 
+Reg. bejegyzések (kb.): 
+Felhasznált idõ (mp.): 
+Dolgozom... Kérem várjon!
+Írja be a program nevét
+Írja be az installált program nevét:
+HIBA: Már létezik ilyen file. Írja be a program nevét.
+HIBA: Már létezik ilyen file. Írja be a program nevét, amit installált.
+Feladat elvégezve. Az ablak bezárja önmagát.
+Kérem válassza ki a listából, hogy melyik analizált programot szeretné eltávolítani:
+Erõsítse meg a következõket:
+Ezt a saját felelõségemre fogom csinálni.
+Amit letörlök, azt nem tudom visszahozni.
+Nem perelem be a program íróját adatvesztésért.
+Eltávolít
+Ki kell választania, hogy mit akar eltávolítani!
+Nem erõsítette meg a következõt: 
+Jegyezze meg ezeket a program.
+A/z "%s" file új, biztos le akarja törölni?
+Le akarja törölni a file-t?
+Le akarja törölni a napló file-t?
+Le akarja törölni a napló file-t?
+Törölve: 
+A/z "%s" mappa nem törölhetõ - talán nem is üres.
+%d file(s) seem to be deleted, but this is not an undelete tool!
+A regisztrációs kulcs "%s" nem üres, tehát nem lett letörölve!
+Hibás napló!
+Kész.
+Hozzáadás
+Eltávolítás (Ez nem vonható vissza!)
+Új érték:
+A hozzáadott tétel neve:
+A hozzáadott tétel tartalma:
+Biztos el akarja távolítani a regisztrációs adatbázisbó?\nEz a mûvelet nem vonható vissza!\nFolytatja?
+Biztos benne?
+Installált
+Analizált
+&Temp File keresõ
+Indít
+Megszakítás
+Keresés helye:
+File név
+Kiterjesztés
+Hely
+Méret
+Keresés megszakítva
+Éppen itt keres: 
+Keresés befejezve.
+Törlés (Nem visszavonható.)
+Biztos benne?
+Biztos le akarja törölni ezeket a file-okat?\nEz a mûvelet nem vonható vissza!\nFolytatja?
+A mappa lehet, hogy nem törlõdött!
+Azt hiszem, hogy a program ebbe a mappába volt installálva:\n\n%s\n\nEz így volt? Le akarja törölni ezt a mappát? (A mûvelet nem vonható vissza!)
+Elmentés és törlés.
+Biztos benne?
+Ez letörli a kijelölt file-okat, habár ezeket késõbb vissza tudja hozni.\nFolytatja?
+Elmentett
+Visszaállítás
+Átnevez
+Írja be a kívánt nevet
+Átnevez
+Töröl
+Pár file-t és/vagy regisztrációs kulcsot nem tudtam törölni. Következõ indításnál újra megpróbálom!
+Nem találom a súgó file-t!
+Nem találom
+Az értéknek egész számnak kell lennie!
+Muszáj megadnia egy értéket, és egész számnak kell lennie!
+Szöveg
+Kiterjesztett szöveg
+Egész szám
+Egy korábbi analízis folytatása
+Hiba lépett fel a mappa megalkotásánál, ezért a funkció leállt.
+Hiba!
+Mutassa a felvett értéket
+Figyelmen kívül hagyottak listája
+Szekció
+Hely
+Figyelmen kívül hagy...
+Hozzáad
+Eltávolít
+Szekció:
+Hely:
+Tallózás
+Ezt a mappát ajánlott lenne kihagyni.
+File
+Regisztrációs adatbázis
+Mégsem
+Hozzáad
+Keresés:
+Eltávoltítás priorítása
+Magas
+Átlagos
+Alacsony
+Ezt már figyelmen kívül hagyom.
+Kérem pontosan töltse ki az ûrlapot.
+Beállítások
+Ne foglalkozzon az Internet Explorer-rel
+Ne foglalkozzon a Firefox-al
+Méret:
+Installálás:
+Utolsó módosítás:
+Utolsó használat:
+Ne mutassa a Windows frissítéseket
+Mindet visszahoz
+Csak az új linkeket mutassa
+Jelölje az új linkeket
+Rejtett
+Regisztrációs adatbázis böngészése
+Törlés a lomtárba
+Ikonok mérete
+Nem találom a '%s' file-t. Lehet, hogy a mentés hibás.
+Mentés másként...
+Nagy
+Kicsi
+Nem tudom törölni:
+Könyvtár törölve: 
+Regisztrációs bejegyzés törölve:
+Regisztrációs bejegyzés elkészítve:
+A regisztrációs bejegyzés nem jött létre:
+Nem törölt regisztrációs bejegyzés:
+Regisztrációs kulcs törölve:
+Regisztrációs kulcs elkészítve:
+A regisztrációs kulcs nem jött létre:
+Kérem várjon...
+Törlés a lomtárba
+Törlés a lomtárba
+Biztos át akarja ezeket a file-okat mozgatni a lomtárba?
+Összes kijelölése
+%d file-t találtam a %s-ból/bõl.
+Lista rendezése
+Név szerint ABC-ben
+Név szerint ZXY-ben
+Idõ szerint növekvõ
+Idõ szerint csökkenõ
+Eltávolítás a rejtett listáról
+Szerkesztés
+Filerendszer
+Regisztrácós adatbázis
+Analizált napló szerkesztése
+Megváltoztatta a napló file-t. Elmentsem?
+Menti a változásokat?
+Háttérszín váltása
+;
+; NEW STUFF - TRANSLATERS THIS IS WHAT NEEDS TO BE TRANSLATED!
+;
+Add item to ignore-list (Analyze-feature)
+In this window you can see (and navigate) the recorded changes made by the analyzed installation. You can delete items from the log (a backup will be created, just in case), and you can add folders and keys to the ignore list, so they won't be recorded in the future.
+Empty Folders Finder
+Scan this directory for empty folders:
+Only scan top-level
+Start Scan
+Dir
+Scan this directory
+Remove Selected
+Tools
+Startup Manager
+Name
+Launches
+Disable
+Enable
+Copy program name to clipboard
+Text '%s' copied to clipboard!
+Hide Search-Bar
+The program %s should now be uninstalled. Do you want to search for leftovers?
+Search for leftovers?
+I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
+Next >>
+Jump To
+Go one level up
+Place
+Type
+Path
+Value
+Post Uninstall Manager
+Program Name
+Perform Post Uninstall on selected program
+By
+Version
+Open Install Folder
+Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
+Do you want to save a new logfile?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

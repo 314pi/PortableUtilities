@@ -1,0 +1,8 @@
+[Info]
+Title=EditPad
+Description=Cleans EditPad
+Icon=Disk Cleaner.ICO
+Creator=AC
+
+[registry]
+HKEY_CURRENT_USER|Software\JG\EditPad\Reopen

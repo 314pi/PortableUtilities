@@ -1,0 +1,299 @@
+; SPANISH LANG FILE
+; THIS WAY YOU CAN EASILY TRANSLATE THIS PROGRAM INTO YOUR OWN LANGUAGE!
+; EVERY LINE !!!STARTING!!! WITH A ";" IS CONSIDERED A COMMENT
+¿Está seguro de querer eliminarlo?
+Hay una nueva versión disponible. ¿Desea abrir el sitio web para poder descargarla?
+¡Ud. ya tiene la última versión!
+Ha ocurrido algún error... Inténtelo más tarde...
+Limpiar
+Nombre del Programa
+&Archivo
+F&iltros
+F&unciones
+&Opciones
+&Idioma
+A&yuda
+&Cerrar
+Mostrar sólo 'enlaces inútiles'
+Actualizar la &Lista
+Buscar actualizaciones del Programa
+Mostrar líneas de cuadrícula
+ayuda
+ZSoft Software
+
+&Acerca de
+Desinstalar
+Eliminar
+¡Debe usar al menos 3 caracteres!
+&Exportar Lista
+Archivos de Texto Files (*.txt)|*.txt|Todos los Archivos (*.*)|*.*
+&Desinstalar
+E&liminar
+A&yuda
+Mostrar sólo "crapware"
+No mostrar 'enlaces ocultos'
+Ocultar
+Editar el Filtro-Ocultar
+Editar el Filtro-Oculto
+Eliminar seleccionados de la lista y no ocultarlos más
+¡Mostrando %d programas!
+Información
+Bienvenido a ZSoft Uninstaller!\n\nUd. tendrá aquí la información de ahora en adelante, así que fíje su vista aquí ;).\n\n¡Disfrute! :o)
+Esperando en estos momentos por la terminación del programa de desinstalación de %s.
+%s No debería ser desinstalado.\n\n¡La lista ha sido actualizada!
+No se puede ejecutar el programa de desinstalación de %s.
+;
+; ABOUT BOX:
+;
+Acerca de ZSoft Uninstaller
+- A b o u t -\nUninstaller es un pequeño, gratuito, ligero programa \nque tiene más o menos las mismas caracteristicas \nque tiene el incluido en  Microsoft Windows  \n- Uninstaller es simplemente más rápido en cargarse.\n\nUninstaller ha sido escrito, casi todo por mí mismo, \nporque creo que el incluido en Windows XP es fastidioso para abrir...\n\nRecuerde que el uso de este programa \nes completamente de su propia responsabilidad,\ny que el programador no puede asumir la responsabilidad \npor pérdida de datos, etc.!\n\n- Agradecimientos-\nEste programa incluye los códigos de los siguientes proyectos:\nToolbar2000 & TBX \n(para los componentes que hacen lucir bien este programa)\nIndy (para los componentes que permiten acceso a internet)\nWisnu Aribowo (para este componente de texto con enrollamiento)\n\n- C o p y r i g h  N o t i c e -\nEste software tiene derecho de autor: copyright (C) 2004-2005 ZSoft.\n\nPartes de este software tiene derecho de autor (c) 1993 - 2003, Chad Z.\nHower (Kudzu) y el Indy Pit Crew - IndyProject.org
+&Cerrar
+;
+; Nuevo
+;
+Mostrar/Editar Información 
+Información de Ver/Editar
+Nombre
+Valor
+Guardar
+Cancelar
+Cambiar
+OK
+Cancelar
+Seleccionar Fuente (Sólo en Lista)
+Analizar
+Analizar Instalación
+;
+; La función de Analizar
+;
+¡Bienvenido!
+Esta guía lo llevará a través de un proceso donde Ud. puede ya sea analizar o desinstalar completamente un programa analizado previamente.
+¿Qué desea hacer?
+Analizar una instalación
+Desinstalar un programa analizado previamente
+Cancelar
+Siguiente >>
+Antes de comenzar la instalación debe crearse una 'imagen' de su computadora. Escoja qué disco(s) duro(s) Ud. desea analizar. Normalmente el el disco duro C en donde Ud. instala. (Si es diferente es suficiente).
+Discos
+Antes de instalación
+Después de instalación
+Archivos encontrados (aprox): 
+Reg. Encontrados (aprox): 
+Tiempo utilzado (in seg.): 
+Comparando... ¡Por favor, espere!
+Introduzca el Nombre de la Aplicación
+Introduzca el Nombre de la Aplicación que ha instalado aquí debajo.
+ERROR: El Archivo existe @ Introduzca el Nombre de la Aplicación
+ERROR: El Archivo existe. Introduzca un nombre único de la Aplicación que ha instalado aquí debajo.
+La tarea ha terminado. La ventana se cerrará ahora.
+Escoja aquí abajo qué programa previamente analizado desea Ud. desinstalar.
+Ahora, confirme lo siguiente:
+Entiendo que hago esto bajo mi propia responsabilidad
+Entiendo que los archivos eliminados no pueden recuperarse
+No haré responsable al programador por la pérdida de datos, etc.
+Desinstalar
+¡Ud. debe escoger qué programa desea desinstalar!
+Ud. debe confirma que Ud. entiende 
+No deseo confirmar cada eliminación
+Este archivo "%s" es nuevo; ¿Desea eliminarlo?
+¿Desea eliminar este archivo?
+¿Desea eliminar el archivo de registro?
+¿Eliminar el archivo de registro?
+Eliminado: 
+La carpeta "%s" no pudo ser eliminada - Quizá no está vacía
+El(los) Archivo(s) %d file(s) parece(n) haber sido eliminado(s), ¡pero ésta no es una herramienta de recuperación!
+¡La clave de Registro "%s" no está vacía y no será eliminada!
+¡Registro erróneo!
+Hecho
+Añadir nuevo elemento
+Quitar (no puede revertirse)
+Nuevo Valor:
+Nombre del nuevo elemento:
+Contenido del nuevo elemento:
+¿Está Ud. seguro de querer quitar este elemento del registro?\nPor favor, dése cuenta de que esto no puede deshacerse!\n¿Desea continuar?
+¿Está Ud. seguro?
+Programas Instalados
+Programas Analizados
+&Temporales
+Comenzar
+Detener
+Buscar en este disco:
+Nombre de Archivo
+Extensión
+Ubicación
+Tamaño
+Búsqueda detenida por usuario
+Buscando en:
+Búsqueda terminada
+Eliminar Archivo(s) (No puede revertirse)
+¿Está Ud. seguro?
+¿Está Ud. seguro de que quiere eliminar este/estos) Archivo(s)?\nPor favor, dése cuenta de que esto no puede deshacerse!\n¿Desea continuar?
+La carpeta posiblemente no se ha borrado
+Pienso que ésta es la carpeta donde fue instalado en programa:\n%s\n¿Es esto correcto?\n¿Desea eliminar esta carpeta? (¡Esto puede revertirse!)
+¿Hacer Backup y eliminar el/los archivo(s))
+¿Está Ud. seguro?
+Esto eliminará el/los archivo(s) seleccionado(s). Pero Ud. puede recuperarlos luego, si lo desea..\n¿Desea continuar?
+Backups
+Recuperar
+Renombrar
+Escriba el nombre deseado aquí abajo
+Renombrar
+Eliminar
+Alguno(s) Archivo(s) y/o entradas de registro no pudieron ser eliminadas. Trataré de nuevo la próxima vez que abra este programa
+¡No se pudo encontrar el archivo de ayuda!
+No encontrado
+¡El valor debe ser un número entero!
+¡El valor debe escogerse y, si es número entero, sólo eso!
+Cuerda
+Cuerda Expandida
+Núm entero
+Terminar un análisis que ha sido iniciado
+Ha ocurrido un error al tratar de crear la carpeta, la función no continuará.
+¡Error!
+Mostrar información guardada
+;
+; NEW STUFF - TRANSLATERS THIS IS WHAT NEEDS TO BE TRANSLATED!
+;
+Ignorar Lista
+Sección
+Ubicación
+Editar Lista de Ignorar
+Añadir
+Eliminar
+Sección:
+Ubicación:
+Examinar
+Esta carpeta será ignorada
+Archivo
+Registro
+Cancelar
+Añadirlo
+Buscar:
+Prioridad de Desinstalación
+Alta
+Normal
+Baja
+El elemento ya está ignorado.
+Ud. debe llenar el formulario debidamente.
+Opciones
+Ignorar cache de Internet Explorer
+Ignorar cache de Firefox
+Tamaño Aprox.:
+Fecha Instalación:
+Fecha Modificación:
+Fecha Acceso:
+No mostrar actualizaciones de Windows
+Recuperar todos
+Only show new 'links'
+Mark new 'links'
+Hidden Programs
+Registry Browser
+Delete files to recycle bin
+Show Icons
+The file '%s' couldn't be found. Backup (might be) broken.
+Save as...
+As big icons
+As small icons in the list
+Couldn't be deleted: 
+Directory deleted: 
+Registry entry deleted: 
+Registry entry created: 
+Registry entry NOT created: 
+Registry entry NOT deleted: 
+Registry key deleted: 
+Registry key created: 
+Registry key NOT created: 
+Please stand by...
+Delete to recycle bin
+Delete File(s) to Recycle Bin
+Are you sure you want to delete this/these file(s) to the recycle bin?
+Select All
+%d files found, totaling %s.
+Sort List After
+Name (ascending)
+Name (descending)
+Time (ascending)
+Time (descending)
+Remove from Hidden List
+Edit
+Filesystem
+Registry
+Edit Analyzed Log
+You have made changes in the logfile. Do you want to save these changes?
+Do you want to save your changes?
+Change Background Color Of
+Add item to ignore-list (Analyze-feature)
+In this window you can see (and navigate) the recorded changes made by the analyzed installation. You can delete items from the log (a backup will be created, just in case), and you can add folders and keys to the ignore list, so they won't be recorded in the future.
+Empty Folders Finder
+Scan this directory for empty folders:
+Only scan top-level
+Start Scan
+Dir
+Scan this directory
+Remove Selected
+Tools
+Startup Manager
+Name
+Launches
+Disable
+Enable
+Copy program name to clipboard
+Text '%s' copied to clipboard!
+Hide Search-Bar
+The program %s should now be uninstalled. Do you want to search for leftovers?
+Search for leftovers?
+I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
+Next >>
+Jump To
+Go one level up
+Place
+Type
+Path
+Value
+Post Uninstall Manager
+Program Name
+Perform Post Uninstall on selected program
+By
+Version
+Open Install Folder
+Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
+Do you want to save a new logfile?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

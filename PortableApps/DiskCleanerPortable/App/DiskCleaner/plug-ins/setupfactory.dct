@@ -1,0 +1,7 @@
+[Info]
+Title=Setup Factory
+Description=Cleans Setup Factory
+
+[registry]
+HKEY_CURRENT_USER|SOFTWARE\Indigo Rose\Setup Factory 6.0\Recent File List
+HKEY_CURRENT_USER|SOFTWARE\Indigo Rose\Setup Factory 7.0 SSG//2004\Recent File List

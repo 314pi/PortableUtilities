@@ -1,0 +1,8 @@
+[Info]
+Title=AOL Toolbar
+Description=Deletes AOL Toolbar Search History and Pop-up Kills
+
+
+[registry]
+HKEY_CURRENT_USER|Software\BestToolbars\IEToolbar|BlockedCounter
+HKEY_CURRENT_USER|Software\BestToolbars\IEToolbar\HistorySearchCombo

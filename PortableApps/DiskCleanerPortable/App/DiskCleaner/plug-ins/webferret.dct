@@ -1,0 +1,7 @@
+[Info]
+Title=WebFerret
+Description=Erase WebFerret Search History
+
+
+[registry]
+HKEY_CURRENT_USER|Software\FerretSoft\NetFerret\CurrentVersion\Web|Search History

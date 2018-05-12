@@ -1,0 +1,7 @@
+[Info]
+Title=Java Runtime Cache
+Description=Cleans Sun's Java cache folder
+
+[files]
+%localappdatalow%\Sun\Java\Deployment\cache\*.* /s
+%localappdata%\Sun\Java\Deployment\cache\*.* /s

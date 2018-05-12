@@ -1,0 +1,140 @@
+DTaskmanager - HISTORY
+~~~~~~~~~~~~~~~~~~~~~~
+v. 1.56
+
+- Migliorata la compatibilità con i sistemi operativi successivi a XP.
+- In maniera analoga agli altri d-software, anche DTM d'ora in avanti seguirà la nuova denominazioni dei numeri di versione, per cui le prime due cifre indicano il numero di versione, mentre l'ultima indica il numero della build (x es v1.56.4: Version 1.56, Build 4).
+- Fixati alcuni bug nell'UI su Win10.
+
+v. 1.55.1
+
+- Fixato il bug che impediva la visualizzazione degli Owner di alcuni particolari processi.
+
+v. 1.55.0
+
+- Ora il programma dovrebbe essere compatibile anche con Vista e successivi, in particolare la sezione relativa alle connessioni e alle porte. E con questo i sistemi per ottenere l'elenco delle porte e dei rispettivi PID sono saliti a quattro (uno per Win2000, uno per XP, uno per XPx64 e uno per Vista e successivi) nella speranza che la Microsoft mantenga un pò più di stabilità nelle future API di Windows.
+- I Tab ora sono realizzati tramite l'apposita API e non disegnati on the fly.
+- Stessa cosa per la barra di stato.
+- Fix minori.
+
+v. 1.54.2
+
+- Svariati fix di ogni tipo.
+
+v. 1.54.1
+
+- Piena compatibilità con il DEP (Data Execution Prevention) che in precedenza, se attivata, mandava in crash il programma impedendone l'avvio.
+- Fix minori.
+
+v. 1.54
+
+- Reso compatibile con i percorsi Unicode.
+- Introdotta l'opzione per nascondere tutte le finestre associate ad un PID.
+- Aggiornamenti e Fix minori.
+
+v. 1.53
+
+- Migliorato il TAB delle Porte, ora vengono indicati anche i servizi specifici per ogni connessione.
+- Fixati vari Bug che impedivano il corretto funzionamento nei SO a 64 bit di svariate funzioni.
+- Aggiunta la possibilità di ottenere la lista degli host in rete.
+- Aggiornamenti minori.
+
+v. 1.52
+
+- Fixato il difetto che, su sistemi a 64 Bit, impediva di impostare DTM come TaskManager di default al posto del TaskManager di Windows (e viceversa).
+- Se il SO ha 64 bit, i processi che girano a 32 bit vengono segnalati (come nel TaskManager di Windows).
+- Altri Fix minori.
+
+v. 1.51
+
+- Aggiunto il supporto ai sistemi multiprocessore (ringraziamenti a William Warner per avermi fornito un sistema biprocessore su cui fare i test).
+- Aggiunto il comando "Set Affinity..." che permette di impostare l'affinità di un processo per una o più CPU.
+
+v. 1.50
+
+- L'opzione "Start in separate Desktop" è stata sostituita con l'hotkey CTRL+ALT+BACKSPACE che permette di avviare DTM in un altro Desktop. Ciò consente di riprendere il controllo del sistema anche in caso di interfaccia grafica crashata.
+- Fix minori.
+
+v. 1.49
+
+- Aggiunta la possibilità scegliere se visualizzare nella TrayBar l'occupazione di CPU o di RAM.
+- Aggiunti degli HotKeys per ottenere lo shutdown del sistema (potrebbero dare dei falsi positivi con gli antivirus).
+- Fixati alcuni problemi che, in determinate configurazioni, causavano il crash del sistema alla disconnessione da Internet.
+- Altre piccole migliorie tecniche.
+
+v. 1.48
+
+- Aggiunta un'opzione che permette di scegliere se visualizzare, nel grafico dell'utilizzo della RAM, la memoria committed (default) o quella fisica.
+- Migliorata la velocità di apertura del programma.
+- Aggiunta l'opzione "Auto manage priority of processes" che consente di ridurre la priorità di eventuali processi che stiano monopolizzando la CPU compromettendo le prestazioni complessive del sistema.
+- Aggiunta un'opzione che permette di ottenere un riscontro sonoro (beep) in caso l'utilizzo della CPU salga o scenda oltre un certo limite per un certo tempo.
+
+v. 1.47.1
+
+- Fixato il crash nella modalità provvisoria.
+
+v. 1.47
+
+- Ritocchi all'UI.
+- Fix minori.
+
+v. 1.46
+
+- Ora la finestra è ridimensionabile.
+
+v. 1.45
+
+- Aggiunto il TAB Networking che consente di monitorare le interfacce di connessione.
+- Aggiunto il pulsante "Freeze" per bloccare la schermata nel tab delle porte.
+
+v. 1.44
+
+- Risolto il bug che causava un errore nei sistemi con più di 2 GB di RAM.
+- Aggiunta la colonna del PPID (Parent Process ID).
+- Fixato un bug che, su alcune configurazioni grafiche, causava anomalie nelle proporzioni della finestra.
+
+v. 1.43
+
+- Aggiunta l'opzione "Show Bytes Exchanged" che permette di monitorare i bytes scambiati da ogni porta (utile per individuare virus o processi che generano traffico).
+- Aggiunta l'opzione "Resolve IP Addresses And Port Services" per risolvere al volo gli indirizzi IP e per visualizzare i nomi dei servizi associati alle porte.
+- Alcuni Fix minori.
+
+v. 1.42
+
+- Aggiunta l'opzione "Start In Separate Desktop" che permette di avviare DTaskManager in un Desktop separato, ciò permette di riprendere facilmente il controllo anche di un Desktop bloccato.
+- Alcuni miglioramenti interni ora consentono a DTaskManager di rimanere responsivo anche in condizioni di elevato consumo di CPU da parte di uno o più processi.
+
+v. 1.41
+
+- Aggiunta la possibilità di filtrare gli IP di LoopBack.
+- Migliorata la visualizzazione delle ListView contenenti delle icone.
+- Fixato un bug che, nella visualizzazione delle porte di numero superiore a 32000, impediva di ottenerne il Process ID.
+- Ora nel TAB "Ports" vengono visualizzate anche le icone associate ai processi e i campi vengono ordinati alfabeticamente di default.
+- Altri fix minori.
+
+v. 1.40
+
+- Nella visualizzazione delle porte attualmente aperte ora sono visibili anche l'IP e la porta remota.
+- Aggiunta l'opzione "Reveal All Windows" per rendere visibili tutte le finestre associate ad un dato processo.
+- Piccoli ritocchi al TAB "Performances" e all'UI in generale.
+- Fixati alcuni bug secondari.
+
+v. 1.39
+
+- Aggiunta la possibilità di nascondere temporaneamente una finestra specificata.
+- Aggiunta la possibilità di rendere la finestra principale trasparente in modo da vedere quello che succede al di sotto del TaskManager pur mantenendone il pieno controllo.
+- Ora la lista dei Task può visualizzare, a scelta, l'elenco delle "Main Window" dei vari processi (default) o anche tutte le finestre di livello superiore attualmente visibili.
+- I Task ora vengono ordinati alfabeticamente di default.
+- Migliorata la visualizzazione dei moduli utente, con la possibilità di visualizzare i processi + relativi moduli o, alternativamente, i moduli + relativi processi che ne fanno uso.
+- Aggiunta la possibilità di impostare al volo la priorità "Idle" a tutti i programmi (esclusi DTaskManager e i processi di sistema).
+
+v. 1.38
+
+- Aggiunto il pulsante "Find Target File" che consente di trovare rapidamente la posizione di un file eseguibile/modulo.
+- Fixato un bug che, su certe configurazioni, generava un errore in fase di avvio.
+- Aggiunti due TAB, per la visualizzazione dei moduli Utente e dei moduli kernel.
+
+v. 1.37
+
+- Aggiunto un TAB con la visualizzazione delle porte aperte dai vari processi.
+- Altre cosette che non ricordo :-)

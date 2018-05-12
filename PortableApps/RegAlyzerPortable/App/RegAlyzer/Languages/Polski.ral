@@ -1,0 +1,393 @@
+[Dialogs]
+ButtonYes=Tak
+ButtonNo=Nie
+ButtonOK=OK
+ButtonCancel=Anuluj
+ButtonAbort=Przerwij
+ButtonRetry=Ponów
+ButtonIgnore=Ignoruj
+ButtonAll=Wszystko
+ButtonNoToAll=Nie dla wszystkich
+ButtonYesToAll=Tak dla wszystkich
+ButtonHelp=Pomoc
+DialogTitleWarning=Ostrze¿enie
+DialogTitleError=B³¹d
+DialogTitleInformation=Informacja
+DialogTitleConfirmation=Potwierdzenie
+DialogTitleCustom=Dowolny
+
+[Messages]
+MyComputer=Mój komputer
+WarningComplicatedDataType=RegAlyzer potrafi utworzyæ now¹ wartoœæ tego typu, ale nale¿y wprowadziæ j¹ w postaci binarnej.%0D%0AWprowadzenie b³êdnej wartoœci mo¿e spowodowaæ, ¿e rejestr systemu Windows zawiesi siê.%0D%0ACzy napewno chcesz kontynuowaæ?
+ConfirmValueDelete=Czy napewno chcesz usun¹æ wybran¹ wartoœæ ("%s")?
+ConfirmKeyDelete=Czy napewno chcesz usun¹æ wybrany klucz ("%s")?
+DialogRenameValueTitle=Zmieñ nazwê ("%s")
+DialogRenameValueCaption=Podaj now¹ nazwê dla wybranej wartoœci:
+DialogRenameKeyTitle=Zmieñ nazwê klucza ("%s")
+DialogRenameKeyCaption=Podaj now¹ nazwê dla wybranego klucza:
+DialogNewKeyTitle=Nowy klucz
+DialogNewKeyCaption=Podaj nazwê dla nowego klucza:
+DialogNewValueTitle=Nowa wartoœæ
+DialogNewValueCaption=Podaj nazwê dla nowej wartoœci:
+DialogNewValueStringTitle=Nowa wartoœæ ci¹gu
+DialogNewValueStringCaption=Podaj nazwê dla nowej wartoœci:
+DialogNewValueNumericTitle=Nowa wartoœæ DWORD
+DialogNewValueNumericCaption=Podaj nazwê dla nowej wartoœci:
+DialogNewValueBinaryTitle=Nowa wartoœæ binarna
+DialogNewValueBinaryCaption=Podaj nazwê dla nowej wartoœci:
+DialogJumpToKeyTitle=Skocz do klucza
+DialogJumpToKeyCaption=Podaj nazwê klucza do którego chcesz przejœæ:
+DialogNewKeyDefault=Nowy klucz
+DialogNewValueDefault=Nowa wartoœæ
+DialogNewValueStringDefault=Nowa wartoœæ ci¹gu
+DialogNewValueNumericDefault=Nowa wartoœæ DWORD
+DialogNewValueBinaryDefault=Nowa wartoœæ binarna
+DialogValueDefault=(Domyœlna)
+DialogDataNotDefined=(Wartoœæ nie ustalona)
+DialogDataNotSupported=(Typ danych nieobs³ugiwany)
+DialogDataBinaryZero=(Wartoœæ binarna o d³ugoœci zero)
+DialogDataError=(B³¹d podczas odczytu danych)
+DialogSearchStatus=Wyszukiwanie %s
+DialogSearchFinished=Wyszukiwanie zakoñczone. Znaleziono %d pozycji.
+DialogSearchStopped=Wyszukiwanie zosta³o zatrzymane.
+DialogSearchFocusLimited=Wyszukiwanie ograniczone do klucza %s.
+DialogSearchFocusAll=Przeszukaj ca³y rejestr.
+DialogSearchHighSpeedStatus=Proszê czekaæ...
+RemoteConnectTitle=Pod³¹cz do rejestru zdalnego
+RemoteConnectCaption=Podaj nazwê zdalnego komputera:
+DialogConfirmImport=Czy napewno chcesz pobraæ ten plik?
+BookmarkItemDefaultName=Nowa zak³adka
+BookmarkItemAddTitle=Nazwa zak³adki
+BookmarkItemAddCaption=Podaj nazwê nowej zak³adki:
+BookmarkItemAddLocationTitle=Lokalizacja
+BookmarkItemAddLocationCaption=Podaj lokalizacjê na któr¹ bêdzie wskazywa³a zak³adka:
+BookmarkItemRenameTitle=Zmieñ nazwê zak³adki
+BookmarkItemRenameCaption=Podaj nazwê zak³adki:
+BookmarkItemDeleteCaption=Czy napewno chcesz usun¹æ wybran¹ zak³adkê?
+BookmarkFolderDefaultName=Nowa grupa
+BookmarkFolderAddTitle=Nazwa grupy
+BookmarkFolderAddCaption=Podaj nazwê dla nowej grupy:
+BookmarkFolderRenameTitle=Zmieñ nazwê grupy
+BookmarkFolderRenameCaption=Podaj nazwê dla grupy:
+BookmarkFolderDeleteCaption=Czy napewno chcesz usun¹æ wybran¹ grupê?
+DialogSearchReplaceStatus=%s wyst¹pieñ zosta³o zmodyfikowanych.
+ConfirmCopyOverwrite=Podana wartoœæ ("%s") ju¿ istnieje w wybranym kluczu. Czy chcesz j¹ nadpisaæ?
+DragDropMoveStatus=Przenoszenie wybranych elementów do %%s...
+DragDropCopyStatus=Kopiowanie wybranych elementów do %%s...
+DragDropValueMoveStatus=Przenoszenie wybranych elementów do %s...
+DragDropValueCopyStatus=Kopiowanie wybranych elementów do %s...
+DragDropKeyMoveStatus=Przenoszenie klucza %s do %s...
+DragDropKeyCopyStatus=Kopiowanie klucza %s do %s...
+DragDropWrongRootKeyWarning=Nie mo¿na przenosiæ kluczy pomiêdzy ró¿nymi kluczami g³ównymi (jeszcze)!
+RemoteErrorAccessDenied=Nie posiadasz uprawnieñ do zasobu sieciowego.
+RemoteErrorAlreadyAssigned=Zasób jest ju¿ pod³¹czony.
+RemoteErrorBadDevice=Wybrany zasób jest b³êdny.
+RemoteErrorBadNetName=Typ zasobu sieciowego jest niew³aœciwy.
+RemoteErrorBadProfile=Podany format profilu u¿ytkownika jest niew³aœciwy.
+RemoteErrorBadProvider=Podany adres sieciowy jest niew³aœciwy.
+RemoteErrorBusy=Urz¹dzenie sieciowe nie jest gotowe. Proszê ponowiæ próbê za kilka sekund.
+RemoteErrorInvalidPassword=Podane has³o dostêpu jest niew³aœciwe.
+RemoteErrorNoNetOrBadPath=Us³uga sieciowa nie zosta³a uruchomiona lub podany adres nie mo¿e zostaæ u¿yty.
+RemoteErrorNoNetwork=Sieæ nie jest dostêpna.
+DialogHivesLoaded=(*%d registry hives have been found and loaded into HKEY_LOCAL_MACHINE\PE_* and/or HKEY_USERS\PE_*. They will be unloaded again on program exit.
+
+[Main]
+LanguageName=Polski
+Use=U¿yj jêzyka polskiego
+HelpFile=Help\English.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Edytowanie ci¹gu
+formEditInteger=Edytowanie wartoœci DWORD
+formEditMultiString=Edytowanie wieloci¹gu
+formSearch=Wyszukiwanie
+formBookmarks=Zak³adki
+formAbout=O programie
+formEditResourceRequirementsList=Lista wymagañ zasobu
+formRegalyzer=RegAlyzer
+formRemoteConnect=Pod³¹cz do rejestru zdalnego
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Dane
+tsInfo=Uprawnienia
+tsDatabaseInfo=Baza informacji
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Name%0D%0ATyp%0D%0AWartoœæ%0D%0ARozmiar%0D%0A
+lvHexDump.Items=Pozycja%0D%0AZrzut%0D%0AText%0D%0A
+
+[formMain.alMain]
+aKeyDelete=&Usuñ klucz
+aKeyAdd=&Nowy klucz...
+aKeyRename=&Zmieñ nazwê klucza...
+aValueDelete=&Usuñ
+aValueRename=&Zmieñ nazwê...
+aValueChange=&Modyfikuj...
+aKeyCopyPath=Kopiuj nazwê klucza do schowka
+aSearch=&Szukaj...
+aKeyRefresh=&Odœwierz
+aKeyJump=Skocz do klucza...
+aValueAdd=Nowy
+aValueAddString=Wartoœæ ci¹gu
+aValueAddExpandString=Wartoœæ ci¹gu rozwijalnego
+aValueAddMultiString=Wartoœæ wieloci¹gu
+aValueAddInteger=Wartoœæ DWORD (32 bit)
+aValueAddLEInteger=Wartoœæ DWORD (32 bit, little endian)
+aValueAddBEInteger=Wartoœæ DWORD (32 bit, big endian)
+aValueAddBinary=Wartoœæ binarna
+aSecurityInformationExportToFile=Eksportuj informacje o uprawnieniach do pliku...
+aSecurityInformationExportToClipboard=Kopiuj informacje o uprawnieniach do schowka
+aFileExit=&Zamknij
+aValueAddInt64=Wartoœæ DWORD (64 bit)
+aValueAddLEInt64=Wartoœæ DWORD (64 bit, little endian)
+aBookmarksManage=&Zarz¹dzaj zak³adkami
+aFileOpenReg=&Otwórz plik rejestru...
+aKeyExport=&Eksportuj...
+aFileConnectReg=&Pod³¹cz do rejestru zdalnego...
+aKeyImport=&Importuj...
+aKeyAddBookmark=Dodaj do zak³adek...
+aAbout=O programie...
+aValueAddLink=Link
+aKeyBack=Wstecz
+aKeyForward=Dalej
+aValueAddResourceList=Lista zasobów
+aValueAddFullResourceDescriptor=Pe³ny opis zasobu
+aValueAddResourceRequirementsList=Lista wymagañ zasobu
+aInfoDBRefreshEntry=Odœwie¿
+aInfoDBStoreEntry=Store
+aInfoDBSaveKeyInfo=Zapisz informacje o kluczu
+aInfoDBSaveValueInfo=Zapisz informacje wartoœci
+aHelpContents=Tematy pomocy
+aHelpIndex=Indeks
+aMenuHelp=Pomoc
+aValueAddNone=Pusty (Typ pusty)
+aValueSelectAll=Zaznacz wszystko
+aSecurityInformationGrantAll=Nadaj wszystkie prawa dla wszystkich dla tego klucza
+
+[formMain.menuMain]
+miFile=&Plik
+miEdit=&Edycja
+miBookmarks=&Zak³adki
+miLanguages=&Jêzyki
+miHelp=&?
+
+[formEditString]
+labelValue=Nazwa wartoœci:
+labelData=Dane wartoœci:
+bnOK=OK
+bnCancel=Anuluj
+
+[formEditInteger]
+labelDataDecimal=Dane wartoœci (decimal):
+labelValue=Nazwa wartoœci:
+labelDataHex=Dane wartoœci (hex):
+labelDataBinary=Dane wartoœci (binary):
+bnCancel=Anuluj
+bnOK=OK
+
+[formEditMultiString]
+labelValue=Nazwa wartoœci:
+labelData=Dane wartoœci:
+bnCancel=Anuluj
+bnOK=OK
+
+[formSearch]
+bnCancel=Anuluj
+bnSearch=Szukaj
+bnStop=Zatrzymaj
+
+[formSearch.pcSearch]
+tsCriteria=Kryteria wyszukiwania
+tsResults=Wyniki
+tsByDate=Dodatkowe kryteria
+tsReplace=Zamiana
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=&ZnajdŸ:
+groupSearchFocus=Uwzglêdnij
+groupSearchRange=Zakres
+groupSearchMisc=Inne
+groupSearchDataTypes=Typy danych
+labelSearchStyle=R&odzaj:
+cbSearchStyle.Items=Wyszukiwanie proste%0D%0AWyszukiwanie z³o¿one (*, ?)%0D%0AWyszukiwanie logiczne (AND, OR, NOT)%0D%0AWyra¿enia regularne%0D%0A
+cbSearchStyle=Wyszukiwanie proste
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=&Klucze
+cbFocusValues=&Wartoœci
+cbFocusData=&Dane
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=Tylko &ten klucz
+rbRangeComplete=C&a³y rejestr
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Ignoruj wielkoœæ liter
+cbHighSpeed=Szybkie wyszukiwanie
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=&Ci¹gi
+cbDataTypeNumerics=DW&ORD
+cbDataTypeBinary=&Binarne
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Klucz%0D%0AWartoœæ%0D%0ADane%0D%0A
+
+[formBookmarks]
+bnOK=OK
+bnCancel=Anuluj
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Dodaj zak³adkê...
+aBookmarkRename=Zmieñ nazwê...
+aBookmarkDelete=Usuñ zak³adkê
+aFolderAdd=Dodaj folder...
+aFolderRename=Zmieñ nazwê folderu...
+aFolderDelete=Usuñ folder
+aSortOneLevel=Sortuj folder
+aSortRecursive=Sort rekrusywne
+aFolderExportOneLevel=Eksportuj folder
+aFolderExportRecursive=Eksportuj rekrusywnie
+
+[formAbout]
+Label1=Copyright © 2000-2007 Safer-Networking Limited. All rights reserved.
+bnOK=OK
+memoCredits=Credits go to: %0D%0AEnrico Maria Biancarelli (suggestions, italian translation)%0D%0AAndrey V. Sorokin (code for regular expressions)%0D%0AHevesi János (magyar translation)%0D%0AQuan Qi Tang (chinese simplified translation)%0D%0Aliwk (chinese traditional translation)%0D%0AnickW (french translation)%0D%0ADavid (spanish translation)%0D%0ABartosz Czerwinski (polish translation)%0D%0A
+labelCopyright=Copyright © 2000-2007 Safer-Networking Limited.
+labelCopyright2=All rights reserved.
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Typ interfejsu:
+labelBusNumber=Numer magistrali:
+labelSlotNumber=Numer slotu:
+bnCancel=Anuluj
+bnOK=OK
+lvList.Items=Typ%0D%0ANajni¿szy adres%0D%0ANajwy¿szy adres%0D%0AD³ugoœæ%0D%0AWyrównanie%0D%0AOpcje%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD0101010101010101010101010101FDFD01F9F9F9F9F9F9F9F9F9F9F9F901FDFD01F9F9F9F9F9F9F9F9F9F9F9F901FDFD01F9F9F9F9F9F9F9F9F9F9F9F901FDFD01F9F9F9F9F9F9F9F9F9F9F9F901FDFD01F9F9F9F9F9F9F9F9F9F9F9F901FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD0707070707070707070707070707FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD01010101010101010101010101010101010101010101010101010101FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD01F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F901FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07070707070707070707070707070707070707070707070707070707FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+
+[formSearch.pcSearch.tsByDate]
+Label1=Szukaj kluczy, które s¹
+Label2=i
+cbByDateMode.Items=dowolnej daty.%0D%0Anowsze ni¿:%0D%0Astarsze ni¿:%0D%0Apomiêdzy:%0D%0Apoza:%0D%0A
+labelByDate=&Szukaj kluczy, które s¹
+labelByDateAnd=i:
+labelByDateOSInfo=Te kryteria wyszukiwania s¹ dostêpne wy³¹cznie dla systemów Windows NT, Windows 2000 oraz Windows XP. Systemy Windows 9x i Windows ME nie obs³uguj¹ oznaczeñ czasowych kluczy.
+dtDate1=2003-08-14
+dtTime1=2003-08-14
+dtTime2=2003-08-14
+dtDate2=2003-08-14
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Dane
+tsInfo=Informacje o uprawnieniach
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Nazwa%0D%0ATyp%0D%0AWartoœæ%0D%0ARozmiar%0D%0A
+lvHexDump.Items=Pozycja%0D%0AZrzut%0D%0AText%0D%0A
+
+[formRegalyzer.alMain]
+aKeyDelete=&Usuñ klucz
+aKeyAdd=&Nowy klucz...
+aKeyRename=&Zmieñ nazwê...
+aValueDelete=&Usuñ
+aValueRename=&Zmieñ nazwê...
+aValueChange=&Modyfikuj...
+aKeyCopyPath=Kopiuj nazwê klucza do schowka
+aSearch=&Wyszukaj...
+aKeyRefresh=&Odœwie¿
+aKeyJump=Skocz do klucza...
+aValueAdd=Nowy
+aValueAddString=Wartoœæ ci¹gu
+aValueAddExpandString=Wartoœæ ci¹gu rozwijalnego
+aValueAddMultiString=Wartoœæ wieloci¹gu
+aValueAddInteger=Wartoœæ DWORD (32 bit)
+aValueAddLEInteger=Wartoœæ DWORD (32 bit, little endian)
+aValueAddBEInteger=Wartoœæ DWORD (32 bit, big endian)
+aValueAddBinary=Wartoœæ binarna
+aSecurityInformationExportToFile=Eksportuj informacje o uprawnieniach do pliku...
+aSecurityInformationExportToClipboard=Kopiuj informacje o uprawnieniach do schowka
+aFileExit=&Zamknij
+aValueAddInt64=Wartoœæ DWORD (64 bit)
+aValueAddLEInt64=Wartoœæ DWORD (64 bit, little endian)
+aBookmarksManage=&Zarz¹dzaj zak³adkami
+aFileOpenReg=&Otwórz plik rejestru...
+aKeyExport=&Eksportuj...
+aFileConnectReg=Pod³¹cz do rejestru zdalnego...
+aKeyImport=&Importuj...
+aKeyAddBookmark=Dodaj do zak³adek...
+aAbout=O programie...
+aValueAddLink=Link
+aKeyBack=Wstecz
+aKeyForward=Dalej
+aValueAddResourceList=Lista zasobów
+aValueAddFullResourceDescriptor=Pe³ny opis zasobu
+aValueAddResourceRequirementsList=Lista wymagañ zasobu
+
+[formRegalyzer.menuMain]
+miFile=&Plik
+miEdit=&Edycja
+miBookmarks=&Zak³adki
+miLanguages=&Jezyki
+miHelp=&?
+
+[formSearch.alSearch]
+aSearchResultsExport=Eksportuj...
+aSearchResultsExportAll=&Eksportuj wszystko...
+aSearchResultsExportSelected=Eksportuj &zaznaczone...
+aSearchResultsSelectAll=Zaznacz &wszystko
+aSearchResultsDeSelectAll=&Odznacz wszystko
+aSearchResultsSelectKeys=Zaznacz wyniki kluczy
+aSearchResultsDeSelectKeys=Odznacz wyniki kluczy
+aSearchResultsSelectValues=Zaznacz wyniki wartoœci
+aSearchResultsDeSelectValues=Odznacz wyniki wartoœci
+aSearchResultsSelectData=Zaznacz wyniki danych
+aSearchResultsDeSelectData=Odznacz wyniki danych
+aSearchResultsExportKeyContents=Opcja: Eksportuj zawartoœæ kluczy
+aReplace=Z&amieñ
+aSearchStart=Szukaj
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Informacje o kluczu:
+labelInfoDBValue=Informacje o danych:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRemoteConnect]
+labelNamePrompt=Podaj nazwê zdalnego komputera:
+bnOK=OK
+bnCancel=Anuluj
+bnSearch=&Pod³¹cz
+labelRemoteInfo=Uwaga: Pod³¹czanie do zdalnego rejestru bêdzie mo¿liwe tylko wtedy, gdy zdalny komputer pracuje na systemie Windows NT, 2000 lub XP, lub Windows ME je¿eli us³uga zdalnego rejestru jest uruchomiona.
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Proszê zaznaczyæ elementy znajduj¹ce siê w zak³adce Wyniki, które powinny byæ uwzglêdnione przy zamianie. Zamiana jest mo¿liwa wy³¹cznie dla kluczy, nazw, oraz ci¹gów.
+labelReplaceSource=ZnajdŸ:
+labelReplaceNew=Zamieñ na:
+groupReplaceMisc=Dodatkowe opcje
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignoruj wielkoœæ liter
+cbReplaceOverwrite=Nadpisz istniej¹ce
+cbReplaceOverwriteValues=Nadpisz istniej¹ce wartoœci
+cbReplaceOverwriteKeys=Nadpisz istniej¹ce klucze
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Nie dostêpny w BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Nie dostêpny w BartPE
+

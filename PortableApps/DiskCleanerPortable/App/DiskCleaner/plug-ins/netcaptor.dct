@@ -1,0 +1,7 @@
+[Info]
+Title=NetCaptor
+Description=Erase NetCaptor's Location Bar History And Last Open site
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Stilesoft\NetCaptor\CurrentVersion\Last Open Sites

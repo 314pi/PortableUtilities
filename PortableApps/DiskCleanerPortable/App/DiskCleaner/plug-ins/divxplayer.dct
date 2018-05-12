@@ -1,0 +1,7 @@
+[Info]
+Title=Divx Player
+Description=Erase Divx Player Playlist
+
+
+[registry]
+HKEY_CURRENT_USER|Software\DivXNetworks\DivX Player|file

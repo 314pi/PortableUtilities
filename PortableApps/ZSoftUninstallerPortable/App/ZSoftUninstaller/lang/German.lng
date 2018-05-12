@@ -1,0 +1,302 @@
+; GERMAN LANG FILE FOR v2.4
+; Translator: SCORPiON 03.10.2007 scorpion.421@gmail.com
+; http://www.error421.net
+;
+; Corrector: [YOURNAME] [DATE] [YOURMAIL]
+;
+; If an error happened in the translation, please correct them yourself,
+; fill the "Corrector:" string & send it to ZSoft. Thank you :)
+;
+Sind Sie sicher, dass sie dieses Objekt löschen wollen?
+Es ist eine neue Version verfügbar! Soll nun die Downloadseite geöffnet werden?
+Sie haben bereits die aktuellste Version!
+Ein unbekannter Fehler ist aufgetreten... Bitte versuchen Sie es später erneut...
+Bereinigen
+Programmname
+&Datei
+Ans&icht
+F&unktionen
+Ei&nstellungen
+&Sprache
+&Hilfe
+S&chliessen
+Zeige nur "Tote Links"
+&Programmliste aktualisieren
+Suche nach Programmupdates
+Zeige Trennlinien
+Hilfe
+ZSoft Software
+
+&Über
+Deinstallieren
+Löschen
+Sie müssen mindestens 3 Zeichen angeben!
+&Liste exportieren
+Text Dateien (*.txt)|*.txt|Alle Dateien (*.*)|*.*
+&Deinstallieren
+L&öschen
+Hil&fe
+Zeige nur "Schlechte Software"
+Versteckte 'Links' nicht anzeigen
+Verstecken
+Filter zum Verstecken bearbeiten
+Filter zum Verstecken bearbeiten
+Auswahl von der Liste etfernen und nichtmehr verstecken
+Zeige %d Programme!
+Info
+Willkommen zu ZSoft Uninstaller!\n\nSie werden hier Informationen zum weiteren Verlauf erhalten.\n\nViel Spass!
+Erwarte den Aufruf des Deinstallierungsprogrammes von %s, um den Prozess abzuschliessen.
+%s sollte nun deinstalliert sein.\n\nDie Liste wurde aktualisiert!
+Aufruf des Deinstallierungsprogrammes von %s fehlgeschlagen.
+;
+; ABOUT BOX:
+;
+Über ZSoft Uninstaller
+- Ü B E R -\nUninstaller ist ein kleines, freies, sehr speicherarmes Programm\nmit mehr oder weniger den selben Eigenschaften wie das\nDeinstallierungsprogramm von Windows (Software in der Systemsteuerung)\n aufweist.\n\nUninstaller hat den Vorteil, dass dieser um einiges schneller lädt.\n\nUninstaller wurde hauptsächlich für mich selbst geschrieben, da ich\ndenke, dass das windowseigene Deinstallierungsprogramm\n(Software in der Systemsteuerung) zu langsam ist.\n\nJegliche Benutzung dieses Programs erfolgt auf eigene Gefahr!\nDer Programmierer kann wegen Schäden durch unsachgemässe / unüberlegte\nHandlungen nicht zur Rechenschaft gezogen werden!\n\n- H E R Z L I C H EN  D A N K-\n\nDieses Programm beinhaltet Teile von:\nToolbar2000 & TBX (für die Grafikkomponente)\nIndy (für die Internettauglichkeit)\nWisnu Aribowo (Für die Laufschriftkomponente)\n\n- C O P Y R I G H T  I N F O R M A T I O N E N -\n\nCopyright ©2004-2005 ZSoft.\n\nCopyright ©1993 - 2003, Chad Z.\nHower (Kudzu) und Indy Pit Crew - IndyProject.org
+&Schliessen
+;
+; New
+;
+Informationen Zeigen/Bearbeiten
+Informationen Zeigen/Bearbeiten
+Name
+Wert
+Speichern
+Abbruch
+Ändern
+OK
+Abbruch
+Schriftart (Liste)
+&Analyse
+Analysiere Installation
+;
+; The analyze function
+;
+Willkommen!
+Dieser Dialog führt sie durch den Prozess, mit welchem Sie eine Installation analysieren, oder eine analysierte Installation eine Programmes komplett deinstallieren können.
+Was soll gemacht werden?
+Eine Installation analysieren
+Ein bereits analysiertes Programm deinstallieren
+Abbruch
+Weiter >
+Befor Sie eine Installation starten, muss ein Abbild ihrer Festplatte erstellt werden. Bitte wählen Sie, welche(s) Laufwerk(e) Sie analysieren wollen. (Standard C:\) und das Laufwerk (falls nicht C:\), welche sie zu Installation benutzen.
+Laufwerke
+Vor der Installation
+Nach der Installation
+Dateien gefunden (ungefähr): 
+Reg. gefunden (ungefähr): 
+Vergangene Zeit (in sec.): 
+Vergleiche... Dies kann einen Moment dauern!
+Bitte geben Sie den Programmnamen an
+Geben Sie den Namen des Programms an, welches Sie installiert haben
+FEHLER: Datei bereits vorhanden @ Geben Sie einen Programmnamen an
+FEHLER: Datei bereits vorhanden. Geben Sie einen eindeutigen Programmname der Installation an.
+Arbeit abgeschlossen. Das Fenster wird sich nun schliessen.
+Bitte wählen Sie das Programm, welches deinstalliert werden soll.
+Bitte bestätigen Sie folgendes:
+Ich akzeptiere, dass dieser Schritt auf eigene Gefahr durchgeführt wird
+Ich akzeptiere, dass die deinstallierten Dateien nicht widerhergestellt werden können
+Ich akzeptiere, dass der Programmierer für keine Schäden durch diesen Schritt haftbar gemacht werden kann
+Deinstallation
+Wählen Sie das Programm, welches deinstalliert werden soll!
+Bitte bestätigen Sie folgendes: 
+Löschen ohne Bestätigung durchführen
+Die Datei "%s" ist neu; wollen Sie diese löschen?
+Wollen Sie diese Datei löschen?
+Wollen Sie die Logdatei aufbewahren?
+Wollen Sie die Logdatei löschen?
+Gelöscht: 
+Das Verzeichnis "%s" konnte nicht gelöscht werden - Möglicherweise ist es nicht leer
+%d Datei(en) anscheinend gelöscht, aber bedenken Sie: Dieses Programm ist kein Widerherstellungsprogramm!
+Registryschlüssel "%s" ist nicht leer und wird nicht entfernt!
+Zerstörte Logdatei!
+Fertig
+Hinzufügen
+Entfernen (Kann nicht rückgängig gemacht werden!)
+Neuer Wert:
+Name:
+Inhalt:
+Wollen Sie dies wirklich von der Registry entfernen?\nDies kann nicht rückgängig gemacht werden!\nFortfahren?
+Sind Sie sicher?
+Installierte Programme
+Analysierte Programme
+&Tem. Dateien
+Suche starten
+Suche stoppen
+Dieses Laufwerk durchsuchen:
+Dateiname
+Erweiterung
+Platz
+Grösse
+Suche durch Benutzer gestoppt
+Suche in:
+Suche abgeschlossen
+Gelöschte Datei(en) (Kann nicht rückgängig gemacht werden!)
+Sind Sie sicher?
+Wollen Sie diese Datei(en) wirklich löschen?\nDies kann nicht rückgängig gemacht werden!\nFortfahren?
+Ordner konnte nicht entfernt werden
+Möglicher Installationsordner des Programms:\n%s\nIst dies korrekt?\nWollen Sie dieses Verzeichnis löschen? (Dies kann nicht rückgängig gemacht werden!)
+Datei(en) sichern && löschen
+Sind Sie sicher?
+Dies wird die ausgewählten Dateien löschen. Sie können sie später widerherstellen.\nFortfahren?
+Sicherungen
+Widerherstellen
+Umbenennen
+Gewünschter Name
+Umbenennen
+Löschen
+Einige Dateien und/oder Registryeinträge konnten nicht entfernt werden. Undelete wird versuchen, diese beim nächsten Start zu entfernen!
+Die HILFE - Datei konnte nicht gefunden werden!
+Nicht gefunden
+Dieser Wert muss eine ganze Zahl sein!
+Der Wert muss gewählt werden, und, falls eine ganze Zahl, nur diese!
+Zeichenfolge
+Erw. Zeichenfolge
+Ganze Zahl
+Bereits gestartete Analyse abschliessen
+Fehler beim Erstellen eines Ordners, Funktion abgebrochen.
+FEHLER!
+Zeige aufgezeichenete Informationen
+Ignorierliste
+Sektion
+Ort
+Ignorierliste berarbeiten
+Hinzufügen
+Entfernen
+Sektion:
+Ort:
+Durchsuchen
+Dieses verzeichnis wird ignoriert
+Datei
+Registry
+Abbruch
+Hinzufügen
+Suche:
+Deinstallationspriorität
+Hoch
+Normal
+Niedrig
+Bereits ignoriert.
+Sie müssen das Formular korrekt ausfüllen.
+Einstellungen
+Internet Explorer Cache ignorieren
+Firefox Cache ignorieren
+Ungef- Grösse:
+Install. Zeit:
+Veränd. Zeit:
+Zugriffszeit:
+Windows updates ausblenden
+Alles widerherstellen
+Zeige nur neue "Links"
+Neue "links" hervorheben
+Versteckte Programme
+Registry Browser
+Dateien in den Papierkorb verschieben
+Zeige Programmsymbole
+Die Datei "%s" konnte nicht gefunden werden. Widerherstellung (könnte) fehlerhaft sein.
+Speichern unter...
+Grosse Symbole
+Kleine Symbole
+Konnte nicht gelöscht werden: 
+Verzeichnis gelöscht: 
+Registryeintrag gelöscht: 
+Registryeintrag erstellt: 
+Registryeintrag nicht erstellt: 
+Registryeintrag nicht gelöscht: 
+Registryeintrag gelöscht: 
+Registryeintrag erstellt: 
+Registryeintrag nicht erstellt: 
+Bitte warten...
+In den Papierkorb verschieben
+Datei(en) in den Papierkorb verschieben
+Wollen Sie diese Datei(en) wirklich in den papierkorb verschieben?
+Alles auswählen
+%d Datei(en) gefunden, gesamt %s.
+Sortieren nach
+Name (A-Z)
+Name (Z-A)
+Zeit (A-Z)
+Zeit (Z-A)
+Von der Versteckliste entfernen
+Bearbeiten
+Dateisystem
+Registry
+Analysierte AUfzeichnung bearbeiten
+Sie haben die Logdatei verändert. Änderungen speichern?
+Änderungen speichern?
+Hintergrundfarbe ändern von
+Add item to ignore-list (Analyze-feature)
+In this window you can see (and navigate) the recorded changes made by the analyzed installation. You can delete items from the log (a backup will be created, just in case), and you can add folders and keys to the ignore list, so they won't be recorded in the future.
+Empty Folders Finder
+Scan this directory for empty folders:
+Only scan top-level
+Start Scan
+Dir
+Scan this directory
+Remove Selected
+Tools
+Startup Manager
+Name
+Launches
+Disable
+Enable
+Copy program name to clipboard
+Text '%s' copied to clipboard!
+Hide Search-Bar
+The program %s should now be uninstalled. Do you want to search for leftovers?
+Search for leftovers?
+I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
+Next >>
+Jump To
+Go one level up
+Place
+Type
+Path
+Value
+Post Uninstall Manager
+Program Name
+Perform Post Uninstall on selected program
+By
+Version
+Open Install Folder
+Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
+Do you want to save a new logfile?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

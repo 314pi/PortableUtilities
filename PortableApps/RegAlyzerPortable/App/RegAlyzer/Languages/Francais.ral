@@ -1,0 +1,448 @@
+[Dialogs]
+ButtonYes=Oui
+ButtonNo=Non
+ButtonOK=OK
+ButtonCancel=Annuler
+ButtonAbort=Abandonner
+ButtonRetry=Réessayer
+ButtonIgnore=Ignorer
+ButtonAll=Tous
+ButtonNoToAll=Non pour tous
+ButtonYesToAll=Oui pour tous
+ButtonHelp=Aide
+DialogTitleWarning=Avertissement
+DialogTitleError=Erreur
+DialogTitleInformation=Information
+DialogTitleConfirmation=Confirmation
+DialogTitleCustom=Personnaliser
+
+[Messages]
+MyComputer=Poste de travail
+WarningComplicatedDataType=RegAlyzer peut ajouter une valeur de ce type, mais ne peut la modifier que sous forme binaire.%0D%0ADe mauvaises données peuvent bloquer Regedit de Windows.%0D%0AVoulez-vous continuer?
+ConfirmValueDelete=Voulez-vous vraiment suppimer cette valeur ("%s")?
+ConfirmKeyDelete=Voulez-vous vraiment suppimer cette clé ("%s")?
+DialogRenameValueTitle=Renommer la valeur ("%s")
+DialogRenameValueCaption=Svp, entrez le nouveau nom pour cette valeur:
+DialogRenameKeyTitle=Renommer la clé ("%s")
+DialogRenameKeyCaption=Svp, entrez le nouveau nom de cette clé:
+DialogNewKeyTitle=Nouvelle clé
+DialogNewKeyCaption=Svp, entrez un nom pour la nouvelle clé:
+DialogNewValueTitle=Nouvelle valeur
+DialogNewValueCaption=Svp, entrez un nom pour la nouvelle valeur:
+DialogNewValueStringTitle=Nouvelle valeur chaîne
+DialogNewValueStringCaption=Svp, entrez un nom pour la nouvelle valeur chaîne:
+DialogNewValueNumericTitle=Nouvelle valeur numérique
+DialogNewValueNumericCaption=Svp, entrez un nom pour la nouvelle valeur numérique:
+DialogNewValueBinaryTitle=Nouvelle valeur binaire
+DialogNewValueBinaryCaption=Svp, entrez un nom pour la nouvelle valeur binaire:
+DialogJumpToKeyTitle=Aller à la clé
+DialogJumpToKeyCaption=Svp, entrez la clé de destination:
+DialogNewKeyDefault=Nouvelle clé
+DialogNewValueDefault=Nouvelle valeur
+DialogNewValueStringDefault=Nouvelle chaîne
+DialogNewValueNumericDefault=Nouvelle donnée numérique
+DialogNewValueBinaryDefault=Nouvelle donnée binaire
+DialogValueDefault=(Par défaut)
+DialogDataNotDefined=(Valeur non définie)
+DialogDataNotSupported=(Type de donnée non supporté)
+DialogDataBinaryZero=(Donnée binaire de longueur zéro)
+DialogDataError=(Erreur de lecture des données)
+DialogSearchStatus=Recherche en cours %s
+DialogSearchFinished=Fin de la recherche avec %d résultats.
+DialogSearchStopped=Vous avez arrêté la recherche.
+DialogSearchFocusLimited=Recherche limitée à %s.
+DialogSearchFocusAll=Recherche dans tout le registre.
+DialogSearchHighSpeedStatus=Svp, soyez patient...
+RemoteConnectTitle=Connection à un registre distant
+RemoteConnectCaption=Veuillez entrer le nom de l'ordinateur distant:
+DialogConfirmImport=Voulez-vous vraiment importer ce fichier?
+BookmarkItemDefaultName=Nouveau signet
+BookmarkItemAddTitle=Nom du nouveau signet
+BookmarkItemAddCaption=Veuillez entrer le nom du nouveau signet:
+BookmarkItemAddLocationTitle=Nouvel emplacement du signet
+BookmarkItemAddLocationCaption=Veuillez entrer l'emplacement vers lequel pointera le nouveau signet:
+BookmarkItemRenameTitle=Renommer le signet
+BookmarkItemRenameCaption=Veuillez entrer le nouveau nom du signet:
+BookmarkItemDeleteCaption=Voulez-vous vraiment supprimer ce signet?
+BookmarkFolderDefaultName=Nouveau dossier
+BookmarkFolderAddTitle=Nom du nouveau dossier
+BookmarkFolderAddCaption=Veuillez entrer le nom du nouveau dossier:
+BookmarkFolderRenameTitle=Renommer le dossier
+BookmarkFolderRenameCaption=Veuillez entrer le nouveau nom du dossier:
+BookmarkFolderDeleteCaption=Voulez-vous vraiment supprimer ce dossier?
+DialogSearchReplaceStatus=%s occurences ont été remplacées.
+ConfirmCopyOverwrite=Une valeur de ce nom ("%s") existe déjà dans votre clé de destination. Voulez-vous vraiment l'écraser?
+DragDropMoveStatus=Déplacement de la (des) valeur(s) vers %s...
+DragDropCopyStatus=Copie de la (des) valeur(s) vers %s...
+DragDropValueMoveStatus=Déplacement de la (des) valeur(s) vers %s...
+DragDropValueCopyStatus=Copie de la (des) valeur(s) vers %s...
+DragDropKeyMoveStatus=Déplacement de la clé %s dans %s...
+DragDropKeyCopyStatus=Copie de la clé %s dans %s...
+DragDropWrongRootKeyWarning=Vous ne pouvez pas (pas encore) déplacer des clés entre des clés-racines différentes!
+RemoteErrorAccessDenied=Vous n'avez pas accès à la ressource réseau.
+RemoteErrorAlreadyAssigned=Ce périphérique est déjà connecté.
+RemoteErrorBadDevice=Le périphérique indiqué est invalide.
+RemoteErrorBadNetName=Le format de la ressource réseau est invalide.
+RemoteErrorBadProfile=Le profil utilisateur a été indiqué dans un format incorrect.
+RemoteErrorBadProvider=Votre adresse réseau ne correspond à aucun fournisseur réseau.
+RemoteErrorBusy=Le routeur ou le fournisseur est occupé. Veuillez ré-essayer dans quelques secondes.
+RemoteErrorInvalidPassword=Le mot de passe saisi est invalide pour cette ressource.
+RemoteErrorNoNetOrBadPath=Le réseau n'est pas démarré ou l'adresse indiquée ne peut pas être utilisée.
+RemoteErrorNoNetwork=Le réseau est indisponible.
+DialogHivesLoaded=%d ruches du Registre ont été trouvées et inscrites dans HKEY_LOCAL_MACHINE\PE_* et/ou HKEY_USERS\PE_*. Elles seront désinscrites en quittant le programme.
+
+[Main]
+LanguageName=Français
+Use=Utiliser le français
+HelpFile=Help\Ral-Francais.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Modifier la valeur chaîne
+formEditInteger=Modifier la valeur numérique
+formEditMultiString=Modifier la valeur multi-chaîne
+formSearch=Recherche
+formBookmarks=Signets
+formAbout=Info
+formEditResourceRequirementsList=Afficher la liste des exigences de la ressource
+formRegalyzer=RegAlyzer
+formRemoteConnect=Se connecter à un registre distant
+formImportProgress=Import fichier Registre...
+formValueType=Modifier type de la valeur de Registre
+formUserLogon=Connexion autre utilisateur
+formOpenCustomHive=Charger ruche personnalisée
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Données
+tsInfo=Informations de sécurité
+tsDatabaseInfo=Base de données d'infos
+tsChangeLogs=Journaux des modifs
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Nom%0D%0AType%0D%0AValeur%0D%0ATaille%0D%0AValeur de Registre%0D%0A
+lvHexDump.Items=Pos%0D%0ACliché%0D%0ATexte%0D%0A
+
+[formMain.alMain]
+aKeyDelete=Supprimer la clé
+aKeyAdd=&Nouvelle clé...
+aKeyRename=&Renommer la clé...
+aValueDelete=Supprimer la valeur
+aValueRename=&Renommer la valeur...
+aValueChange=Modifier la donnée...
+aKeyCopyPath=Copier le nom de la clé dans le presse-papiers
+aSearch=Chercher...
+aKeyRefresh=Actualiser
+aKeyJump=Aller à la clé...
+aValueAdd=Nouveau
+aValueAddString=Chaîne
+aValueAddExpandString=Chaîne (avec placeholders/'supplétifs')
+aValueAddMultiString=Chaîne (multi-ligne)
+aValueAddInteger=Valeur numérique (32 bit)
+aValueAddLEInteger=Valeur numérique (32 bit, little endian)
+aValueAddBEInteger=Valeur numérique (32 bit, big endian)
+aValueAddBinary=Donnée binaire
+aSecurityInformationExportToFile=Exporter les infos de sécurité dans le fichier...
+aSecurityInformationExportToClipboard=Copier les infos de sécurité dans le presse-papiers
+aFileExit=Quitter
+aValueAddInt64=Valeur numérique (64 bit)
+aValueAddLEInt64=Valeur numérique (64 bit, little endian)
+aBookmarksManage=Gérer les signets
+aFileOpenReg=&Ouvrir le fichier registre...
+aKeyExport=&Exporter...
+aFileConnectReg=Se connecter à un &registre distant...
+aKeyImport=&Importer...
+aKeyAddBookmark=Ajouter aux signets...
+aAbout=A propos...
+aValueAddLink=Lien
+aKeyBack=En arrière
+aKeyForward=En avant
+aValueAddResourceList=Liste des ressources
+aValueAddFullResourceDescriptor=Descripteur de ressource
+aValueAddResourceRequirementsList=Liste des exigences de la ressource
+aInfoDBRefreshEntry=Rafraîchir
+aInfoDBStoreEntry=Stocker
+aInfoDBSaveKeyInfo=Sauver infos clé
+aInfoDBSaveValueInfo=Sauver infos valeur
+aHelpContents=Contenu
+aHelpIndex=Index
+aMenuHelp=Aide
+aValueAddNone=Aucun (type vide)
+aValueSelectAll=Tout sélectionner
+aSecurityInformationGrantAll=Accorder tous les droits à tout le monde sur cette clé
+aFileDiffOpenReg=Ouvrir fichier Registre (&différence seulement)...
+aKeyJumpToHKCRCLSID=Aller vers CLSID dans HKCR
+aValueJumpToHKCRCLSID=Aller vers CLSID dans HKCR
+aValueChangeType=Modifier type
+aChangeLogRedoSave=Sauver
+aChangeLogRedoApply=Appliquer
+aChangeLogUndoSave=Sauver
+aChangeLogUndoApply=Appliquer
+aFileLogonUser=Ouvrir Registre utilisateur (connexion)...
+aFileOpenHive=Charger fichier ruche...
+
+[formMain.menuMain]
+miFile=&Fichier
+miEdit=Modifier
+miBookmarks=Signets
+miLanguages=&Langues
+miHelp=&?
+
+[formEditString]
+labelValue=Nom de la valeur:
+labelData=Données de la valeur:
+bnOK=OK
+bnCancel=Annuler
+groupValue=Valeur de Registre
+
+[formEditInteger]
+labelDataDecimal=Données de la valeur (décimal):
+labelValue=Nom de la valeur:
+labelDataHex=Données de la valeur (hexa):
+labelDataBinary=Données de la valeur (binaire):
+bnCancel=Annuler
+bnOK=OK
+
+[formEditMultiString]
+labelValue=Nom de la valeur:
+labelData=Données de la valeur:
+bnCancel=Annuler
+bnOK=OK
+
+[formSearch]
+bnCancel=Annuler
+bnSearch=Chercher
+bnStop=Arrêter
+
+[formSearch.pcSearch]
+tsCriteria=Critères de recherche
+tsResults=Résultats
+tsByDate=... par date
+tsReplace=Remplacer
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=Rechercher:
+groupSearchFocus=Lieu de recherche
+groupSearchRange=Portée de la recherche
+groupSearchMisc=Options diverses
+groupSearchDataTypes=Types de données
+labelSearchStyle=Style de recherche:
+cbSearchStyle.Items=Sous-chaîne simple%0D%0AAvec jokers (*, ?)%0D%0AAvec booléens (AND, OR, NOT)%0D%0AExpressions régulières%0D%0A
+cbSearchStyle=Sous-chaîne simple
+cbHex=Hexa
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=Clés
+cbFocusValues=&Valeurs
+cbFocusData=&Données
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=Seulement cette clé
+rbRangeComplete=Tout le registre
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Ignorer la casse
+cbHighSpeed=Recherche rapide
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=Chaînes
+cbDataTypeNumerics=Données numériques
+cbDataTypeBinary=Données binaires
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Clé%0D%0AValeur%0D%0ADonnées%0D%0A
+
+[formBookmarks]
+bnOK=OK
+bnCancel=Annuler
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Ajouter signet...
+aBookmarkRename=Renommer signet...
+aBookmarkDelete=Supprimer signet
+aFolderAdd=Ajouter dossier...
+aFolderRename=Renommer dossier...
+aFolderDelete=Supprimer dossier
+aSortOneLevel=Tri un niveau
+aSortRecursive=Tri récursif
+aFolderExportOneLevel=Export un niveau
+aFolderExportRecursive=Export récursif
+
+[formAbout]
+Label1=Copyright © 2000-2008 Safer-Networking Limited. Tous droits réservés.
+bnOK=OK
+memoCredits=Remerciements à: %0D%0AEnrico Maria Biancarelli (suggestions, traduction en italien)%0D%0AAndrey V. Sorokin (code pour les expressions régulières)%0D%0AHevesi János (traduction en hongrois)%0D%0AQuan Qi Tang (traduction en chinois simplifié)%0D%0Aliwk (traduction en chinois traditionnel)%0D%0AnickW (traduction en français)%0D%0ADavid (traduction en espagnol)%0D%0ANelson A. H. de Carvalho (traduction en brésilien)%0D%0APep Isern (traduction en catalan)%0D%0AKristian Christensen (traduction en danois)%0D%0AHeppocrates Giakoumis (traduction en grec)%0D%0ABartosz Czerwinski (traduction en polonais)%0D%0A
+labelCopyright=Copyright © 2000-2008 Safer Networking Ltd.
+labelCopyright2=Tous droits réservés.
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Type d'interface:
+labelBusNumber=Numéro de bus:
+labelSlotNumber=Numéro de port:
+bnCancel=Annuler
+bnOK=OK
+lvList.Items=Type%0D%0AAdresse Mini%0D%0AAdresse Maxi%0D%0ALongueur%0D%0AAlign%0D%0AOptions%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000000000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFCFCFCFCFC07070707F9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFCFFFFFFFFF9F9F9F9F9FDFDFCFCFCFCFC07070707F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000000000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFCFCFCFCFCFCFCFCFCFC0707070707070707F9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFCFFFFFFFFFFFFFFFFF9F9F9F9F9F9F9F9F9F9FDFDFDFDFCFCFCFCFCFCFCFCFCFC0707070707070707F9F9F9F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+
+[formSearch.pcSearch.tsByDate]
+Label1=Recherche de clés qui sont
+Label2=et
+cbByDateMode.Items=de date quelconque.%0D%0Aplus récentes que:%0D%0Aplus anciennes que:%0D%0Aentre:%0D%0Aen dehors de:%0D%0A
+labelByDate=Recherche de clés qui sont
+labelByDateAnd=et:
+labelByDateOSInfo=Ce critère de recherche n'est disponible que pour les systèmes Windows NT, Windows 2000 et Windows XP. Windows 9x et Windows ME n'acceptent pas les dates des clés de registre.
+dtDate1=14/08/2003
+dtTime1=14/08/2003
+dtTime2=14/08/2003
+dtDate2=14/08/2003
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Données
+tsInfo=Informations de sécurité
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Name%0D%0AType%0D%0AValeur%0D%0ATaille%0D%0A
+lvHexDump.Items=Pos%0D%0ACliché%0D%0ATexte%0D%0A
+
+[formRegalyzer.alMain]
+aKeyDelete=Supprimer la clé
+aKeyAdd=&Nouvelle clé...
+aKeyRename=&Renommer la clé...
+aValueDelete=Supprimer la valeur
+aValueRename=&Renommer la valeur...
+aValueChange=Modifier la donnée...
+aKeyCopyPath=Copier le nom de la clé dans le presse-papiers
+aSearch=Chercher...
+aKeyRefresh=Actualiser
+aKeyJump=Aller à la clé...
+aValueAdd=Nouveau
+aValueAddString=Chaîne
+aValueAddExpandString=Chaîne (avec placeholders/'supplétifs')
+aValueAddMultiString=Chaîne (multi-ligne)
+aValueAddInteger=Valeur numérique (32 bit)
+aValueAddLEInteger=Valeur numérique (32 bit, little endian)
+aValueAddBEInteger=Valeur numérique (32 bit, big endian)
+aValueAddBinary=Donnée binaire
+aSecurityInformationExportToFile=Exporter les infos de sécurité dans le fichier...
+aSecurityInformationExportToClipboard=Copier les infos de sécurité dans le presse-papiers
+aFileExit=Quitter
+aValueAddInt64=Valeur numérique (64 bit)
+aValueAddLEInt64=Valeur numérique (64 bit, little endian)
+aBookmarksManage=Gérer les signets
+aFileOpenReg=&Ouvrir le fichier registre...
+aKeyExport=&Exporter...
+aFileConnectReg=Se connecter à un &registre distant...
+aKeyImport=&Importer...
+aKeyAddBookmark=Ajouter aux signets...
+aAbout=A propos...
+aValueAddLink=Lien
+aKeyBack=En arrière
+aKeyForward=En avant
+aValueAddResourceList=Liste des ressources
+aValueAddFullResourceDescriptor=Descripteur de ressource
+aValueAddResourceRequirementsList=Liste des exigences de la ressource
+
+[formRegalyzer.menuMain]
+miFile=&Fichier
+miEdit=Modifier
+miBookmarks=Signets
+miLanguages=&Langues
+miHelp=&?
+
+[formSearch.alSearch]
+aSearchResultsExport=Exporter...
+aSearchResultsExportAll=Tout exporter...
+aSearchResultsExportSelected=Exporter la sélection seulement...
+aSearchResultsSelectAll=Sélectionner tout
+aSearchResultsDeSelectAll=Désélectionner tout
+aSearchResultsSelectKeys=Sélectionner les résultats 'clés'
+aSearchResultsDeSelectKeys=Désélectionner les résultats 'clés' 
+aSearchResultsSelectValues=Sélectionner les résultats 'valeurs'
+aSearchResultsDeSelectValues=Désélectionner les résultats 'valeurs'
+aSearchResultsSelectData=Sélectionner les résultats 'données'
+aSearchResultsDeSelectData=Désélectionner les résultats 'données'
+aSearchResultsExportKeyContents=Option: Exporter aussi le contenu des résultats 'clés'
+aReplace=&Remplacer
+aSearchStart=Chercher
+aSearchResultsDeleteSelected=Supprimer la sélection
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Infos sur la clé:
+labelInfoDBValue=Infos sur la valeur:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panneau2
+
+[formRemoteConnect]
+labelNamePrompt=Veuillez entrer le nom de l'ordinateur distant:
+bnOK=OK
+bnCancel=Annuler
+bnSearch=Chercher
+labelRemoteInfo=Note: La connexion à un registre distant ne fonctionnera que si l'ordinateur distant est sous Windows NT, 2000 ou XP, ou Windows ME si le service distant tourne.
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Veuillez choisir les entrées à inclure dans le remplacement sur le tableau des résultats. Le remplacement ne fonctionnera que pour les noms de clé et de valeur, et les données chaîne.
+labelReplaceSource=Remplacer ceci:
+labelReplaceNew=Par ce texte:
+groupReplaceMisc=Options diverses
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignorer la casse
+cbReplaceOverwrite=Écraser ce qui existe
+cbReplaceOverwriteValues=Écraser les valeurs existantes
+cbReplaceOverwriteKeys=Écraser les clés existantes
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Pas disponible en BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Pas disponible en BartPE
+
+[formMain.panelMain.pcMain.tsChangeLogs.pcChangeLogs]
+tsChangeLogRedo=Journal Rétablir
+tsChangeLogUndo=Journal Annuler
+
+[formEditString.groupValue]
+labelValue=Nom de la valeur:
+labelData=Données de la valeur:
+
+[formValueType]
+groupValue=Valeur de Registre
+bnOK=OK
+bnCancel=Annuler
+
+[formValueType.groupValue]
+labelValue=Nom de la valeur:
+labelData=Données de la valeur:
+labelTypeCurrent=Type actuel:
+labelTypeNew=Changer le type en:
+
+[formUserLogon]
+labelInfo=Cette fonction vous permet de vous connecter sous d'autres noms utilisateur afin de voir et de modifier leur Registre, en utilisant la méthode officielle documentée (contrairement à la fonction /allhives).
+labelUsername=Nom &Utilisateur:
+labelPassword=Mot de &Passe:
+bnOk=OK
+bnCancel=Annuler
+cbUsername.Items=Administrateur%0D%0AHelpAssistant%0D%0AInvité%0D%0A
+
+[formOpenCustomHive]
+labelHiveKeyName=Nom de la clé:
+labelInfo=Sélectionnez un fichier ruche et choisissez où monter cette ruche. Si vous chargez des ruches d'utilisateurs, ces utilisateurs ne pourront pas ouvrir une session jusqu'à ce que vous fermiez cette application, ou jusqu'à ce que vous redémarriez si vous cochez l'option "Conserver...".
+labelRootKey=Clé racine:
+labelFile=Fichier ruche:
+bnOk=OK
+bnCancel=Annuler
+cbRootKey=HKEY_LOCAL_MACHINE
+cbRootKey.Items=HKEY_LOCAL_MACHINE%0D%0AHKEY_USERS%0D%0A
+cbPersisent=Conserver la ruche jusqu'au redémarrage

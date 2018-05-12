@@ -1,0 +1,1 @@
+Your Lightscreen settings registry files will go here

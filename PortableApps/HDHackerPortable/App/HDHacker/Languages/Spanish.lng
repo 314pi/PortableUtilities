@@ -1,0 +1,46 @@
+1 Sector image
+2 Imagen del sector
+1 About
+2 Acerda de...
+1 Drive to operate
+2 Disco a procesar
+1 Select sector
+2 Seleccionar sector
+1 Read commands
+2 Comandos de lectura
+1 Write commands
+2 Comandos de escritura
+1 Logical Drive (BootSector)
+2 Disco lógico (Arranque)
+1 Logical Drive
+2 Disco lógico
+1 Physical Drive (MBR)
+2 Disco físico (MBR)
+1 Physical Drive
+2 Disco físico
+1 First sector (BootSector)
+2 Primer sector (de arranque)
+1 First sector (MBR)
+2 Primer sector (MBR)
+1 Specify a Sector
+2 Epecificar un sector
+1 Number of continuous sectors to read
+2 Nº de sectores continuos a leer
+1 Read sector from disk
+2 Leer sector del disco
+1 Load sector from file
+2 Cargar sectores desde un fichero
+1 Save sector to File
+2 Guardar el(los) sector(es) en un fichero
+1 Write sector on Disk
+2 Escribir el(los) sector(es) en el disco
+1 The first sector of a Physical Drive is the Master Boot Record (MBR)
+2 El primer sector de un disco físico es el Master Boot Record (MBR)
+1 The first sector of a Logical Drive is the Boot sector
+2 El primer sector de un disco lógico es el sector de arranque
+1 Sector read
+2 Sector leído
+1 Impossible to read sector on the disk
+2 Imposible leer el sector del disco
+1 HDHacker (By Dimio)
+2 HDHacker (por Dimio)

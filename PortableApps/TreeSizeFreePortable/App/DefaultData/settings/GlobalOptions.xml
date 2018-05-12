@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalOptions Version="3" AppVersion="4.1" Type="TGlobalOptions">
+	<CheckForUpdateOptions Type="TCheckForUpdateOptions">
+		<LatestOnlineVersion>-1</LatestOnlineVersion>
+		<LastAutomaticCheckForUpdate>0</LastAutomaticCheckForUpdate>
+		<CheckForUpdatesAutomatically>False</CheckForUpdatesAutomatically>
+	</CheckForUpdateOptions>
+	<ContextMenuEntries>4</ContextMenuEntries>
+</GlobalOptions>

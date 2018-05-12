@@ -1,0 +1,549 @@
+1 DSynchronize (Programmed by Dimio - Original French Translation by Jean Paul DAVIN, Willy WIJMMERSCH - revised Translation by Olivier ORLIANGES)
+2 DSynchronise (Programmé par Dimio - Traduction Française par Jean Paul DAVIN, Willy WIJMMERSCH, Vivien VENEROSY & Olivier ORLIANGES) 
+
+(Rev. July,10,2017 - for versions 2.3x.x.x)
+
+1 DSynchronize - Old INI file loaded: some features will not be available
+2 DSynchronize - Vieux fichier INI chargé: certaines fonctionnalitées sont indisponibles.
+
+
+1 About
+2 A Propos
+1 Make a Donation
+2 Faire un don
+1 home page:
+2 Site Web:
+1 Ok
+2 Ok
+    
+1 File
+2 Fichier
+1 Change Ini File
+2 Changer Fichier Ini
+1 Exit Without Save Settings	Alt+F5
+2 Quitter sans Sauver les Réglages Alt+F5 
+1 Exit 
+2 Quitter
+
+
+1 SoundFx
+2 Effet Sonnore
+
+1 Tools
+2 Outils
+1 Show Log File
+2 Voir Fichier Log
+1 Erase Log File
+2 Effacer Fichier Log
+1 Test all Paths 
+2 Tester tout les Chemins
+1 Find Ini File
+2 Trouver Fichier Ini 
+
+1 Help
+2 Aide
+1 Home Page Web
+2 Page Web
+1 Support With Donation...   
+2 Faire une Donation...        
+1 About Dsynchronize
+2 A propos de Dsynchronize
+
+
+
+
+
+1 Job selection
+2 Sélection des tâches
+1 INSTANT UPDATE
+2 Syncho immédiate
+1 Load Job
+2 Charger
+1 Rename
+2 Renommer
+1 Add Job
+2 Ajouter
+1 New Job
+2 Nouveau
+1 Delete Job
+2 Supprimer
+1 Show at Start
+2 Actif
+1 "F2" to rename Jobs, "Del" to delete a job, "DEL+Shift" to delete a job without confirms
+2 "F2" pour renommer une Tache, "Del" pour supprimer une tâche, "Shift+Del" pour retirer une tâche sans confirmations.
+1 Insert path and then press "Enter"
+2 Taper le chemin puis presser "Enter".
+1 Are you sure to want delete this Job?
+2 Etes-vous sûr de vouloir supprimer cette tâ
+.0che?
+
+1 JOBS
+2 TACHES
+1 Select and manage Jobs
+2 Sélectionner et gérer les tâches.
+
+1 FILTER
+2 Filtres
+1 Set filter to include/exclude files or folders from sync
+2 Régler des filtres pour inclure ou exclure des fichiers ou des répertoires de la synchronisation.
+
+1 &Add New...
+2 &Ajouter nouveau…
+1 B&rowse...
+2 Explo&rer…
+1 &Edit...
+2 &Editer…
+1 &Select all
+2 Tout &sélectionner
+1 &Deselect all
+2 Tout &désélectionner
+1 Se&t filter...
+2 Appliquer un filtre
+1 S&wap paths
+2 Intervertir les chemins
+1 Re&move
+2 &Redéplacer
+1 Swap Paths (double click on arrows to swap selected source path with selected destination path)
+2 Interversion des dossiers (double clicker sur les flèches pour intervertir sources et destinations)
+
+1 Test Paths
+2 Vérifier les chemins
+1 Sources
+2 Dossiers Sources
+1 C:\Sample 1 Of Source Path
+2 C:\Exemple 1 de Chemin Source
+1 C:\Sample 2 Of Source Path
+2 C:\Exemple 2 de Chemin Source
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\Unité amovible\Exemple 1 de Chemin de destination
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\PCdistant\Exemple 2 de Chemin de destination
+1 Destinations
+2 Dossiers Destinations
+1 Insert path and then press "Enter"
+2 Taper le chemin puis presser "Enter"
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Presser "Enter" pour modifier le chemin, "DEL" pour l'effacer,"PgUp" ou "PgDn" pour le déplacer au dessus ou en dessous
+1 Filter
+2 Filtre
+1 DSynchronize Filter
+2 Filtre de Dsynchronize
+1 Filter settings
+2 Paramètres du filtre
+1 Do not apply filters to folders
+2 Ne pas appliquer les filtres aux dossiers
+1 Exclusion filter
+2 Filtre d'exclusion
+1 Inclusion filter
+2 Filtre d'inclusion
+1 Filter Timings
+2 Filtre Minuterie
+1 Do not include subfolders on synchronization
+2 Ne pas inclure de sous-dossiers à la synchro
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Pour utiliser plusieurs filtres séparez-les avec ";", e.g. *.exe;*.txt;settings.ini;*.da?
+1 Filter Extended
+2 Filtre Etendu 
+1 Jan
+2 Jan
+1 Feb
+2 Fév
+1 Mar
+2 Mar
+1 Apr
+2 Avr
+1 May
+2 Mai
+1 Jun
+2 Jun
+1 Jul
+2 Jut
+1 Aug
+2 Aou
+1 Sep
+2 Sep
+1 Oct
+2 Oct
+1 Dec
+2 Déc
+1 Exclude files modified before:
+2 Exclure fichiers modifiés depuis:
+1 Cancel
+2 Annuler
+1 Select a folder:
+2 Sélectionner un dossier:
+1 Browse
+2 Explorer
+1 Reset Defaults
+2 Réinitialiser
+
+
+1 General options
+2 Options Générales
+1 Preview sync
+2 Prévisualisation
+1 Preview mode
+2 Prévisualisation
+1 Does not writes nor changes anything on disk
+2 Aucune écriture ni aucun changement dans la destination
+1 Test sync (do not write anything on HD)
+2 Simulation de synchronisation (Aucune écriture dans la destination)
+
+1 Not save settings on exit
+2 Ne pas sauver les réglages en quittant
+1 Deny to save all current settings on exit
+2 Empêche la sauvegardes des réglages en quittant
+
+
+
+1 Verify byte to byte
+2 Vérification bit à bit
+1 Compare byte to byte (can slow down sync)
+2 Comparaison bit à bit (peut ralentir la synchronisation)
+1 Move files to destination
+2 Déplacer vers la destination
+1 Move files from Source to Destination (and NOT delete any file on destination)
+2 Déplacer les fichiers de Source à Destination (et ne rien détruire dans la destination)
+1 Copy only newer files
+2 Nouveaux fichiers seulement
+1 Update files into destination folder only if source files are more recent
+2 Ne mettre à jour les fichiser du dossier de destination que si les fichiers source sont plus récents
+
+
+1 Add date to folder
+2 Dater les dossiers
+1 Add date to destination folder
+2 Dater les dossiers de destination
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Ajouter la date et l'heure au nom du dossier de destination (par exemple "C:\Destination" devient "C\Destination 2008-02-14 1.18")
+
+1 Sync file/folder timings too
+2 Synchro des dates
+1 Sync creation and last modify time too
+2 Syncroniser également les heures de création et de dernière modification des fichiers et dossiers
+1 Hidden and system files too
+2 Fichiers cachés et système
+1 Sync hidden and system files too
+2 Synchroniser également les fichiers cachés et système.
+
+
+1 Play a sound at the end
+2 Jouer son à la fin
+1 Sound advise at the end
+2 Jouer son à la fin
+
+1 Generate a sound advise at the end of synchronization
+2 Jouer un son pour avertir en fin de synchronisation
+1 Exit at the end
+2 Quitter à la fin
+1 Closes the program at the end of sync
+2 Quitter le programme en fin de synchronisation
+
+1 Save settings on exit
+2 Sauver réglages
+1 Saves all current settings on exit (source and destination path too)
+2 Sauver tous les paramètres en quittant DSynchronize (y compris les chemins sources et destination)
+1 Eject USB key at the end
+2 Ejecter la clé USB à la fin
+1 Write log on disk
+2 Ecrire un rapport
+1 Save log file "DSynchronize.log" on disk
+2 Sauver un fichier de rapport "DSynchronize.log" sur disque
+1 Send log by Email
+2 Envoyer un rapport
+1 Log only errors
+2 Rapport d'erreurs
+1 Use fast copy algorithm
+2 Algorithme de copie rapide
+1 Experimental, for test purpose only 
+2 Expérimental (Uniquement pour tests)
+1 Use the new algorithm that is faster and copies also ACLs
+2 Utilise le nouvel algorithme de copie rapide et copie aussi les ACL
+1 Create folder if not exists
+2 Créer de nouveaux dossiers
+1 If destination path does not exists it creates a new one
+2 Si le chemin de destination n'existe pas en créer un
+1 Ignore path errors
+2 Ignorer les erreurs de chemin
+1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
+2 Si un chemin (source ou destination) n'existe pas, il sera ignoré sans message d'erreur, ignore aussi la vériifcation de sécurité des dossiers
+
+1 DSynchronize - Log by Email
+2 DSynchronize - Envoyer rapport par mail
+1 Log Email Settings
+2 Paramètres mail pour l'envoi du rapport
+1 Send To:
+2 Envoyer à:
+1 Email Sender:
+2 Emetteur:
+1 Sender Password:
+2 Mot de passe:
+1 SMTP Server:
+2 Serveur SMTP:
+1 SMTP Port:
+2 Port SMPT:
+1 Send a screenshot in attachment
+2 Envoyer une copie d'écran en pièce jointe
+1 Show Jobs at start
+2 Afficher les tâches au démarrage
+1 Show Job's window at start
+2 Afficher les tâches au démarrage
+1 Show me again
+2 Afficher à nouveau
+
+1 Special options
+2 Options Spéciales
+1 Bidirectional sync
+2 Sync. bidirectionelle
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Synchroniser les dossiers en utilisants les fichiers les plus récents de chaque coté : vous obtiendrez des dossiers égaux avec les fichiers les plus récents de chacuns
+1 Antifragmentation
+2 Antifragmentation
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Réduire la fragmentation du disque en effaçant les fichiers avant de les réécrire (les fichiers réécrits apparaissent comme ajoutés)
+1 Adjust path drive
+2 Ajuster le chemin
+1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
+2 Ajuste le chemin si la lettre de lecteur change (sélectionner "Sauver en quittant" pour permetre la sauvegarde des numéros de série de volume)
+1 Pre calculates size
+2 Pré-calculer la taille
+1 Before to start sync, compute number of files to sync to show the progress bar
+2 Comptage du nombre de fichiers avant le démarrage de la synchronisation pour la barre de progression.  
+1 Check free space
+2 Vérifier l'espace libre
+1 Check free space before start file copy
+2 Vérifier l'espace disponible avant de lancer la copie de fichier
+1 Copy symbolic links
+2 Copier les alias
+1 Copy symbolic links as is
+2 Copier les alias tel quels
+1 Verify symbolic Links
+2 Vérifier les alias
+1 Copy hard links
+2 Copier les raccourcis
+1 If it's possible try to recreate hard links too (all hard links of a file must be on same partition)
+2 Si possible, tenter aussi de recréer les raccourcis (tout les racourcis doivent être sur la même partition)
+1 Acknowledge DST
+2 Heure d'été
+1 If filetime is different only by DST (daylight saving time), skips synchronising
+2 Si l'heure du fichier est différente (décalage de l'heure d'été), ne pas synchroniser.
+1 Copy ACL
+2 Copier ACL
+1 Copy ACL (Access Control List) on NTFS
+2 Copier ACL(Liste de Controle d'Accès) sur NTFS
+
+
+1 Timer options
+2 Options de Minuteur
+1 Realtime sync
+2 Synchro en temps réel
+1 Real-time synchronization
+2 Synchronisation en temps réel
+1 Activation of the Real-Time Synchronization
+2 Activation de la Synchro en temps réel
+1 Do you want that a Standard sync take place first before enabling the Real-Time sync?
+2 Voulez-vous qu'une synchronisation normale se fasse avant d'activer la synchronisation en temps réel?
+1 Timer sync
+2 Activer Minuteur
+1 Execute DSynchronize at system startup
+2 Exécuter DSynchronise au démarrage
+1 Autostart
+2 Autostart
+1 To enable/disable auto-start you have to start DSynchronize as Administrator
+2 Pour active/désactiver l'autodémarrage, vous devez démarrer DSynchronize avec les droits Administrateur
+1 Autostart as service...
+2 Utiliser en mode Service
+1 Execute DSyncronize at system startup as service
+2 Exécuter Dsynchronise au démarrage du systeme en tant que service
+
+1 Start As Service
+2 Executer en tant que Service
+
+1 How to start DSynchronize as Service:1. Select sync options as you need.2. Enable Timer and select WHEN you want the sync takes place.3. THEN, install and start DSynchronize service (the service will start with options and timings you have selected).4. Close DSynchronize (the service is running in background).
+2 Démarrer DSynchronize comme service :
+  1. Choisissez les options de synchro souhaitées.
+  2. Activez le minuteur et sélectionnez quand la synchro doit être exécutée.
+  3. Installez et démarrez le service (les options sélectionnées seront utilisées).
+  4. Quittez le programme (il tournera en arrière plan).
+
+1 Install Service
+2 Installer le service
+1 Start Service
+2 Démarrer le service
+1 Shutdown PC at the end
+2 Eteindre le PC à la fin
+1 Shutdown the system at the end of sync
+2 Eteindre le système à la fin de la synchronisation
+1 Account:
+2 Compte:
+1 Password:
+2 Password:
+1 Done
+2 Ok
+
+
+1 Activation of the Real-Time Synchronization.
+2 Activation de la Synchronisation en Temps Réel.
+1 Make sure to let a "normal" sync take place first before enabling the "Real-Time sync".
+2 Vérifier d'avoir effectué une synchro "normale" avant d'activer la "synchro Temps-Réel". 
+1 Do you want that a Standard sync take place first before enabling the Real-Time sync?
+2 Voulez-vous qu'une synchronisation normale se fasse avant d'activer la synchronisation en temps réel?
+
+1 DSynchronize Scheduler
+2 Agenda DSynchronize
+1 Main Selection
+2 Séléction Principale
+1 RealTime Sync Enabled
+2 Synchro en temp réel active
+1 RealTime sync active, Timer sync active...
+2 Synchro en temp réel active, Synchro avec minuteur active...
+1 Timer sync
+2 Réglages par Minuteur
+1 Timer Sync Enabled
+2 Réglages par Minuteur Activé
+
+1 Synchronize every
+2 Synchroniser chaque
+1 Synchronize at
+2 Synchroniser à
+1 Do a first sync immediatly (10 secs after start).
+2 1ere Synchro (10 secs après le démarrage)
+1 Days choice
+2 Réglage du jour
+1 Synchronize every day
+2 Synchroniser chaque jour
+1 Specify the month's days on which to synchronize
+2 Spécifier le jour du mois pour la synchronisation
+1 Specify the week's days on which to synchronize
+2 Spécifier le jour de la semaine pour la synchronisation
+1 Sunday
+2 Dimanche
+1 Monday
+2 Lundi
+1 Tuesday
+2 Mardi
+1 Wednesday
+2 Mercredi
+1 Thursday
+2 Jeudi
+1 Friday
+2 Vendredi
+1 Saturday
+2 Samedi
+
+
+
+1 No visual log
+2 Pas de rapport
+1 Timer sync active...
+2 La synchronisation avec minuteur est active...
+1 Test paths (only checked paths will be verifyed)
+2 Vérification des chemins (seuls les chemins cochés seront vérifiés)
+
+1 Stop
+2 Arrêter
+1 Resume
+2 Continuer
+
+1 Don't show deleted, added, replaced files on listboxes (this can speed up synchronizations with many files). If it's grayed, shows errors only
+2 Ne pas afficher les fichiers supprimés, ajoutés ou remplacés (cela peut accélérer la synchronisation avec beaucoup de fichiers). Si l'option est grisée, seules les erreurs sont montrées.
+
+1 If too long, clear list
+2 Si trop long, effacer la liste
+
+
+1 Maintain old versions
+2 Garder des version précédentes
+
+1 No old versions
+2 pas d'ancienne versions
+
+1 Infinite old versions
+2 Nombre illimité de versions
+
+1 Backup changes
+2 Sauvegardes 
+1 No Backup
+2 Pas de sauvegarde
+
+
+1 When a file is replaced, create, in destination path, a folder with the old file.
+2 Quand un fichier est remplacé, créer, dans le chemin de destination, un dossier avec l'ancien fichier.
+
+
+
+1 Create, in destination path, n folders with name of file and date of sync to contain different versions of every file
+2 Crée, dans le chemin de destination, x dossiers avec le nom de fichier et la date de synchronisation afin de contenir différentes versions de chaque fichier
+
+
+
+1 Commands
+2 Actions
+1 Synchronize
+2 Synchroniser
+1 Pause
+2 Pause
+
+1 Synchronization paused.
+2 Synchronisation mise en pause.
+1 Synchronization interrupted.
+2 Synchronisation interrompue.
+1 Synchronization complete.
+2 Synchronisation terminée.
+
+
+
+1 Deleted
+2 Supprimé
+1 Deleted Files
+2 Fichiers Supprimés
+1 Ask before deleting files
+2 Demander avant d'effacer
+1 Do not delete any file
+2 Ne rien supprimer
+1 Does not delete any file
+2 Ne supprime aucun fichier
+
+1 Added
+2 Ajouté
+1 Added files
+2 Fichiers Ajoutés
+1 Ask before adding files
+2 Demander avant d'ajouter
+1 Do not add any file
+2 Ne rien ajouter
+1 Does not add any new file
+2 N'ajoute aucun nouveau fichier
+
+
+1 Replaced
+2 Remplacé
+1 Replaced Files
+2 Fichiers Remplacés
+1 Ask before replacing files
+2 Demander avant de remplacer
+1 Do not replace any file
+2 Ne rien remplacer
+1 Does not replace any file
+2 Ne remplace aucun fichier
+
+1 RealTime
+2 En temps réel
+
+1 Reset list if too full
+2 Remettre la liste a zéro (si trop de lignes)
+
+1 Deleted/Errors:
+2 Suprimés/Erreurs:
+1 Added/Errors:
+2 Ajoutés/Erreurs:
+1 Replaced/Errors:
+2 Remplacés/Erreurs:
+
+1 min to next sync
+2 min d'attente
+
+
+
+
+

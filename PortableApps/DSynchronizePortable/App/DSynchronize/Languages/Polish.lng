@@ -1,0 +1,641 @@
+# Rel. 2.35.10 - Polish translation by Grandalf - last update: 06-02-2018 - 12.07
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize (Program autorstwa Dimio)
+1 DSynchronize - Old INI file loaded: some features will not be available
+2 DSynchronize - Za≥adowano stary plik INI: niektÛre funkcje nie bÍdπ dostÍpne
+1 Job Selection
+2 WybÛr Zadania
+1 Load Job
+2 Za≥aduj Zadanie
+1 Rename	F2
+2 ZmieÒ NazwÍ	F2
+1 Move Up	PgUp
+2 Przenieú Wyøej	PgUp
+1 Move Down	PgDn
+2 Przenieú Niøej	PgDn
+1 Duplicate Job
+2 Duplikuj Zadanie
+1 Filter folder disabled...
+2 Filtrowanie folderu wy≥πczone...
+1 'F2' to rename Jobs
+'Del' to delete a job
+'Del+Shift' to delete a job without confirms
+'PagUp' to move Up an Item
+'PagDn' to move Down an Item
+2 'F2' aby zmieniÊ nazwÍ Zadania
+'Del' aby usunπÊ zadanie
+'Del+Shift' aby sunπÊ zadanie bez potwierdzenia
+'PagUp' aby przenieúÊ Zadanie Wyøej
+'PagDn' aby przenieúÊ Zadanie Niøej
+1 INSTANT UPDATE
+2 NATYCHMIASTOWA AKTUALIZACJA
+1 When you select a Job, loads his options immediately
+2 Po wybraniu Zadania natychmiast wczytuje jego opcje
+1 New Job
+2 Nowe Zadanie
+1 Delete Job
+2 UsuÒ Zadanie
+1 Delete Job	Canc
+2 UsuÒ Zadanie	Del
+1 Show at Start
+2 Pokaø przy starcie
+1 JOBS
+2 ZADANIA
+1 Select and manage jobs
+2 Wybierz i zarzπdzaj zadaniami
+1 Sources
+2 èrÛd≥a
+1 C:\Sample 1 Of Source Path
+2 C:\Przyk≥ad úcieøki ürÛd≥owej nr 1
+1 C:\Sample 2 Of Source Path
+2 C:\Przyk≥ad úcieøki ürÛd≥owej nr 2
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\ZdalnyPC\Przyk≥ad úcieøki docelowej nr 1
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\ZdalnyPC\Przyk≥ad úcieøki docelowej nr 2
+1 Destinations
+2 Miejsce docelowe
+1 Insert path and then press "Enter"
+2 Wpisz úcieøkÍ i naciúnij "Enter"
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Naciúniej "Enter", øeby zmodyfikowaÊ úcieøkÍ, "DEL", øeby skasowaÊ, "PageUp" i "PageDown" by przemiszczaÊ w gÛrÍ lub w dÛ≥
+1 Filter
+2 Filtr
+1 Set filter to include/exclude files or folders from sync
+2 Ustawia filtr, aby dodaÊ/wykluczyÊ pliki lub foldery z synchronizacji
+1 DSynchronize Filter
+2 Filtr DSynchronize
+1 File Selection
+2 Ustawienia Filtra
+1 Do not apply filters to folders
+2 Nie stosuj filtrÛw do folderÛw
+1 Folder Selection
+2 WybÛr Folderu
+1 Selected path not exists...
+2 Wybrana úcieøka nie istnieje...
+1 Exclusion Filter:
+2 Wykluczenia z filtra:
+1 Inclusion Filter:
+2 Dodane do filtra:
+1 Do not include subfolders on synchronization
+2 Nie do≥πczaj podfolderÛw podczas synchronizacji
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Aby uøyÊ z≥oøonych filtrÛw zastosuj separator ";", np. *.exe;*.txt;settings.ini;*.da?
+1 Filter Extended
+2 Filtr rozszerzony
+1 Jan
+2 Sty
+1 May
+2 Maj
+1 Jun
+2 Cze
+1 Jul
+2 Lip
+1 Aug
+2 Sie
+1 Sep
+2 Wrz
+1 Oct
+2 Paü
+1 Dec
+2 Gru
+1 Filter Timings
+2 Filtr Czasowy
+1 Exclude files modified before:
+2 Wyklucz pliki zmodyfikowane przed:
+1 Exclude files modified within:
+2 Wyklucz pliki zmodyfikowane w przeciπgu:
+1 Days
+2 Dni
+1 Reset Defaults
+2 PrzywrÛÊ Ustawienia Domyúlne
+1 Cancel
+2 Anuluj
+1 RESET
+2 RESETUJ
+1 Reset folder selection
+2 Zresetuj wybÛr folderu
+1 Select a folder:
+2 Wybierz folder:
+1 Browse
+2 Przeglπdaj
+1 &Add New...
+2 &Dodaj Nowy...
+1 Duplicate...
+2 Duplikuj...
+1 B&rowse...
+2 &Przeglπdaj...
+1 &Edit...	F2
+2 &Edytuj...	F2
+1 Move Down	PagDn
+2 Przenieú Niøej
+1 &Select all
+2 &Zaznacz wszystko
+1 &Deselect all
+2 &Odznacz wszystko
+1 Se&t filter...
+2 &Ustaw filtr...
+1 Swap
+2 ZamieÒ úcieøki miejscami
+1 Move Up
+2 Przenieú Wyøej 
+1 Move Down
+2 Przenieú Niøej
+1 Re&move Del
+2 &UsuÒ Del
+1 Are you sure to want delete this sync path?
+2 Jesteú pewny, øe chcesz usunπÊ tπ úcieøkÍ synchronizacji?
+1 Remove	Del
+2 UsuÒ	Del
+1 Properties
+2 W≥aúciwoúci
+1 Explore Path...
+2 Eksploruj tπ åcieøkÍ...
+1 Test this Path
+2 Testuj tπ úcieøkÍ
+1 No selected paths to test
+2 Nie wybrano úcieøek do testu
+1 Test all selected paths
+2 Testuj wszystkie wybrane úcieøki
+1 Source path verify:
+  Destination path verify:
+2 Sprawdzanie úcieøki ürÛd≥owej:
+  Sprawdzanie úcieøki docelowej:
+1 Source paths verify
+2 Sprawdzanie úcieøek ürÛd≥owych
+1 Source path verify:
+2 Sprawdzanie úcieøki ürÛd≥owej:
+1 Destination path verify:
+2 Sprawdzanie úcieøki docelowej:
+1 Source path error:
+2 B≥πd úcieøki ürÛd≥owej:
+1 About
+2 O...
+1 ''Right Click'' to browse paths and set filters
+''Enter'' to modify path
+''DEL'' to delete item
+''PagUp'' and ''PagDn'' to move item up or down
+''Right'' and ''Left'' to switch sources-destinations
+2 ''Prawy Klik'' aby przeglπdaÊ úcieøki i ustawiÊ filtry
+''Enter'' aby zmodyfikowaÊ úcieøkÍ
+''Del'' aby usunπÊ element
+''PagUp'' lub ''PagDn'' aby przesunπÊ element w gÛrÍ lub dÛ≥
+''Prawy'' lub ''Lewy'' aby prze≥πczyÊ pomiÍdzy ürÛd≥em a miejscem docelowym
+1 DSynchronize About
+2 O programie DSynchronize
+1 Support with a Donation
+2 Wsparcie Dotacjπ
+1 Make a Donation
+2 Ofiaruj DotacjÍ
+1 General options
+2 Opcje ogÛlne
+1 Preview sync
+2 Podglπd synchronizacji
+1 Does not writes nor changes anything on disk
+2 Nie zapisuje, ani niczego nie zmienia na dysku
+1 Not save settings on exit
+2 Nie zapisuj ustawieÒ przy wyjúciu
+1 Deny to save all current settings on exit
+2 Odmawia zapisania wszystkich bieøπcych ustawieÒ przy wyjúciu
+1 Create folder if not exists
+2 UtwÛrz folder, jeúli nie istnieje
+1 If destination path does not exists it creates a new one
+2 Jeúli úcieøka docelowa nie istnieje, tworzona jest nowa
+1 Move files to destination
+2 Przenieú pliki do miejsca docelowego
+1 Move files from Source to Destination (and NOT delete any file on Destination)
+2 Przenosi pliki ze ürÛd≥a do miejsca docelowego (i nie usuwa øadnych plikÛw w miejscu docelowym)
+1 Copy only newer files
+2 Skopiuj tylko nowsze pliki
+1 Update files into destination folder only if source files are more recent
+2 Aktualizuje pliki w miejscu docelowym tylko wtedy, gdy pliki ørÛd≥owe sπ nowsze
+1 Add date to folder
+2 Dodaj datÍ do folderu
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Dodaje do nazwy folderu docelowego aktualnπ datÍ i godzinÍ (tak øe "C:\Destinazione" staje siÍ "C:\Destinazione 2007-09-10 18.30")
+1 Sync file/folder timings too
+2 Synchronizuj takøe czasy plikÛw/folderÛw
+1 Sync creation and last modify time too
+2 Synchronizuje takøe czas utworzenia i modyfikacji
+1 Sound Advise at the end
+2 Sygna≥ düwiÍkowy na zakoÒczenie
+1 Sound Effects
+2 Efekty düwiÍkowe
+1 Generate a sound advise at the end of synchronization
+2 Generuje sygna≥ døwiÍkowy po zakoÒczeniu synchronizacji
+1 Save Settings Now
+2 Zapisz ustawienia teraz
+1 Exit at the end
+2 Wyjdü po zakoÒczeniu
+1 Closes the program at the end of sync
+2 Zamyka program po zakoÒczeniu synchronizacji
+1 Hidden and system files too
+2 Pliki ukryte i systemowe takøe
+1 Sync hidden and system files too
+2 Synchronizuje takøe pliki ukryte i systemowe
+1 Save settings on exit
+2 Zapisz ustawienia przy wyjúciu
+1 Saves all current settings on exit (source and destination path too)
+2 Zapisuje wszystkie bieøπce ustawienia przy wyjúciu (takøe úcieøki ürÛd≥owe i docelowe)
+1 Eject USB key at the end
+2 Od≥πcz klucz USB na zakoÒczenie
+1 Write Log on disk
+2 Zapisz Log na dysku
+1 Save log file "Dsynchronize.log" on disk
+2 Zapisuje plik logu "Dsynchronize.log" na dysku
+1 Send log by Email
+2 Wyúlij log emailem
+1 DSynchronize - Log by Email
+2 DSynchronize - Log na Email
+1 Log Email Settings
+2 Ustawienia Wysy≥ki LogÛw na Email
+1 Send To:
+2 Wyúlij Do:
+1 Sender Passwd:
+2 Has≥o Nadawcy:
+1 Email Sender Password
+2 Has≥o Nadawcy Emaila
+1 Email Sender:
+2 Nadawca:
+1 Email Sender (only if is different from "Send To")
+2 Email Nadawcy (tylko, jeúli siÍ rÛøni od "Wyúlij Do")
+1 Show Passwd
+2 Pokaø Has≥o
+1 SMTP Server:
+2 Serwer SMTP:
+1 SMTP Port:
+2 Port SMTP:
+1 Use SSL encryption
+2 Uøyj szyfrowania SSL
+1 Send a screenshot in attachment
+2 Wyúlij zrzut ekranu w za≥πczniku
+1 Log only errors
+2 Loguj tylko b≥edy
+1 Use fast copy algorithm
+2 Uøyj algorytmu szybkiego kopiowania
+1 Use the new algorithm that is faster and copies also ACLs
+2 Uøywany jest nowy algorytm, ktÛry jest szybszy i kopiuje rÛwnieø listy ACLs
+1 Experimental, for test purpose only
+2 Eksperymentalne, tylko do celÛw testowych
+1 Verify byte to byte
+2 Weryfikuj bajt po bajcie
+1 Compare files "byte to byte". This option is not designed for normal sync operations, you should use it only in particular situations because it will slow down very much the sync.
+2 PorÛwnuje pliki "bajt po bajcie". Ta opcja nie jest przeznaczona do normalnych operacji synchronizacji, naleøy jej uøywaÊ tylko w okreúlonych sytuacjach, poniewaø spowalnia to bardzo synchronizacjÍ.
+1 Ignore path errors
+2 Ignoruj b≥Ídy úcieøki
+1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
+2 Jeúli úcieøka (ürÛd≥owa lub docelowa) nie istnieje, pomija jπ bez komunikatu, ignorujπc takøe kontrolÍ bezpieczeÒstwa folderu
+1 Show Jobs at start
+2 Pokaø Zadania przy starcie
+1 Special options
+2 Opcje specjalne
+1 Bidirectional sync
+2 Synchronizacja dwukierunkowa
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Synchronizuje obydwie strony uøywajπc najnowszych plikÛw: otrzymasz dwa foldery z najnowszymi plikami (po stronie ørÛd≥owej i docelowej)
+1 DSynchronize - Bidirectional Sync
+2 DSynchronize - Synchronizacja Dwukierunkowa
+1 If Realtime is not enabled, Bidirectional sync can't get file deletions, because DSynchronize don't knows if a single file was added on source path or was deleted from destination path (or viceversa), so it assumes that all files was added everywhere.
+
+This can give unattended results, do you want enable anyway Bidirectional Sync?
+2 Jeúli funkcja Czasu Rzeczywistego nie jest w≥πczona, synchronizacja dwukierunkowa nie moøe spowodowaÊ usuniÍcia pliku, poniewaø DSynchronize nie wie czy pojedyÒczy plik zosta≥ dodany do úcieøki ürÛd≥owej lub zosta≥ usuniÍty ze úcieøki docelowej (lub viceversa), wiÍc zak≥ada øe wszystkie pliki zosta≥y dodane wszÍdzie.
+
+Moøe to spowodowaÊ niezamierzone rezultaty. Czy mimo to chcesz w≥πczyÊ SynchronizacjÍ Dwukierunkowπ?
+1 Antifragmentation
+2 Antyfragmentacja
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Zmniejsza fragmentacjÍ dysku usuwajπc pliki przed ich zastπpieniem (zastπpione pliki pojawiπ siÍ jako dodane)
+1 Adjust path drive
+2 Dostosuj úcieøkÍ dysku
+1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
+2 Jeúli zmieni siÍ litera dysku, dostosuje odpowiednio úcieøki (proszÍ wybraÊ opcjÍ "Zapisz przy wyjúciu" aby zezwoliÊ na zapisanie serii woluminu)
+1 Pre calculates size
+2 WstÍpnie oblicz wielkoúÊ
+1 Before to start sync, compute number of files to sync to show the progress bar
+2 Przed rozpoczÍciem synchronizacji oblicza liczbÍ plikÛw do zsynchronizowania, aby wyúwietliÊ pasek postÍpu
+1 Check free space
+2 Sprawdü iloúÊ wolnego miejsca
+1 Check free space before start file copy
+2 Sprawdza iloúc wolnego miejsca przed rozpoczÍciem kopiowania plikÛw
+1 Copy symbolic links
+2 Kopiuj dowiπzania symboliczne
+1 Copy symbolic links as is
+2 Kopiuje dowiπzania symboliczne, takie jakie sπ
+1 Verify symbolic links
+2 Weryfikuj dowiπzania symboliczne
+1 Verify symbolic links validity before copying, if itsn't valid on destination path (e.g. relative links), copies the target file.
+2 Sprawdza dowiπzania symboliczne przed kopiowaniem, jeúli nie sπ one prawid≥owe dla úcieøki docelowej (n.p. wzglÍdne linki), kopiuje plik docelowy.
+1 Copy hard links
+2 Kopiuj dowiπzania twarde
+1 If it's possible try to recreate hard links too (all hard links of a file must be on same partition)
+2 Jeúli to moøliwe, stara siÍ takøe odtworzyÊ dowiπzania twarde (wszystkie twarde dowiπzania do pliku muszπ byÊ na tej samej partycji)
+1 Copy ACL
+2 Kopiuj ACL dla NTFS
+1 Copy ACL (Access Control List) on NTFS
+2 Kopiuje ACL (Access Control List) dla NTFS
+1 Case Sensitive
+2 WielkoúÊ Liter
+1 Acknowledge DST
+2 Potwierdü czas letni
+1 If filetime is different only by DST (daylight saving time), skips synchronising
+2 Jeúli czas pliku rÛøni siÍ tylko o DST (czas letni), synchronizacja zostanie pominiÍta
+1 Timer options
+2 Opcje zegara
+1 Realtime sync
+2 Synchronizacja w czasie rzeczywistym
+1 Timer sync...
+2 Synchronizacja zegara...
+1 Autostart
+2 Autostart
+1 Start at drive plug-in
+2 Uruchom po pod≥πczeniu USB
+1 Real-time synchronization
+2 Synchronizacja w czasie rzeczywistym
+1 Activation of the Real-Time Synchronization.
+
+Do you want that a Standard sync take place first before enabling the Real-Time sync?
+2 Aktywacja Synchronizacji w Czasie Rzeczywistym.
+
+Czy chcesz, aby synchronizacja Sandardowa mia≥a miejsce przed w≥πczeniem synchroniacji Czasu Rzeczywistego?
+1 Set/enable timer
+2 Ustaw/w≥πcz zegar
+1 DSynchronize Options
+2 Opcje DSynchronize
+1 Timer
+2 Terminarz
+1 Synchronize every
+2 Synchronizuj co [OO:mm]
+1 Synchronize at
+2 Wed≥ug Harmonogramu
+1 Hours
+2 Godziny
+1 Minutes
+2 Minuty
+1 Do a first sync 5 seconds after starting timer
+2 Wykonaj pierwszπ synchronizacjÍ 5 sekund po uruchomieniu zegara
+1 Days selection
+2 WybÛr dni
+1 Synchronize every day
+2 Synchronizacja kaødego dnia
+1 Specify the month's days on which to synchronize
+2 Podaj dni miesiπca w ktÛrych ma nastπpiÊ synchronizacja
+1 Specify the week's days on which to synchronize
+2 Podaj dni tygonia w ktÛrych ma nastπpiÊ synchronizacja
+1 Sunday
+2 Niedziela
+1 Monday
+2 Poniedzia≥ek
+1 Tuesday
+2 Wtorek
+1 Wednesday
+2 åroda
+1 Thursday
+2 Czwartek
+1 Friday
+2 Piπtek
+1 Saturday
+2 Sobota
+1 RealTime sync active, Timer sync active...
+2 Synchronizacja czasu rzeczywistego aktywna, Zegar aktywny...
+1 next sync at:
+2 nastÍpna synchronizacja w:
+1 Timer sync active...next sync at:
+2 Zegar aktywny...nastÍpna synchronizacja w:
+1 Timer sync active...
+2 Zegar synchronizacji aktywny...
+1 min to next sync
+2 min. do nastÍpnej synchronizacji
+1 hour to next sync
+2 godz. do nastÍpnej synchronizacji
+1 Sync progress
+2 PostÍp synchronizacji
+1 Sync complete.
+2 Synchronizacja zakoÒczona.
+1 Add/Err
+2 Dodane/B≥ÍdÛw
+1 Repl/Err
+2 Zastπpione/B≥ÍdÛw
+1 Del/Err
+2 UsuniÍte/B≥ÍdÛw
+1 Online
+2 Online
+1 Single file copy progress
+2 PostÍp kopiowania pojedyÒczych plikÛw
+1 Execute DSynchronize at system startup
+2 Uruchamia DSynchronize przy starcie systemu
+1 Autostart as service...
+2 Autostart jako us≥uga...
+1 Execute DSyncronize at system startup as service
+2 Uruchamia DSynchronize przy starcie systemu jako us≥ugÍ
+1 Shutdown PC at the end
+2 Wy≥πcz komputer po zakoÒczeniu
+1 Shutdown the system at the end of sync
+2 Wy≥πcza komputer po zakoÒczeniu synchronizacji
+1 Maintain old versions
+2 Zachowaj stare wersje
+1 When a file is replaced, create, in destination path, a folder with the old file.
+2 Kiedy plik zostanie zastπpiony, tworzy w úcieøce docelowej folder ze starym plikiem.
+1 No old versions
+2 Brak starych wersji
+1 old versions
+2 stare wersje
+1 Infinite old versions
+2 NieskoÒczone stare wersje
+1 DSyncronize Start As Service
+2 Uruchamianie DSyncronize jako us≥ugi
+1 Install Service
+2 Zainstaluj us≥ugÍ
+1 Start Service
+2 Uruchom us≥ugÍ
+1 Done
+2 Zrobione
+1 Commands
+2 Polecenia
+1 Synchronize
+2 Synchronizacja
+1 Pause
+2 Pauza
+1 Deleted files
+2 UsuniÍte pliki
+1 Ask before deleting files
+2 Pytaj przed usuniÍciem plikÛw
+1 RealTime
+2 Czas rzeczywisty
+1 Do not delete any file
+2 Nie usuwaj øadnych plikÛw
+1 Does not delete any file
+2 Jeúli aktywne, nie usunie øadnych plikÛw
+1 Reset list if too full
+2 Resetuj listÍ jeúli jest zbyt pe≥na
+1 If they are too many items (over 1000), reset list
+2 Jeúli jest za duøo pozycji (ponad 1000), resetuje listÍ
+1 RealTime sync active...
+2 Synchronizacja czasu rzeczywistego aktywna...
+1 Added files
+2 Dodane pliki
+1 Ask before adding files
+2 Zapytaj przed dodaniem plikÛw
+1 Do not add any file
+2 Nie dodawaj øadnych plikÛw
+1 Does not add any new file
+2 Jeúli aktywne, nie doda øadnych plikÛw
+1 Replaced files
+2 Zastπpione pliki
+1 Ask before replace files
+2 Zapytaj przed zastπpieniem plikÛw
+1 Do not replace any file
+2 Nie zastÍpuj øadnych plikÛw
+1 Does not replace any file
+2 Jeúli aktywne, nie zastπpi øadnych plikÛw
+1 Clear list
+2 CzyúÊ listÍ
+1 Synchronization complete.
+2 Synchronizacja zakoÒczona.
+1 Help
+2 Pomoc
+1 DSynchronize Help
+2 Pomoc DSynchronize
+1 [HOT KEYS]
+F1 = Open this window.
+F2 / Enter = Modify Paths.
+Del = Delete Paths couple.
+PagUp / PagDn = Move item up or down.
+Right Click = Test Path, Set Filters, Browse Paths.
+Alt+F4 = Exit program.
+Alt+F5 = Exit program without save settings.
+Right / Left = Switch between Sources and Destinations.
+Up / Down = Select previous / next item.
+Further Down = Add new couple of paths (Source and Destination).
+
+[COMMAND LINE]
+/START = Starts the synch (with last saved options).
+/MINIMIZE = Starts minimized in the Tray Bar.
+/HIDDEN = Do not display icon in Tray Bar.
+/NOSECURITYCHECK  = Don't makes security check before sync.
+/NOMONITORCHECK = Do not check monitor resolution.
+/AUTOREALTIME = Starts minimized, do a standard sync and activate RealTime.
+/SOMEFILE.INI  = Starts using selected INI file.
+2 [POMOCNE KLAWISZE]
+F1 = Otwiera to okno.
+F2 / Enter = Modyfikacja úcieøek.
+Del = Usuwa parÍ úcieøek.
+PagUp / PagDn = Przesuwa element w gÛrÍ lub w dÛ≥.
+Right Click = Testuje åcieøkÍ, Ustawia Filtry, Przeglπd åcieøek.
+Alt+F4 = Wyjúcie z programu.
+Alt+F5 = Wyjúcie z programu bez zapisywania ustawieÒ.
+Right / Left = Prze≥πcza pomiÍdzy èrÛd≥em a Miejscem Docelowym.
+Up / Down = Wybiera poprzedni / nastÍpny element.
+Further Down = Dodaje nowπ parÍ úcieøek (èrÛd≥o i Miejsce Docelowe).
+
+[WIERSZ POLECE—]
+/START = Uruchamia synchronizacjÍ (z ostanimi zapisanymi ustawieniami).
+/MINIMIZE = Uruchamia siÍ zminimalizowany do Paska powiadomieÒ.
+/HIDDEN = Nie wyúwietla ikony w Pasku PowiadomieÒ.
+/NOSECURITYCHECK  = Nie dokonuje sprawdzeÒ bezpieczeÒstwa przed synchronizacjπ.
+/NOMONITORCHECK = Nie sprawdza rozdzielczoúci monitora.
+/AUTOREALTIME = Uruchamia siÍ zminilizowany, wykonuje stadardowπ syschronizacjÍ i aktywuje opcjÍ Czasu Rzeczywistego.
+/SOMEFILE.INI  = Uruchamia siÍ przy uøyciu wybranego pliku INI.
+1 Show
+2 Pokaø
+1 Close
+2 Zamknij
+1 You have to start DSynchronize as Administrator to use this option.
+2 Musisz uruchomiÊ DSynchronize jako Administrator, aby uøyÊ tej opcji.
+1 Change ini file...
+2 ZmieÒ plik ini...
+1 Exit without Save Settings	Alt+F5
+2 Wyjdü bez Zapisu UstawieÒ	Alt+F5
+1 Exit	Alt+F4
+2 Wyjúcie	Alt+F4
+1 File
+2 Plik
+1 Options
+2 Opcje
+1 Remember Window Size
+2 ZapamiÍtaj rozmiar okna
+1 Show Summary after sync
+2 Pokaø podsumowanie po zsynchronizowaniu
+1 Close button minimizes window
+2 Przycisk "Zamknij" minimalizuje okno
+1 Hidden mode
+2 Tryb ukryty
+1 Make deletions unrecoverable (slow)
+2 Wykonaj usuniÍcia nieodwracalnie (powolne)
+1 Enable Sound Fx
+2 W≥πcz düwiÍk Fx
+1 Tools
+2 NarzÍdzia
+1 Use multiple log files
+2 Uøyj wielu plikÛw dziennika logÛw
+1 Show Log File
+2 Pokaø Plik Dziennika
+1 Log file don't exists.
+2 Plik dziennika nie istnieje.
+1 Erase Log File
+2 Wymaø Plik Dziennika
+1 Test all Paths
+2 Test wszystkich åcieøek
+1 Find Ini File
+2 Znajdü Plik Ini
+1 Home Page Web
+2 Strona Domowa DSynchronize
+1 Support with donation...
+2 Wsparcie Dotacjπ...
+1 Check for New Version
+2 Sprawdü czy jest Nowa Wersja
+1 A new version is available for Download, do you want go to download page?
+2 Nowa wersja jest dostÍpna do Pobrania, czy chcesz przejúÊ na stronÍ pobierania?
+1 About DSynchronize
+2 O programie DSynchronize
+1 Deleted
+2 UsuniÍto
+1 Added
+2 Dodano
+1 Find file
+2 Znajdü plik
+1 Replaced
+2 Zastπpiono
+1 DSynchronize Scheduler
+2 Harmonogram DSynchronize
+1 Main Selection
+2 G≥Ûwny wybÛr
+1 RealTime Sync Enabled
+2 Synchronizacja Czasu Rzeczywistego W≥πczona
+1 Timer Sync Enabled
+2 Zegar Synchronizacji W≥πczony
+1 Do a first sync immediatly (10 secs after start).
+2 Wykonaj pierwszπ synch. 10 sekund po uruchomieniu zegara.
+1 Day Selection
+2 WybÛr Dnia
+1 Account:
+2 Konto:
+1 Password:
+2 Has≥o:
+1 Start as Service
+2 Uruchom jako Us≥ugÍ
+1 System Account
+2 Konto Systemowe
+1 If they are too many items, reset list
+2 Jeúli jest zbyt wiele pozycji, zresetuj listÍ
+1 Show me again
+2 Pokaø mi ponownie
+1 Are you sure to want delete this Job?
+2 Jesteú pewny, øe chcesz usunπÊ to Zadanie?
+1 home page:
+2 strona domowa:
+1 This software is and will always remain free.
+If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
+2 To oprogramowanie jest i zawsze pozostanie bezp≥atne.
+Jeúli jesteú z niego zadowolony i chcesz pomÛc mi je ulepszyÊ lub zmotywowaÊ do rozwoju jakoúciowego innych programÛw, kaøda niewielka lub wiÍksza dotacja zostanie przyjÍta z wdziÍcznoúciπ.
+1 Do you want to help Dimio and his Cat?
+2 Czy chcesz pomÛc Dimio i jego Kotu?
+1 Do you want to help Dimo to keep up his software?
+2 Czy chcesz pomÛc Dimio w utrzymaniu oprogramowania?
+1 Do you want to help me to improve this program?
+2 Czy chcesz mi pomÛc ulepszyÊ to oprogramowanie?
+1 Do you want to help Dimio to buy a fish for me?
+2 Czy chcesz pomÛc Dimio kupiÊ dla mnie rybÍ?
+1 Show job's window at start
+2 Pokaøe to okno zadaÒ przy starcie
+1 Start sync when the user plugs-in selected drive
+2 Rozpoczyna synchronizacjÍ, gdy uøytkownik pod≥πczy wybrany dysk

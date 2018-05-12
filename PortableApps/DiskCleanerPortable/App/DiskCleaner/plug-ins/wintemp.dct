@@ -1,0 +1,6 @@
+[Info]
+Title=Forced \Windows\Temp
+Description=Removes leftover files in %windir%\temp. Some applications do not use %TEMP%, which is the default.
+
+[files]
+%windir%\temp\*.* /s

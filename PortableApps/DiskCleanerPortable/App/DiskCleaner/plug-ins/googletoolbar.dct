@@ -1,0 +1,11 @@
+[Info]
+Title=Google Tool Bar
+Description=Deletes Google Tool Bar Search History and Pop-up Kills
+
+[files]
+$localappdata%\Google\Local Search History\*.* /s
+
+[registry]
+HKEY_CURRENT_USER|Software\Google\NavClient\1.1\History
+HKEY_CURRENT_USER|Software\Google\NavClient\1.1\Options|KillPopupCount
+

@@ -1,0 +1,47 @@
+FOLDER_OPEN,System
+ITEM,"TCP/IP settings",HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+ITEM,"Winsock2 service",HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinSock2
+FOLDER_CLOSE
+FOLDER_OPEN,"Safer Networking Limited"
+ITEM,Languator,"HKEY_CURRENT_USER\Software\Safer Networking Limited\Editors\Languator"
+ITEM,"Spybot-S&&D LM","HKEY_LOCAL_MACHINE\SOFTWARE\Safer Networking Limited\SpyBotSnD"
+ITEM,"Spybot-S&&D CU","HKEY_CURRENT_USER\Software\Safer Networking Limited\SpybotSnD"
+ITEM,RegAlyzer,"HKEY_CURRENT_USER\Software\Safer Networking Limited\Analysis tools\RegAlyzer"
+ITEM,FileAlyzer,"HKEY_CURRENT_USER\Software\Safer Networking Limited\Analysis tools\FileAlyzer"
+FOLDER_CLOSE
+FOLDER_OPEN,Microsoft
+FOLDER_OPEN,Uninstall
+ITEM,"Uninstall LM",HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+ITEM,"Uninstall CU",HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall
+FOLDER_CLOSE
+FOLDER_OPEN,Run
+ITEM,"RunServices LM",HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices
+ITEM,"RunServices CU",HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices
+ITEM,"RunOnceEx LM",HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx
+ITEM,"RunOnceEx CU",HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnceEx
+ITEM,"RunOnce LM",HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+ITEM,"RunOnce CU",HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
+ITEM,"Run LM",HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+ITEM,"Run CU",HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+FOLDER_CLOSE
+FOLDER_OPEN,Internet
+ITEM,"Toolbar LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Toolbar"
+ITEM,"Toolbar CU","HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Toolbar"
+ITEM,"Menu Extensions LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MenuExt"
+ITEM,"Menu Extensions CU","HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\MenuExt"
+ITEM,"Internet Explorer LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer"
+ITEM,"Internet Explorer CU","HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer"
+ITEM,"Explorer Bars LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Explorer Bars"
+ITEM,"Explorer Bars CU","HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Explorer Bars"
+ITEM,"Code Store Database LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Code Store Database"
+ITEM,"Browser Helper Objects LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects"
+FOLDER_CLOSE
+FOLDER_OPEN,Explorer
+ITEM,"Shell Folders LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders"
+ITEM,"Shell Folders CU","HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders"
+FOLDER_CLOSE
+FOLDER_CLOSE
+ITEM,Test-Dummy,HKEY_CURRENT_USER\Test-Dummy
+ITEM,"Winsock2 parameters",HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WinSock2\Parameters
+ITEM,"Zones LM","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Zones"
+ITEM,MSConfig,"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig"

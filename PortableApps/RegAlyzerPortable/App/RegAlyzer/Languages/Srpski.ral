@@ -1,0 +1,393 @@
+[Dialogs]
+ButtonYes=Da
+ButtonNo=Ne
+ButtonOK=U redu
+ButtonCancel=Otkaži
+ButtonAbort=Prekini
+ButtonRetry=Pokušaj ponovo
+ButtonIgnore=Ignoriši
+ButtonAll=Sve
+ButtonNoToAll=Ne za sve
+ButtonYesToAll=Da za sve
+ButtonHelp=Pomoæ
+DialogTitleWarning=Upozorenje
+DialogTitleError=Greška
+DialogTitleInformation=Informacija
+DialogTitleConfirmation=Potvrda
+DialogTitleCustom=Korisnièki definisano
+
+[Messages]
+MyComputer=Moj raèunar
+WarningComplicatedDataType=RegAlyzer može da doda vrednost za taj tip, ali može da upiše samo u binarnoj formi.%0D%0ALoši podaci mogu da prouzrukuju pad Windows Regedit-a.%0D%0ADa li želite da nastavite?
+ConfirmValueDelete=Da li zaista želite da obrišete ovu vrednost ("%s")?
+ConfirmKeyDelete=Da li zaista želite da obrišete ovaj kljuè ("%s")?
+DialogRenameValueTitle=Preimenuj vrednost ("%s")
+DialogRenameValueCaption=Molimo, unesite nov naziv za ovu vrednost:
+DialogRenameKeyTitle=Preimenuj kljuè ("%s")
+DialogRenameKeyCaption=Molimo, unesite nov naziv za ovaj kljuè:
+DialogNewKeyTitle=Novi kljuè
+DialogNewKeyCaption=Molimo, unesite naziv za novi kljuè:
+DialogNewValueTitle=Nova vrednost
+DialogNewValueCaption=Molimo, unesite naziv za novu vrednost:
+DialogNewValueStringTitle=Nova vrednost niza
+DialogNewValueStringCaption=Molimo, unesite naziv za novu vrednost niza:
+DialogNewValueNumericTitle=Nova numerièka vrednost
+DialogNewValueNumericCaption=Molimo, unesite naziv za novu numerièku vrednost:
+DialogNewValueBinaryTitle=Nova binarna vrednost
+DialogNewValueBinaryCaption=Molimo, unesite naziv za novu binarnu vrednost:
+DialogJumpToKeyTitle=Preði na kljuè
+DialogJumpToKeyCaption=Molimo, unesite kljuè da odete do:
+DialogNewKeyDefault=Novi kljuè
+DialogNewValueDefault=Nova vrednost
+DialogNewValueStringDefault=Novi niz
+DialogNewValueNumericDefault=Nov numerik
+DialogNewValueBinaryDefault=Novi binarni podatak
+DialogValueDefault=(Podrazumevano)
+DialogDataNotDefined=(Podatak nije definisan)
+DialogDataNotSupported=(Tip podatka nije podržan)
+DialogDataBinaryZero=(Binarni podatak nulte dužine)
+DialogDataError=(Greška u èitanju podatka)
+DialogSearchStatus=Pretraživanje %s
+DialogSearchFinished=Pretraživanje je završeno sa %d rezultatima.
+DialogSearchStopped=Zaustavili ste pretraživanje.
+DialogSearchFocusLimited=Pretraga ogranièena na %s.
+DialogSearchFocusAll=Pretraži kompletan registar.
+DialogSearchHighSpeedStatus=Molimo, budite strpljivi...
+RemoteConnectTitle=Poveži se sa udaljenim registrom
+RemoteConnectCaption=Molimo, unesite naziv udaljenog raèunara:
+DialogConfirmImport=Da li zaista želite da uvezete ovu datoteku?
+BookmarkItemDefaultName=Novi obeleživaè
+BookmarkItemAddTitle=Novi naziv obeleživaèa
+BookmarkItemAddCaption=Molimo, unesite naziv za novi obeleživaè:
+BookmarkItemAddLocationTitle=Nova lokacija obeleživaèa
+BookmarkItemAddLocationCaption=Molimo, unesite lokaciju na koju æe da ukazuje novi obeleživaè:
+BookmarkItemRenameTitle=Preimenujte obeleživaè
+BookmarkItemRenameCaption=Molimo, unesite nov naziv za obeleživaè:
+BookmarkItemDeleteCaption=Da li zaista želite da obrišete ovaj obeleživaè?
+BookmarkFolderDefaultName=Nova fascikla
+BookmarkFolderAddTitle=Naziv nove fascikle
+BookmarkFolderAddCaption=Molimo, unesite naziv za novu fasciklu:
+BookmarkFolderRenameTitle=Preimenuj fasciklu
+BookmarkFolderRenameCaption=Molimo, unesite novi naziv za fasciklu:
+BookmarkFolderDeleteCaption=Da li zaista želite da obrišete ovu fasciklu?
+DialogSearchReplaceStatus=%s dogaðaji su zamenjeni.
+ConfirmCopyOverwrite=Vrednost tog naziva ("%s") veæ postoji u destinacionom kljuèu. Da li zaista želite da upišete preko njega?
+DragDropMoveStatus=Premeštam vrednost(i) u %s...
+DragDropCopyStatus=Kopiram vrednost(i) u %s...
+DragDropValueMoveStatus=Premeštam vrednost(i) u %s...
+DragDropValueCopyStatus=Kopiram vrednost(i) u %s...
+DragDropKeyMoveStatus=Premeštam kljuè %s u %s...
+DragDropKeyCopyStatus=kopiram kljuè %s u %s...
+DragDropWrongRootKeyWarning=Ne možete premeštati kljuèeve izmeðu razlièitih korenih kljuèeva (još uvek)!
+RemoteErrorAccessDenied=Nemate odobren pristup do mrežnog resursa.
+RemoteErrorAlreadyAssigned=Taj ureðaj je veæ povezan.
+RemoteErrorBadDevice=Specifikovan ureðaj je nevažeæi.
+RemoteErrorBadNetName=Format mrežnog resursa je nevažeæi.
+RemoteErrorBadProfile=Korisnièki profil je specifikovan u neispravnom formatu.
+RemoteErrorBadProvider=Vaša mrežna adresa se ne poklapa ni sa jednim mrežnim provajderom.
+RemoteErrorBusy=Ruter ili provajder su zauzeti. Molimo, pokušajte ponovo za nekoliko sekundi.
+RemoteErrorInvalidPassword=Pasvord koji ste uneli je nevažeæi za ovaj resurs.
+RemoteErrorNoNetOrBadPath=Mreža nije aktivna ili specifikovana adresa ne može biti korišæena.
+RemoteErrorNoNetwork=Mreža nije dostižna.
+DialogHivesLoaded=%d osipanje registra je pronaðeno i utovareni u HKEY_LOCAL_MACHINE\PE_* i/ili HKEY_USERS\PE_*. Oni æe biti istovarni ponovo pri izlazu iz programa.
+
+[Main]
+LanguageName=Srpski
+Use=Koristi srpski jezik
+HelpFile=Help\English.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Izmeni podatke niza
+formEditInteger=Izmeni numerièke podatke
+formEditMultiString=Izmeni više-nizovne vrednosti
+formSearch=Traži
+formBookmarks=Obeleživaèi
+formAbout=Info
+formEditResourceRequirementsList=Prikaži Listu zahteva izvora
+formRegalyzer=RegAlyzer
+formRemoteConnect=Poveži se sa udaljenim registrom
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Podatak
+tsInfo=Sigurnosne informacije
+tsDatabaseInfo=Info baze podataka
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Naziv%0D%0ATip%0D%0AVrednost%0D%0AVelièina%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formMain.alMain]
+aKeyDelete=&Obriši kljuè
+aKeyAdd=&Novi kljuè
+aKeyRename=&Preimenuj kljuè...
+aValueDelete=&Briši vrednost
+aValueRename=&Preimenuj vrednost...
+aValueChange=&Izmena podataka...
+aKeyCopyPath=Kopiraj naziv kljuèa u ostavu
+aSearch=&Traži...
+aKeyRefresh=&Osveži
+aKeyJump=Preði na kljuè...
+aValueAdd=Novi
+aValueAddString=Niz
+aValueAddExpandString=Niz (sa rezervacijama)
+aValueAddMultiString=Niz (više-linijski)
+aValueAddInteger=Numerièka vrednost (32 bit)
+aValueAddLEInteger=Numerièka vrednost (32 bit, little endian)
+aValueAddBEInteger=Numerièka vrednost (32 bit, big endian)
+aValueAddBinary=Binarni podatak
+aSecurityInformationExportToFile=Izvezi sigurnosne informacije u datoteku...
+aSecurityInformationExportToClipboard=Kopiraj sigurnosne informacija u ostavu
+aFileExit=I&zlaz
+aValueAddInt64=Numerièka vrednost (64 bit)
+aValueAddLEInt64=Numerièka vrednost (64 bit, little endian)
+aBookmarksManage=&Upravljanje obeleživaèima
+aFileOpenReg=&Otvori datoteku registra...
+aKeyExport=&Izvezi...
+aFileConnectReg=Povezivanje sa &udaljenim registrom...
+aKeyImport=&Uvezi...
+aKeyAddBookmark=Dodaj u obeleživaèe...
+aAbout=Više o...
+aValueAddLink=Veza
+aKeyBack=Nazad
+aKeyForward=Napred
+aValueAddResourceList=Lista izvora
+aValueAddFullResourceDescriptor=Potpuni opisivaè izvora
+aValueAddResourceRequirementsList=Lista zahteva izvora
+aInfoDBRefreshEntry=Osveži
+aInfoDBStoreEntry=Snimi
+aInfoDBSaveKeyInfo=Saèuvaj informacije kljuèa
+aInfoDBSaveValueInfo=Saèuvaj informaciju vrednosti
+aHelpContents=Sadržaj
+aHelpIndex=Indeks
+aMenuHelp=Pomoæ
+aValueAddNone=Nijedan (prazan tip)
+aValueSelectAll=Selektuj sve
+aSecurityInformationGrantAll=Dozvoli sva prava svima za ovaj kljuè
+
+[formMain.menuMain]
+miFile=&Datoteka
+miEdit=&Uredi
+miBookmarks=&Obeleživaèi
+miLanguages=&Jezici
+miHelp=&Pomoæ
+
+[formEditString]
+labelValue=Naziv vrednosti:
+labelData=Vrednost podatka:
+bnOK=U redu
+bnCancel=Otkaži
+
+[formEditInteger]
+labelDataDecimal=Vrednost (decimalno):
+labelValue=Naziv vrednosti:
+labelDataHex=Vrednost (hex):
+labelDataBinary=Vrednost (binarno):
+bnCancel=Otkaži
+bnOK=U redu
+
+[formEditMultiString]
+labelValue=Naziv vrednosti:
+labelData=Vrednost podatka:
+bnCancel=Otkaži
+bnOK=U redu
+
+[formSearch]
+bnCancel=Otkaži
+bnSearch=Traži
+bnStop=Stop
+
+[formSearch.pcSearch]
+tsCriteria=Kriterijum pretraživanja
+tsResults=Rezultati
+tsByDate=... po datumu
+tsReplace=Zameni
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=Pretraga &za:
+groupSearchFocus=Fokus pretrage
+groupSearchRange=Opseg pretrage
+groupSearchMisc=Raznovrsne opcije
+groupSearchDataTypes=Tipovi podataka
+labelSearchStyle=Stil &pretrage:
+cbSearchStyle.Items=Prosta pretraga podnizova%0D%0APomoænim znakovima (*, ?)%0D%0ALogièko traženje (AND, OR, NOT)%0D%0ARegularan izraz%0D%0A
+cbSearchStyle=Prosta pretraga podnizova
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=&Kljuèevi
+cbFocusValues=&Vrednosti
+cbFocusData=&Podaci
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=Ovaj kljuè &samo
+rbRangeComplete=&Ceo registar
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Ignoriši sluèaj
+cbHighSpeed=Brzo pretraživanje
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=&Nizovi
+cbDataTypeNumerics=&Numerici
+cbDataTypeBinary=&Binarni podaci
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Kjluè%0D%0AVrednost%0D%0APodatak%0D%0A
+
+[formBookmarks]
+bnOK=U redu
+bnCancel=Otkaži
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Dodaj obeleživaè...
+aBookmarkRename=Preimenuj obeleživaè...
+aBookmarkDelete=Obriši obeleživaè
+aFolderAdd=Dodaj fasciklu...
+aFolderRename=Preimenuj fasciklu...
+aFolderDelete=Obriši fasciklu
+aSortOneLevel=Razvrstaj jedan nivo
+aSortRecursive=Razvrstaj rekurzive
+aFolderExportOneLevel=Izvezi jedan nivo
+aFolderExportRecursive=Izvezi rekurzive
+
+[formAbout]
+Label1=Copyright © 2000-2007 Safer-Networking Limited. Sva prava su zadržana.
+bnOK=U redu
+memoCredits=Zahvaljujem se: %0D%0AEnrico Maria Biancarelli (suggestions, italian translation)%0D%0AAndrey V. Sorokin (code for regular expressions)%0D%0AHevesi János (magyar translation)%0D%0AQuan Qi Tang (chinese simplified translation)%0D%0Aliwk (chinese traditional translation)%0D%0AnickW (french translation)%0D%0ADavid (spanish translation)%0D%0ASrðan Stevanoviæ (serbian translation)
+labelCopyright=Copyright © 2000-2007 Safer-Networking Limited.
+labelCopyright2=Sva prava su zadržana.
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Tip interfejsa:
+labelBusNumber=Broj sabirnice:
+labelSlotNumber=Broj prikljuèka:
+bnCancel=Otkaži
+bnOK=U redu
+lvList.Items=Tip%0D%0AMinimalna adresa%0D%0AMaksimalna adresa%0D%0ADužina%0D%0APoravnanje%0D%0AOpcije%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000000000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD0707070707070707070707070707FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360C000000000000360000002800000020000000200000000100180000000000000C0000C40E0000C40E00000000000000000000FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFC0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0FF00FFFF00FFFF00FFC0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0FF00FFFF00FFFF00FFC0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0FF00FFFF00FFFF00FFC0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0FF00FFFF00FFFF00FFC0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0FF00FFFF00FFFF00FFC0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0FF00FFFF00FFFF00FFC0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0FF00FFFF00FFFF00FFC0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF
+
+[formSearch.pcSearch.tsByDate]
+Label1=Traži &kljuèeve koji su
+Label2=i
+cbByDateMode.Items=bilo kog datuma.%0D%0Anovije od:%0D%0Astarije od:%0D%0Aizmeðu:%0D%0Aizvan opsega:%0D%0A
+labelByDate=Traži &kljuèeve koji su
+labelByDateAnd=i:
+labelByDateOSInfo=Ovaj kriterijum pretraživanja je jedino moguæ na Windows NT, Windows 2000 i Windows XP sistemima. Windows 9x i Windows ME ne podržavaju datume kljuèeva registra.
+dtDate1=14.08.2003
+dtTime1=14.08.2003
+dtTime2=14.08.2003
+dtDate2=14.08.2003
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Podatak
+tsInfo=Sigurnosna informacija
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Naziv%0D%0ATip%0D%0AVrednost%0D%0AVelièina
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formRegalyzer.alMain]
+aKeyDelete=&Obriši kljuè
+aKeyAdd=&Novi kljuè...
+aKeyRename=&Preimenuj kljuè...
+aValueDelete=&Obriši vrednost
+aValueRename=&Preimenuj vrednost...
+aValueChange=&Promena podataka...
+aKeyCopyPath=Kopiraj naziv kljuèa u ostavu
+aSearch=&Traži...
+aKeyRefresh=&Osveži
+aKeyJump=Preði na kljuè...
+aValueAdd=Novi
+aValueAddString=Niz
+aValueAddExpandString=Niz (sa rezervacijama)
+aValueAddMultiString=Niz (više-linijski)
+aValueAddInteger=Numerièka vrednost (32 bit)
+aValueAddLEInteger=Numerièka vrednost (32 bit, little endian)
+aValueAddBEInteger=Numerièka vrednost (32 bit, big endian)
+aValueAddBinary=Binarni podaci
+aSecurityInformationExportToFile=Izvezi sigurnosne informacije u datoteku...
+aSecurityInformationExportToClipboard=Kopiraj sigurnosne informacija u ostavu
+aFileExit=I&zlaz
+aValueAddInt64=Numerièka vrednost (64 bit)
+aValueAddLEInt64=Numerièka vrednost (64 bit, little endian)
+aBookmarksManage=&Upravljanje obeleživaèima
+aFileOpenReg=&Otvori datoteku registra...
+aKeyExport=&Izvezi...
+aFileConnectReg=Povezivanje sa &udaljenim registrom...
+aKeyImport=&Uvezi...
+aKeyAddBookmark=Dodaj u obeleživaèe...
+aAbout=Više o...
+aValueAddLink=Veza
+aKeyBack=Nazad
+aKeyForward=Napred
+aValueAddResourceList=Lista izvora
+aValueAddFullResourceDescriptor=Potpuni opisivaè izvora
+aValueAddResourceRequirementsList=Lista zahteva izvora
+
+[formRegalyzer.menuMain]
+miFile=&Datoteka
+miEdit=&Uredi
+miBookmarks=&Obeleživaè
+miLanguages=&Jezici
+miHelp=&?
+
+[formSearch.alSearch]
+aSearchResultsExport=Izvezi...
+aSearchResultsExportAll=&Izvezi sve...
+aSearchResultsExportSelected=Izvezi &samo selektovane...
+aSearchResultsSelectAll=&Selektuj sve
+aSearchResultsDeSelectAll=&Ukloni selektore
+aSearchResultsSelectKeys=Selektuj rezultate kljuèeva
+aSearchResultsDeSelectKeys=Ukloni selektore rezultata kljuèeva
+aSearchResultsSelectValues=Selektuj rezultate vrednosti
+aSearchResultsDeSelectValues=Ukloni selektore rezultata vrednosti
+aSearchResultsSelectData=Selektuj rezultate podataka
+aSearchResultsDeSelectData=Ukloni selektore rezultata podataka
+aSearchResultsExportKeyContents=Opcija: Izvezi takoðe i sadržaje rezultata kljuèeva
+aReplace=&Zameni
+aSearchStart=Traži
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Informacija o kljuèu:
+labelInfoDBValue=Informacija o vrednosti:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRemoteConnect]
+labelNamePrompt=Molimo, unesite naziv udaljenog raèunara:
+bnOK=U redu
+bnCancel=Otkaži
+bnSearch=&Traži
+labelRemoteInfo=Upozorenje: Povezivanje sa udaljenim registrom je moguæe jedino ako je na udaljenom raèunaru instaliran Windows NT, 2000 or XP, ili Windows ME i ako je aktivan servis za daljinsko povezivanje.
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Molimo, odaberite upise koji æe biti ukljuèeni u zamenu na Resultati tab-u. Zamena æe jedino raditi za nazive kljuèeva i vrednosti i podatke nizova.
+labelReplaceSource=Zameni ovo:
+labelReplaceNew=Ovim tekstom:
+groupReplaceMisc=Raznovrsne opcije
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignoriši sluèaj
+cbReplaceOverwrite=Upiši preko postojeæih
+cbReplaceOverwriteValues=Upiši preko postojeæih vrednosti
+cbReplaceOverwriteKeys=Upiši preko postojeæih kljuèeva
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Nije dostupno u BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Nije dostupno u BartPE
+

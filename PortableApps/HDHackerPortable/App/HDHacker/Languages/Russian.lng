@@ -1,0 +1,46 @@
+1 Sector image
+2 Образ сектора
+1 About
+2 ?
+1 Drive to operate
+2 Диск для операций
+1 Select sector
+2 Выбор сектора
+1 Read commands
+2 Команды считывания
+1 Write commands
+2 Команды записи
+1 Logical Drive (BootSector)
+2 Логический (BootSector)
+1 Logical Drive
+2 Логический диск
+1 Physical Drive (MBR)
+2 Физический (MBR)
+1 Physical Drive
+2 Физический диск
+1 First sector (BootSector)
+2 Первый сектор (Bootsektor)
+1 First sector (MBR)
+2 Первый сектор(MBR)
+1 Specify a Sector
+2 Укажите сектор
+1 Number of continuous sectors to read:
+2 Число секторов для чтения
+1 Read sector from disk
+2 Чтение сектора с диска
+1 Load sector from file
+2 Загрузить из файла
+1 Save sector to File
+2 Сохранить сектор в файл
+1 Write sector on Disk
+2 Записать сектор на диск
+1 The first sector of a Physical Drive is the Master Boot Record (MBR)
+2 Первый сектор физического диска это Master Boot Record (MBR)
+1 The first sector of a Logical Drive is the Boot sector
+2 Первый сектор логического диска - загрузочный сектор
+1 Sector read
+2 Чтение сектора
+1 Impossible to read sector on the disk
+2 Невозможно считать сектор с диска
+1 HDHacker (By Dimio)
+2 HDHacker (от Dimio)

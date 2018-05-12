@@ -1,0 +1,382 @@
+[Dialogs]
+ButtonYes=Ja
+ButtonNo=Nej
+ButtonOK=O.K
+ButtonCancel=Luk
+ButtonAbort=Luk
+ButtonRetry=Prøv igen
+ButtonIgnore=Ignorer
+ButtonAll=Alle
+ButtonNoToAll=Nej til alt
+ButtonYesToAll=Ja til alt
+ButtonHelp=Hjælp
+DialogTitleWarning=Advarsel
+DialogTitleError=Fejl
+DialogTitleInformation=Information
+DialogTitleConfirmation=Bekræftelse
+DialogTitleCustom=Custom
+
+[Messages]
+MyComputer=Min computer
+WarningComplicatedDataType=RegAlyzer kan tilføje en værdi af denne typem men kan kun redigere i binære form.%0D%0ADårlig data kan være skyld af at Windows Registreringsdatabsen står af.%0D%0AVil du fortsætte?
+ConfirmValueDelete=Vil du virkelig slette denne værdi ("%%s")?
+ConfirmKeyDelete=Vil du virkelig slette denne nøgle ("%%s")?
+DialogRenameValueTitle=Omdøb værdi ("%%s")
+DialogRenameValueCaption=Skriv venligst et navn for denne værdi
+DialogRenameKeyTitle=Omdøb nøgle ("%%s")
+DialogRenameKeyCaption=Skriv venligst et navn til denne nøgle
+DialogNewKeyTitle=Ny nøgle
+DialogNewKeyCaption=Skriv venligst et navn til den nye nøgle
+DialogNewValueTitle=Ny værdi
+DialogNewValueCaption=Skriv venligst et navn til den nye værdi
+DialogNewValueStringTitle=Ny streng værdi
+DialogNewValueStringCaption=Skriv venligst et navn til den streng værdi:
+DialogNewValueNumericTitle=Ny numerisk værdi
+DialogNewValueNumericCaption=Skriv venligst et navn til den nye numeriske værdi:
+DialogNewValueBinaryTitle=Ny binære værdi
+DialogNewValueBinaryCaption=Skriv venligst et navn til den nye binære værdi
+DialogJumpToKeyTitle=Hop til nøgle
+DialogJumpToKeyCaption=Skriv venligst en nøgle at gå til:
+DialogNewKeyDefault=Ny nøgle
+DialogNewValueDefault=Ny værdi
+DialogNewValueStringDefault=Ny streng
+DialogNewValueNumericDefault=Ny numerisk
+DialogNewValueBinaryDefault=Ny binære data
+DialogValueDefault=(Standard)
+DialogDataNotDefined=(Data er ikke defineret)
+DialogDataNotSupported=(Data typen er ikke understøttet)
+DialogDataBinaryZero=(Binær data uden længde)
+DialogDataError=(Fejl under læsning af data)
+DialogSearchStatus=Søger %%s
+DialogSearchFinished=Søgningen er færdig med følgende %%d resultater
+DialogSearchStopped=Du har stoppet søgningen.
+DialogSearchFocusLimited=Søgning indsnævret til %%s.
+DialogSearchFocusAll=Søg gennem hele registeret.
+DialogSearchHighSpeedStatus=vent venligst...
+RemoteConnectTitle=Forbind til remote registeret
+RemoteConnectCaption=Skriv venligst et navn til remote computeren:
+DialogConfirmImport=Vil du virkelig importere denne fil?
+BookmarkItemDefaultName=Nye bogmærke
+BookmarkItemAddTitle=Nye bogmærkes navn
+BookmarkItemAddCaption=Skriv venligst navnet på det nye bogmærke:
+BookmarkItemAddLocationTitle=Nye bogmærkes placering
+BookmarkItemAddLocationCaption=Skriv venligst placeringen det nye bogmærke skal pege på
+BookmarkItemRenameTitle=Omdøb bogmærket
+BookmarkItemRenameCaption=Skriv venligst et nyt navn til bogmærket:
+BookmarkItemDeleteCaption=Vil du virkelig slette dette bogmærke?
+BookmarkFolderDefaultName=Ny mappe
+BookmarkFolderAddTitle=Den nye mappes navn
+BookmarkFolderAddCaption=Venligst skriv navnet på den nye mappe:
+BookmarkFolderRenameTitle=Omdøb folder
+BookmarkFolderRenameCaption=Venligst skriv navnet til den nye mappe:
+BookmarkFolderDeleteCaption=Vil du virkelig slette denne mappe?
+DialogSearchReplaceStatus=%%s hændelser er blevet erstattet.
+ConfirmCopyOverwrite=En værdi af det navn ("%%s") eksisterer allerede i din destinations nøgle.Vil du virkelig overskrive det?
+DragDropMoveStatus=Flytter værdi(er) til %%s...
+DragDropCopyStatus=Kopier værdi(er) til %%s...
+DragDropValueMoveStatus=Flytter værdi(er) til %%s...
+DragDropValueCopyStatus=Kopier værdi(er) til %%s...
+DragDropKeyMoveStatus=Flytter nøgle %%s til %%s...
+DragDropKeyCopyStatus=Kopier nøgle %%s til %%s...
+DragDropWrongRootKeyWarning=Du kan ikke flytte nøgler mellem forskellige nøgle rode (endnu)!
+RemoteErrorAccessDenied=Du har ikke adgang til netværks ressourcen
+RemoteErrorAlreadyAssigned=Apparatet er allerede forbundet
+RemoteErrorBadDevice=Det specifikke apparat er ugyldig
+RemoteErrorBadNetName=Netværket ressource formatet er ugyldig.
+RemoteErrorBadProfile=Bruger profilen var specificeret i et ukorrekt format.
+RemoteErrorBadProvider=Din netværks adresse matcher ikke nogen netværks leverandør.
+RemoteErrorBusy=Routeren eller leverandøren er optaget. Prøv venligst igen om et par sekunder.
+RemoteErrorInvalidPassword=Passwordet du skrev er ugyldig til dene ressource
+RemoteErrorNoNetOrBadPath=Netværket er ikke blevet startet eller den indtastede adresse kan ikke bruges
+RemoteErrorNoNetwork=Netværket er ikke til rådighed
+
+[Main]
+LanguageName=Dansk
+Use=Brug dansk sprog
+HelpFile=Help\English.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Ændre streng data
+formEditInteger=Ændre numerisk data
+formEditMultiString=Ændre multi-streng værdi
+formSearch=Søg
+formBookmarks=Bogmærker
+formAbout=Information
+formEditResourceRequirementsList=Vis Ressourcer kravs liste
+formRegalyzer=RegAlyzer
+formRemoteConnect=Forbind til remote register
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Data
+tsInfo=Sikkerheds information
+tsDatabaseInfo=Informations database
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Navn%0D%0AType%0D%0AVærdi%0D%0AStørrelse%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formMain.alMain]
+aKeyDelete=&Slet nøgle
+aKeyAdd=&Ny nøgle...
+aKeyRename=&Omdøb nøgle...
+aValueDelete=&Slet værdi
+aValueRename=&Omdøb værdi...
+aValueChange=&Ændre data...
+aKeyCopyPath=Kopier nøgle navn til udklipsholder
+aSearch=&Søg...
+aKeyRefresh=&Opdater
+aKeyJump=Hop til nøgle...
+aValueAdd=Ny
+aValueAddString=Streng
+aValueAddExpandString=Streng (med placeholders)
+aValueAddMultiString=Streng (multi-linje)
+aValueAddInteger=Numerisk værdi (32 bit)
+aValueAddLEInteger=Numerisk værdi (32 bit, lille endian)
+aValueAddBEInteger=Numerisk værdi (32 bit,store endian)
+aValueAddBinary=Binære data
+aSecurityInformationExportToFile=Eksporter sikkerheds information til fil...
+aSecurityInformationExportToClipboard=Kopier sikkerheds information til udklipsholder
+aFileExit=Afslut
+aValueAddInt64=Numerisk værdi (64 bit)
+aValueAddLEInt64=Numerisk værdi (64 bit, lille endian)
+aBookmarksManage=&Hold styr på bogmærkerne
+aFileOpenReg=&Åben registrerings fil...
+aKeyExport=&Eksporter...
+aFileConnectReg=Forbind til &remote register...
+aKeyImport=&Importer...
+aKeyAddBookmark=Tilføj til bogmærker...
+aAbout=Om...
+aValueAddLink=Link
+aKeyBack=Tilbage
+aKeyForward=Fremad
+aValueAddResourceList=Ressourcer liste
+aValueAddFullResourceDescriptor=Fuld ressourcer beskriver
+aValueAddResourceRequirementsList=Ressourcer kravs liste
+aInfoDBRefreshEntry=Opdater
+aInfoDBStoreEntry=Gem
+aInfoDBSaveKeyInfo=Gem nøgle information
+aInfoDBSaveValueInfo=Gem værdi information
+aHelpContents=Indhold
+aHelpIndex=Indeks
+aMenuHelp=Hjælp
+aValueAddNone=Ingen (tom type)
+aValueSelectAll=Vælg alt
+aSecurityInformationGrantAll=Kræv alle rettigheder til alle i den her nøgle
+
+[formMain.menuMain]
+miFile=&Fil
+miEdit=&Redigere
+miBookmarks=&Bogmærker
+miLanguages=&Sprog
+miHelp=&?
+
+[formEditString]
+labelValue=Navn på værdien:
+labelData=Værdi data:
+bnOK=O.K
+bnCancel=Luk
+
+[formEditInteger]
+labelDataDecimal=Værdi data (decimal):
+labelValue=Navn på værdien:
+labelDataHex=Værdi data (hex):
+labelDataBinary=Værdi data (binære):
+bnCancel=Luk
+bnOK=O.K
+
+[formEditMultiString]
+labelValue=Navn på værdien:
+labelData=Værdi data:
+bnCancel=Luk
+bnOK=O.K
+
+[formSearch]
+bnCancel=Luk
+bnSearch=Søg
+bnStop=Stop
+
+[formSearch.pcSearch]
+tsCriteria=Søge kriterier
+tsResults=Resultater
+tsByDate=... efter dato
+tsReplace=Erstat
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=Søg &efter:
+groupSearchFocus=Søge fokus
+groupSearchRange=Søge område
+groupSearchMisc=Diverse muligheder
+groupSearchDataTypes=Data typer
+labelSearchStyle=Søg &Stil:
+cbSearchStyle.Items=Simpel substrengs søgning%0D%0AWildcard søg (*, ?)%0D%0ABoolean søg (OG, ELLER, IKKE)%0D%0ARegulære måder%0D%0A
+cbSearchStyle=Simpel substrengs søgning
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=&Nøgler
+cbFocusValues=&Værdier
+cbFocusData=&Data
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=Denne nøgle &kun
+rbRangeComplete=&Hele registeret
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Ignorerings sag
+cbHighSpeed=Høj hastigheds søgning
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=&Streng
+cbDataTypeNumerics=&Numerisk
+cbDataTypeBinary=&Binære data
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Nøgle%0D%0AVærdi%0D%0AData%0D%0A
+
+[formBookmarks]
+bnOK=O.K
+bnCancel=Luk
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Tilføj bogmærke
+aBookmarkRename=Omdøb bogmærke...
+aBookmarkDelete=Slet bogmærke
+aFolderAdd=Tilføj mappe...
+aFolderRename=Omdøb mappe...
+aFolderDelete=Slet mappe
+aSortOneLevel=Sorter et niveau
+aSortRecursive=Sorter rekursive
+aFolderExportOneLevel=Eksporter et niveau
+aFolderExportRecursive=Eksporter rekursive
+
+[formAbout]
+Label1=Copyright © Alle rettigheder forbeholdes Safer-Networking Limited 2000-2007
+bnOK=O.K
+memoCredits=Mange taktil: Enrico Maria Biancarelli (forslag og italiensk oversættelse). Andrey V. Sorokin (kode til regulære udtalelser). %0D%0AMere bliver tilføjet...%0D%0A
+labelCopyright=Copyright © Alle rettigheder forbeholdes Safer-Networking Limited 2000- 2007
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Interface type:
+labelBusNumber=Bus nummer:
+labelSlotNumber=Slot nummer:
+bnCancel=Luk
+bnOK=O.K
+lvList.Items=Type%0D%0AMinimum Adresse%0D%0AMaksimum Adresse%0D%0ALængde%0D%0AAlign%0D%0AFunktioner%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF9F9F9F9F90707F9F9F9F9F9F9F9FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFDF9F9F9F9F9FFFFF9F9F9F9F9F9F9FDFDF9F9F9F9F90707F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000100000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF9F9F9F9F9F9F9F9F9F907070707F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9FFFFFFFFF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F907070707F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+FF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8FFFFFFFFF9999FFFFFFFFFFFFF8DDDD8888888888999988888888888888DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+
+[formSearch.pcSearch.tsByDate]
+Label1=Søg efter &nøgler der er
+Label2=og
+cbByDateMode.Items=Af en dato.%0D%0Anyere end:%0D%0Aældre end:%0D%0Amellem:%0D%0Audenfor:%0D%0A
+labelByDate=Søg efter &nøgler der er
+labelByDateAnd=og:
+labelByDateOSInfo=Denne søge måd er kun mulige på Windows NT, 2000 & XP systemer. Windows 9x og Windows ME understøtter ujje registrerings nøgle datoer.
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Data
+tsInfo=Sikkerheds information
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Navn%0D%0AType%0D%0AVærdi%0D%0AStørrelse%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0ATekst%0D%0A
+
+[formRegalyzer.alMain]
+aKeyDelete=&Slet nøgle
+aKeyAdd=&Ny nøgle...
+aKeyRename=&Omdøb nøgle...
+aValueDelete=&Slet værdi
+aValueRename=&Omdøb værdi...
+aValueChange=&Ændre data...
+aKeyCopyPath=Kopier nøgle navn til udklipsholder
+aSearch=&Søg...
+aKeyRefresh=&Opdater
+aKeyJump=Hop til nøgle...
+aValueAdd=Ny
+aValueAddString=Streng
+aValueAddExpandString=Streng (med placeholders)
+aValueAddMultiString=Streng (multi-line)
+aValueAddInteger=Numerisk værdi (32 bit)
+aValueAddLEInteger=Numerisk værdi (32 bit, lille endian)
+aValueAddBEInteger=Numerisk værdi (32 bit,store endian)
+aValueAddBinary=Binære data
+aSecurityInformationExportToFile=Eksporter sikkerheds information til fil...
+aSecurityInformationExportToClipboard=Kopier sikkerheds information til udklipsholder
+aFileExit=Afslut
+aValueAddInt64=Numerisk værdi (64 bit)
+aValueAddLEInt64=Numerisk værdi (64 bit, lille endian)
+aBookmarksManage=&Hold styr på bogmærkerne
+aFileOpenReg=&Åben registrerings fil...
+aKeyExport=&Eksporter...
+aFileConnectReg=Forbind til &remote register...
+aKeyImport=&Importer...
+aKeyAddBookmark=Tilføj til bogmærker...
+aAbout=Om...
+aValueAddLink=Link
+aKeyBack=Tilbage
+aKeyForward=Fremad
+aValueAddResourceList=Ressourcer liste
+aValueAddFullResourceDescriptor=Fuld ressourcer beskriver
+aValueAddResourceRequirementsList=Ressourcer kravs liste
+
+[formRegalyzer.menuMain]
+miFile=&Fil
+miEdit=&Redigere
+miBookmarks=&Bogmærker
+miLanguages=&Sprog
+miHelp=&?
+
+[formSearch.alSearch]
+aSearchResultsExport=Eksporter...
+aSearchResultsExportAll=&Eksporter alt...
+aSearchResultsExportSelected=Eksporter valgte &kun...
+aSearchResultsSelectAll=&Vælg alt
+aSearchResultsDeSelectAll=&Afmærk alle
+aSearchResultsSelectKeys=Vælg nøgle resultater
+aSearchResultsDeSelectKeys=Afmærk nøgle resultater
+aSearchResultsSelectValues=Vælg værdi resultater
+aSearchResultsDeSelectValues=Afmærk værdi resultater
+aSearchResultsSelectData=Vælg data resultater
+aSearchResultsDeSelectData=Afmærk data resultater
+aSearchResultsExportKeyContents=Mulighed: Eksporter indholdet af nøgle resultater også
+aReplace=&Erstat
+aSearchStart=Søg
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Nøgle information:
+labelInfoDBValue=Værdi information:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRemoteConnect]
+labelNamePrompt=Venligst skriv navnet på remote computeren:
+bnOK=O.K
+bnCancel=Luk
+bnSearch=&Søg
+labelRemoteInfo=Husk: Forbindelse til en remote register vil kun virke hvis remote computeren bruger Windows NT, 2000, ME eller XP. Hvis remote servicen kører.
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Venligst vælg registreringer som skulle inkluderes i erstatningen på Resultats tab. Erstat vil kun virke til nøgler og værdi navne og streng data.
+labelReplaceSource=Erstat dette:
+labelReplaceNew=Med denne tekst:
+groupReplaceMisc=Diverse muligheder
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Ignorer sag
+cbReplaceOverwrite=Overskriv eksisterende
+cbReplaceOverwriteValues=Overskriv eksisterende værdier
+cbReplaceOverwriteKeys=Overskriv eksisterende nøgler
+

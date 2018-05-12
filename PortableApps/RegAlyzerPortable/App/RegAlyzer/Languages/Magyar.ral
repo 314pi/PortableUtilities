@@ -1,0 +1,401 @@
+[Dialogs]
+ButtonAbort=Megszakítás
+ButtonAll=Összes
+ButtonCancel=Mégsem
+ButtonHelp=Súgó
+ButtonIgnore=Kizárás
+ButtonNo=Nem
+ButtonNoToAll=Egyiket sem
+ButtonOK=OK
+ButtonRetry=Újra
+ButtonYes=Igen
+ButtonYesToAll=Igen, mindet
+DialogTitleConfirmation=Megerõsítés
+DialogTitleCustom=Egyéni
+DialogTitleError=Hiba
+DialogTitleInformation=Információ
+DialogTitleWarning=Figyelmeztetés
+
+[formAbout]
+bnOK=OK
+Label1=Copyright © 2000-2007 Safer-Networking Limited. Minden jog fenntartva.
+labelCopyright=Copyright © 2000-2007 Safer-Networking Limited.Minden jog fenntartva.
+labelCopyright2=Minden jog fenntartva.
+memoCredits=Köszönetek: %0D%0AEnrico Maria Biancarelli (ötletek, olasz fordítás)%0D%0AAndrey V. Sorokin (reguláris kifejezés kód)%0D%0AHevesi János (magyar fordítás)%0D%0AQuan Qi Tang (egyszerûsített kínai fordítás)%0D%0Aliwk (tradicionális kínai fordítás)%0D%0AnickW (francia fordítás)%0D%0ADavid (spanyol fordítás)%0D%0ANelson A. H. de Carvalho (brazil fordítás)%0D%0APep Isern (katalán fordítás)%0D%0AKristian Christensen (dán fordítás)%0D%0AHeppocrates Giakoumis (görög fordítás)%0D%0ABartosz Czerwinski (lengyel fordítás)%0D%0A
+
+[formBookmarks]
+bnCancel=Mégsem
+bnOK=OK
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Hozzáadás
+aBookmarkDelete=Törlés
+aBookmarkRename=Átnevezés
+aFolderAdd=Mappa hozzáadása
+aFolderDelete=Mappa törlése
+aFolderExportOneLevel=Egy szint export
+aFolderExportRecursive=Rekurzív export
+aFolderRename=Mappa átnevezése
+aSortOneLevel=Egy szint rendezés
+aSortRecursive=Rekurzív rendezés
+
+[formEditInteger]
+bnCancel=Mégsem
+bnOK=OK
+labelDataBinary=Érték (bináris):
+labelDataDecimal=Érték (decimális):
+labelDataHex=Érték (hexadecimális):
+labelValue=Azonosítónév:
+
+[formEditMultiString]
+bnCancel=Mégsem
+bnOK=OK
+labelData=Érték:
+labelValue=Azonosítónév:
+
+[formEditResourceRequirementsList]
+bnCancel=Mégsem
+bnOK=OK
+labelBusNumber=Busz száma:
+labelInterfaceType=Interface típusa:
+labelSlotNumber=Slot száma:
+lvList.Items=Típus%0D%0AMinimum Cím%0D%0AMaximum Cím%0D%0AHossz%0D%0AIgazítás%0D%0ABeállítások%0D%0A
+
+[formEditString]
+bnCancel=Mégsem
+bnOK=OK
+labelData=Érték:
+labelValue=Azonosítónév:
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.alMain]
+aAbout=Névjegy
+aBookmarksManage=Könyvjelzõk szerkesztése
+aFileConnectReg=Kapcsolódás a távoli registryhez
+aFileExit=Kilépés
+aFileOpenReg=Registry fájl megnyitása
+aHelpContents=Tartalom
+aHelpIndex=Index
+aInfoDBRefreshEntry=Frissítés
+aInfoDBSaveKeyInfo=Frissítés
+aInfoDBSaveValueInfo=Tárolás
+aInfoDBStoreEntry=Tárolás
+aKeyAdd=Új kulcs
+aKeyAddBookmark=Hozzáadás a Könyvjelzõkhöz
+aKeyBack=Vissza
+aKeyCopyPath=Kulcs név másolása a Vágólapra
+aKeyDelete=Kulcs törlése
+aKeyExport=Export
+aKeyForward=Elõre
+aKeyImport=Import
+aKeyJump=Ugrás a kulcshoz
+aKeyRefresh=Frissítés
+aKeyRename=Kulcs átnevezése
+aMenuHelp=?
+aSearch=Keresés
+aSecurityInformationExportToClipboard=Biztonsági információ másolása a Vágólapra
+aSecurityInformationExportToFile=Biztonsági információ exportálása fájlba
+aSecurityInformationGrantAll=Minden jog engedélyezése mindenkinek ehhez a kulcshoz
+aValueAdd=Új
+aValueAddBEInteger=Numerikus érték (32 bit, big endian)
+aValueAddBinary=Bináris érték
+aValueAddExpandString=Karakterlánc (with placeholders)
+aValueAddFullResourceDescriptor=Teljes erõforrás leíró
+aValueAddInt64=Numerikus érték (64 bit)
+aValueAddInteger=Numerikus érték (32 bit)
+aValueAddLEInt64=Numerikus érték (64 bit, little endian)
+aValueAddLEInteger=Numerikus érték (32 bit, little endian)
+aValueAddLink=Link
+aValueAddMultiString=Karakterlánc (több sor)
+aValueAddNone=Semmi (üres típus)
+aValueAddResourceList=Erõforrás lista
+aValueAddResourceRequirementsList=Erõforrás igény lista
+aValueAddString=Karakterlánc
+aValueChange=Módosítás
+aValueDelete=Törlés
+aValueRename=Átnevezés
+aValueSelectAll=Összes kiválasztása
+aFileDiffOpenReg=Registry fájl megnyitása (&csak a különbség)...
+aKeyJumpToHKCRCLSID=Ugrás a CLSID-hez a HKCR-ben
+aValueJumpToHKCRCLSID=Ugrás a CLSID-hez a HKCR-ben
+
+[formMain.menuMain]
+miBookmarks=Könyvjelzõk
+miEdit=Szerkesztés
+miFile=Fájl
+miHelp=?
+miLanguages=Nyelv
+
+[formMain.panelMain.pcMain]
+tsChangeLogs=Változásnapló
+tsData=Adat
+tsDatabaseInfo=Infó adatbázis
+tsInfo=Biztonsági információ
+
+[formMain.panelMain.pcMain.tsChangeLogs.pcChangeLogs]
+tsChangeLogRedo=Napló visszavonás mégsem
+tsChangeLogUndo=Napló visszavonás
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Név%0D%0ATípus%0D%0AÉrték%0D%0AMéret%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Kulcs információ:
+labelInfoDBValue=Érték információ:
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Nem használható BartPE-ben
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Nem használható BartPE-ben
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.alMain]
+aAbout=Névjegy
+aBookmarksManage=Könyvjelzõk szerkesztése
+aFileConnectReg=Kapcsolódás a távoli registryhez
+aFileExit=Kilépés
+aFileOpenReg=Registry fájl megnyitása
+aKeyAdd=Új kulcs
+aKeyAddBookmark=Hozzáadás a Könyvjelzõkhöz
+aKeyBack=Vissza
+aKeyCopyPath=Kulcs név másolás a Vágólapra
+aKeyDelete=Kulcs törlése
+aKeyExport=Export
+aKeyForward=Elõre
+aKeyImport=Import
+aKeyJump=Ugrás a kulcshoz
+aKeyRefresh=Frissítés
+aKeyRename=Kulcs átnevezése
+aSearch=Keresés
+aSecurityInformationExportToClipboard=Biztonsági információ másolása a Vágólapra
+aSecurityInformationExportToFile=Biztonsági információ exportálása fájlba
+aValueAdd=Új
+aValueAddBEInteger=Numerikus érték (32 bit, big endian)
+aValueAddBinary=Bináris érték
+aValueAddExpandString=Karakterlánc (with placeholders)
+aValueAddFullResourceDescriptor=Teljes erõforrás leíró
+aValueAddInt64=Numerikus érték (64 bit)
+aValueAddInteger=Numerikus érték (32 bit)
+aValueAddLEInt64=Numerikus érték (64 bit, little endian)
+aValueAddLEInteger=Numerikus érték (32 bit, little endian)
+aValueAddLink=Link
+aValueAddMultiString=Karakterlánc (több sor)
+aValueAddResourceList=Erõforrás lista
+aValueAddResourceRequirementsList=Erõforrás igény lista
+aValueAddString=Karakterlánc
+aValueChange=Módosítás
+aValueDelete=Törlés
+aValueRename=Átnevezés
+
+[formRegalyzer.menuMain]
+miBookmarks=Könyvjelzõk
+miEdit=Szerkesztés
+miFile=Fájl
+miHelp=Súgó
+miLanguages=Nyelv
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Adat
+tsInfo=Biztonsági információ
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Név%0D%0ATípus%0D%0AÉrték%0D%0AMéret%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formRemoteConnect]
+bnCancel=Mégsem
+bnOK=OK
+bnSearch=Keresés
+labelNamePrompt=Írja be a távoli számítógép nevét
+labelRemoteInfo=Megjegyzés: A kapcsolódás a távoli registryhez csak akkor lehetséges, ha a távoli gépen  Windows ME, Windows NT, Windows 2000 vagy Windows XP operációs rendszeren a távoli elérés szolgáltatás fut.
+
+[Forms]
+formAbout=Információ
+formBookmarks=Könyvjelzõk
+formEditInteger=32 bites érték szerkesztése
+formEditMultiString=Karakterlánc érték csere
+formEditResourceRequirementsList=Erõforrás igény lista kiírása
+formEditString=Karakterlánc szerkesztése
+formMain=RegAlyzer
+formRegalyzer=RegAlyzer
+formRemoteConnect=Kapcsolódás a távoli registryhez
+formSearch=Keresés
+
+[formSearch]
+bnCancel=Mégsem
+bnSearch=Keresés
+bnStop=Leállítás
+
+[formSearch.alSearch]
+aReplace=Csere
+aSearchResultsDeSelectAll=Összes kijelölés törlése
+aSearchResultsDeSelectData=Adatok kijelölésének megszüntetése
+aSearchResultsDeSelectKeys=Kulcsok kijelölésének megszüntetése
+aSearchResultsDeSelectValues=Értékek kijelölésének megszüntetése
+aSearchResultsExport=Exportálás
+aSearchResultsExportAll=Összes exportálása
+aSearchResultsExportKeyContents=Lehetõség: Az exportált fájl tartalmazza a teljes kulcs tartalmát is
+aSearchResultsExportSelected=Csak a kiválasztott exportálása
+aSearchResultsSelectAll=Összes kijelölése
+aSearchResultsSelectData=Adatok kijelölése
+aSearchResultsSelectKeys=Kulcsok kijelölése
+aSearchResultsSelectValues=Értékek kijelölése
+aSearchStart=Keresés
+
+[formSearch.pcSearch]
+tsByDate=Dátum
+tsCriteria=Keresési feltételek
+tsReplace=Csere
+tsResults=Eredmény
+
+[formSearch.pcSearch.tsByDate]
+cbByDateMode.Items=Bármilyen dátum%0D%0AÚjabb, mint:%0D%0ARégebbi, mint:%0D%0ADátumok között:%0D%0ADátumokon kívül:%0D%0A
+dtDate1=2003.08.14.
+dtDate2=2003.08.14.
+dtTime1=2003.08.14.
+dtTime2=2003.08.14.
+Label1=Keresett kulcs lehet:
+Label2=és
+labelByDate=Keresett kulcs lehet:
+labelByDateAnd=és:
+labelByDateOSInfo=Ez a keresési feltétel csak Windows NT, Windows 2000 és Windows XP operációs rendszeren lehetséges. A Windows 9x és a Windows ME nem támogatja a regisztrációs kulcs dátumát.
+
+[formSearch.pcSearch.tsCriteria]
+cbSearchStyle.Items=Egyszerû karaktersorozat keresés%0D%0AHelyettesítõ karakterrel keresés (*, ?)%0D%0ALogikai keresés (AND, OR, NOT)%0D%0A
+cbSearchStyle=Egyszerû részsorozat keresése
+groupSearchDataTypes=Adat típus
+groupSearchFocus=Keresés típusa
+groupSearchMisc=További beállítások
+groupSearchRange=Keresés helye
+labelSearchFor=Keresett:
+labelSearchStyle=Keresési mód:
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeBinary=Bináris érték
+cbDataTypeNumerics=Szám
+cbDataTypeStrings=Karakterlánc
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusData=Adat
+cbFocusKeys=Kulcs
+cbFocusValues=Azonosítónév
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbHighSpeed=Gyors keresés
+cbIgnoreCase=Karakter
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeComplete=Teljes registryben
+rbRangeKey=Ebben a kulcsban
+
+[formSearch.pcSearch.tsReplace]
+groupReplaceMisc=További beállítások
+labelReplaceLimitations=Írja be a kiválasztott bejegyzés nevét amire cserélni akarja a találatokat az Eredmény táblában. A Csere csak kulcs név, érték név és karakterlánc adat kicserélésekor mûködik.
+labelReplaceNew=Keresett szöveg:
+labelReplaceSource=Cseréli:
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=Betû kizárás
+cbReplaceOverwrite=Meglevõ felülírása
+cbReplaceOverwriteKeys=Meglevõ kulcs felülírása
+cbReplaceOverwriteValues=Meglevõ érték felülírása
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Kulcs%0D%0AAzonosítónév%0D%0AAdat%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000000000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD0202020202020202020202020202FDFD0202020202020202020202020202FDFD0202020202020202020202020202FDFD0202020202020202020202020202FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000000000000000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD02020202020202020202020202020202020202020202020202020202FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+
+[Main]
+FontCharset=1
+FontName=MS Sans Serif
+FontSize=8
+HelpFile=Help\English.chm
+LanguageName=Magyar
+Use=Magyar nyelv használat
+
+[Messages]
+BookmarkFolderAddCaption=Kérem írja be az új könyvjelzõ nevét::
+BookmarkFolderAddTitle=Új mappa neve
+BookmarkFolderDefaultName=Új mappa
+BookmarkFolderDeleteCaption=Biztos törölni akarja a mappát?
+BookmarkFolderRenameCaption=Írja be a mappa új nevét:
+BookmarkFolderRenameTitle=Mappa átnevezése
+BookmarkItemAddCaption=Kérem írja be az új könyvjelzõ nevét:
+BookmarkItemAddLocationCaption=Írja be az Új könyvjelzõ pontos helyét:
+BookmarkItemAddLocationTitle=Új könyvjelzõ helye
+BookmarkItemAddTitle=Új könyvjelzõ neve
+BookmarkItemDefaultName=Új könyvjelzõ
+BookmarkItemDeleteCaption=Biztos törölni akarja ezt a könyvjelzõt?
+BookmarkItemRenameCaption=Kérem írja be könyvjelzõ új nevét:
+BookmarkItemRenameTitle=Könyvjelzõ átnevezése
+ConfirmCopyOverwrite=Az érték neve ("%%s") már létezik a kiválasztott kulcsban. Biztos felül akarja írni?
+ConfirmKeyDelete=Biztos törölni akarja ezt a kulcsot ("%%s")?
+ConfirmValueDelete=Biztos törölni akarja ezt az értéket ("%%s")?
+DialogConfirmImport=Biztos importálni akarja a fájlt?
+DialogDataBinaryZero=(Bináris adat nulla hosszúsággal)
+DialogDataError=(Hiba adat olvasás közben)
+DialogDataNotDefined=(nem beállított érték)
+DialogDataNotSupported=(Adat típus nem támogatott)
+DialogJumpToKeyCaption=Írja be a kulcs nevét:
+DialogJumpToKeyTitle=Ugrás kulcshoz
+DialogNewKeyCaption=Írja be az új kulcs nevét:
+DialogNewKeyDefault=Új kulcs
+DialogNewKeyTitle=Új kulcs
+DialogNewValueBinaryCaption=Írja be az új bináris érték nevét:
+DialogNewValueBinaryDefault=Új bináris adat
+DialogNewValueBinaryTitle=Új bináris érték
+DialogNewValueCaption=Írja be az új értéket:
+DialogNewValueDefault=Új érték
+DialogNewValueNumericCaption=Írja be az új numerikus érték nevét:
+DialogNewValueNumericDefault=Új numerikus
+DialogNewValueNumericTitle=Új numerikus érték
+DialogNewValueStringCaption=Írja be az új karakterlánc nevét:
+DialogNewValueStringDefault=Új karakterlánc
+DialogNewValueStringTitle=Új karakterlánc értéke
+DialogNewValueTitle=Új érték
+DialogRenameKeyCaption=Írja be a kulcs új nevét:
+DialogRenameKeyTitle=Kulcs átnevezése ("%%s")
+DialogRenameValueCaption=Írja be az érték új nevét:
+DialogRenameValueTitle=Érték módosítása ("%%s")
+DialogSearchFinished=A keresés %%d találattal  befejezõdött.
+DialogSearchFocusAll=Keresés a teljes registryben.
+DialogSearchFocusLimited=Keresési korlátok %%s.
+DialogSearchHighSpeedStatus=Kérem várjon...
+DialogSearchReplaceStatus=%%s elem kicserélve.
+DialogSearchStatus=Keresés %%s
+DialogSearchStopped=Leállította a keresést.
+DialogValueDefault=(Alapértelmezett)
+DragDropCopyStatus=Érték(ek) másolása %%s...
+DragDropKeyCopyStatus=Kulcs másolása %%s ide %%s...
+DragDropKeyMoveStatus=Kulcs áthelyezése %%s ide %%s...
+DragDropMoveStatus=Érték(ek) áthelyezése %%s...
+DragDropValueCopyStatus=Érték(ek) másolása %%s...
+DragDropValueMoveStatus=Érték(ek) áthelyezése %%s...
+DragDropWrongRootKeyWarning=Nem lehet áthelyezni a kulcsot az eltérõ kulcs ág miatt!
+MyComputer=Sajátgép
+RemoteConnectCaption=Kérem írja be a távoli számítógép nevét:
+RemoteConnectTitle=Kapcsolódás a távoli registryhez
+WarningComplicatedDataType=A RegAlyzer hozzá tudja adni ezt az érték típust, de módosítani csak bináris formában tudja.%0D%0ANem megfelelõ adat hozzáadása a Regedit vagy az operációs rendszer lefagyását okozhatja.%0D%0ABiztos folytatni akarja?
+RemoteErrorBadDevice=A megadott eszköz érvénytelen.
+RemoteErrorAlreadyAssigned=Az eszköz csatlakoztatva van.
+RemoteErrorNoNetwork=A hálózat nem elérhetõ..
+RemoteErrorInvalidPassword=A beírt jelszó ehhez az erõforráshoz érvénytelen.
+DialogHivesLoaded=%d registry elemek megtalálva és betöltve a  HKEY_LOCAL_MACHINE\PE_* és/vagy HKEY_USERS\PE_* helyre. Kilépés után nem töltõdnek be újra.
+RemoteErrorAccessDenied=Nincs joga elérni a hálózati erõforrást.
+RemoteErrorBadNetName=A hálózat erõforrásának kiterjesztése nem valós.
+RemoteErrorBadProfile=A felhasználói profil specifikációja nem megfelelõ.
+RemoteErrorBadProvider=A hálózati cím nem egyezik meg egyik hálózati szolgáltatóval sem.
+RemoteErrorBusy=A router vagy a szolgáltató foglalt. Kérjük, próbálja meg pár másodperccel késõbb.
+RemoteErrorNoNetOrBadPath=A hálózat nem indult el vagy a megadott cím nem létezik.
+

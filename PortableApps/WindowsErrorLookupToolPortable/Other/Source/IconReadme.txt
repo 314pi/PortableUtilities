@@ -1,0 +1,1 @@
+The included high-res icon in the portable package (not in the app itself) is from the Oxygen icon set, copyright by the Oxygen team and licensed under the GPL (LauncherLicense.txt) and Creative Commons Attribution license.

@@ -1,0 +1,7 @@
+[Info]
+Title=SWiSH 2.0
+Description=Erase Recent Files Of SWiSH 2.0
+Provider=PJF Data
+
+[registry]
+HKEY_CURRENT_USER|Software\DJJ Holdings\SWiSH\Recent File List

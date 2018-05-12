@@ -1,0 +1,6 @@
+[Info]
+Title=CoffeeCup GIF Animator
+Description=Erase Recent Files Of CoffeeCup GIF Animator
+
+[registry]
+HKEY_CURRENT_USER|Software\CoffeeCup Software\GIF Animator\Settings\MRU

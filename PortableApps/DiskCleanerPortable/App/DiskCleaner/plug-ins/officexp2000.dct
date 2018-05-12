@@ -1,0 +1,107 @@
+[Info]
+Title=Office 95, 97, 2000, XP and 2003 Recent Files
+Description=Removes Office 95, 97, 2000, XP and 2003 Recent Files
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\Office\10.0\Access\Settings
+HKEY_CURRENT_USER|Software\Microsoft\Office\9.0\Publisher\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\10.0\PowerPoint\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\FrontPage\Explorer\FrontPage Explorer\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\FrontPage\Explorer\FrontPage Explorer\Recent Page List
+HKEY_CURRENT_USER|Software\Microsoft\FrontPage\Explorer\FrontPage Explorer\Recent Web List
+HKEY_CURRENT_USER|Software\Microsoft\Office\10.0\Excel\Recent Files
+HKEY_CURRENT_USER|Software\Microsoft\Office\10.0\Word\Data|settings
+HKEY_CURRENT_USER|Software\Microsoft\Office\9.0\Access\Settings
+HKEY_CURRENT_USER|Software\Microsoft\Office\9.0\PowerPoint\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\FrontPage\Explorer\FrontPage Explorer\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\FrontPage\Explorer\FrontPage Explorer\Recent Page List
+HKEY_CURRENT_USER|Software\Microsoft\FrontPage\Explorer\FrontPage Explorer\Recent Web List
+HKEY_CURRENT_USER|Software\Microsoft\Office\9.0\Excel\Recent Files
+HKEY_CURRENT_USER|Software\Microsoft\Office\9.0\Word\Data|settings
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Excel\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Common\Open Find\Microsoft Excel\Settings\Open\File Name MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Common\Open Find\Microsoft Excel\Settings\Save As\File Name MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Common\Open Find\Microsoft Word\Settings\Save As\File Name MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Common\Open Find\Microsoft PowerPoint\Settings\Open\File Name MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Common\Open Find\Microsoft PowerPoint\Settings\Save As\File Name MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Word\Data|settings
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru1
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\PowerPoint\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags1
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru2
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags2
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru3
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags3
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru4
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags4
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru5
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags5
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru6
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags6
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru7
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags7
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru8
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags8
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mru9
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Access\Settings|mruflags9
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Common\Open Find\Microsoft Access\Settings\Open\File Name MRU
+HKEY_CURRENT_USER|Software\Microsoft\Word\7.0\Data
+HKEY_CURRENT_USER|Software\Microsoft\Excel\7.0\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\PowerPoint\7.0\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Word\Data|Settings
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Excel\Recent Files
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Common\Open Find\Microsoft Office Word\Settings\Save As\File Name MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Outlook\Office Finder|MRU 1
+HKEY_CURRENT_USER|Software\Microsoft\Office\8.0\Outlook\Office Finder|MRU 3
+HKEY_CURRENT_USER|Software\Microsoft\Office\9.0\Outlook\Office Finder|MRU 1
+HKEY_CURRENT_USER|Software\Microsoft\Office\9.0\Outlook\Office Finder|MRU 3
+HKEY_CURRENT_USER|Software\Microsoft\Office\10.0\Outlook\Office Finder|MRU 1
+HKEY_CURRENT_USER|Software\Microsoft\Office\10.0\Outlook\Office Finder|MRU 3
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Outlook\Office Finder|MRU 1
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Outlook\Office Finder|MRU 3
+
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Common\Internet\Server Cache
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Common\Open Find
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Excel\Recent Files
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\PowerPoint\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Publisher\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Query\Data Sources
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Word\File MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\11.0\Common\Internet|UseRWHlinkNavigation
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Common\HelpViewer\MRU Query
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Common\Open Find
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Excel\File MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\PowerPoint\File MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Publisher\Recent File List
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Word\File MRU
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU1
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU2
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU3
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU4
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU5
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU6
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU7
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU8
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRU9
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate1
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate2
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate3
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate4
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate5
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate6
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate7
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate8
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Access\Settings|MRUDate9
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile1
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile2
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile3
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile4
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile5
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile6
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile7
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile8
+HKEY_CURRENT_USER|Software\Microsoft\Office\12.0\Visio\Application|LastFile9
+
+[files]
+%appdata%\Microsoft\Office\Recent\*.*
+

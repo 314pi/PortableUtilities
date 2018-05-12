@@ -1,0 +1,91 @@
+[0]
+1901=Traducció catalana: Josep Ma Hernández
+
+[1]
+1001=Veure aquests consells durant l'inici mostrarà opcions i característiques que faràn més agradable aquest programa.
+1002=l'us del TABulador et passarà de camp a camp sense usar el ratolí (usa MAJ-TAB per anar enrera)
+
+[2]
+1101=&Fitxer
+1102=&Surt
+1103=&Importa/Exporta
+1104=&Importa Preferits
+1105=&Exporta Preferits
+1120=&Eines
+1121=&Opcions
+1122=Copia &Resultat al Portapapers
+1123=&Mostra Unitats Comuns
+1124=Mostra &Totes les Unitats
+1129=&Recorda Posició i Tamany última finestra
+1130=&Transparència
+1131=&Idioma
+1133=&Xifres Significatives
+1134=&Decimals
+1135=Cientifica &Notació
+1137="e" Introdueix &Exponent
+1138="E" Introdueix &Exponent
+1141=Actualitzacions
+1142=Cerca &Actialitzacions
+1143=Cerca Nova &Versió
+1144=cerca Nou &Fitxer de Conversió
+1145=cerca Nou &Fitxer d'Idioma
+1146=cerca &Actualitzacions durant l'Ininci
+1150=&Editor de conversions
+1151=P&referits
+1152=&Afegir als Preferits
+1153=&Suprimir Preferits
+1154=&Suprimir-ho tot
+1161=T&ot
+1171=&Inverteix
+1181=&Ajuda
+1182=&Contingut
+1183=&Reporta Bug
+1184=&Quant a...
+
+[3]
+1202=&Ok
+1203=&Cancel·la
+1204=&Nou
+1205=&Afegeix
+1206=&Esborra
+1207=&Actualitza
+1208=&Obre
+1211=Credits
+1212=Icones
+1213=Usat amb permis de FOOOD's Icons
+1220=Enter
+1221=Desenvolupat per
+1222=Versió
+1223=Copyright
+1224=Directori d'Instal·lació
+1230=General
+1250=Factor
+1251=&Mostra Fitxer
+1252=Unitat
+1253=-OR- L'Equació requereix espais
+1254=&Categoria
+1255=&Relaciona l'Unitat amb
+
+[4]
+1301=Error
+1302=Existeix
+1303=Vols visitar la web i baixar-te l'última versió?
+1304=Ja tens l'última versió
+1305=Fitxer d'Ajunda no present, vols veure l'ajuda online?
+1306=Nou fitxer de conversio disponible
+1307=Nou fitxer d'idioma file disponible
+1308=Vols posar al dia automaticament el teu fitxer existent?
+1311=No existeix fitxer de conversió
+1312=Per favor, reinstal·la
+1313=Nou Fitxer de Conversió Detectat
+1314=S'ha detectat el següent Fitxer de Conversió 
+1315=Vols usar aquest fitxer?
+1316=El següent Fitxer de Conversió  serà esborrat
+1317=Vols esborrar aquest fitxer?
+1318=Sel·lecciona primer el fitxer de conversio 
+1319=Impossible
+1320=Hi ha una casella d'entrada buida
+1321=Les dues unitats que vols afegir ja existeixen
+1323=Entra el nom del teu Nou Fitxer de Conversió sense extensions
+1324=N'estàs segur?
+1325=Una de les unitats que vols afegir ja existeix en una Categoria diferent

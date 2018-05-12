@@ -1,0 +1,11 @@
+[Info]
+Title=Regedit Recent Key
+Description=Removes Windows' Regedit Recent Key
+Icon=Disk Cleaner.ICO
+Creator=AC
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\Windows\CurrentVersion\Applets\Regedit|LastKey
+
+
+

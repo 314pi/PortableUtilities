@@ -1,0 +1,7 @@
+[Info]
+Title=The Playa
+Description=Erase The Playa's Playlist
+
+
+[registry]
+HKEY_CURRENT_USER|Software\DivXNetworks\ThePlaya|file

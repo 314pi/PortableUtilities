@@ -1,0 +1,238 @@
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize (程序撰写: Dimio)
+1 Sources
+2 来源
+1 C:\Sample 1 Of Source Path
+2 C:\来源路径范例一
+1 C:\Sample 2 Of Source Path
+2 C:\来源路径范例二
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\远程PC\目的路径一
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\远程PC\目的路径二
+1 Destinations
+2 目的
+1 Insert path and then press "Enter"
+2 输入路径并按下"Enter".
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 按下"Enter"可修改路径, "Del"可删除, "PgUp" or "PgDn" 可移上或移下.
+1 Filter
+2 过滤条件
+1 DSynchronize Filter
+2 DSynchronize 过滤条件
+1 Filter settings
+2 过滤条件设定
+1 Do not apply filters to folders
+2 不使用过滤条件的文件夹
+1 Exclusion filter
+2 除外的过滤条件
+1 Inclusion filter
+2 包括的过滤条件
+1 Do not include subfolders on synchronization
+2 同步时不包括子目录
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.dat
+2 使用";"来分开多个过滤条件. 譬如*.exe;*.txt;settings.ini;*.dat
+1 Filter Extended
+2 过滤条件延伸
+1 Jan
+2 1月
+1 May
+2 5月
+1 Jun
+2 6月
+1 Jul
+2 7月
+1 Aug
+2 8月
+1 Sep
+2 9月
+1 Oct
+2 10月
+1 Dec
+2 12月
+1 Exclude files modified before:
+2 排除在之前修改的档案:
+1 Cancel
+2 取消
+1 Select a folder:
+2 选择文件夹:
+1 Browse
+2 浏览
+1 &Add New...
+2 增加新的(&A)...
+1 B&rowse...
+2 浏览(&R)...
+1 &Edit...
+2 编辑(&E)...
+1 &Select all
+2 选择全部(&S)
+1 &Deselect all
+2 去除全部选择(&D)
+1 Se&t filter...
+2 设定过滤条件(&T)...
+1 S&wap paths
+2 交换路径(&W)
+1 Re&move
+2 移除(&M)
+1 About
+2 关于...
+1 DSynchronize About
+2 DSynchronize 关于
+1 Support with a Donation
+2 捐款支持
+1 Make a Donation
+2 捐款
+1 General options
+2 一般选项
+1 Copy only newer files
+2 只复制较新的档案
+1 Update files into destination folder only if source files are more recent
+2 只更新较新的来源档案到目的文件夹.
+1 Bidirectional synchronization
+2 双向同步
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 对于两处同步文件夹采用较新的档案,你将会让两处文件夹拥有相同内容且最新的档案.
+1 Add date to destination folder
+2 加入日期到目的文件夹
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 对目的文件夹名称加入现在日期与时间( 如此"C:\目的"会变成 "C:\目的\2007-09-10 18.30")
+1 Create folder if not exists
+2 如果不存在,建立文件夹
+1 If destination path does not exists it creates a new one
+2 如果目的路径不存在就建立新的路径.
+1 Preview mode
+2 预览模式
+1 Only preview (do not write anything on HD)
+2 仅预览(不对硬盘作任何写入)
+1 Exit at the end
+2 结束后离开
+1 Closes the program at the end of sync
+2 同步结束后关闭程序.
+1 Shutdown at the end
+2 程序结束后关机
+1 Shutdown the system at the end of sync
+2 同步结束后关机.
+1 Save on exit
+2 离开时储存
+1 Saves all current settings on exit (source and destination path too)
+2 离开时储存所有设定.(也包括来源与目的路径)
+1 Save log
+2 储存历史数据
+1 Save log file
+2 储存历史数据文件
+1 Play sound when done
+2 当完成播放音效
+1 Generate a sound advise at the end of syncronization
+2 同步完成产生音效指示.
+1 Special options
+2 特别选项
+1 Antifragmentation
+2 破碎防止
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 减少磁盘破碎,在更换档案前先删除.(更换档案将会变为增加歜)
+1 Ignore path errors
+2 忽略路径错误
+1 If a path (source or destination) does not exists it skips without any error message
+2 如果路径(来源或目的) 不存在, 将略过且没有任何错误讯息.
+1 Backup changes
+2 备份改变
+1 No Backup
+2 没有备份
+1 Timer sync
+2 时间同步
+1 Set/enable timer
+2 使用定时器
+1 DSynchronize Options
+2 DSynchronize 选项
+1 Timer choice
+2 定时器选择
+1 Synchronize every
+2 每次同步
+1 Synchronize at
+2 同步,在
+1 Days choice
+2 日期选择
+1 Synchronize every day
+2 每天同步
+1 Specify the month's days on which to synchronize
+2 指定每月同步日期
+1 Specify the week's days on which to synchronize
+2 指定每周同步日期
+1 Sunday
+2 周日
+1 Monday
+2 周一
+1 Tuesday
+2 周二
+1 Wednesday
+2 周三
+1 Thursday
+2 周四
+1 Friday
+2 周五
+1 Saturday
+2 周六
+1 Realtime sync
+2 实时同步
+1 Real-time syncronization (experimental)
+2 实时同步(实证)
+1 Activation of the Real-Time Synchronization.
+2 实时同步的启动
+1 Execute DSynchronize at system startup
+2 当系统启动时,执行DSynchronize
+1 Autostart
+2 自动启动
+1 Autostart as service...
+2 自动启动为服务...
+1 Execute DSyncronize at system startup as service
+2 系统启动时,经DSynchronize启动为服务
+1 DSyncronize Start As Service
+2 DSynchronize 启动为服务
+1 Install Service
+2 安装服务
+1 Start Service
+2 启动服务
+1 Done
+2 完成
+1 Commands
+2 指令
+1 Synchronize
+2 同步
+1 Pause
+2 暂停
+1 Deleted files
+2 删除档案
+1 Ask before deleting files
+2 删除档案前询问
+1 Do not delete any file
+2 不删除任何档案
+1 Does not delete any file
+2 未删除认一档案
+1 Move files
+2 移动档案
+1 Move files from Source to Destination
+2 从来源移动档案到目的
+1 Added files
+2 增加的档案
+1 Ask before adding files
+2 增加档案前询问
+1 Do not add any file
+2 不增加任何档案
+1 Does not add any new file
+2 不增加任一新档案
+1 Replaced files
+2 被取代的档案
+1 Ask before replacing files
+2 取代档案前询问
+1 Do not replace any file
+2 不取代任何档案
+1 Does not replace any file
+2 不取代任一档案
+1 Synchronization complete.
+2 同步完成
+1 Help
+2 辅助
+1 Show
+2 显示
+1 Close
+2 关闭

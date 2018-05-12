@@ -1,0 +1,14 @@
+height = -12
+width = 0
+escapement = 0
+orientation = 0
+weight = 400
+italic = 0
+underline = 0
+strikeout = 0
+charset = 0
+outprecision = 3
+clipprecision = 2
+quality = 1
+pitchandfamily = 34
+facename = "Tahoma"

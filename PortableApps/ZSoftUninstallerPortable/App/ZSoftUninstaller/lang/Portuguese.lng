@@ -1,0 +1,305 @@
+; PORTUGUESE LANG FILE
+;[00-Translation Info]
+;Date=23-08-2010 [v. 2.5] | 15-08-2007 [v. 2.4] | 03-03-2007 [v. 2.3.4] | 05-12-2006 [v. 2.3.3] | 02-09-2006 [v. 2.3.1]
+;Language=Portuguese-pt
+;Program=ZSoft Uninstaller v. 2.5
+;TranslatorE-Mail=ruimoraisweb@sapo.pt
+;TranslatorName=Rui Morais
+;
+Pretende mesmo ELIMINAR ?
+Existe uma nova versão disponível ! Quer abrir a Página Principal (Website) onde poderá transferir a nova versão ?
+A sua versão é a mais actualizada !
+Algum tipo de erro ocorreu... Tente novamente mais tarde...
+Limpar
+Nome do Programa
+&Ficheiro
+Filt&ros
+F&unções
+&Definições
+&Idioma
+Aju&da
+&Fechar
+Mostrar só entradas inválidas
+&Refrescar a listagem
+Actualizações do programa
+Mostrar linhas de grelha
+Ajuda
+ZSoft Software
+
+&Sobre ...
+Desinstalar
+Eliminar
+Necessário introduzir, pelo menos, 3 caracteres !
+&Exportar listagem
+Ficheiros de texto (*.txt)|*.txt|Todos os ficheiros (*.*)|*.*
+&Desinstalar
+&Eliminar
+Aj&uda
+Mostrar só "crapware"
+Não mostrar entradas ocultadas
+Ocultar
+Filtro de prog. ocultados
+Editar o filtro Prog. Ocultados
+Retirar da lista este programa, para não o ocultar !
+A mostrar %d programas!
+Info ...
+Bem vindo ao ZSoft Uninstaller!\n\nObterá aqui informação das acções que o programa vai efectuando, portanto atenção... ;).\n\nDivirta-se :o)
+A decorrer a desinstalação de '%s'. Favor aguardar...
+'%s' poderá agora ser desinstalado.\n\nA lista foi actualizada !
+Impossível correr o programa de desinstalação de '%s'.
+;
+; ABOUT BOX:
+;
+Sobre ZSoft Uninstaller
+-  S o b r e   -\nUninstaller é um programa leve, pequeno e grátis que mais ou menos tem as \nmesmas características funcionais que tem o Microsoft Windows \n- Uninstaller é mais rápido na execução e de apresentação agradável.\n\nUninstaller foi desenvolvido, principalmente para mim próprio, porque penso\nque a função de desinstalação do Windows XP é bastante ruim de abrir...\n\nLembre-se que a utilização do programa é da sua inteira responsabilidade,\ne o programador não pode ser responsabilizado por perda de dados, etc.!\n\n- A g r a d e c i m e n t o s-\nO programa inclui códigos dos seguintes projectos:\nToolbar2000 & TBX (componentes que permitem a sua aparência aprazível)\nIndy (componentes de conexão à internet)\nWisnu Aribowo (componente para o 'scrolling' do texto desta página)\n\n- C o p y r i g h  N o t i c e -\nThis software is copyright (C) 2004-2005 ZSoft.\n\nPortions of this software are Copyright (c) 1993 - 2003, Chad Z.\nHower (Kudzu) and the Indy Pit Crew - IndyProject.org
+&Fechar
+;
+; New
+;
+Mostrar/Editar Informação
+Ver/Editar Informação
+Nome 
+Valor
+Guardar
+Cancelar
+Modificar
+OK
+Cancelar
+Seleccionar fonte (só na lista)
+&Analisar
+Assistente de Análise da Instalação de Programas
+;
+; The analyze function
+;
+Bem vindo!
+Este assistente irá conduzi-lo no processo em que pode analisar uma instalação ou proceder à completa desinstalação de um programa previamente analisado.
+O que pretende fazer?
+Analisar uma instalação.
+Desinstalar um programa previamente analisado.
+Cancelar
+Próximo>>
+Antes de iniciar a instalação é necessário criar 'uma imagem' do seu computador. Em geral o alvo de análise é o Disco [C:] e o Disco em que instala o programa (se diferente).  Seleccione o Disco(s) que pretende analisar :
+Discos
+Antes da Instalação
+Após a Instalação
+Ficheiros encontrados: 
+Registos encontrados: 
+Tempo estimado: 
+A comparar ... Favor aguardar!
+Introduza o nome da aplicação
+Introduza o nome da aplicação que acabou de instalar.
+ERRO: Ficheiro já existe !
+ERRO: Este nome já existe !  Introduza um nome diferente p/ a aplicação agora instalada.
+Tarefa concluída !  A janela do "Assistente" será encerrada.
+Seleccione da lista dos programas previamente analisados, qual o que pretende desinstalar :
+Agora confirme o seguinte :
+Compreendo que é da exclusiva responsabilidade minha esta acção.
+Compreendo que os ficheiros eliminados não podem ser recuperados.
+Não assacarei responsabildades ao autor por perdas de dados, etc..
+Desinstalar
+Deve seleccionar o programa que pretende desinstalar !
+Necessita de confirmar: 
+Não quero confirmar todas as eliminações. 
+O ficheiro '%s' é novo; quer eliminá-lo?
+Pretende eliminar o Registo de Análise da instalação do programa?
+Quer mesmo eliminar o Registo de Análise da instalação do programa?
+Eliminar o Registo de Análise da instalação do programa?
+Eliminados: 
+A pasta '%s' não poderá ser eliminada - talvez não esteja vazia
+%d ficheiro(s) parece(m) estar eliminado(s) - mas isto não é uma ferramenta de eliminação!
+A Chave de Registo '%s' não está vazia e não será removida !
+Registo da Análise do programa corrompido !
+Desinstalação efectuada !
+Adicionar novo item
+Remover (não é reversível)
+Novo Valor :
+Nome do novo valor :
+Dados do novo valor :
+Tem a certeza que pretende remover este item do registo ?\nTenha presente que esta acção é definitiva !\nPretende continuar ?
+Tem a certeza ?
+Programas Instalados
+Prog. Analisados
+&Fich. Temporários
+Procurar
+Parar
+Procurar no disco:
+Nome do ficheiro
+Extensão
+Localização
+Tamanho
+Procura cancelada pelo utilizador
+A procurar em... :
+Procura concluída
+Eliminar ficheiro(s) - não o(s) pode recuperar mais!
+Tem a certeza?
+Pretende mesmo eliminar este(s) ficheiro(s)? \nTenha presente que esta acção é definitiva!\nPretende continuar?
+A pasta poderá não ter sido eliminada
+A pasta do programa foi instalada em:\n'%s'\nÉ correcto?\nPretende remover definitivamente esta pasta?
+Fazer 'Backup' e Eliminar
+Tem a certeza?
+Esta acção eliminará os ficheiros seleccionados. Poderá todavia recuperá-los mais tarde, se desejar.\nPretende continuar ?
+Backups
+Recuperar
+Renomear
+Escreva o novo nome pretendido :
+Renomear
+Eliminar
+Alguns ficheiros e/ou entradas de Registo não poderam ser eliminados. Será novamente tentado da próxima vez que você abra este programa !
+O ficheiro de Ajuda não foi encontrado !
+Não encontrado
+O valor tem de ser binário !
+O valor tem de ser escolhido, e se binário, ser exactamente isso!
+String
+Valor DWORD
+Binário
+Concluir uma análise que já tinha sido iniciada.
+Ocorreu um erro quando se tentava criar uma pasta. O processo não continuará.
+Erro!
+Mostrar Registo da Análise
+Lista de Ignorados
+Secção
+Localização
+Editar Lista de Ignorados
+Adicionar
+Eliminar
+Secção:
+Localização:
+Procurar
+Esta pasta será ignorada
+Ficheiro
+Registo
+Cancelar
+Adicionar !
+Procurar :
+Prioridade de desinstalação
+Alta
+Normal
+Baixa
+O item já está ignorado !
+Tem de preencher de forma apropriada.
+Definições
+Ignorar a "cache" do Internet.
+Ignorar a "cache" do Firefox.
+Tamanho :
+Criado :
+Modificado :
+Acedido :
+Não mostrar as Actualizações do Windows
+Recuperar todos
+Mostrar só novos programas
+Assinalar novos programas
+Prog. Ocultados
+Pesquisar no Registo
+Eliminar ficheiros para a Reciclagem
+Mostrar ícones ...
+O ficheiro  '%s'  não foi encontrado. Cópia de Segurança (poderá estar) corrompida.
+Guardar como...
+Grandes
+Pequenos
+Não pôde ser eliminado :
+Pasta eliminada :
+Entrada de Registo eliminada :
+Entrada de Registo criada :
+Entrada de Registo NÃO criada :
+Entrada de Registo NÃO eliminada :
+Chave de Registo eliminada :
+Chave Registo criada :
+Chave de Registo NÃO criada :
+Aguarde, por favor ...
+Eliminar para a Reciclagem
+Eliminar o(s) ficheiro(s) para a Reciclagem
+Tem a certeza de que pretende eliminar este(s) ficheiro(s) para a reciclagem?
+Seleccionar tudo
+%d ficheiros encontrados, totalizando %s.
+Ordenar lista por ...
+Nome - crescente
+Nome - decrescente
+Data - crescente
+Data - decrescente
+Remover de Prog. Ocultados
+Editar Registo da Análise
+Sistema de Ficheiros
+Registo
+Editor do Registo de Análise da Instalação do Programa
+Efectuou alterações no Registo de Análise. Pretende guardar estas alterações?
+Pretende gravar as alterações efectuadas?
+Alterar cor do fundo da aba de ...
+Adicionar item à Lista de Ignorados (Função Analisar)
+Nesta janela pode ver (e explorar) as alterações registadas, feitas pela análise da\ninstalação. Pode eliminar itens do registo da análise (um backup será criado, por prevenção),\ne pode adicionar pastas e chaves à Lista de Ignorados - deste modo não serão\nconsideradas em análises futuras.
+Pastas Vazias - Pesquisar
+Procurar por pastas vazias no directório:
+Só pasta principal
+Iniciar Pesquisa
+Pastas
+Pesquisar neste directório
+Remover Seleccionadas
+Ferra&mentas
+Gestor de Inicialização
+Nome
+Caminho do inicializador
+Desactivar
+Activar
+Copiar nome do progr. p/ Área de Transferência
+O texto '%s' foi copiado p/ a Área de Transferência!
+Ocultar Barra de Procura
+O programa %s deverá ser agora desinstalado. Pretende pesquisar por restos da aplicação (sobras de ficheiros/registo)?
+Pesquisar por restos/sobras da aplicação?
+Foram extraídas estas palavras-chave para pesquisa. Pode editar se necessário. Use uma palavra-chave por linha. Para iniciar prima em 'Próximo'.
+Próximo >
+Abrir a Pasta ou o Registo deste item
+Ir p/ o nível acima
+Local
+Tipo
+Caminho
+Valor
+Gestor Pós-Desinstalação
+Nome do Programa
+Efectuar a Pós-Desinstalação do programa seleccionado
+Por
+Versão
+Abrir a Pasta de Instalação
+Alguns ficheiros or entradas do registo não foram removidos ou re-criados. \nPretende guardar estas entradas num novo ficheiro de registo?
+Pretende guardar um novo ficheiro de registo?
+Pesquisar por restos/sobras da aplicação?
+Pesquisador Pós-Desinstalação
+Favor aguardar ...
+Remover
+Tem a certeza?
+Tem a certeza que pretende continuar?
+Opção utilizada, sobretudo, após o PC ter sido reinicializado na sequência do\nrequerido/sugerido pelo instalador do programa.\n\nEm geral, quando já se fez uma análise 'antes da instalação'.
+Para um mais exacto registo, da análise da instalação, é recomendado que\nabra, configure e feche o programa instalado antes de executar a pesquisa 'Após a Instalação'.
+É recomendado que primeiramente desinstale a aplicação com o seu próprio\ndesinstalador (janela principal do ZSoft Uninstaller),\napós o que volta aqui para remover de forma completa.
+Pode ver aqui todas as alterações registadas.\nSe precisa alterar algo, pode seleccionar 'Editar Registo da Análise',\nclicando com o lado direito do rato na janela principal.
+Esta é a lista das aplicações que desinstalou nesta sessão,\nmas não executou ainda a 'Pós-Desinstalação' - para pesquisar por restos/sobras da aplicação.\n\nPara iniciar a Pós-Desinstalação efectue um duplo-clique no nome do programa.\n\nPode também proceder, noutro momento, à pesquisa de restos/sobras do programa desinstalado\nclicando no menu Funções > Gestor Pós-Desinstalação - recomendado em especial\nse o desinstalador próprio da aplicação aconselha reiniciar o PC para completar a desinstalação.
+A Pasta contém demasiados dados
+Está a tentar eliminar a Pasta\n%s\nTodavia, esta pasta contém muitos dados. Tem a certeza de que pretende removê-la?
+Backup de Registos
+Eliminados da lista de Programas Instalados
+Eliminados de 'Pós-Desinstalação'
+Nome
+Tamanho do Backup
+Data de eliminação
+Mostrar dados
+Desinstalador Alternativo
+Desinstalador Silencioso
+Modificar/Reparar
+Desinstalar um Programa Externo
+Programas Nocivos
+Programas Nocivos encontrados
+Pesquisa de Programas Nocivos
+Pesquisa de ficheiros temporários
+Apenas pesquisar pelas palavras/expressões exactamente iguais.
+Tem a certeza ?
+Pretende remover este ficheiro de Backup ?  Se o remover, não mais será capaz de restaurar os dados.
+Remover este 'Backup'
+Tem a certeza ?
+Pretende remover este ficheiro de Pós-Desinstalaçao ?  Se o remover, não mais pesquisará por sobras/restos relativos a este programa.
+Remover este fich. de Pós-Desinstalaçao
+Serão aqui mostrados os resultados da pesquisa.\n\nUtilize o menu do lado direito do rato, para encontrar os dados da Pasta/Registo para uma mais informada decisão, ou para alargar o resultado (indo para um nível acima).\n\nQuando encontrar algo que queira remover, seleccione-o. Uma vez seleccionado os itens a remover prima o botão 'Remover'.\n\nOs Ficheiros e Pastas serão removdos para a Reciclagem, às chaves e valores do Registo será efectuado um 'Backup' e eliminados.\nOs 'Backups' do registo poderão ser restaurados no menu Funções > Backup de Registos.
+Copiar relatório de desinstalação p/ a Área de Transferência
+Faça um Donativo através do Paypal
+Faça um Donativo através do Trialpay
+;
+; NEW STUFF - TRANSLATERS THIS IS WHAT NEEDS TO BE TRANSLATED!
+;
+

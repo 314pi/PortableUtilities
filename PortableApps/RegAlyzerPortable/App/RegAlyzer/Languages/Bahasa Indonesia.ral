@@ -1,0 +1,393 @@
+[Dialogs]
+ButtonYes=Ya
+ButtonNo=Tidak
+ButtonOK=Oke
+ButtonCancel=Batal
+ButtonAbort=Gagal
+ButtonRetry=Retry
+ButtonIgnore=Abaikan
+ButtonAll=Semua
+ButtonNoToAll=Tidak untuk semua
+ButtonYesToAll=Ya untuk semua
+ButtonHelp=Help
+DialogTitleWarning=Peringatan
+DialogTitleError=Eror
+DialogTitleInformation=Informasi
+DialogTitleConfirmation=Konfirmasi
+DialogTitleCustom=Custom
+
+[Messages]
+MyComputer=My Computer
+WarningComplicatedDataType=RegAlyzer dapat memasukan nilai untuk jenis ini, tetapi hanya dapat di edit pada lembar biner.%0D%0AData yang buruk dapat menyebabkan Windows Regedit hang.%0D%0AApakah anda ingin melanjutkan?
+ConfirmValueDelete=Apakah anda sungguh-sungguh ingin menghapus nilai ini ("%s")?
+ConfirmKeyDelete=Apakah anda sungguh-sungguh ingin menghapus kunci ini ("%s")?
+DialogRenameValueTitle=Namai ulang nilai ("%s")
+DialogRenameValueCaption=Silakan masukan nama baru untuk nilai ini:
+DialogRenameKeyTitle=Namai ulang kunci ("%s")
+DialogRenameKeyCaption=Silakan masukan nama baru untuk kunci ini:
+DialogNewKeyTitle=Kunci baru
+DialogNewKeyCaption=Silakan masukan nama untuk kunci baru:
+DialogNewValueTitle=Nilai baru
+DialogNewValueCaption=Silakan masukan nama untuk nilai baru:
+DialogNewValueStringTitle=Nilai string baru
+DialogNewValueStringCaption=Silakan masukan nama untuk nilai string baru:
+DialogNewValueNumericTitle=Nilai numerik baru
+DialogNewValueNumericCaption=Silakan masukan nama untuk nilai numerik baru:
+DialogNewValueBinaryTitle=Nilai biner baru
+DialogNewValueBinaryCaption=Silakan masukan nama untuk nilai biner baru:
+DialogJumpToKeyTitle=Pindah ke kunci
+DialogJumpToKeyCaption=Silakan masukan kunci untuk menuju ke:
+DialogNewKeyDefault=Kunci baru
+DialogNewValueDefault=Nilai baru
+DialogNewValueStringDefault=String baru
+DialogNewValueNumericDefault=Numerik baru
+DialogNewValueBinaryDefault=Data biner baru
+DialogValueDefault=(Default)
+DialogDataNotDefined=(Data belum ditetapkan)
+DialogDataNotSupported=(Jenis data tidak mendukung)
+DialogDataBinaryZero=(Data biner atas jarak nol)
+DialogDataError=(Eror membaca data)
+DialogSearchStatus=Pencarian %s
+DialogSearchFinished=Pencarian selesai dengan %d hasil.
+DialogSearchStopped=Anda telah menghentikan pencarian.
+DialogSearchFocusLimited=Pencarian dibatasi sampai %s.
+DialogSearchFocusAll=Cari registry komplit.
+DialogSearchHighSpeedStatus=Mohon sabar...
+RemoteConnectTitle=Koneksi ke remote registry
+RemoteConnectCaption=Harap masukan nama remote komputer:
+DialogConfirmImport=Apakah anda sungguh-sungguh ingin meng-impor file ini?
+BookmarkItemDefaultName=Bookmark baru
+BookmarkItemAddTitle=Nama bookmark baru
+BookmarkItemAddCaption=Silakan masukan nama untuk bookmark baru:
+BookmarkItemAddLocationTitle=Lokasi bookmark baru
+BookmarkItemAddLocationCaption=Silakan masukan lokasi bookmark baru untuk di tempatkan di:
+BookmarkItemRenameTitle=Namai ulang bookmark
+BookmarkItemRenameCaption=Silakan masukan nama baru untuk bookmark:
+BookmarkItemDeleteCaption=Apakah anda sungguh-sungguh untuk menghapus bookmark ini?
+BookmarkFolderDefaultName=Folder baru
+BookmarkFolderAddTitle=Nama folder baru
+BookmarkFolderAddCaption=Silakan masukan nama untuk folder baru:
+BookmarkFolderRenameTitle=Namai ulang folder
+BookmarkFolderRenameCaption=Silakan masukan nama baru untuk folder:
+BookmarkFolderDeleteCaption=Apakah anda benar-benar ingin menghapus folder ini?
+DialogSearchReplaceStatus=%s kejadian telah ditempatkan kembali.
+ConfirmCopyOverwrite=Nilai nama tersebut ("%s") sudah ada pada kunci tujuan. Apakah anda sungguh-sungguh ingin menulis timpa nya?
+DragDropMoveStatus=Memindahkan nilai-nilai ke %s...
+DragDropCopyStatus=Meng-kopi nilai-nilai ke %s...
+DragDropValueMoveStatus=Memindahkan nilai-nilai ke %s...
+DragDropValueCopyStatus=Meng-kopi nilai-nilai ke %s...
+DragDropKeyMoveStatus=Memindahkan kunci %s ke dalam %s...
+DragDropKeyCopyStatus=Meng-kopi kunci %s ke dalam %s...
+DragDropWrongRootKeyWarning=You cannot move keys between different root keys (yet)!
+RemoteErrorAccessDenied=Anda tidak dapat meng-akses sumber jaringan.
+RemoteErrorAlreadyAssigned=Alat tersebut telah siap di-koneksi.
+RemoteErrorBadDevice=Alat yang ditentukan invalid.
+RemoteErrorBadNetName=Format sumber jaringan invalid.
+RemoteErrorBadProfile=Profil pengguna ditetapkan sebagai format yang salah.
+RemoteErrorBadProvider=Alamat jaringan anda tidak cocok dengan beberapa provider jaringan.
+RemoteErrorBusy=Router atau provider sibuk. Silakan ulangi beberapa detik lagi.
+RemoteErrorInvalidPassword=Password yang anda masukan invalid untuk sumber ini.
+RemoteErrorNoNetOrBadPath=Jaringan belum dimulai atau alamat yang ditentukan tidak dapat digunakan.
+RemoteErrorNoNetwork=Jaringan tidak tampak.
+DialogHivesLoaded=%d penyakit registry telah ditemukan dan dimasukan pada HKEY_LOCAL_MACHINE\PE_* and/or HKEY_USERS\PE_*. Mereka akan di keluarkan kembali ketika program ditutup.
+
+[Main]
+LanguageName=Bahasa Inggris
+Use=Gunakan bahasa Inggris
+HelpFile=Help\English.chm
+FontName=MS Sans Serif
+FontSize=8
+FontCharset=1
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Ubah data string
+formEditInteger=Ubah data numerik
+formEditMultiString=Ubah nilai multi-string
+formSearch=Cari
+formBookmarks=Bookmarks
+formAbout=Info
+formEditResourceRequirementsList=Tampilkan Daftar Sumber yang Diminta
+formRegalyzer=RegAlyzer
+formRemoteConnect=Koneksi ke remote registry
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Data
+tsInfo=Informasi keamanan
+tsDatabaseInfo=Database info
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Nama%0D%0AJenis%0D%0ANilai%0D%0AUkuran%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0ATeks%0D%0A
+
+[formMain.alMain]
+aKeyDelete=&Hapus kunci
+aKeyAdd=Ku&nci baru...
+aKeyRename=&Namai ulang kunci...
+aValueDelete=&Hapus nilai
+aValueRename=&Namai ulang nilai...
+aValueChange=&Ubah data...
+aKeyCopyPath=Kopi nama kunci ke clipboard
+aSearch=&Cari...
+aKeyRefresh=&Refresh
+aKeyJump=Pindah ke kunci...
+aValueAdd=Baru
+aValueAddString=String
+aValueAddExpandString=String (with placeholders)
+aValueAddMultiString=String (multi-line)
+aValueAddInteger=Nilai numerik (32 bit)
+aValueAddLEInteger=Nilai numerik (32 bit, little endian)
+aValueAddBEInteger=Nilai numerik (32 bit, big endian)
+aValueAddBinary=Data biner
+aSecurityInformationExportToFile=Ekspor informasi keamanan ke file...
+aSecurityInformationExportToClipboard=Kopi informasi keamanan ke clipboard
+aFileExit=&Keluar
+aValueAddInt64=Nilai numerik (64 bit)
+aValueAddLEInt64=Nilai numerik (64 bit, little endian)
+aBookmarksManage=&Manage bookmarks
+aFileOpenReg=&Buka file registry...
+aKeyExport=&Ekspor...
+aFileConnectReg=Koneksi ke &remote registry...
+aKeyImport=&Impor...
+aKeyAddBookmark=Masukan ke bookmarks...
+aAbout=Tentang...
+aValueAddLink=Link
+aKeyBack=Kembali
+aKeyForward=Teruskan
+aValueAddResourceList=Daftar Sumber
+aValueAddFullResourceDescriptor=Deskriptor Sumber Penuh
+aValueAddResourceRequirementsList=Daftar Sumber yang Diminta
+aInfoDBRefreshEntry=Refresh
+aInfoDBStoreEntry=Menyimpan
+aInfoDBSaveKeyInfo=Simpan info kunci
+aInfoDBSaveValueInfo=Simpan info nilai
+aHelpContents=Isi
+aHelpIndex=Indeks
+aMenuHelp=Help
+aValueAddNone=Tidak sama sekali (jenis kosong)
+aValueSelectAll=Pilih semua
+aSecurityInformationGrantAll=Tanggung semua hak untuk semua orang pada kunci ini
+
+[formMain.menuMain]
+miFile=&File
+miEdit=&Edit
+miBookmarks=&Bookmarks
+miLanguages=&Bahasa-bahasa
+miHelp=&?
+
+[formEditString]
+labelValue=Nama nilai:
+labelData=Data nilai:
+bnOK=Oke
+bnCancel=Batal
+
+[formEditInteger]
+labelDataDecimal=Data Nilai (desimal):
+labelValue=Nama nilai:
+labelDataHex=Data Nilai (hex):
+labelDataBinary=Data Nilai (biner):
+bnCancel=Batal
+bnOK=Oke
+
+[formEditMultiString]
+labelValue=Nama nilai:
+labelData=Data nilai:
+bnCancel=Batal
+bnOK=Oke
+
+[formSearch]
+bnCancel=Batal
+bnSearch=Cari
+bnStop=Berhenti
+
+[formSearch.pcSearch]
+tsCriteria=Kriteria pencarian
+tsResults=Hasil-hasil
+tsByDate=... berdasarkan data
+tsReplace=Ganti
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=Cari &untuk:
+groupSearchFocus=Fokus pencarian
+groupSearchRange=Jarak pencarian
+groupSearchMisc=Pilihan bermacam-macam
+groupSearchDataTypes=Jenis-jenis data
+labelSearchStyle=&Jenis pencarian:
+cbSearchStyle.Items=Pencarian substring sederhana%0D%0APencarian wildcard (*, ?)%0D%0APencarian boolean (AND, OR, NOT)%0D%0AEkspresi regular%0D%0A
+cbSearchStyle=Pencarian substring sederhana
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=&Kunci-kunci
+cbFocusValues=&Nilai-nilai
+cbFocusData=&Data
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=Kunci ini sa&ja
+rbRangeComplete=&Seluruh registry
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Abaikan alasan
+cbHighSpeed=Pencarian kecepatan tinggi
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=&Strings
+cbDataTypeNumerics=&Numerik
+cbDataTypeBinary=Data &Biner
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Kunci%0D%0ANilai%0D%0AData%0D%0A
+
+[formBookmarks]
+bnOK=Oke
+bnCancel=Batal
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Masukan bookmark...
+aBookmarkRename=Namai ulang bookmark...
+aBookmarkDelete=Hapus bookmark
+aFolderAdd=Masukkan folder...
+aFolderRename=Namai ulang folder...
+aFolderDelete=Hapus folder
+aSortOneLevel=Urut satu tingkat
+aSortRecursive=Urut rekursif
+aFolderExportOneLevel=Ekspor satu tingkat
+aFolderExportRecursive=Ekspor rekursif
+
+[formAbout]
+Label1=Copyright © 2000-2007 Safer-Networking Limited. All rights reserved.
+bnOK=Oke
+memoCredits=Penghargaan untuk: %0D%0AEnrico Maria Biancarelli (saran, terjemahan bahasa italia)%0D%0AAndrey V. Sorokin (kode untuk lambang regular)%0D%0AHevesi János (terjemahan bahasa magyar/hungary)%0D%0AQuan Qi Tang (terjemahanbahasa chinese simplified)%0D%0Aliwk (terjemahan bahasa chinese traditional)%0D%0AnickW (terjemahan bahasa perancis)%0D%0ADavid (terjemahan bahasa spanyol)%0D%0ANelson A. H. de Carvalho (terjemahan bahasa brasil)%0D%0APep Isern (terjemahan bahasa catalan/romance)%0D%0AKristian Christensen (terjemahan bahasa denmark)%0D%0AHeppocrates Giakoumis (terjemahan bahasa yunani)%0D%0ABartosz Czerwinski (terjemahan bahasa polandia)%0D%0ASamsul Arifin (terjemahan bahasa indonesia)
+labelCopyright=Copyright © 2000-2005 Patrick M. Kolla / Safer Networking Ltd.
+labelCopyright2=Hak cipta dilindungi.
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Jenis antarmuka:
+labelBusNumber=Nomor bus:
+labelSlotNumber=Nomor slot:
+bnCancel=Batal
+bnOK=Oke
+lvList.Items=Jenis%0D%0AAlamat Minimum%0D%0AAlamat Maksimum%0D%0APanjang%0D%0ALuruskan%0D%0AOpsi%0D%0A
+
+[Images]
+Flag16=424D360500000000000036040000280000001000000010000000010008000000000000010000C40E0000C40E0000000100000001000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD0707070707070707070707070707FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFD07FFFFFFFFFFFFFFFFFFFFFFFF07FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+Flag32=424D360800000000000036040000280000002000000020000000010008000000000000040000C40E0000C40E0000000100000001000000000000000080000080000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E00000400000004020000040400000406000004080000040A0000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E00000800000008020000080400000806000008080000080A0000080C0000080E00000A0000000A0200000A0400000A0600000A0800000A0A00000A0C00000A0E00000C0000000C0200000C0400000C0600000C0800000C0A00000C0C00000C0E00000E0000000E0200000E0400000E0600000E0800000E0A00000E0C00000E0E00040000000400020004000400040006000400080004000A0004000C0004000E00040200000402020004020400040206000402080004020A0004020C0004020E00040400000404020004040400040406000404080004040A0004040C0004040E00040600000406020004060400040606000406080004060A0004060C0004060E00040800000408020004080400040806000408080004080A0004080C0004080E00040A0000040A0200040A0400040A0600040A0800040A0A00040A0C00040A0E00040C0000040C0200040C0400040C0600040C0800040C0A00040C0C00040C0E00040E0000040E0200040E0400040E0600040E0800040E0A00040E0C00040E0E00080000000800020008000400080006000800080008000A0008000C0008000E00080200000802020008020400080206000802080008020A0008020C0008020E00080400000804020008040400080406000804080008040A0008040C0008040E00080600000806020008060400080606000806080008060A0008060C0008060E00080800000808020008080400080806000808080008080A0008080C0008080E00080A0000080A0200080A0400080A0600080A0800080A0A00080A0C00080A0E00080C0000080C0200080C0400080C0600080C0800080C0A00080C0C00080C0E00080E0000080E0200080E0400080E0600080E0800080E0A00080E0C00080E0E000C0000000C0002000C0004000C0006000C0008000C000A000C000C000C000E000C0200000C0202000C0204000C0206000C0208000C020A000C020C000C020E000C0400000C0402000C0404000C0406000C0408000C040A000C040C000C040E000C0600000C0602000C0604000C0606000C0608000C060A000C060C000C060E000C0800000C0802000C0804000C0806000C0808000C080A000C080C000C080E000C0A00000C0A02000C0A04000C0A06000C0A08000C0A0A000C0A0C000C0A0E000C0C00000C0C02000C0C04000C0C06000C0C08000C0C0A000F0FBFF00A4A0A000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD07070707070707070707070707070707070707070707070707070707FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFD07FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFD
+
+[formSearch.pcSearch.tsByDate]
+Label1=Cari kunci &yang
+Label2=dan
+cbByDateMode.Items=atas tanggal berapapun.%0D%0Alebih baru daripada:%0D%0Alebih lama daripada:%0D%0Adi antara:%0D%0Adi luar dari:%0D%0A
+labelByDate=Cari kunci &yang
+labelByDateAnd=dan:
+labelByDateOSInfo=Kriteria pencarian ini hanya terdapat pada sistem Windows NT, Windows 2000 dan Windows XP. Windows 9x dan Windows ME tidak mendukung tanggal kunci registry.
+dtDate1=14/08/2003
+dtTime1=14/08/2003
+dtTime2=14/08/2003
+dtDate2=14/08/2003
+
+[formRegalyzer]
+sbar.Items=%0D%0A%0D%0A
+
+[formRegalyzer.panelMain.pcMain]
+tsData=Data
+tsInfo=Informasi keamanan
+
+[formRegalyzer.panelMain.pcMain.tsData]
+lvData.Items=Nama%0D%0AJenis%0D%0ANilai%0D%0AUkuran%0D%0A
+lvHexDump.Items=Pos%0D%0ADump%0D%0AText%0D%0A
+
+[formRegalyzer.alMain]
+aKeyDelete=&Hapus kunci
+aKeyAdd=Ku&nci baru...
+aKeyRename=&Namai ulang kunci...
+aValueDelete=&Hapus nilai
+aValueRename=&Namai ulang nilai...
+aValueChange=&Ubah data...
+aKeyCopyPath=Kopi nama kunci clipboard
+aSearch=&Cari...
+aKeyRefresh=&Refresh
+aKeyJump=Pindah ke kunci...
+aValueAdd=Baru
+aValueAddString=String
+aValueAddExpandString=String (with placeholders)
+aValueAddMultiString=String (multi-line)
+aValueAddInteger=Nilai numerik (32 bit)
+aValueAddLEInteger=Nilai numerik (32 bit, little endian)
+aValueAddBEInteger=Nilai numerik (32 bit, big endian)
+aValueAddBinary=Data biner
+aSecurityInformationExportToFile=Ekspor informasi keamanan ke file...
+aSecurityInformationExportToClipboard=Kopi informasi keamanan ke clipboard
+aFileExit=&Keluar
+aValueAddInt64=Nilai numerik (64 bit)
+aValueAddLEInt64=Nilai numerik (64 bit, little endian)
+aBookmarksManage=&Manage bookmarks
+aFileOpenReg=&Buka file registry...
+aKeyExport=&Ekspor...
+aFileConnectReg=Koneksi ke &remote registry...
+aKeyImport=&Impor...
+aKeyAddBookmark=Masukan ke bookmarks...
+aAbout=Tentang...
+aValueAddLink=Link
+aKeyBack=Kembali
+aKeyForward=Teruskan
+aValueAddResourceList=Daftar Sumber
+aValueAddFullResourceDescriptor=Deskriptor Sumber Penuh
+aValueAddResourceRequirementsList=Daftar Sumber yang Diminta
+
+[formRegalyzer.menuMain]
+miFile=&File
+miEdit=&Edit
+miBookmarks=&Bookmarks
+miLanguages=&Bahasa-bahasa
+miHelp=&?
+
+[formSearch.alSearch]
+aSearchResultsExport=Ekspor...
+aSearchResultsExportAll=&Ekspor semua...
+aSearchResultsExportSelected=Ekspor yang dipilih sa&ja...
+aSearchResultsSelectAll=&Pilih semua
+aSearchResultsDeSelectAll=&Jangan pilih semua
+aSearchResultsSelectKeys=Pilih hasil kunci
+aSearchResultsDeSelectKeys=Jangan pilih nilai kunci
+aSearchResultsSelectValues=Pilih hasil nilai
+aSearchResultsDeSelectValues=Jangan pilih hasil nilai
+aSearchResultsSelectData=Pilih hasil data
+aSearchResultsDeSelectData=Jangan pilih nilai data
+aSearchResultsExportKeyContents=Pilihan: Ekspor isi hasil kunci sebaiknya
+aReplace=&Ganti
+aSearchStart=Cari
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Informasi kunci:
+labelInfoDBValue=Informasi nilai:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRemoteConnect]
+labelNamePrompt=Harap masukan nama remote komputer:
+bnOK=Oke
+bnCancel=Batal
+bnSearch=&Cari
+labelRemoteInfo=Catatan: Koneksi ke remote registry hanya bekerja jika remote komputer berjalan pada Windows NT, 2000 atau XP, atau Windows ME jika layanan remote berjalan.
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Silakan pilih entri yang harus di masukan untuk diganti pada tab Hasil. Penggantian hanya bekerja untuk kunci dan nama nilai serta data string.
+labelReplaceSource=Ganti ini:
+labelReplaceNew=Dengan Teks ini:
+groupReplaceMisc=Pilihan bermacam-macam
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Abaikan alasan
+cbReplaceOverwrite=Tulis timpa yang ada
+cbReplaceOverwriteValues=Tulis timpa nilai-nilai yang ada
+cbReplaceOverwriteKeys=Tulis timpa kunci-kunci yang ada
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Tidak tampak pada BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Tidak tampak pada BartPE
+

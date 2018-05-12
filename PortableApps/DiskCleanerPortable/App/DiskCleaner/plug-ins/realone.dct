@@ -1,0 +1,15 @@
+[Info]
+Title=RealOne
+Description=Erase RealOne recent playlist and URls History
+
+
+[registry]
+HKEY_CURRENT_USER|Software\RealNetworks\RealPlayer\6.0\Preferences|MostRecentClips
+HKEY_CURRENT_USER|Software\RealNetworks\RealPlayer\6.0\Preferences|LastOpenFileDir
+
+[files]
+%appdata%\Real\RealOne Player\cookies.txt
+%appdata%\Real\RealOne Player\ctd.dat
+%appdata%\Real\RealOne Player\realplayer.ste
+%appdata%\Real\RealOne Player\urls.ini
+%appdata%\Real\RealOne Player\history\*.*

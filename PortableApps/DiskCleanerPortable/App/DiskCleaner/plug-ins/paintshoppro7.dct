@@ -1,0 +1,18 @@
+[Info]
+Title=Paint Shop Pro 7/8/9
+Description=Erase Paint Shop Pro's recent files
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 7\Recent File List
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 7\General|FolderHistory
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 7\General|SaveAsDirectory
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 7\General|SaveCopyDirectory
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 8\Recent File List
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 8\WorkspaceMRU
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 8\JascCmdPyScript\RunScript|FileName
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 8\JascCmdFile\FileSaveAs|FileFolder
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 8\JascCmdNonGraphic\SaveWorkspace|WorkspaceFilename
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 8\ScriptMRU
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 9\Recent File List
+HKEY_CURRENT_USER|Software\Jasc\Paint Shop Pro 9\WorkspaceMRU

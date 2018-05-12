@@ -1,0 +1,684 @@
+/*** Site Wide **/
+
+	* {
+        font-family:verdana,arial,sans,helvetica;
+        font-size:8pt;
+	}
+
+    body {
+        margin:0px;
+        background-color:#888888;
+    }
+
+
+
+    h1 {
+        font-size:12px;
+    }
+    
+
+    p {
+        margin-bottom:10px;
+        line-height: 18px;
+        font-weight:normal;
+    }
+
+    hr {
+        border:1px solid #dddddd; 
+        height:3px;
+        background-color:#dedede;
+    }
+
+
+    #parent_container {
+        width:900px;
+        height:100%;
+
+        background-color:white; 
+        border:1px solid black;
+        border-top:0px;
+        border-bottom:0px;
+    }
+
+
+
+/*** Top Red Navigation Menu ***/
+
+    #top_red_nav img {
+        margin-top:4px; 
+        margin-right:5px;
+    }
+
+    #top_red_nav a {
+        background-image:url('../../general/misc/content/redbar.gif');
+        text-decoration:none;
+        text-transform:uppercase;
+        font-size:9px; 
+        color:#e7e7e7;
+        font-weight:bold;
+        padding:7px;
+        padding-bottom:0px; padding-top:0px;
+        border-left:1px solid #c95152;
+        height:100%;
+        float:left;
+    }
+
+    #top_red_nav a:hover {
+        color:white;
+        background-image:url('../../general/misc/content/redbar_selected.gif');
+    }
+
+    #top_red_nav .selected {
+        color:white;
+        background-image:url('../../general/misc/content/redbar_selected.gif');
+    }
+
+    #top_red_nav {
+        background-repeat:repeat-x;
+        height:20px;
+        line-height:20px;
+        background-color:#bb0c0c;
+        position:absolute;
+        right:0px;
+        overflow:hidden;
+    }
+
+    #top_red_nav .navopen {
+        position:absolute; 
+        left:0px; 
+        width:5px; height:20px; 
+        background-image:url('../../general/misc/content/nav_open.gif'); 
+        background-repeat:no-repeat;
+    }
+
+    #top_red_nav .navclose {
+        position:absolute; 
+        right:0px; 
+        width:5px; height:20px; 
+        background-image:url('../../general/misc/content/nav_close.gif'); 
+        background-repeat:no-repeat;
+    }
+
+/*** Foreign Sites Flags ***/
+
+    #top_flags {
+        position:absolute; 
+        right:0px; 
+        top:22px
+    }
+
+	#top_flags img {
+		border:0px;
+		margin:1px;
+	}
+
+
+	#top_flags a img {
+		-moz-opacity:.4;
+		opacity:.4;
+		filter:alpha(opacity=40);
+	}
+
+	#top_flags a:hover img {
+		-moz-opacity:1;
+		opacity:1;
+		filter:alpha(opacity=100);
+	}
+	
+/*** Homepage ***/
+
+	.index_h1{
+		font-size:9px;
+        text-decoration:none;
+        color:#555555;
+        font-weight:bold;
+        text-transform:uppercase;
+	}
+
+/*** Homepage product showcase (grid with 4 products) ***/
+
+    #product_showcase .showcase_title {
+        padding-top:0px; 
+        padding-bottom:0px;
+    }
+
+    #product_showcase .t_l {
+        padding-top:0px;
+    }
+
+    #product_showcase .t_r {
+        border-left:1px solid #dedede;  
+        padding-top:0px;
+    }
+
+    #product_showcase .b_l {
+        border-top:1px solid #dedede;
+    }
+
+    #product_showcase .b_r {
+        border-top:1px solid #dedede; 
+        border-left:1px solid #dedede;
+    }
+
+    #product_showcase {
+        margin-left:-10px;
+    }
+
+    #product_showcase td {
+        padding:10px;
+        vertical-align:top;
+    }
+
+    #product_showcase ul {
+        margin:0px;
+        padding:5px;
+        padding-left:28px;
+        margin-bottom:4px;
+    }
+
+    #product_showcase li {
+        color:#444444;
+        line-height:15px;
+        background-image:none;
+        list-style-image:url('../../general/misc/content/verygood.gif');
+    }
+
+    #product_showcase img {
+        display:block;
+    }
+
+    #product_showcase a {   /* TODO assigning to anchor tag is probably too generic */
+        text-transform:uppercase;
+        font-size:9px;
+        text-decoration:none;
+        color:#444444;
+        font-weight:bold;
+        border:1px solid #bdbdbd;
+        padding:4px 7px 2px 7px;
+        background-image:url('../../general/misc/content/dotted_next_arrow.gif');
+        background-repeat:no-repeat; background-position:95% 50%;
+        padding-right:15px;
+		background-color:#f4f4f4;
+    }
+
+    #product_showcase a:hover {
+        background-color:#eaeaea;
+		border:1px solid #9d9d9d;
+    }
+
+/*** Homepage news section (right hand side) ***/
+
+    #news_box td {
+        vertical-align:top;
+        color:#777777;
+        padding-bottom:7px;
+        line-height:16px;
+    }
+
+    #news_box a {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #222222;   /* FIXME DUPL2 */ 
+    }
+    
+/*** Homepage partners section (right hand side) ***/
+
+    #partners_box {
+        width:100%;
+    }
+
+    #partners_box a {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #222222;   /* FIXME DUPL2 */ 
+    }
+
+/*** Quote box div ***/
+
+    .quote {
+        display:none;
+        font-weight:bold; 
+        margin-top:0px; 
+        border-top:3px solid #96d7eb; 
+        background-color:#d9f0f8; 
+        background-image:url('../../general/misc/content/quotes.gif'); 
+        background-repeat:no-repeat; 
+        background-position:5% -10px; 
+        width:100%;
+    }
+
+    .quote .msg {
+        padding:8px; 
+        padding-bottom:0px; 
+        color:#2e535c;
+    }
+
+    .quote .author {
+        color:#73949d; 
+        padding:8px;
+    }
+
+    .quote .close {
+        background-color:white; 
+        background-repeat:no-repeat; 
+        background-image:url('../../general/misc/content/baloon_arrow.gif'); 
+        background-position:10%;
+        height:20px; 
+        width:100%; 
+        text-align:right;
+    }
+
+	.quote .close a {
+		border-bottom: 1px dotted #222222; 
+		font-weight: normal; 
+		color: black; 
+		line-height: 20px; 
+		text-decoration: none;
+	}
+
+/*** Article sidebar (left) ***/
+	
+	/*** This is to have PDF | Manual in one menu item ***/
+
+	#product_sidebar ul a.remove_css {
+        display:inline;
+        text-decoration:none;
+        border-bottom:none;
+        color:#444444;
+        padding:0px;
+
+        background-image:none;
+
+    }
+	
+	#product_sidebar {
+		width:190px;
+	}
+
+    #product_sidebar ul {
+        border-top:3px solid #cccccc;
+        list-style-type:none;
+        margin:0px;
+        padding:0px;
+    }
+
+    #product_sidebar ul a,#product_sidebar ul span {
+        display:block;
+        text-decoration:none;
+        border-bottom:1px solid #cdcdcd;
+        color:#444444;
+        padding-top:3px;
+        padding-bottom:4px;
+
+        background-image:url('../../general/misc/content/menu_arrow_normal.gif');
+        background-repeat:no-repeat;
+        background-position:10px 50%;
+        padding-left:20px;
+        padding-right:10px;
+    }
+
+    #product_sidebar li {
+        padding-bottom:1px;
+        padding-top:0px;
+    }
+
+    #product_sidebar ul a:hover {
+        color:#111111;
+        background-color:#fcfcfc;
+    }
+
+    #product_sidebar ul .selected {
+        font-weight:bold;
+        background-color:#eeeeee;
+        background-image:url('../../general/misc/content/menu_arrow_selected.gif');
+    }
+
+    #product_sidebar ul .selected:hover {
+        background-color:#eeeeee;
+        color:#444444;
+    }
+
+/*** Article styling and positioning ***/
+
+    #product_article {
+        padding-left:32px;
+        padding-right:32px;
+		padding-top:0px;
+    }
+    
+    #product_article a {
+        border-bottom:1px dotted #222222;
+        text-decoration:none;
+        color:black;
+    }
+    
+    #product_article a:hover {
+        color:#444444;
+        border-color:#444444;
+    }
+    
+    #product_article ul {
+        margin:0px;
+        margin-left:0px;
+        padding:5px;
+        padding-left:28px;
+    
+    }
+    
+    #product_article li {
+/*      font-size:11px; */
+        line-height:15px;
+        padding-bottom:10px;
+        background-image:none;
+        list-style-image:url('../../general/misc/content/article_bullet.gif');
+    }
+    
+ /*** Table Headers ***/
+    
+    #product_article th {
+        color:#c60c08;
+        font-weight:bold;
+    }
+    
+    #product_article th a {
+        border-bottom:1px dotted #c60c08;
+        text-decoration:none;
+        color:#c60c08;
+    }
+    
+    #product_article th a:hover {
+        color:#930906;
+        border-color:#930906;
+    }
+
+
+
+/*** Footer ***/
+
+
+    #footer {
+        height:20px;
+        background-image:url('../../general/misc/content/footer_gradient.gif');
+        padding:7px;
+        white-space:nowrap;
+        color:#555555;
+		background-color:#eeeeee;
+    }
+
+
+    #footer a {
+        color:#555555;
+        text-decoration:none;
+        border-right:1px solid #777777;
+        padding-right:8px;
+        padding-left:4px;
+    }
+
+    #footer a:hover {
+        text-decoration:underline;
+    }
+
+
+/*** Company Logo (top left) ***/
+    #top_logo {
+        position:absolute; 
+        left:5px;
+        bottom:0px;
+    }
+
+    #top_logo img {
+        border:0px;
+    }
+
+
+/*** Product links (top right, under flags) ***/
+    #top_products {
+        font-size:10px;
+        position:absolute; 
+        right:0px; 
+        bottom:0px;
+        color:#555555; 
+        font-weight:bold;
+    }
+
+    #top_products a {
+        text-decoration:none;
+        font-size:10px;
+        color:#777777;
+        font-weight:normal;
+        padding-left:4px;
+        padding-right:4px;
+    }
+
+    #top_products a:hover {
+        text-decoration:underline;
+    }
+
+
+/*** Banner Structure and default image source ***/
+
+    #banner_holder {
+        vertical-align:top;
+        height:110px; 
+		padding-bottom:0px;
+		padding-top:0px;
+    }
+    
+    #banner {
+	    width:550px; height:110px;
+    	background-repeat:no-repeat;
+        background-image:url('../../general/banners/index/topimage.jpg');
+    }
+
+    #banner_side {
+        vertical-align:top;
+		padding-left:0px;
+		padding-bottom:0px;
+		padding-top:0px;
+    }
+
+/*** STRUCTURE ***/
+
+    #top_bar { /* top section containing logo,slogan,flags,nav, products, etc.*/
+        position:relative; 
+        height:100%;
+    }
+
+    #top_core {
+        height:62px;
+		padding-top:0px;
+		padding-bottom:6px;
+    }
+
+    .content_pad {
+        padding:12px;
+    }
+
+
+	#home_article {
+		vertical-align:top;
+	}
+
+
+	#home_article #lower_body {
+		padding-left:0px;
+		padding-top:0px;
+		padding-right:32px;
+	}
+
+	#home_sidebar {
+	 	width:340px;
+	}
+
+
+	#lower_body {
+		vertical-align:top;
+	}
+
+
+/* QUOTATION FORM */
+	/* the input fields in the quotation form */
+	.quote_input{
+		width:100%;
+	}        
+	
+	/* the message displayed to the user after posting the form */
+	#form_reply{
+		background-color:white;
+	}
+	
+	#wrapper{
+		width:360px;
+		height:110px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin-left: -180px;
+		margin-top: -55px;
+	}
+
+/* Contact Us */
+
+	.address{
+		margin-bottom:13px;
+	}
+	
+	.address p{
+		margin-bottom:0px;
+	}
+	
+/* LEGACY */
+
+			#featuresTable td {
+				border-bottom:1px dotted #C8C8C8;
+				padding:10px;
+				padding-left:5px;
+				padding-right:5px;
+				vertical-align:top;
+			}
+		
+			.featureShotHolder {
+				text-align:center;
+				width:160px;
+			}
+
+            .featureShotHolder a {
+                display:block;
+                background-image:url('../../general/misc/content/magglass.gif');
+                background-repeat:no-repeat;
+                color:#828282;
+                height:30px;
+                text-align:left;
+                padding-left:30px;
+                font-size: 9px;
+                padding-top:6px;
+                margin-top:3px;
+                border:0px !important;
+            }
+            
+			.thumbnailLink {
+				border:0px;
+			}
+			
+			.pricingTable {
+				background-color:#ebebeb;
+				margin-top:15px;
+				margin-bottom:10px;
+			}
+		
+			.pricingTable th {
+				text-align:left;
+				padding:5px;
+				background-color:#EBEBEB;
+			}
+		
+			.pricingTable th h2 {
+				display:inline;
+			}
+		
+			.pricingTable td {
+				vertical-align:top;
+				padding:5px;
+				background-color:white;
+				line-height: 16px;
+			}		
+
+			.smallTable {
+				background-color:#ebebeb;
+				margin-top:15px;
+				margin-bottom:10px;
+			}
+		
+			.smallTable th {
+				text-align:left;
+				padding:5px;
+				background-color:#EBEBEB;
+			}
+		
+			.smallTable th h2 {
+				display:inline;
+			}
+		
+			.smallTable td {
+				vertical-align:top;
+				padding:5px;
+				background-color:white;
+				line-height: 16px;
+			}	
+			
+			.vdsapprovedTable {
+				background-color:#ebebeb;
+				margin-top:15px;
+				margin-bottom:10px;
+			}
+		
+			.vdsapprovedTable th {
+				text-align:left;
+				padding:5px;
+				background-color:#EBEBEB;
+			}
+		
+			.vdsapprovedTable td {
+				vertical-align:top;
+				padding:5px;
+				background-color:white;
+				line-height: 16px;
+			}		
+			
+			.vdsguestTable {
+				background-color:#ebebeb;
+				margin-top:15px;
+				margin-bottom:10px;
+			}
+		
+			.vdsguestTable th {
+				text-align:left;
+				padding:5px;
+				background-color:#EBEBEB;
+			}
+		
+			.vdsguestTable td {
+				vertical-align:top;
+				padding:5px;
+				background-color:white;
+				line-height: 16px;
+			}
+			
+			.citrixTable {
+				background-color:#ebebeb;
+				margin-top:15px;
+				margin-bottom:10px;
+			}
+		
+			.citrixTable th {
+				text-align:left;
+				padding:5px;
+				background-color:white;
+			}
+		
+			.citrixTable td {
+				vertical-align:top;
+				padding:5px;
+				background-color:white;
+				line-height: 16px;
+			}

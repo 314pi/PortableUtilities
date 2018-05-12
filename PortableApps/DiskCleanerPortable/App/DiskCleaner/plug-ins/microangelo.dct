@@ -1,0 +1,11 @@
+[Info]
+Title=Microangelo
+Description=Clears Microangelo History
+
+[registry]
+HKEY_CURRENT_USER|Software\Impact\Microangelo\Animator\MRU List
+HKEY_CURRENT_USER|Software\Impact\Microangelo\Librarian\MRU List
+HKEY_CURRENT_USER|Software\Impact\Microangelo\Studio\MRU List
+HKEY_CURRENT_USER|Software\Eclipsit\Microangelo\Toolset 6\Animator\MRU List
+HKEY_CURRENT_USER|Software\Eclipsit\Microangelo\Toolset 6\Librarian\MRU List
+HKEY_CURRENT_USER|Software\Eclipsit\Microangelo\Toolset 6\Studio\MRU List

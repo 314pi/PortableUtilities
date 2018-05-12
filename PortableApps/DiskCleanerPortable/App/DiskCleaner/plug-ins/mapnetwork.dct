@@ -1,0 +1,6 @@
+[Info]
+Title=Map Network Drive MRU
+Description=Erases the Map Network Drive most recently used paths.
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU

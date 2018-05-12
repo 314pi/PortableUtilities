@@ -1,0 +1,18 @@
+[Info]
+Title=PowerArchiver
+Description=Clears PowerArchiver History
+
+[registry]
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Active_File1
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Active_File2
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Active_File3
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Active_File4
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Active_File5
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Extract1
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Extract2
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Extract3
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Extract4
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Extract5
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Last open dir
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Last backup dir
+HKEY_CURRENT_USER|Software\PowerArchiver\Files|Last add dir

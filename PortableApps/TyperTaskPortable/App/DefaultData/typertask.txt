@@ -1,0 +1,15 @@
+; TyperTask will automate your keyboard when a "signal" is typed.
+; For example, when you type "hth", it will auto type "Hope this helps!"
+; The format of this file is:
+; 
+;    Trigger=Type This Text  (one per line)
+; 
+; Below are some simple entries to get you started.
+; NOTE: Please see the HELP menu for more samples.  Good luck!
+
+
+hth=Hope this helps!
+mysig=Best Regards,{enter}-Bob Smith
+{Control}{Shift}{Alt}G=RUN: http://www.google.com
+{Control}{Shift}{Alt}N=RUN: notepad.exe{delay=1500}Delayed 1.5 seconds...{home}
+

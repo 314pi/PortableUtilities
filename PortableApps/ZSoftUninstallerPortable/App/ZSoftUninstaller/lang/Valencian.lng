@@ -1,0 +1,296 @@
+; VALENCIAN LANG FILE
+; ¡POTS TRADUIR FACILMENT ESTE PROGRAMA EN LA SEUA PROPIA LLENGUA!
+; ¡¡CADA LINEA!!! ¡¡QUE ESCOMENÇE!!! "En un ;" ES CONSIDERAT UN COMENTARI
+¿Esta segur que vols borrar-lo?
+¡Hi ha una versio nova disponible! ¿Vols que obriga el lloc Uep on pots descarregar-la?
+¡Ja tens l'ultima versio!
+Ha ocorregut un erro... Intente-ho un atra volta mes tart...
+Netejar
+Nom del Programa
+&Archiu
+F&iltres
+F&uncions
+Aj&ustos
+&Idioma
+&Ajuda
+&Tancar
+Nomes mostrar 'els enllaços morts'
+&Actualisar la Llista
+Buscar actualisacions del programa
+Mostrar reixeta en les llinies
+Ajuda
+Software de ZSoft
+
+&Al voltant de
+Desinstalar
+Borrar
+¡Tens que utilisar al menos 3 caracters!
+&Exportar Llista
+Archius de Text (*.txt) | *.txt|Tots els Archius (*. *) |*.*
+&Desinstalar
+Bo&rrar
+Aju&da
+Nomes mostrar "crapware"
+No mostrar 'enllaços' amagats
+Amagar
+Editar el Filtre d'amagat
+Editar el Filtre d'amagat
+Trie un archiu de la llista per a fer-lo visible
+¡Hi Han %d programes!
+Informacio
+¡Benvingut al ZSoft Uninstaller!\n\nAci trobara informacio interna dels programes instalats;).\n\nDivertixca's :o)
+Finalisant la desinstalacio de %s. Per favor espere...
+El %s deuria estar ara en la llista de desinstalats.\n\n¡S'ha actualisat la llista!
+No puc dirigir el programa de desinstalacio a %s.
+;
+; ABOUT BOX:
+;
+Al voltant de ZSoft Uninstaller
+- A l  v o l t a n  d e -\nUninstaller es un chicotet programa, debades i lleuger, que mes o menys \nte les mateixes funcions caracteristiques que el de Microsoft Windows,\n es mes rapit per a carregar i te una presentacio mes agradable. \n\n\nUninstaller va ser escrit per mi, perque pense que la funcio del \ndesinstalador de Windows XP es prou roin d'obrir... \n\n\nRecorde que l'us d'este programa es completament baix la \nseua responsabilitat, ya que el programador no pot ser \nresponsabilisat per la perdua de senyes.etc.\n\n\n- G r a c i e s   A -\nEste programa inclou el codic dels següents projectes:\nToolbar2000 & TBX (per els components que permitixen la seua aparença)\nIndy (per als components de conexio a internet)\nWisnu Aribowo (per als components del desplaçament del text)\n\n\n- C o p y r i g h  N o t i c e -\nThis software is copyright (C) 2004-2005 ZSoft.\n\nPortions of this software are Copyright (c) 1993 - 2003, Chad Z.\nHower (Kudzu) and the Indy Pit Crew - IndyProject.org
+&Tancar
+;
+; Nou
+;
+Mostrar/Editar informacio
+Vore/Editar Informacio
+Nom
+Valor
+Guardar
+Cancelar
+Canviar
+Acceptar
+Cancelar
+Triar Font (Nomes en la Llista)
+Analisar
+Analisar Instalacio
+;
+; La funcio analisar
+;
+¡Benvingut!
+Aço el guiara per un proces on pots analisar una instalacio, o desinstalar completament un programa analisat anteriorment.
+¿Que desija fer?
+Analisar una instalacio
+Desinstale un programa analisat anteriorment
+Cancelar
+Següent>>
+Abans d'escomençar el desinstalador tens que fer 'una image' de la seua computadora. Trie avall quin dispositiu(s) desiges analisar. Normalment s'instala en la unitat C{unitat-de-disc}.
+Dispositius {Unitats de disc}
+Abans de l'Instalacio
+Despres de l'Instalacio
+Archius Trobats (aprox): 
+Registre. Trobat (aprox): 
+Temps (en segons.): 
+Comparant... ¡Per favor Espere!
+Pose el Nom de l'Aplicacio
+Pose el nom de l'aplicacio que ha instalat avall.
+ERRO: Archiu Existent posa el Nom de l'Aplicacio
+ERRO: l'Archiu Existix. Posa el nom de l'aplicacio que ha instalat avall.
+La tarea ha finalisat. La finestra es tancara ara.
+Elegixca de baix quin programa analisat anteriorment desija no desinstalar.
+Ara, confirme lo següent:
+Entenc que faig aço baix la meua propia responsabilitat
+Entenc que els archius borrats no es poden recuperar
+No fer responsable al programador de la perdua de senyes, etc.
+Desinstalar
+¡Tens que triar quin programa desija desinstalar!
+Tens que confirmar que ho entens: 
+No vols confirmar cada borrat
+L'archiu "%s" es nou; ¿Vols borrar-lo?
+¿Vols borrar l'archiu?
+¿Vols borrar l'archiu de registre?
+¿Borrar l'archiu de registre?
+Borrat: 
+El directori "%s" no pot ser borrat - tal volta no estiga buit
+¡L'archiu (s) de %d pareix estar borrat, pero este no es un instrument ha borrar!
+¡La Clau de Registre "%s" no esta buida i no es llevara!
+¡Registre Mal format!
+Fet
+Afegir Nou Element
+Llevar (no pot ser invertit)
+Nou Valor:
+Nom del nou element:
+Contingut del nou element:
+¿Esta segur que vols llevar este element del registre? \n¡Per favor anota que aço no podra desfer-se! \n¿Vols continuar?
+¿Estas segur?
+Programes Instalats
+Programes Analisats
+&Buscar archiu
+Iniciar Busca
+Detindre Busca
+Buscar en l'unitat:
+Nom de l'archiu
+Extensio
+Lloc
+Tamany
+Busca finalisada per l'usuari
+Buscant en:
+La Busca ha finalisat
+Borrar l'Archiu(s) (no pot ser invertit)
+¿Esta segur?
+¿Esta segur que vols borrar este/este archiu (s)? ¡los \nPer favor anota que aço no pot desfer-se! ¿\nVols continuar?
+La carpeta es pot eliminar
+Pense que esta era la carpeta on va ser instalar el programa:\n%s\n¿Aço es correcte? \n¿Desija llevar este directori? (¡Aço ya no es podra invertir!)
+Cop. seguritat && al borrar l'archiu(s)
+¿Esta segur?
+Aço borrara els archius triats. Si desiges pots borrar-los mes tart \n¿Vols continuar?
+Cop. Seg.
+No borrar
+Renomenar
+Escriga el nom desijat avall
+Renomenar
+Borrar
+Alguns archius o entrades de registre no es podran borrar. ¡Intente-ho la proxima volta que obrigues este programa!
+¡No s'ha trobat l'archiu d'ajuda !
+No trobat
+¡El valor te que ser un numero sencer!
+¡El valor triat, si es un numero sencer, nomes aixo!
+Cadena
+Cadena Ampliada
+Numero sancer
+Continuar analisis 'vell'
+Un erro ha ocorregut tratant de crear la carpeta, la funcio no seguira.
+¡Erro!
+Mostrar Informacio Registrada
+Llista d'ignorats
+Seccio
+Posicio
+Editar llista d'ignorats
+Afegir
+Borrar
+Seccio:
+Posicio:
+Examinar
+Este directori deu ser ignorat
+Archiu
+Registre
+Cancelar
+Afegir
+Busca:
+Desinstalacio Prioritaria
+Alta
+Normal
+Baixa
+L'element ya esta ignorat.
+Tens que omplir el formulari correctament.
+Ajustos
+Ignorar cache d'Internet Explorer
+Ignorar cache de Firefox
+Tamany Aprox.:
+Instalat el:
+Modificat el:
+Ultim Access:
+No mostrar actualisacions de Windows
+No borrar-los tots
+Nomes mostrar nous 'enllaços'
+Marcar nous 'enllaços'
+Programes Amagats
+Registre de l'explorador
+Eliminar archius a la paperera de reciclage
+Mostrar Icons
+No s'ha pogut trobar l'archiu '%s'. La Cop. Seg. (podria estar) trencada.
+Guardar com...
+Com icons grans
+Com llista d'icons menuts
+No es pot borrar: 
+Directori borrat: 
+Entrada de Registre borrada: 
+Entrada de Registre creada: 
+Entrada de Registre NO creada: 
+Entrada de Registre NO borrada: 
+Clau de Registre borrada: 
+Clau de Registre creada: 
+Clau de Registre NO creada: 
+Per favor esperat...
+Eliminar a la paperera de reciclage
+Eliminar Archiu(s) a la paperera de reciclage
+¿Estas segur de voler eliminar este/estos archiu(s) a la paperera de reciclage?
+Triar-ho Tot
+%d archius trobats, totalisant %s.
+Ordenar Llista per
+Nom (ascendent)
+Nom (descendent)
+Data (ascendent)
+Data (descendent)
+Llevar de la Llita d'Amagats
+Editar
+Archius del Sistema
+Registre
+Editar Registre Analisat
+Voste ha fet canvits en l'archiu del registre. ¿Vols guardar els canvits?
+¿Vol voste guardar estos canvits?
+Canviar el color de fondo de
+Afegir element a la llista d'ignorats (Analisar-ranc)
+En esta finestra voste pot vore (i navegar) els canvits registrats fets per l'analisador de l'instalacio. Voste pot llevar els elements del registre (es creara una Cop. Seg.), i voste podra afegir carpetes i claus a la llista d'ignorats, a la fi de que no seran registrats en el futur.
+Empty Folders Finder
+Scan this directory for empty folders:
+Only scan top-level
+Start Scan
+Dir
+Scan this directory
+Remove Selected
+Tools
+Startup Manager
+Name
+Launches
+Disable
+Enable
+Copy program name to clipboard
+Text '%s' copied to clipboard!
+Hide Search-Bar
+The program %s should now be uninstalled. Do you want to search for leftovers?
+Search for leftovers?
+I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
+Next >>
+Jump To
+Go one level up
+Place
+Type
+Path
+Value
+Post Uninstall Manager
+Program Name
+Perform Post Uninstall on selected program
+By
+Version
+Open Install Folder
+Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
+Do you want to save a new logfile?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

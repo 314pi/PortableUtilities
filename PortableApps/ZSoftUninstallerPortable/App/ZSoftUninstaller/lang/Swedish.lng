@@ -1,0 +1,297 @@
+; SWEDISH LANG FILE
+; TRANSLATOR: Åke Engelbrektson
+; CONTACT: eson57@gmail.com
+;
+Vill du verkligen ta bort det här?
+Det finns en nyare version tillgänglig! Vill du öppna webbsidan för att ladda ner den nya versionen?
+Du har den senaste versionen!
+Ett fel har uppstått... Försök igen senare...
+Rensa
+Programnamn
+&Arkiv
+&Filter
+F&unktioner
+&Inställningar
+&Språk
+&Hjälp
+A&vsluta
+Visa endast 'döda länkar'
+&Uppdatera listan
+Sök efter programuppdateringar
+Visa stödlinjer
+Hjälp
+ZSoft Software
+
+&Om
+Avinstallera
+Ta bort
+Du måste använda minst 3 tecken!
+&Exportera lista
+Textfiler (*.txt)|*.txt|All Files (*.*)|*.*
+A&vinstallera
+&Ta bort
+&Hjälp
+Visa endast "skräpprogram"
+Visa inte dolda 'länkar'
+Dölj
+Redigera 'Dolda program'
+Redigera 'Dolda program'
+Ta bort det markerade från listan, och dölj det inte mer
+Visar %d program!
+Info
+Välkommen till ZSoft Uninstaller!\n\nDu kommer att få forlöpande information här, så håll ett öga på denna ruta.
+Väntar på att avinstallationsprogrammet för %s skall avslutas.
+%s skall nu vara avinstallerat.\n\nProgramlistan har uppdaterats!
+Det går inte att köra avinstallationsprogrammet för %s.
+;
+; ABOUT BOX:
+;
+Om ZSoft Uninstaller
+- Om -\nUninstaller är ett kostnadsfritt lättviktsprogram som mer eller mindre har\nsamma funktioner som Microsoft Windows integrerade avinstallationsprogram. \n- Uninstaller gör det bara snabbare.\n\nUninstaller är skrivet, mestadels av mig själv, för att jag tycker att\nWindows XP's inbyggda avinstallationsprogram är för segt...\n\nKom ihåg att användandet av detta program sker fullständigt på egen risk,\noch att utvecklaren inte kan hållas ansvarig för eventuella dataförluster etc!\n\n- T h a n k s  T o-\nThis program includes code from the following projects:\nToolbar2000 & TBX (for components that make this program look good)\nIndy (for components enabling the internet)\nWisnu Aribowo (for this scrolling text component)\n\n- C o p y r i g h  N o t i c e -\nThis software is copyright (C) 2004-2005 ZSoft.\n\nPortions of this software are Copyright (c) 1993 - 2003, Chad Z.\nHower (Kudzu) and the Indy Pit Crew - IndyProject.org
+&Stäng
+;
+; Ny
+;
+Visa/Redigera Info
+Visa/Redigera Info
+Namn
+Värde
+Spara
+Avbryt
+Ändra
+OK
+Avbryt
+Välj teckensnitt (Endast listan)
+&Analysera
+Analysera installation
+;
+; The analyze function
+;
+Välkommen!
+Den här guiden leder dig genom en process där du kan antingen analysera en installation eller avinstallera ett tidigare analyserat program fullständigt.
+Vad vill du göra?
+Analysera en &installation
+Avinstallera ett tidigare analyserat &program
+&Avbryt
+&Nästa >>
+Innan du startar installationen måste en 'avbild' skapas. Välj vilka hårddiskar du vill analysera. Normalt räcker det med C-disken och den disk du installerar på (om det är olika).
+Diskar
+&Före installationen
+&Efter installationen
+Filer (ca): 
+Registerposter (ca): 
+Använd tid (i sek): 
+Jämför... Vänligen vänta!
+Ange programnamn
+Ange namnet på det program du har installerat.
+FEL: Programnamnet finns redan
+FEL: Programnamnet finns redan. Ange ett UNIKT namn på det program du har installerat.
+Uppgiften slutförd. Fönstret kommer nu att stängas.
+Välj vilket av dom tidigare analyserade programmen du vill avinstallera.
+Bekräfta nu följande:
+Jag förstår att jag gör detta på eget ansvar
+Jag förstår att dom filer som tas bort inte kan ångras
+Jag kommer inte att hålla programmakaren ansvarig för förlorad data etc.
+Avinstallera
+Du måste välja vilket program du vill avinstallera!
+Du måste bekräfta: 
+Jag vill INTE bekräfta varje enskild borttagning
+Filen "%s" är ny; vill du ta bort den?
+Vill du ta bort filen?
+Vill du ta bort logg-filen?
+Ta bort logg-fil?
+Borttaget: 
+Mappen "%s" kunde inte tas bort - den kanske inte är tom
+%d fil(er) verkar vara borttagna, men det här är inget återställningsverktyg!
+Registernyckeln "%s" är inte tom och kommer inte att tas bort!
+Felformaterad logg!
+Klar
+Lägg till nytt objekt
+Ta bort (kan inte ångras)
+Värde:
+Namn:
+Innehåll:
+Vill du verkligen ta bort det här ojektet från registret?\nVänligen notera att detta inte kan ångras!\nVill du fortsätta?
+Är du säker?
+Installerade program
+Analyserade program
+&Diskrensning
+Genomsök
+Avbryt sökning
+.                Disk:
+Filnamn
+Filformat
+Plats
+Storlek
+Sökning stoppad av användare
+Söker på:
+Sökning avslutad
+Ta bort Fil(er) (kan inte ångras)
+Är du säker?
+Vill du verkligen ta bort dessa filer?\nVänligen notera att detta inte kan ångras!\nVill du fortsätta??
+Mappen kanske inte är borttagen
+Programmet var troligen installerat i följande mapp:\n%s\nÄr det korrekt?\nVill du ta bort den här mappen? (Kan inte ångras!)
+Säkerhetskopiera && ta bort fil(er)
+Är du säker?
+Dom markerade filerna kommer att tas bort. De kan dock återställas vid behov.\nVill du fortsätta?
+Backups
+Återställ
+Byt namn
+Ange önskat namn
+Byt namn
+Ta bort
+En del filer och/eller registernycklar kunde inte tas bort. Ett nytt försök kommer att göras, nästa gång du startar det här programmet!
+Hjälpfilen kunde inte hittas!
+Kan inte hittas
+Värdet måste vara ett heltal!
+Ett värde måste väljas, och om heltal, vara just det!
+Sträng
+Expanderad Sträng
+Heltal
+&Avsluta en analys som redan har påbörjats
+Ett fel uppstod när mappen skulle skapas, uppgiften kan inte slutföras.
+Fel!
+Visa sparad information
+Undantagslista
+Sektion
+Plats
+&Redigera undantagslista
+&Lägg till
+Ta bort
+Sektion:
+Plats:
+&Bläddra
+Den här platsen skall undantas
+&Fil
+Re&gister
+&Avbryt
+L&ägg till
+Sök:
+Prioritet
+Hög
+Normal
+Låg
+Objektet är redan undantaget.
+Du måste fylla i formuläret korrekt.
+Inställningar
+Undanta Internet Explorer cache
+Undanta Firefox cache
+Beräknad storlek:
+Installationstidpunkt:
+Modifierad tid:
+Accesstid:
+Visa inte Windows uppdateringar
+Återställ allt
+Visa endast nya 'länkar'
+Markera nya 'länkar'
+Dolda program
+Registereditor
+Skicka borttagna filer till papperskorgen
+Visa ikoner
+Filen '%s' kunde inte hittas. Backup (kanske) trasig.
+Spara som...
+Som stora ikoner
+Som små ikoner i listan
+Kunde inte tas bort: 
+Borttagna mappar: 
+Borttagna registerposter: 
+Skapade registerposter: 
+EJ skapade registerposter: 
+EJ borttagna registerposter: 
+Borttagna registernycklar: 
+Skapade registernycklar: 
+EJ skapade registernycklar: 
+Vänta...
+Skicka till papperskorgen
+Skicka fil(er) till papperskorgen
+Vill du verkligen skicka dessa filer till papperskorgen?
+Välj alla
+%d filer hittade, sammanlagt %s.
+Sortera listan efter
+Namn (stigande)
+Namn (fallande)
+Tid (stigande)
+Tid (fallande)
+Ta bort från 'Dolda program'
+Redigera
+Filsystem
+Register
+Redigera analysresultat
+Du har gjort ändringar i loggfilen. Vill du spara ändringarna?
+Vill du spara ändringarna?
+Ändra bakgrundsfärg för
+Lägg till i undantagslistan (för framtida analys)
+I det här fönstret kan du se (och navigera) registrerade ändringar gjorda av analyserade program. Du kan ta bort objekt från loggen (en backup skapas för säkerhets skull), och du kan lägga till mappar och nycklar i undantagslistan, för att undvika framtida registrering.
+Sök tomma mappar
+Skanna den här adressen efter tomma mappar:
+Endast huvudmapp
+Starta skanning
+Adress/Sökväg
+Skanna den här adressen
+Ta bort markerade
+Verktyg
+Autostart-redigerare
+Namn
+Startkommando
+Inaktivera
+Aktivera
+Kopiera programnamn till urklipp
+'%s' kopierat till urklipp!
+Dölj sökfältet
+Programmet %s skall nu vara avinstallerat. Vill du söka efter rester?
+Söka efter rester?
+Dessa nyckelord har extraherats för att eftersökas. Redigera vid behov. Endast ett ord/fras per rad. När du är klar, klicka 'Nästa'.
+Nästa >>
+Hoppa till
+Upp en nivå
+Plats
+Typ
+Sökväg
+Värde
+Efter-avinstallerare
+Programnamn
+Utför efterstädning av markerat program
+Av
+Version
+Öppna installationsmapp
+Vissa filer eller registerposter kunde inte tas bort eller återskapas.\nVill du spara dessa poster i en ny loggfil?
+Vill du spara en ny loggfil?
+Vill du söka rester efter programmet?
+Efterskanner
+Söker... Vänta!
+Ta bort
+Är du säker?
+Vill du verkligen fortsätta?
+Välj det här alternativet om du redan har startat en analys - \nOm t.ex installationen krävde omstart.
+För en mer korrekt installationslogg rekommenderas du att öppna \noch konfigurera det installerade programmet innan du kör 'Efter installation'.
+För en korrekt avinstallation rekommenderas du att avinstallera med \nprogrammets egen avinstallations-rutin först (startfönstret i ZSoft Uninstaller), \noch att sedan ta bort alla spår härifrån.
+Här kan du se alla spårade förändringar.\nVälj 'Redigera' från högerklicksmenyn i huvudfönstret \nom du behöver ändra något här
+Detta är en lista på program som du har avinstallerat i denna sessionen,\nmen ännu inte kört en 'Efter-avinstallering' på.\nDubbelklicka på programnamnet för att starta Efter-avinstallering.
+Mappen innehåller mycket data
+Du försöker ta bort mappen\n%s\nmen den här mappen innehåller mycket data. Vill du verkligen ta bort den?
+Register-backups
+Borttaget från 'Installerade program'
+Borttaget från 'Efter-avinstallering'
+Namn
+Backup-storlek
+Tid för borttagning
+Visa data
+Alternativ avinstallation
+"Tyst" avinstallation
+Modifiera
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you’re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

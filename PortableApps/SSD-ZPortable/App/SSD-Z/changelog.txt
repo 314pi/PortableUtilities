@@ -1,0 +1,130 @@
+SSD-Z Changes | 2016 Sep 09
+---------------------------
+- Removed a reference to a debug class that was accidentally left in.
+
+SSD-Z Changes | 2016 Sep 08
+---------------------------
+- More devices are recognized now. Thanks again for all the submissions.
+- Fixed an error that would in some cases display the model name and especially the firmware incorrectly.
+- Decoder: Now shows the form factor for Crucial devices.
+- Unknown LiteOn devices will now properly display the LiteOn logo.
+- No longer blocks support for Aero Snap, when moving the window to the screen edge.
+- Certain devices with a capacity of 1TB or above, was not getting detected due to the pattern matching only looking for a "G" in the model name.
+- Device Tab: The interface will now scale to the window size. To disable this, set "tabs.device.ui_scale" to 1.00, or any other factor you prefer. Using 0.00 means it will autoscale.
+
+SSD-Z Changes | 2016 Jul 01
+---------------------------
+- The submission feature is working yet again.
+- Submissions are now being posted over HTTPS.
+
+SSD-Z Changes | 2016 Jun 29
+---------------------------
+- The submission feature is working again now.
+
+SSD-Z Changes | 2016 Jun 23
+---------------------------
+- Added more devices, as well as fixed a few with missing or incorrect data.
+- Corrected Silicon Power SSDs being detected as an S60 model. Unfortunately, as these SSDs all report the same model name, it's near impossible through software to determine the exact model.
+- Fixed: If a device was removed from the system, any device with a larger ID after it, would not be detected.
+- The default temperature unit will now always initialize as Celcius, even if your system has been configured for Imperial units. Click the temperature field to toggle the setting to Fahrenheit.
+- Mouse wheel scrolling will now more intuitively reach the window under the mouse, and not the window with focus.
+- Changed keyboard shortcut for "last active tab" from [F4] to [Ctrl + D]. This was to avoid the clash with the global combobox dropdown shortcut of F4.
+- Added option to display the raw SMART attribute values as either decimal or hexadecimal.
+- Fixed: Changing of the temperature unit, will now properly apply to all devices, and not only the current device.
+- Added a new tab "Decoder", which for some devices can decode and display the meaning of the model number. Accessible from the system menu, by right-clicking the window caption.
+- Restructured how the SMART attributes and thresholds are stored and accessed internally. This should fix those extremly rare cases of the threshold ID not matching up with the attribute ID.
+- ListView column headers are now properly scaled to the system DPI.
+- New "Speed" field on the device tab. It shows the active SATA transfer speed, out of the device's maximum.
+
+SSD-Z Changes | 2016 Jan 18
+---------------------------
+- Added many new devices with the help from everyone who submitted their SSDs.
+- Device Tab: For devices that report it, the form factor can now be viewed in the Interface field tooltip.
+- Submit Tab: No longer uses the GetVersionEx() API function, as it was deprecated with Windows 8.1.
+- Identify Tab: Improved the listing and selection of words and bits.
+- Partition Tab: Added new column, which shows the percentage that each partition occupies of the total capacity.
+- Removed some debug code from the previous release that was accidentally left in.
+- Submit Tab: Fixed the Unix Timestamp using local time instead of UTC.
+- Submit Tab: Removed a lot of unneeded SMART attribute queries when generating the JSON data.
+- Updated the "Full Update" button, so it's actually being drawn with the active Windows theme.
+- For SSDs with an unknown controller, SMART attributes are no longer based on what is most likely for that vendor, and will use the basic fallback descriptor instead. This behaviour was causing certain SSDs to display some attributes very incorrectly, especially the bytes read/written.
+- Moved the SMART attribute query code into the device core. Previously, each tab that needed access to SMART data, had to query it themselves. This caused extra overhead as both the SMART and Submit tab was querying SMART attributes.
+- The "Bytes Written" field on the Device tab, should be better at pulling the data from the most precise attribute.
+- Submit: Fixed an issue with malformed JSON data under certain circumstances, causing the submission to fail.
+- Device Tab: Added "SATA Speed" in the balloon tooltip for the Interface field.
+- Device Tab: Added "WorldWideName" in the balloon tooltip for the Device Name field.
+
+SSD-Z Changes | 2015 Jul 11
+---------------------------
+- The keyboard shortcut modifier to change tabs, was changed from Alt to Control. E.g. [Ctrl + 3].
+- Added keyboard shortcuts to resize the window. Using [Alt + 1, 2, 3, 4] will resize the window to 100%, 150%, 250% or 300%. Last two are width only.
+- New Tab: "Config". This tab allows for customization of SSD-Z. The Config tab can be opened by pressing [F2] or from the system menu.
+- Settings are now stored in an INI file, in the same folder as the EXE. What's saved: last active tab, last active device, window position, temperature unit, plus a few other things.
+- The mousewheel can now scroll the visible tabs, if there are too many to fit at once.
+- Partition Tab: The volume list now shows the percentage of free space left.
+- Improved interpretation for certain SMART attributes.
+- Improved several tooltips to be more clear about what the specific field show.
+- Benchmark Tab: Improved the IOPS benchmark by using queue depth.
+- More SSDs have been added to the database.
+- Added support for a few more vendors and their associated logo.
+- Fixed clicking on the temperature field on the device tab to swap unit. This will now property update the displayed temperature, instead of turning into "n/a".
+- Partition Tab: Added a column showing if a partition is aligned on a 4k boundary.
+- DevSlp is now listed in the capabilities, for devices that support it.
+- Removed the "-expand" command line parameter. It has been made useless now that the window size is remembered between sessions.
+- Benchmark Tab: Replaced the specific benchmark selection buttons with a dropdown list.
+- Benchmark Tab: The benchmark data is now remembered, even if another benchmark is activated or another device is selected. Only doing a full refresh, [Ctrl + F5] or bottom left button, will clear benchmark data.
+- Benchmark Tab: Some benchmarks can now be aborted when running. This is just a temporary fix until the benchmarks are properly threaded.
+- Added a keyboard shortcut [F4] to activate the previously selected tab.
+- SMART Tab: The attribute name of the selected item can now be copied to the clipboard using [Ctrl + C] or by double clicking the attribute.
+- Added "system.stay_on_top" option to make SSD-Z stay on top.
+- Identify Tab: Many words now displays a description of what each individual bit means.
+- Added debugging option "system.enum_scsi_debug". When enabled, "\\.\ScsiX:" devices will be enumerated.
+- New Tab: "Submit". Here you can submit your SSD to the TechPowerUp database. Having access to the submitted information of many SSDs will help improve future versions.
+- Increased the default window width, to accommodate the increased number of tabs.
+
+SSD-Z Changes | 2015 Mar 15
+---------------------------
+- The current user locale is now used to determine if Celcius or Fahrenheit should be used to display the temperature. If you wish to switch, click on the temperature panel on the device tab.
+- The program is now DPI aware, meaning that using a DPI other than 100%, will scale the interface accordingly. This may require a little more tweaking.
+- Many more devices have been added.
+- Better SMART attribute interpretation based on the SSD controller.
+- The minor ATA version is now reported in the ATA Standard tooltip.
+- The actual model name is now shown in the program title. For most drives, this is different than the model name reported by the device itself. If an SSD is not in the internal database, no name will not appear in the program title.
+- Fixed Kingston devices from being detected properly.
+- Fixed an issue where "Samsung 840 PRO" would be detected as "Samsung 840".
+
+SSD-Z Changes | 2015 Mar 02
+---------------------------
+- Removed the Debug tab, it is however still available. To access it, either start with the -debug command line parameter, or select "Add Debug Tab" from the system menu.
+- Fixed a zero divide issue that could happen on certain devices due to their SMART values.
+- Finetuned S.M.A.R.T. descriptions and the formatted values for each specific manufacturer/controller.
+- Added details for many more devices. Also tweaked and improved the details of existing known devices.
+
+SSD-Z Changes | 2015 Feb 14
+---------------------------
+- No more flickering when resizing the window.
+- Changed the feature name of 48-bit addressing from "48-bit" to "LBA48".
+- Added keyboard shortcut to cycle back and forth through devices using [Alt+Left] and [Alt+Right].
+- Device Tab: The tooltip for temperature now shows the value in Fahrenheit.
+- New Tab: "Benchmark". Test random and sequential read speeds, as well as random access time.
+- Restructured the code so that each tab is now segmented into its own class.
+- The window can now be maximized. This should allow for a better view of the benchmark graphs.
+- Identify Tab: Added proper mouse wheel scrolling support.
+- Identify Tab: Entries can now be selected. If double-clicked, the description and value of the selected entry will be copied to the clipboard.
+- Device Tab: The Interface panel was split into two. One showing the Interface (such as SATA) and the other the ATA standard.
+- Device Tab: New panel showing the logical / physical sector size. For large drives, these two may not be the same.
+- Identify Tab: Added formatting for the "World Wide Name" value at word index 108.
+- Converted the device info database into CSV format. It's included as a resource in the EXE file, but it can be dumped from the system menu (right-click window caption).
+
+SSD-Z Changes | 2015 Jan 26
+---------------------------
+- Improved TRIM support detection. State is determined by 1) Device support, 2) OS support, and 3) OS enabled. All three have to be true and active.
+- Will now properly detect Seagate models with the prefix "ST".
+- Added detailed tooltips for the status panels on the Device tab.
+- New Tab: "Identify". This will show the values of the device's 256 Identify Data Words.
+- SMART: Should now work for devices connected through a SCSI equivalent controller. It does this by sending an ATA command through SCSI, also know as SAT.
+- The count value has been removed from the SMART and Partition tab headers to give more room. The number of SMART attributes can now be seen on the SMART panel tooltip of the Device tab.
+
+SSD-Z Changes | 2014 Dec 24
+---------------------------
+- WIP Pre-Release.

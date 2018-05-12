@@ -1,0 +1,83 @@
+HDHacker
+
+
+Updated versions are found at the following Link:
+
+HDHacker Home: "http://dimio.altervista.org/"
+
+
+
+DESCRIPTION:
+
+HDHacker is a small utility for Windows, which allows you to save, view or to restore the MBR, the Boot Sector or any other sector of a Hard Disk. HDHacker can also accomplish this task for a floppy disk, memory stick, and other storage media. HDHacker is FREEWARE. HDHacker dos not use any installer, it runs directly from an executable.
+
+
+
+USE:
+
+Beside being a great insurance against MBR virus-attack, the HDHacker program has been written as a tool for a common predicament:
+
+On a PC with Linux and Win2000 or Windows XP (with LILO or GRUB as a boot manager) various operating systems might overwrite LILO/GRUB (and thus make Linux inaccessible). In this case, HDHacker allows you to save the MBR before installing a new OS (or reinstalling Windows), then very easily restore the original LILO/GRUB.
+
+As in previous versions, you have the option to choose whether to read/write to/from a logical or physical drive. If the first sector is chosen on a physical drive, it will correspond to the MBR. Otherwise, if a first sector is chosen on a logical drive, it will read/write to/from the designated Boot Sector.
+
+Currently, it is possible to accomplish any of the following operations:
+
+"READ SECTOR FROM DISK"
+Loads a sector into memory, reading it directly from the disk.
+
+"LOAD SECTOR FROM FILE"
+Loads a sector into memory, which was previously saved in a file.
+
+"SAVE SECTOR TO FILE"
+Saves the sector in memory to a file on any designated disk or medium.
+
+"WRITE SECTOR ON DISK"
+Writes to disk, the sector in memory, in the specified (MBR or boot sector) location
+
+Then, to save the data (the chosen MBR or boot sector), HDHacker will request:
+
+1. To select a Physical Drive.
+2. To select "READ SECTOR FROM DISK"
+3. To select "SAVE SECTOR TO File"
+   (if you want to save the MBR in a file, for example, as a back up).
+
+During RESTORE, the options will be:
+
+1. Select Physical Drive.
+2. Select "LOAD SECTOR FROM File" 
+   (then select the backup MBR or sector file you have previously saved).
+3. Select "WRITE SECTOR ON DISK" to complete the procedure.
+
+
+
+COMPATIBILITY/REQUIREMENTS:
+
+In theory, HDHacker should work with all versions of Windows with the following restrictions:
+
+PERMISSIONS: The program requires that the user has permission to read AND write in ANY part of the disk. In Windows 95 and 98 this is the default -if you have signed in with a password (otherwise you must create an administrator account). However, in Windows ME or any NT-based systems (Windows 2K, Windows XP, etc.) you must be logged in as "Administrator" to read, save or restore any MBR or Boot Sector.
+
+LINUX: The HDHacker program works from within Linux, using WINE, but again, you must be "Administrator", and you must also have read/write permissions in FSTAB. 
+
+HDHacker requires MSVBVM60.DLL, to run in Windows 95 or Windows 98.
+(Hint: MSVBVM60.DLL is a standard file component in Windows 2000)
+
+
+NOTES:
+
+The program uses the technology UPX (http://upx.sourceforge.net) to increase its size efficiency/portability.
+
+
+LICENSE:
+
+The program is distributed with a Freeware license (please read license regarding restrictions for use, credits, prohibition against decompiling, and limitations of damage).
+
+
+
+CODE AUTHOR/CREATOR:
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE  : katafratto
+ICQ    : 145633952
+E-MAIL : cyberdimio@gmail.com
+HOME   : http://dimio.altervista.org/

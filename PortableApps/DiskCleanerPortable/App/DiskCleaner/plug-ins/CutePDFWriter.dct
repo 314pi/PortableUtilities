@@ -1,0 +1,7 @@
+[Info]
+Title=CutePDF Writer
+Description=Deletes CutePDF Writer mru
+ 
+
+[registry]
+HKEY_CURRENT_USER|Software\Acro Software Inc\CPW

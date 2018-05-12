@@ -1,0 +1,6 @@
+[Info]
+Title=Internet Explorer Address Bar Typed URLs
+Description=Clears Internet Explorer Address bar Typed URLs
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\Internet Explorer\TypedURLs

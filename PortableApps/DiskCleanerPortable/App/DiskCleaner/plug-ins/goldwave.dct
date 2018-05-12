@@ -1,0 +1,8 @@
+[Info]
+Title=GoldWave History
+Description=Cleans GoldWave History
+Icon=Disk Cleaner.ICO
+Creator=AC
+
+[registry]
+HKEY_CURRENT_USER|SOFTWARE\GoldWave\GoldWave\Recent Files

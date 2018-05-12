@@ -1,0 +1,48 @@
+1 Sector image
+2 Szektor nézete
+1 About
+2 About
+1 Drive to operate
+2 Kiválasztott meghajtó
+1 Select sector
+2 Kiválasztott szektorok
+1 Read commands
+2 Olvasási parancsok
+1 Write commands
+2 Írási parancsok
+1 Logical Drive (BootSector)
+2 Logikai (bootszektor)
+1 Logical Drive
+2 Logikai meghajtó
+1 Physical Drive (MBR)
+2 Fizikai meghajtó (MBR)
+1 Physical Drive
+2 Fizikai meghajtó
+1 First sector (BootSector)
+2 Elsõ szektor (bootszektor)
+1 First sector (MBR)
+2 Elsõ szektor (MBR)
+1 Specify a Sector
+2 Szektor kiválasztása
+1 Number of continuous sectors to read
+2 Egymás után beolvasandó szektorok:
+1 Read sector from disk
+2 Szektor olvasása lemezrõl
+1 Load sector from file
+2 Szektor olvasása fájlból
+1 Save sector to File
+2 Szektor mentése fájlba
+1 Write sector on Disk
+2 Szektor lemezre írása
+1 The first sector of a Physical Drive is the Master Boot Record (MBR)
+2 Master Boot Record (MBR): a fizikai meghajtó elsõ szektora
+1 The first sector of a Logical Drive is the Boot sector
+2 Bootszektor: a logikai meghajtó elsõ szektora
+1 Sector read
+2 Szektor beolvasva
+1 Impossible to read sector on the disk
+2 Nem lehetséges a szektort beolvasni a lemezrõl!
+1 Impossible writing sector on the disk
+2 Nem lehetséges a szektort lemezre írni!
+1 HDHacker (By Dimio)
+2 HDHacker (készítõ: Dimio)

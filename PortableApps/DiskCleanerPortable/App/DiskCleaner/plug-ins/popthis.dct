@@ -1,0 +1,7 @@
+[Info]
+Title=PopThis
+Description=PopThis popcount
+
+
+[registry]
+HKEY_CURRENT_USER|Software\surfapps.com\PopThis|PopCount

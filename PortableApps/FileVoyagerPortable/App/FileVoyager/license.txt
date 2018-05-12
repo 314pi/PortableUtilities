@@ -1,0 +1,62 @@
+﻿FILEVOYAGER's FREEWARE End-User License Agreement.
+Copyright (c) 2014-2016 LIHEMDI Rachid. All rights reserved.
+
+IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM.
+
+FILEVOYAGER's End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and its author, LIHEMDI Rachid, "THE AUTHOR".
+Please read the terms of this EULA as they apply to the software you are downloading from filevoyager.com, which includes the media on which you received it, if any.
+The terms apply to any item related to FILEVOYAGER's distribution, updates, supplements, filevoyager.com content and electronic documentation, Internet-based services, and support services for this software. 
+All those items are grouped in the terms of this license under the label "SOFTWARE PRODUCTS".
+Unless other terms accompany those items, the terms of this EULA apply.
+
+By installing, copying or otherwise using the SOFTWARE PRODUCTS, you agree to be bound by the terms of this EULA. If you don't accept them, do not use the SOFTWARE PRODUCTS.
+
+If you comply with these license terms, you have the rights below.
+
+1. GRANT OF LICENSE.
+The SOFTWARE PRODUCTS are licensed as follows: You may install and use any number of copies of the SOFTWARE PRODUCTS on your devices. You may also make copies of the SOFTWARE PRODUCTS as may be necessary for backup and archival purposes.
+
+2. SCOPE OF LICENSE. 
+The SOFTWARE PRODUCTS are licensed, not sold. This agreement only gives you some rights to use the SOFTWARE PRODUCTS. 
+THE AUTHOR reserves all other rights. 
+Unless applicable law gives you more rights despite this limitation, you may use the SOFTWARE PRODUCTS only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.
+
+You may not:
+
+* remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCTS.
+* work around any technical limitations in the binary versions of the SOFTWARE PRODUCTS;
+* reverse engineer, decompile or disassemble the binary versions of the SOFTWARE PRODUCTS, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the SOFTWARE PRODUCTS than specified in this agreement or allowed by applicable law, despite this limitation;
+* rent or lease or lend the SOFTWARE PRODUCTS;
+* transfer the SOFTWARE PRODUCTS or this agreement to any third party; or
+* use the SOFTWARE PRODUCTS for commercial software hosting services.
+
+Without prejudice to any other rights, THE AUTHOR may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCTS in your possession.
+
+3. COPYRIGHT
+All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCTS and any copies thereof are owned by THE AUTHOR or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by THE AUTHOR. 
+
+4. EXPORT RESTRICTIONS. 
+The software is subject to European export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use. 
+
+5. SUPPORT SERVICES. 
+Because this software is "As Is", we may not provide support services for it.
+
+6. DISCLAIMER OF WARRANTY.
+THE AUTHOR expressly disclaims any warranty for the SOFTWARE PRODUCTS. The SOFTWARE PRODUCTS are provided "As Is" without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose. THE AUTHOR does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCTS. THE AUTHOR makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. THE AUTHOR further expressly disclaims any warranty or representation to Authorized Users or to any third party.
+
+6. LIMITATION OF LIABILITY.
+In no event shall THE AUTHOR be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of "Authorized Users" use of or inability to use the SOFTWARE PRODUCTS, even if THE AUTHOR has been advised of the possibility of such damages. In no event will THE AUTHOR be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. THE AUTHOR shall have no liability with respect to the content of the SOFTWARE PRODUCTS or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information. 
+
+Please note: As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French.
+
+Remarque : Ce logiciel étant distribué au Québec, Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en français.
+
+EXONÉRATION DE GARANTIE. Le logiciel visé par une licence est offert "Tel Quel". Toute utilisation de ce logiciel est à votre seule risque et péril. L'AUTEUR du ligiciel n'accorde aucune autre garantie expresse. Vous pouvez bénéficier de droits additionnels en vertu du droit local sur la protection du consommateurs, que ce contrat ne peut modifier. Là ou elles sont permises par le droit locale, les garanties implicites de qualité marchande, d'adéquation à un usage particulier et d’absence de contrefaçon sont exclues.
+
+LIMITATION ET EXCLUSION DE RESPONSABILITÉ. 
+L'AUTEUR décline expressément toute garantie pour les PRODUITS LOGICIELS. Les PRODUITS LOGICIELS sont fournis "tels quels" sans garantie expresse ou implicite de quelque nature que ce soit, y compris, mais sans s'y limiter, les garanties de qualité marchande, de non-violation ou d'adéquation à un usage particulier. L'AUTEUR ne garantit ni n'assume la responsabilité de l'exactitude ou de l'intégralité des informations, textes, graphiques, liens ou autres éléments contenus dans les PRODUITS LOGICIELS. L'AUTEUR ne donne aucune garantie concernant les dommages pouvant être causés par la transmission d'un virus informatique, d'un ver, d'une bombe à retardement, d'une bombe logique ou d'un autre programme informatique de ce type. L'AUTEUR renonce expressément toute garantie ou représentation aux Utilisateurs Autorisés ou à tout tiers.
+
+EFFET JURIDIQUE. 
+Le présent contrat décrit certains droits juridiques. Vous pourriez avoir d’autres droits prévus par les lois de votre pays. 
+Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne le permettent pas.

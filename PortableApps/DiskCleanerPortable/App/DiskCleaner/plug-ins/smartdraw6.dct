@@ -1,0 +1,7 @@
+[Info]
+Title=SmartDraw 6
+Description=Erase SmardDraw 6's recent files
+
+
+[files]
+%appdata%\SmartDraw\SMARTD4.OPT

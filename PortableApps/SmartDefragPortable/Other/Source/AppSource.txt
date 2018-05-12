@@ -1,0 +1,4 @@
+The PhraseExpress and its componenents are closed source (freeware).
+
+The launchers source code is available from PortableApps.com:
+http://portableapps.com/node/22364

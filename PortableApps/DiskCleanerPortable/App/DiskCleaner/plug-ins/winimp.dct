@@ -1,0 +1,23 @@
+[Info]
+Title=WinImp History
+Description=Erases WinImp History
+ 
+[registry]
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|File1
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|File2
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|File3
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|File4
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|File5
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|File6
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|Folder1
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|Folder2
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|Folder3
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|Folder4
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|Folder5
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|Folder6
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|ExFolder1
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|ExFolder2
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|ExFolder3
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|ExFolder4
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|ExFolder5
+HKEY_CURRENT_USER|Software\Technelysium\WinImp|ExFolder6

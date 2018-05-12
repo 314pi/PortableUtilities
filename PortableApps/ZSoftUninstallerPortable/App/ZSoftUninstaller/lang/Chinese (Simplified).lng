@@ -1,0 +1,296 @@
+; SIMPLIFIED CHINESE LANG FILE 
+; THIS WAY YOU CAN EASILY TRANSLATE THIS PROGRAM INTO YOUR OWN LANGUAGE! 
+; EVERY LINE !!!STARTING!!! WITH A ";" IS CONSIDERED A COMMENT 
+您确认要删除它吗? 
+有可用更新!您要开启网站下载它吗? 
+您的版本已经是最新的! 
+出现一些错误...请稍后再试... 
+清除
+Program Name 
+文件(&F) 
+过滤(&I) 
+功能(&U) 
+设置(&T) 
+语言(&L) 
+帮助(&H) 
+关闭(&C) 
+只显示无效连结
+更新列表(&U) 
+搜索程序更新
+显示格线
+帮助
+ZSoft Software 
+
+关于(&A) 
+卸载
+删除
+您需至少要使用3个字元! 
+导出列表
+文本文件(*.txt)|*.txt|所有文件(*.*)|*.* 
+卸载(&U) 
+删除(&L) 
+帮助(&P) 
+只显示垃圾软体
+不显示隐藏连结
+隐藏
+编辑隐藏过滤器
+编辑隐藏过滤器
+删除列表上选取项目且不再隐藏
+显示%d程序! 
+信息
+欢迎使用ZSoft Uninstaller!\n\n您将在使用程序其间得到信息,所以请注意这里;)。 \n\nHave fun :o) 
+目前等待%s的卸载程序完成。 
+%s应当已被移除了。 \n\n情单已经更新! 
+无法执行%s的卸载程序。 
+; 
+; ABOUT BOX: 
+; 
+关于ZSoft Uninstaller 
+-关于-\nZSoft Uninstaller是一个小巧、免费、不耗资源的程序，\n却较Microsoft Windows内置的卸载工具拥有更多功能、更快载入。 \n\nUninstaller其实主要是为我而编写的,因为我认为Windows XP\n内置的卸载功能实在十分难用...\n\n请注意，所有本程序的使用完全是您的责任，\n编程人员不会对使用本程序而遗失资料等负责!\n\n-感谢-\n本程序包含以下专案的代码:\nToolbar2000 & TBX (令程序更好看的元件)\nIndy (启用网际网路的元件)\nWisnu Aribowo (卷动文字的元件)\n \n-版权通告-\n版权(C) 2004-2005 ZSoft。 \n\n部份版权自(c) 1993 - 2003, Chad Z。 \nHower (Kudzu)和Indy Pit Crew - IndyProject.org 
+关闭(&C) 
+; 
+; New 
+; 
+显示/编辑信息
+查看/编辑信息
+Name 
+Value 
+保存
+取消
+改变
+确定
+取消
+选择字型(仅列表) 
+分析
+分析安装
+; 
+; The analyze function 
+; 
+欢迎! 
+本向导会引导您分析安装或完整地卸载已分析的程序。 
+您希望做什么? 
+分析安装
+卸载已分析的程序
+取消
+下一步>> 
+在您开始安装之前，您的电脑需要建立一个映像。请在以下选择您要分析的硬碟。一般而言，选择驱动器C和您要安装到的驱动器(若不同)已经足够。 
+驱动器
+安装之前
+安装之后
+找到的文件(大约): 
+找到的注册表项(大约): 
+已用时间(秒): 
+比较中...请稍候! 
+输入程序名称
+在下面输入您已安装的程序的程序名称。 
+错误:文件已存在@输入程序名称
+错误:文件已存在。请输入一个独一的程序名称。 
+工作完成。视窗即将关闭。 
+请在以下选择您要卸载的已分析程序。 
+现在，请确认: 
+我明白这样做是我的责任
+我明白删除的文件不能被恢复
+我不会要编程人员负上任何责任
+卸载
+您需要选择您要卸载的程序! 
+您需要确认您明白: 
+我不要每次删除都确认
+文件"%s"是新的;您要删除它吗? 
+要删除文件吗? 
+您要删除记录档吗? 
+删除记录档吗? 
+已删除: 
+目录"%s"无法被删除-或者它并非空的
+%d文件似乎已被移除,但这不是一个资料恢复工具! 
+注册表项"%s"并非空的且不会被移除! 
+变形的记录! 
+完成
+添加新项目
+移除(无法反向操作) 
+新值: 
+新项目的名称: 
+新项目的内容: 
+您确认要从注册表移除这项目吗?\n请注意这是无法反向操作的!\n您还要继续吗? 
+您确认吗? 
+已安装程序
+已分析程序
+暂存档寻找(&T) 
+开始搜索
+停止搜索
+搜索该驱动器: 
+文件名称
+副档名
+位置
+大小
+用户停止搜索
+搜索于: 
+搜索已完成
+删除文件(无法反向操作) 
+您确认吗? 
+您确认要删除这些文件吗?\n请注意这是无法反向操作的!\n您还要继续吗? 
+文件夹可能无法删除
+推测这程序安装在文件夹:\n%s\n对吗?\n您要移除此目录吗? (无法反向操作!) 
+备份&&删除文件
+您确认吗? 
+这会删除选择的文件。但您可以之后将它恢复。 \n您还要继续吗? 
+备份
+恢复
+重新命名
+请在下面输入期望的名称
+重新命名
+删除
+部分文件,登录档无法删除。将在下一次开启程序时尝试删除! 
+找不到帮助文件! 
+找不到
+数值必须为整数! 
+数值必须被选择而且是整数! 
+字串
+扩展字串
+整数
+完成已开始的分析
+尝试建立文件夹时发生错误，些功能不会再继续。 
+错误! 
+显示记录的信息
+忽略列表
+区段
+位置
+编辑忽略列表
+添加
+删除
+区段: 
+位置: 
+浏览
+此目录应被忽略
+文件
+注册表
+取消
+添加
+搜索: 
+卸载优先权
+高
+中
+低
+项目已被忽略。 
+您必须正确地填写表格。 
+设置
+忽略IE快取
+忽略Firefox快取
+大概大小: 
+安装时间: 
+修改时间: 
+存取时间: 
+不要显示Windows Updates 
+全部恢复
+只显示新连结
+标记新连结
+隐藏程序
+注册表浏览器
+删除文件到资源回收站
+显示图标
+找不到文件'%s'。备份(可能)破碎。 
+另存为... 
+为大图标
+为列表中的小图标
+无法删除: 
+删除的目录: 
+删除的注册表项: 
+建立的注册表项: 
+未建立的注册表项: 
+未删除的注册表项: 
+删除的注册表键: 
+建立的注册表键: 
+未删除的注册表键: 
+请准备... 
+删除到资源回收站
+删除文件到资源回收站
+您确认要删除这些文件到资源回收站吗? 
+全选
+%d文件被找到。总计%s. 
+列表排序
+名称(递升) 
+名称(递降) 
+时间(递升) 
+时间(递降) 
+从隐藏列表移除
+编辑
+文件系统
+注册表
+编辑分析记录
+您修改了记录文件。您要保存这些改变吗? 
+您要保存您的改变吗? 
+改变背景色彩
+添加项目到忽略列表(分析特性) 
+在这里，您可以看到(和巡览)已分析安装的记录改变。您可以从记录中删除项目(会建立备份)，您也可以添加文件夹和注册表项到忽列表，使它们将来不会被记录。
+Empty Folders Finder
+Scan this directory for empty folders:
+Only scan top-level
+Start Scan
+Dir
+Scan this directory
+Remove Selected
+Tools
+Startup Manager
+Name
+Launches
+Disable
+Enable
+Copy program name to clipboard
+Text '%s' copied to clipboard!
+Hide Search-Bar
+The program %s should now be uninstalled. Do you want to search for leftovers?
+Search for leftovers?
+I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
+Next >>
+Jump To
+Go one level up
+Place
+Type
+Path
+Value
+Post Uninstall Manager
+Program Name
+Perform Post Uninstall on selected program
+By
+Version
+Open Install Folder
+Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
+Do you want to save a new logfile?
+Do you want to search for leftovers for the program?
+Post Uninstall Scanner
+Searching... Please Wait.
+Remove
+Are you sure?
+Are you sure you want to continue?
+Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
+For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
+It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ZSoft Uninstaller),\nand then come back here to remove all traces.
+Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
+This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
+Folder contains a lot of data
+You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
+Registry Backups
+Deletes from Installed Programs List
+Deletes from Post Uninstaller
+Name
+Backup Size
+Time of Deletion
+Show Data
+Alternative Uninstall
+Silent Uninstall
+Modify
+Uninstall External Application
+Badware
+Badware Finder
+Badware Searcher
+TMP File Searcher
+Only return Whole-Word-Style matches
+Are you sure?
+Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
+Delete Backup
+Are you sure?
+Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
+Delete This Post Uninstall File
+Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you抮e done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
+Copy log to clipboard
+Donate using Paypal
+Donate using Trialpay

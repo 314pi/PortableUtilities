@@ -1,0 +1,130 @@
+DSynchronize Coded By Dimitrios Coutsoumbas (Dimio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The current version is found to the following Link: 
+
+Home: "http://dimio.altervista.org/" 
+
+
+
+DESCRIPTION:
+~~~~~~~~~~~~
+
+DSynchronize is a program (Freeware) that syncronizes two or more directories on a local area network. 
+The program compares every directory "Source" with the respective "Destination", then changes the "Destination" (adding, replacing, or deleting files and subdirectory) in such way to make those files or subdirectories identical to the "Source."  It supports multiple filters (separated by "; ") type *.exe; *.txt etc. 
+You can configure synchronizations to use Varying environments (% WINDIR%,% USERPROFILE% etc.). 
+The use is rather intuitive. 
+
+
+
+SUPPORTED SYSTEMS:
+~~~~~~~~~~~~~~~~~~
+
+Windows VISTA
+Windows 2003
+Windows XP 
+Windows 2000 
+Windows NT4 with SP6a and IE4 or superior. 
+
+
+
+OPTIONS:
+~~~~~~~~
+
+"Save on exit" 
+It serves for saving all the settings and remembering which directories to synchronize. 
+
+"Antifragmentation" 
+It reduces the fragmentation of the disk: In order to prevent holes in the file structure when a file is replaced, the old file is first removed from the structure and then the replacement file is written into the old file's place.
+
+"Set/Enable timer" 
+This option sets the synchronization to run on a regular basis.  You can tell it how much time to wait between synchronizations in terms of hours and minutes. You can also specify certain days that you would like synchronization to occur or a specific time to sync on the days specified. 
+
+"Shutdown at the end" 
+This option will automatically shut down the PC at the end of the synchronization. 
+
+"You create folder if it does not exist" 
+If the specified directory does not exist on the destination, it will automatically be created there with the same name as the source directory. 
+
+"Add date to destination folder" 
+This option add the date to files on the destination.  For example, if the source file x is ". C:\mapindestination" it becomes "C:\mapindestination 18-07-2004 22.30", this can be used for creating multiple Backup using a time stamp to tell the difference among them. 
+
+"Only newer files" 
+Replaces files in "Destination" only if the file in "Origin" is more recent. 
+
+"Set Idle priority" 
+Set the process priority to the minimum possible on the system.  This is unnecessary as DSynchronize already uses very few resources.  Using this option will cause synchronization to be slower.
+
+"Bidirectional syncronization" 
+This allows the most recent files in both locations to be copied to the other.  Each file is checked in the source and the destination folders and the most recent file is copied to both locations.  The source and destination should be identical after synchronizing.
+
+"Real-Time Sync" 
+It continuously monitors the specified folders (This uses very little CPU) for changes that occur in the origin and to relay accordingly any changes made to the destination. 
+Before activating this option it is important to complete a normal synchronization.  In fact the function of this option is to maintain two identical file sets from the start. 
+
+"Autostart" 
+This automatically starts the program when Windows boots up with the last options you saved. 
+If the synchronization is on a timer, it will occur as scheduled, otherwise the otherwise the synchronization will immediately happen. 
+
+"Autostart as service" 
+This automatically starts the program as a service when Windows boots up. 
+It is possible to specify the account with which under which the program will run.  It is important to verify that the account specified has sufficient privilages to access both the source and destination directories.  
+
+The other options explain themselves: -)
+
+
+
+PARAMETERS OF THE COMMAND LINE 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is possible to specify some parameters on the command line. 
+
+/START 
+It immediately starts the synchronization (with the last saved options). 
+
+/MINIMIZE 
+It starts DSynchronize minimized in the System Tray. 
+
+/HIDDEN 
+It starts DSynchronize in the background without even displaying the icon in the Task Bar. 
+
+/NOSECURITYCHECK 
+Before effecting the synchronization, it doesn't check if they are possessed or I lead the permissions of read/write on the briefcases. In fact, In some rare case, it seems that the security check also prevents the synchronization on briefcases on which such permissions are possessed, for which, to select the option aforesaid, it allows to also operate normally in that particular cases. 
+
+/SOMEFILE.INI 
+It uses a specific file INI to control the synchronization. This file must be on same directory of DSynchronize.
+
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE  : katafratto
+ICQ    : 145633952
+E-MAIL : cyberdimio@gmail.com
+HOME   : http://dimio.altervista.org/
+
+
+
+NOTES: 
+~~~~~
+The program uses the UPX technology (http://upx.sourceforge.net/) to increase its portability. 
+
+
+
+LICENSE: 
+~~~~~~~~
+
+The program is distributed with the license Freeware. 
+
+
+
+NOTES ON THE SYNCHRONIZATION IN REAL-TIME:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW THIS WORK: 
+The program monitors all the changes in the status of Origin and, every 10 seconds, reflects the same changes in the Destination. 
+It then waits some 10 seconds which has the purpose of avoiding an useless consumption of processor, in fact, if a file is modified twice in 10 seconds, It will only be copied once, which reduces two fold the consumption of processor. 
+
+POSSIBLE PROBLEMS: 
+It's normal that, during the synchronization in Real-Time, in the log window, some operations show negative result (FAILED or LOCKED), this doesn't determine anomalies in the synchronization. 
+For instance, if you have created a file that will be deleted then in turn be replace in the matter of a second, when the program tries to syncronize it will produce two errors while in reality everything is OK. In fact the first thing the program will try to do is copy a nonexistent file, and then will try to delete that file. 
+
+The synchronization in Real-Time is considered experimental. In fact there exist some rare conditions that can cause failures in the synchronization. You are recommended therefore, if this option is used, to periodically effect also of the normal synchronizations.

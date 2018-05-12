@@ -1,0 +1,220 @@
+﻿1 File 
+2 File 
+1 New task (Run...) 
+2 Tác vụ mới (Run...) 
+1 New task (Run as user...) 
+2 Tác vụ mới (Run as user...) 
+1 Exit 
+2 Thoát 
+1 Options 
+2 Tùy chọn 
+1 Set default Task Manager 
+2 Thiết lập Task Manager mặc định 
+1 Windows TaskManager 
+2 Windows TaskManager 
+1 Start in Separate Desktop (requires restart) 
+2 Bắt đầu trong Desktop Riêng biệt (yêu cầu khởi động lại) 
+1 Show all windows 
+2 Hiện tất cả cửa sổ 
+1 Select columns... 
+2 Chọn cột ... 
+1 Graphical CPU usage 
+2 Đồ họa CPU sử dụng 
+1 Graphical MEM usage 
+2 Đồ họa MEM sử dụng 
+1 Hide loopback IP 
+2 Hide loopback IP 
+1 Resolve IP addresses and port services 
+2 Resolve IP addresses and port services 
+1 Show bytes exchanged (requires fast pc) 
+2 Hiện byte trao đổi (yêu cầu máy tính nhanh) 
+1 Save on exit 
+2 Lưu khi thoát 
+1 View
+2 View
+1 Always on top 
+2 Luôn luôn trên cùng 
+1 Transparent window 
+2 Trong suốt cửa sổ 
+1 Show in traybar 
+2 Hiện ở thanh tác vụ 
+1 CPU Usage 
+2 CPU sử dụng 
+1 Mem usage 
+2 RAM sử dụng 
+1 Numeric tray bar 
+2 Số biểu tượng trong thanh tác vụ 
+1 Shutdown 
+2 Tắt máy 
+1 Lock workstation 
+2 Lock workstation 
+1 Suspend to RAM 
+2 Tạm dừng cấp RAM 
+1 Logoff 
+2 Đăng xuất 
+1 Reboot 
+2 Khởi động lại 
+1 Shutdown 
+2 Tắt máy 
+1 Shutdown force 
+2 Buộc tắt máy 
+1 Shutdown force (hard) 
+2 Buộc tắt máy (Cứng) 
+1 Tools 
+2 Công cụ 
+1 Auto manage priority of processes 
+2 Tự động quản lý ưu tiên của các quá trình 
+1 Sound advise for variation of CPU usage 
+2 Âm thanh thông báo cho biến thiên của CPU sử dụng 
+1 Enable hotkeys (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12) 
+2 Kích hoạt tính năng phím nóng (Ctrl+Alt+BackSpace, Ctrl+Alt+F8...F12) 
+1 About 
+2 Giới thiệu 
+1 Support with donation... 
+2 Hỗ trợ với đóng góp ... 
+1 About Dtaskmanager 
+2 Thông tin về DTaskManager 
+1 Applications 
+2 Ứng dụng 
+1 Freeze 
+2 Đóng băng 
+1 End Task 
+2 Kết thúc tác vụ 
+1 Go to process 
+2 Đi tới tiến trình  
+1 Switch to 
+2 Chuyển sang 
+1 New Task 
+2 Tác vụ mới 
+1 Processes 
+2 Tiến trình 
+1 Suspend task 
+2 Tạm dừng tiến trình 
+1 Resume task 
+2 Nối lại tiến trình 
+1 Find target file 
+2 Tìm file đích 
+1 Kill Task 
+2 Giết tác vụ 
+1 Kill Task Override 
+2 Giết tác vụ bắt buộc 
+1 Performances 
+2 Biểu diễn 
+1 CPU usage history 
+2 Lịch sử CPU sử dụng 
+1 Memory usage history 
+2 Lịch sử Bộ nhớ sử dụng 
+1 System details 
+2 Chi tiết hệ thống 
+1 Memory usage
+2 Bộ nhớ sử dụng
+1 Total
+2 Tổng số 
+1 Physical
+2 Vật lý 
+1 Physical Memory
+2 Bộ nhớ Vật lý 
+1 Installed
+2 Được cài
+1 Available
+2 Trống
+1 System cache
+2 System cache
+1 Commit charge memory
+2 Bộ nhớ ảo
+1 Current
+2 Hiện tại
+1 Limit
+2 Giới hạn
+1 Kernel memory
+2 Bộ nhớ Chíp
+1 Paged
+2 Paged
+1 Nonpaged
+2 Không Paged
+1 Pagefile
+2 File Page
+1 Size
+2 Dung lượng
+1 Usage
+2 Đang sử dụng
+1 Peak
+2 Cao điểm
+1 Ports
+2 Cổng
+1 Networking
+2 Mạng
+1 Bandwidth
+2 Băng thông
+1 Bandwith hystory
+2 Lịch sử băng thông
+1 Details
+2 Thông tin chi tiết
+1 PC name
+2 Tên PC
+1 IP address
+2 Địa chỉ IP
+1 MAC Address
+2 Địa chỉ MAC
+1 User Modules
+2 Modules sử dụng
+1 View by modules
+2 Xem Modules
+1 Kernel Modules
+2 Kernel Modules
+1 Show Bytes
+2 Hiện Bytes
+1 Find target file...
+2 Tìm file đích... 
+1 Set Priority
+2 Đặt Ưu tiên
+1 Realtime
+2 Thời gian thực 
+1 High
+2 Cao
+1 Above Normal
+2 Trên bình thường
+1 Normal
+2 Bình thường
+1 Below Normal
+2 Dướng mình thường
+1 Low
+2 Thấp
+1 Low To All Processes
+2 Để Thấp Tất cả Tiến Trình
+1 Set Affinity...
+2 Tạo mối quan hệ
+1 Trim RAM Usage
+2 Cắt bộ nhớ sử dụng
+1 Trim RAM to all processes
+2 Cắt bộ nhớ sử dụng của tất cả tiến trình
+1 Reveal All Windows
+2 Hiện tất cả các cửa sổ ẩn
+1 Suspend
+2 Tạm dừng
+1 Resume
+2 Tiếp tục 
+1 End Process
+2 Kết thúc tiến trình
+1 End Process Tree
+2 Kết thúc Cây tiến trình
+1 Quit Process
+2 Thoát Tiến trình
+1 Quit Process Tree
+2 Thoát Cây Tiến trình
+1 Kill Process
+2 Giết Tiến trình
+1 Kill Process Tree
+2 Giết Cây Tiến trình
+1 Kill Process Override
+2 Giết Đè Tiến trình 
+1 Kill Process Tree Override
+2 Giết Đè Cây Tiến trình
+1 Kill Task (Override)
+2 Giết Tiến trình (Đè)
+1 Show Window
+2 Hiện cửa sổ
+1 Hide Window
+2 Ẩn của sổ
+1 Close Connection
+2 Ngắt kết nối

@@ -1,0 +1,10 @@
+[Info]
+Title=Apple QuickTime Player
+Description=Clears the Apple QuickTime Player Recent Movies history
+
+[registry]
+HKEY_LOCAL_MACHINE|Software\Apple Computer, Inc.\QuickTime\Recent Movies
+
+[files]
+%localappdatalow%\Apple Computer\QuickTime\QuickTimeFavorites.qtr
+%localappdata%\Apple Computer\QuickTime\QuickTimeFavorites.qtr

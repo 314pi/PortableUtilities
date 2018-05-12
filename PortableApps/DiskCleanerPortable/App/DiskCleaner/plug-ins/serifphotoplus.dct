@@ -1,0 +1,9 @@
+[Info]
+Title=Serif PhotoPlus 6
+Description=Removes the Serif PhotoPlus 6 recent file list
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Serif\PhotoPlus\6.0\Recent File List
+HKEY_CURRENT_USER|Software\Serif\PhotoPlus\6.0\Directories
+HKEY_CURRENT_USER|Software\Serif\PhotoPlus\6.0\Import/Export|LastGraphicExport

@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+<title>Xenon File Manager Help</title>
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+
+<img src="logo.png" alt="Xenon" id="logo" />
+<h1>Xenon File Manager Help</h1>
+
+<ol>
+	<li><a href="#about">About Xenon</a>
+	<li><a href="#todo">Todo List</a></li>
+	<li><a href="#cmd">Command Line Usage</a></li>
+	<li><a href="#license">License</a></li>
+</ol>
+
+	<h2><a name="about" id="about">About Xenon</a></h2>
+
+	<p>Xenon is a <a href="http://portableapps.com/about/what_is_a_portable_app" target="_blank">Portable</a>,
+	Open Source file manager. It supports file assocations for other portable applications so you can open
+	a document by clicking on it!</p>
+	
+	<p>Xenon is released for free under the MIT License. Xenon is a product of <a href="http://www.mi3soft.info">MI3 Software</a> and <a href="http://portableapps.com">PortableApps.com</a></p>
+	
+	<br style="clear:both;" />
+	
+	<p>Special Thanks to:
+	<ul>
+		<li><a href="http://portableapps.com/user/64197">Mr Magical</a> Xenon's Logo</li>
+		<li><a href="http://blog.kain-planet.de/">NeoRame</a> Icon Modifications</li>
+		<li><a href="http://portableapps.com/user/21502">Andres Bracho</a></li> Spanish Translation
+		<li><a href="http://sourceforge.net/users/eaglezip">Giacomo Margarito</a> Italian Translation</li>
+		<li><a href="http://portableapps.com/user/1946">Marko Moeller</a> German Translation</li>
+		<li><a href="http://portableapps.com/user/40628">José Pedro Arvela</a> Portugese Translation</li>
+		<li><a href="http://portableapps.com/user/59128">M_T</a> Polish Translation</li>
+		<li><a href="http://www.mi3soft.info/">MI3 Software</a> English Translation ;-)</li>
+		<li><a href="http://www.autoitscript.com/forum/index.php?showuser=3602">martin</a> on the AutoIt forum for some help with D&amp;D</li>
+		<li>Everyone on <a href="http://portableapps.com/">PortableApps.com</a> who gave their time to test and comment on Xenon.</li>
+	</ul>
+	</p>
+    <p>
+        This program includes icons from the <a href="http://tango.freedesktop.org/">Tango Icon
+            Set</a> and <a href="http://www.7-zip.org">7-Zip</a>. It also includes a component
+        of 7-Zip. Icons from the Tango Icon Gallery are released under the Creative Commons
+        Attribution-ShareAlike 2.5(see ccpl.txt). http://tango.freedesktop.org/Tango_Icon_Gallery
+        6-Zip, icons from 7-Zip, and its components are released under the LGPL (see lgpl.txt).
+        http://www.7-zip.org/
+    </p>
+
+	
+	<h2><a name="todo" id="todo">Todo List</a></h2>
+	<p>Todo by 2.0:
+	<ul>
+		<li>Auto Update</li>
+		<li>Plugin Manager</li>
+	</ul></p>
+	
+	<p>Todo by 2.5:
+	<ul>
+		<li>Toolbar icon size/labels</li>
+		<li>Add dual pane</li>
+		<li>Hide toolbar</li>
+	</ul></p>
+	
+	<h2><a name="cmd" id="cmd">Command Line Usage</a></h2>
+
+	<p>Xenon can be run from the command line to open folders, search, etc.</p>
+
+	<p>The following code will open FOLDER in Xenon.</p>
+
+	<code>XenonPortable.exe FOLDER</code>
+
+	<p>This will start a search in Xenon for TERMS under ROOTDIR.</p>
+
+	<code>XenonPortable.exe /Search ROOTDIR TERMS</code>
+	
+	<p>This will set the root dir to ROOTDIR.</p>
+	
+	<code>XenonPortable.exe /Search ROOTDIR</code>
+
+	<p>Please note that if you are using a recompiled version of
+		xenon so it doesn't use a launcher you have to use the following.</p>
+
+	<code>Xenon.exe FOLDER<br />
+	Xenon.exe /AutoIt3ExecuteScript Search.a3x /Search ROOTDIR TERMS</code>
+	
+	
+	<h2><a name="license" id="license">License</a></h2>
+	
+	Some parts of Xenon, specifically 6-Zip, and Components from 7-Zip are released under the <a href="LGPL.html">LGPL</a>.<br />
+	All the file assocations icons, the splash screens, the folder icon, and tango toolbar icons are released under the Creative Commons Attribution-ShareAlike 2.5.<br /><br />
+
+
+	Xenon is released under the Ms-PL.<br /><br />
+
+
+<pre>    Xenon File Manager
+    Copyright &copy; 2007-2008 www.mi3soft.info
+	
+	Xenon File Manager is free software: you can redistribute it and/or modify
+	it under the terms of the GNU Lesser General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU Lesser General Public License for more details.
+
+	You should have received a copy of the GNU Lesser General Public License
+	along with this program.  If not, see &lt;<a href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</a>&gt;.
+	
+	One Exeception:
+		Small snippets of code may be used from Xenon withouth subjecting
+		your code to the GNU Lesser General Public License if
+			a) The code borrowed does not include more than four (4) functions.
+			and
+			b) The application that this code will be used in is not a file browser.</pre>
+	
+	<p>Copyright &copy; 2007, 2008 www.mi3soft.info</p>
+</body>
+</html>

@@ -1,0 +1,338 @@
+[Dialogs]
+ButtonYes=Да
+ButtonNo=Нет
+ButtonOK=OK
+ButtonCancel=Отмена
+ButtonAbort=Прервать
+ButtonRetry=Повторить
+ButtonIgnore=Игнорировать
+ButtonAll=Все
+ButtonNoToAll=Нет для всех
+ButtonYesToAll=Да для всех
+ButtonHelp=Справка
+DialogTitleWarning=Предупреждение
+DialogTitleError=Ошибка
+DialogTitleInformation=Информация
+DialogTitleConfirmation=Подтверждение
+DialogTitleCustom=Пользовательский
+
+[Messages]
+MyComputer=Мой компьютер
+WarningComplicatedDataType=RegAlyzer может добавить параметр данного типа, но может редактировать его только в двоичном виде.%0D%0AНеверно введенные данные могут привести к зависанию Редактора реестра Windows.%0D%0AХотите все-таки продолжить?
+ConfirmValueDelete=Вы действительно хотите удалить этот параметр ("%s")?
+ConfirmKeyDelete=Вы действительно хотите удалить этот раздел ("%s")?
+DialogRenameValueTitle=Переименовать параметр ("%s")
+DialogRenameValueCaption=Введите новое имя для этого параметра:
+DialogRenameKeyTitle=Переименование раздела ("%s")
+DialogRenameKeyCaption=Введите новое имя для этого раздела:
+DialogNewKeyTitle=Новый раздел
+DialogNewKeyCaption=Введите имя нового раздела:
+DialogNewValueTitle=Новый параметр
+DialogNewValueCaption=Введите имя нового параметра:
+DialogNewValueStringTitle=Новый строковый параметр
+DialogNewValueStringCaption=Введите имя нового строкового параметра:
+DialogNewValueNumericTitle=Новый числовой параметр
+DialogNewValueNumericCaption=Введите имя нового числового параметра:
+DialogNewValueBinaryTitle=Новый двоичный параметр
+DialogNewValueBinaryCaption=Введите имя нового двоичного параметра:
+DialogJumpToKeyTitle=Перейти к разделу
+DialogJumpToKeyCaption=Введите имя раздела, к которому следует перейти:
+DialogNewKeyDefault=Новый раздел
+DialogNewValueDefault=Новый параметр
+DialogNewValueStringDefault=Новая строка
+DialogNewValueNumericDefault=Новое число
+DialogNewValueBinaryDefault=Новый бинарный параметр
+DialogValueDefault=(По умолчанию)
+DialogDataNotDefined=(Значение не присвоено)
+DialogDataNotSupported=(Тип данных не поддерживается)
+DialogDataBinaryZero=(Двоичное значение нулевой длины)
+DialogDataError=(Ошибка чтения данных)
+DialogSearchStatus=Поиск %s
+DialogSearchFinished=Поиск завершен с %d результатами.
+DialogSearchStopped=Вы остановили поиск.
+DialogSearchFocusLimited=Поиск ограничен до %s.
+DialogSearchFocusAll=Поиск во всем реестре.
+DialogSearchHighSpeedStatus=Подождите...
+RemoteConnectTitle=Подключение к сетевому реестру
+RemoteConnectCaption=Введите имя сетевого компьютера:
+DialogConfirmImport=Вы действительно хотите импортировать этот файл?
+BookmarkItemDefaultName=Новая закладка
+BookmarkItemAddTitle=Имя новой закладки
+BookmarkItemAddCaption=Введите имя для новой закладки:
+BookmarkItemAddLocationTitle=Новое расположение закладки
+BookmarkItemAddLocationCaption=Введите расположение, на которое будет указывать закладка:
+BookmarkItemRenameTitle=Переименовать закладку
+BookmarkItemRenameCaption=Введите новое имя для закладки:
+BookmarkItemDeleteCaption=Вы действительно хотите удалить эту закладку?
+BookmarkFolderDefaultName=Новая папка
+BookmarkFolderAddTitle=Имя новой папки
+BookmarkFolderAddCaption=Введите имя для новой папки:
+BookmarkFolderRenameTitle=Переименование папки
+BookmarkFolderRenameCaption=Введите новое имя для папки:
+BookmarkFolderDeleteCaption=Вы действительно хотите удалить эту папку?
+DialogSearchReplaceStatus=%s вхождений было заменено.
+ConfirmCopyOverwrite=Параметр с данным именем ("%s") уже существует в целевом разделе. Вы действительно хотите  перезаписать его?
+DragDropMoveStatus=Перемещение параметр(а,ов) в %%s...
+DragDropCopyStatus=Копирование параметр(а,ов) в %s...
+DragDropValueMoveStatus=Перемещение параметр(а,ов) в %s...
+DragDropValueCopyStatus=Копирование параметр(а,ов) в %s...
+DragDropKeyMoveStatus=Перемещение раздела %s в %s...
+DragDropKeyCopyStatus=Копирование раздела %s в %s...
+DragDropWrongRootKeyWarning=Вы (пока что) не можете перемещать разделы между различными корневыми разделами реестра!
+RemoteErrorAccessDenied=У вас нет доступа к этому сетевому ресурсу.
+RemoteErrorAlreadyAssigned=Устройство уже подключено.
+RemoteErrorBadDevice=Указано неверное устройство.
+RemoteErrorBadNetName=Неверный формат сетевого ресурса.
+RemoteErrorBadProfile=Профиль пользователя указан в некорректном формате.
+RemoteErrorBadProvider=Ваш сетевой адрес не соответствует ни одному сетевому провайдеру.
+RemoteErrorBusy=Роутер или провайдер занят. Повторите через несколько секунд.
+RemoteErrorInvalidPassword=Пароль, введенный вами, неверен для данного ресурса.
+RemoteErrorNoNetOrBadPath=Сетевой сервис не был запущен или указанный адрес не может быть использован.
+RemoteErrorNoNetwork=Сеть недоступна.
+DialogHivesLoaded=%d кустов реестра были найдено и загружено в HKEY_LOCAL_MACHINE\PE_* и/или HKEY_USERS\PE_*. Они будут выгружены при закрытии программы.
+
+[Main]
+LanguageName=Русский
+Use=Использовать Русский язык
+HelpFile=Help\English.chm
+FontName=Tahoma
+MS Sans Serif
+FontSize=8
+FontCharset=204
+
+[Forms]
+formMain=RegAlyzer
+formEditString=Изменить строковый параметр
+formEditInteger=Изменить числовой параметр
+formEditMultiString=Изменить мультистроковый параметр
+formSearch=Поиск
+formBookmarks=Закладки
+formAbout=Информация
+formEditResourceRequirementsList=Отобразить список необходимых ресурсов
+formRegalyzer=RegAlyzer
+formRemoteConnect=Подключение к сетевому реестру
+
+[formMain]
+sbar.Items=%0D%0A%0D%0A
+
+[formMain.panelMain.pcMain]
+tsData=Данные
+tsInfo=Безопасность
+tsDatabaseInfo=База информации
+
+[formMain.panelMain.pcMain.tsData]
+lvData.Items=Имя%0D%0AТип%0D%0AЗначение%0D%0AРазмер%0D%0A
+lvHexDump.Items=Поз.%0D%0AДамп%0D%0AТекст%0D%0A
+
+[formMain.alMain]
+aKeyDelete=&Удалить раздел
+aKeyAdd=&Новый раздел...
+aKeyRename=&Переименовать раздел...
+aValueDelete=&Удалить значение
+aValueRename=&Переименовать значение...
+aValueChange=&Изменить данные...
+aKeyCopyPath=Копировать имя раздела в Буфер
+aSearch=&Поиск...
+aKeyRefresh=&Обновить
+aKeyJump=Перейти к разделу...
+aValueAdd=Создать
+aValueAddString=Строковый параметр
+aValueAddExpandString=Расширяемая строка
+aValueAddMultiString=Многострочный параметр
+aValueAddInteger=Числовой параметр (32 бит)
+aValueAddLEInteger=Числовой параметр (32 бит, little endian)
+aValueAddBEInteger=Числовой параметр (32 бит, big endian)
+aValueAddBinary=Двоичные данные
+aSecurityInformationExportToFile=Экспортировать информацию безопасности в файл...
+aSecurityInformationExportToClipboard=Экспортировать информацию безопасности в Буфер обмена
+aFileExit=В&ыход
+aValueAddInt64=Числовой параметр (64 бит)
+aValueAddLEInt64=Числовой параметр (64 бит, little endian)
+aBookmarksManage=&Управление закладками
+aFileOpenReg=&Открыть файл реестра...
+aKeyExport=&Экспорт...
+aFileConnectReg=Подключить сетевой &реестр...
+aKeyImport=&Импорт...
+aKeyAddBookmark=Добавить в закладки...
+aAbout=О программе...
+aValueAddLink=Символическая ссылка
+aKeyBack=Назад
+aKeyForward=Вперед
+aValueAddResourceList=Список ресурсов
+aValueAddFullResourceDescriptor=Полный дескриптор ресурса
+aValueAddResourceRequirementsList=Список необходимых ресурсов
+aInfoDBRefreshEntry=Обновить
+aInfoDBStoreEntry=Запомнить
+aInfoDBSaveKeyInfo=Сохранить информацию раздела
+aInfoDBSaveValueInfo=Сохранить информацию параметра
+aHelpContents=Содержание
+aHelpIndex=Индекс
+aMenuHelp=Справка
+aValueAddNone=Неопределенный (пустой тип)
+aValueSelectAll=Выделить все
+aSecurityInformationGrantAll=Предоставить все права любому пользователю данного раздела
+
+[formMain.menuMain]
+miFile=&Файл
+miEdit=&Правка
+miBookmarks=&Закладки
+miLanguages=&Языки
+miHelp=&?
+
+[formEditString]
+labelValue=Имя параметра:
+labelData=Значение параметра:
+bnOK=OK
+bnCancel=Отмена
+
+[formEditInteger]
+labelDataDecimal=Значение (десятичн.):
+labelValue=Имя параметра:
+labelDataHex=Значение (шестнадц.):
+labelDataBinary=Значение (двоичн.):
+bnCancel=Отмена
+bnOK=OK
+
+[formEditMultiString]
+labelValue=Имя параметра:
+labelData=Значение:
+bnCancel=Отмена
+bnOK=OK
+
+[formSearch]
+bnCancel=Отмена
+bnSearch=Найти
+bnStop=Стоп
+
+[formSearch.pcSearch]
+tsCriteria=Критерии поиска
+tsResults=Результаты
+tsByDate=... по дате
+tsReplace=Замена
+
+[formSearch.pcSearch.tsCriteria]
+labelSearchFor=Что &искать:
+groupSearchFocus=Цель поиска
+groupSearchRange=Диапазон поиска
+groupSearchMisc=Дополнительно
+groupSearchDataTypes=Типы данных
+labelSearchStyle=&Стиль:
+cbSearchStyle.Items=Простой поиск подстроки%0D%0AПоиск по маске (*, ?)%0D%0AЛогический поиск (AND, OR, NOT)%0D%0AРегулярные выражения%0D%0A
+cbSearchStyle=Простой поиск подстроки
+
+[formSearch.pcSearch.tsCriteria.groupSearchFocus]
+cbFocusKeys=&Разделы
+cbFocusValues=&Параметры
+cbFocusData=&Значения
+
+[formSearch.pcSearch.tsCriteria.groupSearchRange]
+rbRangeKey=Теку&щий раздел
+rbRangeComplete=&Весь реестр
+
+[formSearch.pcSearch.tsCriteria.groupSearchMisc]
+cbIgnoreCase=&Без учета регистра
+cbHighSpeed=Быстрый поиск
+
+[formSearch.pcSearch.tsCriteria.groupSearchDataTypes]
+cbDataTypeStrings=&Строки
+cbDataTypeNumerics=&Числа
+cbDataTypeBinary=&Двоичные данные
+
+[formSearch.pcSearch.tsResults]
+lvResults.Items=Раздел%0D%0AПараметр%0D%0AЗначение%0D%0A
+
+[formBookmarks]
+bnOK=OK
+bnCancel=Отмена
+
+[formBookmarks.alBookmarks]
+aBookmarkAdd=Добавить закладку...
+aBookmarkRename=Переименовать...
+aBookmarkDelete=Удалить закладку
+aFolderAdd=Добавить папку...
+aFolderRename=Переименовать...
+aFolderDelete=Удалить папку
+aSortOneLevel=Сортировка одного уровня
+aSortRecursive=Рекурсивная сортировка
+aFolderExportOneLevel=Экспорт одного уровня
+aFolderExportRecursive=Рекурсивный экспорт
+
+[formAbout]
+Label1=Copyright © 2000-2007 Safer-Networking Limited. Все права защищены.
+bnOK=OK
+memoCredits=Credits go to: %0D%0AEnrico Maria Biancarelli (suggestions, italian translation)%0D%0AAndrey V. Sorokin (code for regular expressions)%0D%0AAlexander Asyabrik AKA Shura (Русский перевод)%0D%0AHevesi Janos (magyar translation)%0D%0AQuan Qi Tang (chinese simplified translation)%0D%0Aliwk (chinese traditional translation)%0D%0AnickW (french translation)%0D%0ADavid (spanish translation)%0D%0ANelson A. H. de Carvalho (brazil translation)%0D%0APep Isern (catalan translation)%0D%0AKristian Christensen (dansk translation)%0D%0AHeppocrates Giakoumis (hellenic translation)%0D%0ABartosz Czerwinski (polski translation)%0D%0A
+labelCopyright=Copyright © 2000-2007 Safer-Networking Limited.
+labelCopyright2=Все права защищены.
+
+[formEditResourceRequirementsList]
+labelInterfaceType=Тип интерфейса:
+labelBusNumber=Номер шины:
+labelSlotNumber=Номер гнезда:
+bnCancel=Отмена
+bnOK=OK
+lvList.Items=Тип%0D%0AМинимальный адрес%0D%0AМаксимальный адрес%0D%0AДлина%0D%0AВыравнивание%0D%0AОпции%0D%0A
+
+[Images]
+Flag16=424DF60000000000000076000000280000001000000010000000010004000000000080000000D40E0000D40E0000100000001000000000000000000080000080000000808000800000008000800080800000C0C0C000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD99999999999999DD99999999999999DD99999999999999DD99999999999999DDCCCCCCCCCCCCCCDDCCCCCCCCCCCCCCDDCCCCCCCCCCCCCCDDCCCCCCCCCCCCCCDD7FFFFFFFFFFFF7DD7FFFFFFFFFFFF7DD7FFFFFFFFFFFF7DD77777777777777DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+Flag32=424D760200000000000076000000280000002000000020000000010004000000000000020000D40E0000D40E0000100000001000000000000000000080000080000000808000800000008000800080800000C0C0C000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD99999999999999999999999999999DDD99999999999999999999999999999DDD99999999999999999999999999999DDD99999999999999999999999999999DDD99999999999999999999999999999DDD99999999999999999999999999999DDD99999999999999999999999999999DDD99999999999999999999999999999DDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDD7FFFFFFFFFFFFFFFFFFFFFFFFFFF7DDD7FFFFFFFFFFFFFFFFFFFFFFFFFFF7DDD7FFFFFFFFFFFFFFFFFFFFFFFFFFF7DDD7FFFFFFFFFFFFFFFFFFFFFFFFFFF7DDD7FFFFFFFFFFFFFFFFFFFFFFFFFFF7DDD7FFFFFFFFFFFFFFFFFFFFFFFFFFF7DDD7FFFFFFFFFFFFFFFFFFFFFFFFFFF7DDD77777777777777777777777777777DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+
+[formSearch.pcSearch.tsByDate]
+Label1=Искать параметры, кото&рые
+Label2=и
+cbByDateMode.Items=имеют любую дату.%0D%0Aновее чем:%0D%0Aстарше чем:%0D%0Aс датой между:%0D%0Aвне промежутка:%0D%0A
+labelByDate=Искать &разделы, которые
+labelByDateAnd=и:
+labelByDateOSInfo=Данный критерий поиска доступен только для систем Windows NT, Windows 2000 и Windows XP.%0D%0A%0D%0AОперационные системы Windows 9x и Windows ME не поддерживают хранение даты разделов реестра.
+dtDate1=06.07.2006
+dtTime1=06:07:08
+dtDate2=06.07.2006
+dtTime2=06:07:08
+
+[formSearch.alSearch]
+aSearchResultsExport=Экспортировать...
+aSearchResultsExportAll=&Экспортировать все...
+aSearchResultsExportSelected=Экспортировать выделенн&ое...
+aSearchResultsSelectAll=&Отметить все
+aSearchResultsDeSelectAll=&Снять отметки со всех
+aSearchResultsSelectKeys=Отметить результаты поиска разделов
+aSearchResultsDeSelectKeys=Снять отметки с результатов поиска разделов
+aSearchResultsSelectValues=Отметить результаты поиска параметров
+aSearchResultsDeSelectValues=Снять отметки с результатов поиска параметров
+aSearchResultsSelectData=Отметить результаты поиска значений
+aSearchResultsDeSelectData=Снять отметки с результатов поиска значений
+aSearchResultsExportKeyContents=Дополнительно: Также экспортировать результаты раздела
+aReplace=&Заменить
+aSearchStart=Найти
+
+[formMain.panelMain.pcMain.tsDatabaseInfo]
+labelInfoDBKey=Информация о разделе:
+labelInfoDBValue=Информация о параметре:
+
+[formMain.panelMain.pcMain.tsInfo]
+Panel2=Panel2
+
+[formRemoteConnect]
+labelNamePrompt=Введите имя сетевого компьютера:
+bnOK=OK
+bnCancel=Отмена
+bnSearch=&Найти
+labelRemoteInfo=Замечание: Подключение к сетевому реестру возможно только в случае если сетевой компьютер работает в Windows NT, 2000 или XP, а также в Windows ME в случае если выполняется сервис сетевого доступа.
+
+[formSearch.pcSearch.tsReplace]
+labelReplaceLimitations=Отметьте на вкладке 'Результаты' те элементы, в которых следует произвести замены. Замена производится только в именах разделов и параметров, а также в строковых значениях.
+labelReplaceSource=Заменить:
+labelReplaceNew=На этот текст:
+groupReplaceMisc=Дополнительно
+
+[formSearch.pcSearch.tsReplace.groupReplaceMisc]
+cbReplaceIgnoreCase=&Без учета регистра
+cbReplaceOverwrite=Перезапись существующих
+cbReplaceOverwriteValues=Перезапись существующих параметров
+cbReplaceOverwriteKeys=Перезапись существующих разделов
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBKey]
+bnInfoDBSaveKeyInfo.Hint=Недоступно в BartPE
+
+[formMain.panelMain.pcMain.tsDatabaseInfo.labelInfoDBValue]
+bnInfoDBSaveValueInfo.Hint=Недоступно в BartPE
+

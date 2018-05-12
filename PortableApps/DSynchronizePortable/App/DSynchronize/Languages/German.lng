@@ -1,0 +1,407 @@
+1 DSynchronize - Old INI file loaded: some features will not be available
+2 DSynchronize - Alte ini Datei geladen, nicht alle Optionen verfügbar
+1 No old versions
+2 keine alten Versionen
+1 Errors
+2 Fehler
+1 Deleted
+2 Gelöscht
+1 Added
+2 Hinzugefügt
+1 Replaced
+2 Ersetzt
+1 RealTime
+2 Echtzeit
+1 DSynchronize - Job 01
+2 DSynchronize - Job 01
+1 JOBS
+2 JOBS
+1 Select and manage Jobs
+2 Auswählen und Bearbeiten Jobs
+1 DSynchronize
+2 DSynchronize
+1 Destinations
+2 Zielpfade
+1 About
+2 Über...
+1 Browse
+2 Suchen
+1 Filter
+2 Filter
+1 Insert path and then press "Enter"
+2 Pfad eingeben und "Enter" drücken
+1 Do not delete any file
+2 Lösche keine Dateien
+1 If they are too many items, reset list
+2 Bei zu vielen Einträgen Liste zurücksetzen
+1 If they are too many items (over 1000), reset list
+2 bei über 1000 Einträgen wird die Liste zurückgesetzt
+1 Do not replace any file
+2 Ersetze keine Dateien
+1 Does not replace any file
+2 Ersetzt keine Dateien
+1 Ask before replacing files
+2 Bestätige Ersetzen von Dateien
+1 Do not add any file
+2 Füge keine Dateien hinzu
+1 Does not add any new file
+2 Fügt keine Dateien hinzu
+1 Ask before adding files
+2 Bestätige Hinzufügen von Dateien
+1 Ask before deleting files
+2 Bestätige Löschen von Dateien
+1 Does not delete any file
+2 Löscht keine Datei
+1 DSYNC-WIN-COMM
+1 Set filter to include/exclude files or folders from sync
+2 Filter um Dateien und Verzeichnisse ein-/auszuschliessen
+1 Commands
+2 Befehle
+1 AS
+2 ALS
+1 SERVICE
+2 DIENST
+1 RUNNING
+2 LÄUFT
+1 &Synchronize
+2 &Start
+1 &Pause
+2 &Pause
+1 Maintain old versions
+2 Alte Version behalten
+1 When a file is replaced, create, in destination path, a folder with the old file.
+2 Ordner mit Sicherungskopie der ersetzten Datei im Zielpfad erstellen
+1 Sources
+2 Quellpfade
+1 Timer options
+2 Timer Optionen
+1 Acknowledge DST
+2 Sommerzeit berücksichtigen
+1 If filetime is different only by DST (daylight saving time), skips synchronising
+2 Wenn die Datei nur auf Grund der Sommerzeit unterschiedlich ist, Synchronisierung überspringen
+1 Realtime sync
+2 Echtzeit Sync
+1 Real-time synchronization
+2 Echtzeit Synchronisierung
+1 Shutdown PC at the end
+2 PC herunterfahren
+1 Shutdown the system at the end of sync
+2 Fährt das System nach der Synchronisierung runter
+1 Timer sync...
+2 Timer sync...
+1 Autostart
+2 Autostart
+1 Execute DSynchronize at system startup
+2 DSyncronize beim Systemstart ausführen
+1 Single file copy progress
+2 Vortschritt einzelne Datei
+1 General options
+2 Optionen
+1 Hidden and system files too
+2 Versteckte- und Systemdateien
+1 Sync hidden and system files too
+2 auch Versteckte- und Systemdateien Synchronisieren
+1 Show Jobs at start
+2 Aufgaben beim Start zeigen
+1 Show job's window at start
+2 Job Fenster bei Start anzeigen
+1 Ignore path errors
+2 Pfadfehler ignorieren
+1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
+2 Wenn ein Pfad (Quelle oder Ziel) nicht existiert, wird er ohne Fehlermeldung und Sicherheitsabfrage ausgelassen
+1 Verify byte to byte
+2 Bytevergleich
+1 Compare files "byte to byte". This option is not designed for normal sync operations, you should use it only in particular situations because it will slow down very much the sync.
+2 Bytevergleich, verlangsamt den Kopiervorgang erheblich!!
+1 Use fast copy algorithm
+2 Schneller Kopieralgorythmus
+1 Use the new algorithm that is faster and copies also ACLs
+2 Neuen, schnelleren Kopieralgorythmus nutzen, auch ACLs
+1 Log only errors
+2 nur Fehler protokollieren
+1 Save settings on exit
+2 Sichere Einstellungen
+1 Saves all current settings on exit (source and destination path too)
+2 Speichert alle aktuellen Einstellungen (inklusive Quell- und Zielpfad)
+1 Add date to destination folder
+2 Datum dem Ziel hinzufügen
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Fügt dem Namen des Zielordners die aktuelle Zeit und das Datum hinzu (aus "C:\Quelle" wird "C:\Quelle 2004-12-10 22.30")
+1 Create folder if not exists
+2 neue Ordner erstellen
+1 If destination path does not exists it creates a new one
+2 Falls der Zielpfad nicht existiert, wird er erstellt
+1 Exit at the end
+2 Schließen, wenn fertig
+1 Closes the program at the end of sync
+2 Beendet das Programm nach der Synchronisierung
+1 Copy only newer files
+2 nur neuere Daten kopieren
+1 Update files into destination folder only if source files are more recent
+2 Nur neuere Quelldateien im Zielpfad ersetzen
+1 Write log on disk
+2 Logfile speichern
+1 Save log file "DSynchronize.log" on disk
+2 Speichert das Logfile "DSynchronize.log"
+1 Play a sound at the end
+2 Tonhinweis am Ende
+1 Generate a sound advise at the end of synchronization
+2 Tonhinweis am Ende der Synchronisierung abspielen
+1 Sync file/folder timings too
+2 sync Datei/Ordner Zeitangaben
+1 Sync creation and last modify time too
+2 Synchronisiere Erstellungs- und Änderungszeitpunkt von Datein und Ordnern
+1 Eject USB key at the end
+2 USB am Ende auswerfen
+1 Send log by Email
+2 log per mail senden
+1 Move files to destination
+2 Dateien zum Ziel verschieben
+1 Move files from Source to Destination (and NOT delete any file on Destination)
+2 Dateien vom Quellpfad zum Zielpfad verschieben, ohne Dateien im Ziel zu löschen
+1 Preview sync
+2 Vorschau
+1 Does not writes nor changes anything on disk
+2 keine Schreib-/Kopiervorgänge werden ausgeführt
+1 Special options
+2 Zusätzliche Option
+1 Copy ACL
+2 ACL kopieren
+1 Copy ACL (Access Control List) on NTFS
+2 NTFS ACL (Access Control List) wird kopiert
+1 Copy hard links
+2 Feste Verknüpfungen kopieren
+1 If it's possible try to recreate hard links too (all hard links of a file must be on same partition)
+2 Wenn möglich, harte Verknüpfungen erstellen (harte Verknüpfungen müssen auf der selben Partition erstellt werden)
+1 Verify symbolic links
+2 Symbolische Verknüpfungen überprüfen
+1 Verify symbolic links validity before copying, if itsn't valid on destination path (e.g. relative links), copies the target file.
+2 Symbolische Verknüpfung auf Gültigkeit üerprüfen, wenn im Zielpfad nicht erzeugbar Quelldatei kopieren
+1 Bidirectional sync
+2 Beidseitiger Sync
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Synchronisierung von Ordnern mit jeweils aktuelleren Dateien (Ergebnis: 2 gleiche Ordner mit den aktuellsten Dateien aus beiden)
+1 Copy symbolic links
+2 Symbolische Verknüpfungen kopieren
+1 Copy symbolic links as is
+2 Symbolische Verknüpfungen ohne Überprüfung kopieren
+1 Pre calculates size
+2 Dauer vorher berechnen
+1 Before to start sync, compute number of files to sync to show the progress bar
+2 Anzahl der Dateien vor Beginn berechnen
+1 Check free space
+2 Freien Platz prüfen
+1 Check free space before start file copy
+2 Vor dem Kopieren prüfen, ob genügend Platz vorhanden ist
+1 Antifragmentation
+2 Defragmentierung
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Reduziert die Festplattenfragmentierung durch Löschen von Dateien vor dem Ersetzen (ersetzte Dateien erscheinen als hinzugefügt)
+1 Adjust path drive
+2 Laufwerk anpassen
+1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
+2 Wenn sich der Laufwerksbuchstabe verändert hat, neuen Pfad verwenden (Bitte "Sichern am Ende" Option auswählen!")
+1 Sync progress
+2 Vortschritt Synchronisierung
+1 TrayBarMenu
+2 Taskleistenmenü
+1 &Show
+2 Zeigen
+1 &About
+1 &Help
+2 Hilfe
+1 &Close
+2 Beenden
+1 ListOriginiMenu
+2 ListQuellMenü
+1 Explore Path...
+2 Pfad testen...
+1 Test all Pat&hs
+2 Alle Pfade testen
+1 Se&t Filter...
+2 Setze &Filter...
+1 &Add New...
+2 &Neu hinzufügen...
+1 B&rowse...
+2 &Anzeigen...
+1 &Edit...
+2 &Bearbeiten...
+1 &Select all
+2 &Alles auswählen
+1 &Deselect all
+2 &Alles abwählen
+1 S&wap Paths
+2 Tausche &Pfade
+1 Re&move
+2 &Entfernen
+1 ListDestinazioniMenu
+2 ListZielMenü
+1 ''Right Click'' to test paths and set filters
+''Enter'' to modify path
+''DEL'' to delete item
+''PagUp'' or ''PagDn'' to move item up or down
+2 ''Rechts Click'' um Pfade zu testen und Filter zu setzen
+''Return'' um Pfade zu ändern
+''Entf'' um Eintrag zu löschen
+''Bild auf'' oder ''Bild ab'' um Eintrag zu verschieben
+1 Ok
+2 Ok
+1 Reset Defaults
+2 zurücksetzen
+1 RESET
+2 ZURÜCKSETZEN
+1 Error: destination path not exists
+2 Fehler: ZielPfad existiert nicht
+1 &Stop
+2 &Stop
+1 Sync complete
+2 Sync abgeschlossen
+1 Elapsed:
+2 Vergangen:
+1 Add/Err:
+2 Hinzu/Fehler:
+1 Repl/Err:
+2 Ersz/Fehler:
+1 Del/Err:
+2 Entf/Fehler:
+1 You have to start DSynchronize as Administrator to use this option.
+2 DSynchronize muß als Administrator ausgeführt werden um diese Option zu nutzen.
+1 DSynchronize Scheduler
+2 DSynchronize AufgabenPlan
+1 Main Selection
+2 Auswahl
+1 Do a first sync immediatly (10 seconds after start).
+2 Sofortige Synchronisatuion (10 sec. nach Start).
+1 Timer Sync Enabled
+2 Timer Sync aktiviert
+1 RealTime Sync Enabled
+2 Echtzeit Sync aktiviert
+1 Start as Service
+2 Als Service starten
+1 Install Service
+2 Service installieren
+1 Start Service
+2 Service starten
+1 System Account
+2 System Account
+1 Account:
+2 Account:
+1 Password:
+2 Password:
+1 Days selection
+2 Auswahl Tag
+1 Monday
+2 Montag
+1 Tuesday
+2 Dienstag
+1 Wednesday
+2 Mittwoch
+1 Thursday
+2 Donnerstag
+1 Friday
+2 Freitag
+1 Saturday
+2 Samstag
+1 Sunday
+2 Sonntag
+1 Specify the week's days on which to synchronize
+2 Definiere die Wochentage an denen Synchronisiert werden soll
+1 Specify the month's days on which to synchronize
+2 Definiere die Tage des Monats an denen synchronisiert werden soll
+1 Synchronize every day
+2 Synchronisiere jeden Tag
+1 Timer
+2 Timer
+1 Minutes
+2 Minuten
+1 Hours
+2 Stunden
+1 Synchronize at
+2 Synchronisiere um
+1 Synchronize every
+2 Synchronisiere alle
+1 Cancel
+2 Abbrechen
+1 To enable/disable auto-start you have to start DSynchronize as Administrator
+2 Um die Autostartfunktion zu Nutzen muß DSynchronize als Administrator ausgeführt werden
+1 Enable/disable instant options load
+2 Aktiviere/Deaktiviere Optionen sofort
+1 INSTANT UPDATE
+2 SOFORT ERNEUERN
+1 Show me again
+2 Wieder anzeigen
+1 Job selection
+2 Job Auswahl
+1 "F2" to rename Jobs, "Del" to delete a job, "Del+Shift" to delete a job without confirms
+2 "F2" um Job umzubenennen, "Entf" um Job zu löschen, "Entf+Shift" um Job ohne Bestätigung zu löschen
+1 New Job
+2 Neuer Job
+1 Delete Job
+2 Job löschen
+1 Load Job
+2 Job laden
+1 DSynchronize Filter
+2 DSynchronize Filter
+1 Selected path not existing...
+2 gewählter Pfad existiert nicht...
+1 Filter Timings
+2 zeitlicher Filter
+1 Days
+2 Tage
+1 Exclude files modified within:
+2 Im Zeitraum geänderte Dateien ausschliessen:
+1 Exclude files modified before:
+2 Ignoriere geänderte Dateien, vor:
+1 File Selection
+2 Dateiauswahl
+1 Do not apply filters to folders
+2 Keine Filter auf Ordner anwenden.
+1 Exclusion filter
+2 Ausnahmefilter
+1 Inclusion filter
+2 Einbeziehungsfilter
+1 Do not include subfolders on synchronization
+2 Keine Unterordner bei der Synchronisierung
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Um mehrere Filter zu verwenden müssen diese mit ";" getrennt werden. (z.B. *.exe;*.txt;settings.ini;*.da?)
+1 Folder Selection
+2 Verzeichnis Auswahl
+1 Reset folder selection
+2 Verzeichnis Auswahl zurücksetzen
+1 Activation of the Real-Time Synchronization.
+Do you want that a Standard sync take place first before enabling the Real-Time sync?
+2 Aktivierung der Echtzeitsynchronisierung.
+Soll zuerst eine Standardsynchronisierung durchgeführt werden?
+1 RealTime sync active...
+2 Echtzeitsynchronisierung aktiv...
+1 DSynchronize About
+2 DSynchronize über
+1 Make a Donation
+2 Spenden
+1 Programmed by Dimitrios Coutsoumbas (Dimio)
+2 programmiert von Dimitrios Coutsoumbas (Dimio)
+1 cyberdimio@gmail.com
+2 cyberdimio@gmail.com
+1 e-mail:
+2 e-mail:
+1 home page:
+2 homepage:
+1 http://dimio.altervista.org/
+2 http://dimio.altervista.org/
+1 v2.32.8
+2 v2.32.8
+2 DSYNC-WIN-COMM
+1 Erasing files in <Destination>.
+2 Lösche Dateien in <Zielpfad>.
+1 &Resume
+2 &Weiter
+1 Synchronization paused.
+2 Synchronisierung angehalten.
+1 Synchronization resumed.
+2 Synchronisierung fortgeführt.
+1 Synchronization interrupted.
+2 Synchronisierung abgebrochen.
+1 Timer sync active...
+2 Timer sync aktiv...
+1 min to next sync
+2 min bis sync

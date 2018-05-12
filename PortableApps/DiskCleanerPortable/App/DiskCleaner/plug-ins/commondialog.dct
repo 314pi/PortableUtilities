@@ -1,0 +1,6 @@
+[Info]
+Title=Common Dialog MRUs
+Description=Clear Common Dialog (Open, Save) most recently used file names
+
+[registry]
+HKEY_CURRENT_USER|Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32

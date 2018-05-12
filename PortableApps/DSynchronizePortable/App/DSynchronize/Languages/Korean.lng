@@ -1,0 +1,236 @@
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize (프로그래머: Dimio)
+1 Sources
+2 원본
+1 C:\Sample 1 Of Source Path
+2 C:\원본 경로의 샘플 1
+1 C:\Sample 2 Of Source Path
+2 C:\원본 경로의 샘플 2
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\리모트컴퓨터\대상 경로의 샘플 1
+1 \\RemotePC\Sample 2 Of Destination Path
+2 \\리모트컴퓨터\대상 경로의 샘플 2
+1 Destinations
+2 대상
+1 Insert path and then press "Enter"
+2 경로를 입력한 후 "엔터"를 누르십시오.
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 경로를 수정하려면 "Enter" 키를, 삭제하려면 "DEL" 키를, 위로 또는 아래로 이동하려면 "PgUp" 또는 "PgDn" 키를 누르십시오.
+1 Filter
+2 필터
+1 DSynchronize Filter
+2 DSynchronize 필터
+1 Filter settings
+2 필터 설정
+1 Do not apply filters to folders
+2 폴더에는 필터를 적용하지 않음
+1 Exclusion filter
+2 제외 필터
+1 Inclusion filter
+2 포함 필터
+1 Do not include subfolders on synchronization
+2 동기화 시 하위 폴더를 포함하지 않음
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 다중 필터를 사용하려면 ";" 기호로 각 필터를 구분해야 합니다. 예. *.exe;*.txt;settings.ini;*.da?
+1 Filter Extended
+2 확장 필터
+1 Jan
+2 1월
+1 May
+2 5월
+1 Jun
+2 6월
+1 Jul
+2 7월
+1 Aug
+2 8월
+1 Sep
+2 9월
+1 Oct
+2 10월
+1 Dec
+2 11월
+1 Exclude files modified before:
+2 다음 이전에 수정된 파일 제외:
+1 Cancel
+2 취소
+1 Select a folder:
+2 폴더 선택:
+1 Browse
+2 찾아보기
+1 &Add New...
+2 새로 만들기(&A)...
+1 B&rowse...
+2 찾아보기(&R)...
+1 &Edit...
+2 편집(&E)...
+1 &Select all
+2 모두 선택(&S)
+1 &Deselect all
+2 모두 선택 취소(&D)
+1 Se&t filter...
+2 필터 설정(&T)...
+1 S&wap paths
+2 경로 교환(&W)
+1 Re&move
+2 삭제(&M)
+1 About
+2 정보...
+1 DSynchronize About
+2 DSynchronize 정보
+1 Support with a Donation
+2 기부 지원
+1 Make a Donation
+2 기부하기
+1 General options
+2 일반 설정
+1 Copy only newer files
+2 새 파일만 복사
+1 Update files into destination folder only if source files are more recent
+2 원본 파일이 더 최근 파일인 경우에만 대상 폴더로 파일을 업데이트합니다.
+1 Bidirectional synchronization
+2 양방향 동기화
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 양쪽에서 더 최근의 파일을 사용하여 폴더를 동기화합니다. 양쪽에서 가장 최근의 파일의 동일한 두 개의 폴더가 생성됩니다.
+1 Add date to destination folder
+2 대상 폴더에 날짜 추가
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 대상 폴더의 이름에 현재의 날짜와 시간을 추가합니다. (예."C:\대상" -> "C:\대상 2007-09-10 18.30")
+1 Create folder if not exists
+2 폴더가 존재하지 않으면 생성
+1 If destination path does not exists it creates a new one
+2 대상 경로가 존재하지 않으면 새로 대상 폴더를 생성합니다.
+1 Preview mode
+2 미리보기 모드
+1 Only preview (do not write anything on HD)
+2 미리보기만 (디스크에 기록하지 않음)
+1 Exit at the end
+2 완료 시 프로그램 종료
+1 Closes the program at the end of sync
+2 동기화 작업이 완료되면 프로그램을 닫습니다.
+1 Shutdown at the end
+2 완료 시 시스템 종료
+1 Shutdown the system at the end of sync
+2 동기화 작업이 완료되면 시스템을 끕니다.
+1 Save on exit
+2 종료 시 설정 저장
+1 Saves all current settings on exit (source and destination path too)
+2 프로그램 종료 시 모든 현재의 설정을 저장합니다. (원본과 대상 경로 포함)
+1 Save log
+2 로그 저장
+1 Save log file
+2 로그 파일 저장
+1 Play sound when done
+2 완료 시 소리 재생
+1 Generate a sound advise at the end of syncronization
+2 동기화 작업이 완료되면 알림 소리를 재생합니다.
+1 Special options
+2 특수 설정
+1 Antifragmentation
+2 디스크 조각 방지
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 파일을 교체하기 전에 먼저 대상 파일을 삭제하여 디스크 조각 발생을 억제합니다. (교체된 파일은 추가된 것으로 보임)
+1 Ignore path errors
+2 경로 오류 무시
+1 If a path (source or destination) does not exists it skips without any error message
+2 만약 경로 (원본 또는 대상) 가 존재하지 않으면 오류 메시지를 무시합니다.
+1 Backup changes
+2 백업 변경
+1 No Backup
+2 백업 없음
+1 Timer sync
+2 타이머 동기
+1 Set/enable timer
+2 타이머 설정/사용
+1 DSynchronize Options
+2 DSynchronize 설정
+1 Timer choice
+2 타이머 선택
+1 Synchronize every
+2 동기화 빈도
+1 Synchronize at
+2 동기화 일자
+1 Days choice
+2 일자 선택
+1 Synchronize every day
+2 매일 동기화
+1 Specify the month's days on which to synchronize
+2 그 달의 시작일로 지정
+1 Specify the week's days on which to synchronize
+2 그 주의 시작일로 지정
+1 Sunday
+2 일요일
+1 Monday
+2 월요일
+1 Tuesday
+2 화요일
+1 Wednesday
+2 수요일
+1 Thursday
+2 목요일
+1 Friday
+2 금요일
+1 Saturday
+2 토요일
+1 Realtime sync
+2 실시간 동기화
+1 Real-time syncronization (experimental)
+2 실시간 동기화 (실험적 기능)
+1 Activation of the Real-Time Synchronization.
+2 실시간 동기화 활성
+1 Execute DSynchronize at system startup
+2 시스템 시작 시 DSynchronize 실행
+1 Autostart as service...
+2 서비스로서 자동 시작...
+1 Execute DSyncronize at system startup as service
+2 시스템 시작 시 서비스로서 DSynchronize 자동 시작
+1 DSyncronize Start As Service
+2 서비스로서 DSynchronize 시작
+1 Install Service
+2 서비스 설치
+1 Start Service
+2 서비스 시작
+1 Done
+2 완료
+1 Commands
+2 명령
+1 Synchronize
+2 동기화
+1 Pause
+2 일시중지
+1 Deleted files
+2 삭제된 파일
+1 Ask before deleting files
+2 파일 삭제 전 물어보기
+1 Do not delete any file
+2 파일 삭제하지 않음
+1 Does not delete any file
+2 파일 삭제하지 않음
+1 Move files
+2 파일 이동
+1 Move files from Source to Destination
+2 원본에서 대상으로 파일 이동
+1 Added files
+2 추가된 파일
+1 Ask before adding files
+2 파일 추가 전 물어보기
+1 Do not add any file
+2 파일 추가하지 않음
+1 Does not add any new file
+2 새 파일 추가하지 않음
+1 Replaced files
+2 교체된 파일
+1 Ask before replacing files
+2 파일 교체 전 물어보기
+1 Do not replace any file
+2 파일 교체하지 않음
+1 Does not replace any file
+2 파일 교체하지 않음
+1 Synchronization complete.
+2 동기화 완료.
+1 Help
+2 도움말
+1 Show
+2 보이기
+1 Close
+2 닫기

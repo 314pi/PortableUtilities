@@ -1,0 +1,587 @@
+v1.3.8 (2014-05-30)
+ * added option to retrieve updates for Windows Embedded POSReady systems, even if using other
+ * compiled using latest NSIS 3.0 beta 0
+
+v1.3.7 (2013-06-23)
+ * Ixquick (aka Startpage) is now default search engine
+
+v1.3.6 (2013-06-21)
+* improved controls to be more dpi-independent
+
+v1.3.5 (2013-05-12)
+ * fixed bug in language selection dialog when called with language switch
+ * fixed bug finding computer and user name when called with language switch
+ * fixed bug not displaying some non-english dialogs
+
+v1.3.4 (2013-03-31)
+ * fixed bug with component cleaners on 64-bit systems
+ * improved method to detect Windows 7 SP1
+ * modified /win dialog
+ * modified some descriptions
+
+v1.3.3 (2013-03-29)
+ * added new feature:
+	-disable Windows 8 synchronization
+ * improved validation on start page
+
+v1.3.2 (2013-03-18)
+ * added new browser options
+ * added new mail client options
+ * added support DuckDuckGo to search engines
+ * improved Firefox and Thunderbird detection on Vista (and later)
+
+v1.3.1 (2013-03-16)
+ * added new features:
+	-delete Windows Vista SP1 backup files
+	-delete Windows Vista SP2 backup files
+	-delete Windows 7/Windows Server 2008 R2 backup files
+ * modified shortcut dialog
+ * fixed German language dialog
+
+v1.3 (2013-03-10)
+ * added Unicode compiler warning
+ * added /assoc and /unassoc switches
+ * added install option (xpy.exe /install)
+ * added 48x48 icon
+ * temporarily removed czech and polish translations
+ * fixed user-name detection on pre-vista systems
+ * modified help dialog
+ 
+v1.2.7 (2013-01-11)
+ * added new features:
+	-disable Adobe Flash Update Service
+	-disable Skype Update Service
+	-disable NVIDIA Update Service
+	-disable Branch Cache
+	-disable Adaptive Brightness Service
+ * fixed bug in Metacrawler selection
+ * fixed bug in Windows Audio Service option
+ * fixed bug in Bonjour Service option
+ * removed option to compile with Upack compression
+ * improved /win parameter
+ * improved labels for some controls
+ * modified help dialog
+ * modularized and re-structured sourcecode
+
+v1.2.6 (2013-01-04)
+ * removed option to disable the windows 8 metro start menu
+ * removed unused language strings from source
+ * removed license page (due to unexpected compiling errors)
+ * modified help dialog
+ 
+v1.2.5 (2011-11-24)
+ * added option to disable bonjour service
+ * simplified macro structure
+ * fixed file description for non-ixquick build
+ * fixed a bug in google update service setting
+
+v1.2.4 (2011-09-23)
+ * added new features:
+	-disable superfetch
+	-disable disk defragmenter service
+	-disable superfetch service
+ * added option to remember languages
+ * increased width of "save profile" dialog
+
+v1.2.3 (2011-09-20)
+ * added option to disable the windows 8 metro start menu
+
+v1.2.2 (2011-09-16)
+ * fixed bug language selection in combination with parameters or file input
+
+v1.2.1 (2011-09-12)
+ * re-added missing translations
+ * modified behaviour of language selection
+ * fixed firewall selection in minixpy
+ * fixed outfile naming in minixpy
+ * fixed header colors in public source
+
+v1.2 (2011-09-03)
+ * merged xpy and Vispa
+ * added backward-compatibility for xpy/Vispa
+ * improved response of color indicators
+ * improved rdp port detection
+ * removed OS specific warnings
+ * fixed bug in WMUninstall
+ * fixed bug in WDSDisable
+
+v1.1.4 (2011-09-01)
+ * added translation for max connections label
+ * added translation for rdp label
+ * added color indicators for rdp state
+
+v1.1.3 (2011-08-31)
+ * added new features
+	-modify default rdp port
+ * modified maximum connections setting
+ * modified message when no settings selected
+ * improved file output creation
+ * fixed bugs when using Ask or Altavista for default search
+
+v1.1.2.1 (2011-07-07)
+ * added czech translation
+
+v1.1.2 (2011-05-05)
+ * added keyboard shortcuts for some commands
+ * added search provider info to ixquick build
+
+v1.1.1 (2011-05-03)
+ * fixed bug in /lang parameter, not displaying help dialog
+ * modified some parameters to be combinable (/force, /lang, /license, /noreboot)
+ * modified interface colors
+ * modified application icon
+ * modified post-Windows XP warning
+ * improved response of color indicators
+
+v1.1 (2011-04-25)
+ * added new features
+	-adjust for best performance of programs (windows server)
+	-disable internet explorer error reporting
+	-disable auto-completion in web forms
+	-disable auto-completion for passwords
+	-hide computer name in networks
+        -show extension for *.lnk, *.pif, *.scf and *.url files
+ * added option to export to registry-file
+ * added /reg parameter
+ * added missing restore functions for GenUnSysResponse, GenUnDisableUAC and GenUnSpyNet
+ * fixed bug in image acquisition service
+ * fixed typo in log window
+
+v1.0.2.1 (2011-04-11)
+ * switched to upx header compression
+
+v1.0.2 (2011-01-07)
+ * added new features
+	-opt out Microsoft Spynet
+ * progress-bar in Vista/Windows 7 taskbar
+ * fixed bug with /lang switch
+
+v1.0.1 (2010-01-29)
+ * fixed bug in GenWGA in /file mode
+ * fixed bug setting restore points in /file mode
+
+v1.0.0 (2009-08-25)
+ * added startup warning if using Windows 7
+ * added bing to search engine list 
+ * fixed header compression
+ * fixed lots of typos
+ * changed project url to http://xpy.googlecode.com/
+ * removed cuil from search engine list
+ * removed temporary dialog
+
+	v1.0.0 beta 4 (2009-08-01)
+	 * added support for 64-bit registry
+	 * fixed getting username on Windows7 (and perhaps Vista too)
+	 * fixed a bug restoring classic logon
+
+	v1.0.0 beta 3.1 (2009-06-25)
+	 * fixed startup bug
+
+	v1.0.0 beta 3 (2009-06-20)
+	 * added temporary dialog (translation request)
+	 * updated minixpy code
+	 * modified warning when running on vispa/windows 7
+	 * fixed /debug parameter
+
+	v1.0.0 beta 2 (2009-05-04)
+	 * added /force parameter
+	 * vispa: added help dialog for /force parameter
+	 * removed backwards-compatibility function to pre-0.9 builds
+	 * removed wikia searchengine support
+	 * fixed caption bug on ioPage
+	 * fixed bug in FirstRun
+
+	v1.0.0 beta (2009-03-26)
+	 * added new features
+		-enable cd burning service (windows server)
+		-enable image acquisition service (windows server)
+		-disable shutdown reasons (windows server)
+	 * added gui for profiles making/saving
+	 * added installtypes for restore mode
+	 * added server2workstation installtype
+	 * added commandline-indicators to caption
+	 * modified commandline parameters
+	 * optimized code (search engines)
+	 * fixed bug in ServTelnet detection
+
+v0.10.8 (2008-08-01)
+ * added new features
+	-delete my computer shortcut
+	-delete my network shortcut
+	-restore internet explorer shortcuts
+	-restore outlook express shortcut
+ * added support to delete default desktop shortcuts when using modern startmenu
+ * added warning ITNo3rdParty installtype
+ * added Cuil to search engine list
+ * modified method to delete my documents shortcut
+ * modified method to delete recycle bin shortcut
+ * fixed internet explorer shortcut deletion
+ * fixed bug in caption and sub-caption
+ * fixed bugs in german translation
+
+v0.10.7.1 (2008-07-19)
+ * re-added czech translation
+
+v0.10.7 (2008-07-18)
+ * added new features
+	-delete/restore windows messenger shortcut
+	-restore recycle bin shortcut
+	-restore my documents shortcut
+	-restore windows media player shortcuts
+	-restore windows movie maker shortcut
+	-restore msn shortcut
+	-restore windows update shortcut
+ * modified destructive elements warning to work on conditions
+ * fixed bug in german DelSamplePlaylists translation
+ * fixed bug in DelRecycleBinLnk and DelMyDocumentsLnk in file mode
+ * fixed bug displaying installtype in restore mode
+ * fixed spelling mistake in english LabelUnassociateSc string
+ * improved sourcecode documentation
+ * removed czech translation (temporarily)
+
+v0.10.6 (2008-06-27)
+ * added new features
+	-remove internet explorer 7
+	-disable telnet
+ * fixed bug in input mode, not loading the search engine in verbose mode
+ * fixed bug in ask and altavista search engine strings
+ * fixed bug in german DelSamplePlaylists translation
+ * completed missing german translations
+
+v0.10.5 (2008-06-20)
+ * added new features
+	-disable universal plug and play
+	-disable upnp discovery service
+	-disable netmeeting desktop sharing
+	-delete recycle bin shortcut
+        -delete my documents shortcut
+ * added new features for 3rd party applications
+	-disable apple mobile devices service
+	-disable ipod service
+	-disable google updater service
+	-disable google desktop sac
+ * added option to abort if restore point failed
+ * added two new installtypes
+ * disables WDSDisable if WDSRemove selected
+ * fixed bug batchfile not setting search engine properly
+ * fixed bug batchfile not creating restore points
+ * fixed bug in ServSchedTask
+ * fixed bug with silent batch files
+ * fixed bug in restore point failure reporting
+ * fixed bug saving FirstRun
+ * fixed bug in german MBDeleteIniWarning string
+ * improved german translation
+ * modified language order
+
+v0.10.4 (2008-06-13)
+ * added new features
+	-disable windows desktop search
+	-remove windows desktop search
+ * added /noreboot switch
+ * re-added czech translation
+ * re-enabled DelSamplePlaylists
+ * fixed display bug in GenUnPrefetch
+ * fixed possible bug in UsabDisableSounds autodetection
+ * modified batch-mode to run passively
+ * improved sourcecode configurability
+ * improved sourcecode documentation
+
+v0.10.3 (2008-06-06)
+ * added lock for unused features in restore mode
+ * improved silent behaviour
+ * improved minixpy code
+
+v0.10.2 (2008-05-30)
+ * added restore point capability for /file switch
+ * added custom search engine capability for /file switch
+ * added commandline support for advanced settings
+ * added language detection for /lang switch (compile time)
+ * added /flush switch
+ * added /shortcuts switch
+ * added more help switches
+ * added more switches for conditional sourcecode compilation
+ * modified restore point default state
+ * fixed several bugs with /file switch
+ * upgraded interface to MUI2
+
+v0.10.1 (2008-05-23)
+ * added translations for help dialog
+ * added restore feature for 404 search
+ * disabled DelSamplePlaylists
+ * fixed bug in IEUnSearchScope
+ * fixed bug in UsabUnDisableSounds
+ * fixed bug in UsabUnClassicLogon
+ * fixed bug in "all settings" warning
+ * fixed firefox download link
+ * fixed bug with /lang switch
+ * fixed spelling mistakes
+ * modified Windows Classic installtype
+
+v0.10 (2008-05-16)
+ * added new features
+	-disable windows security center
+	-disable 404 search
+	-create restore point prior to any modification
+	-reset changed themes
+ * added proper GUID creation for IE search engines
+ * added Windows Classic install type
+ * added second page for detailed settings
+ * added license switch ("xpy.exe /?")
+ * modified autodetection
+ * improved ie7/ie8 handling
+ * removed two installtypes
+ * removed .xpy association icon
+ * fixed bug in sound disabling when using .xpy file
+ * fixed bug in delete prefetch folder autodetection
+ * merged xpy and Vispa source-codes
+ * code cleanup
+ * licensed under a bsd license
+
+v0.9.12 (2008-03-18)
+ * fixed bug in auto-detection
+
+v0.9.11 (2007-09-11)
+ * split up the option to delete the prefetch folder and disable prefetching
+
+v0.9.10 (2007-06-21)
+ * added new features
+	-disable usage tracking for wmp11
+	-disable windows defender
+	-delete default internet explorer bookmarks
+ * improved vista support
+
+v0.9.9 (2007-06-06)
+ * added icon for .xpy filetype
+ * added italian translation
+ * added firstrun to xpy.ini
+ * modified switches
+
+v0.9.8 (2007-01-04)
+ * added new features
+	-disable program prefetch
+	-disable system start/exit sounds
+ * added license display on first start
+ * modified registry key name for IESearchScope
+ * fixed bug in UsabFullPath restoration
+
+v0.9.7 (2006-08-12)
+ * added new feature
+	-disable msn search (internet explorer 7)
+ * added petite compression to source
+ * added optional default search engine to source
+ * modified patching method of related.htm
+ * fixed error in firefox shortcut switch
+
+v0.9.6 (2006-06-22)
+* added new features
+	-disable wga notifications
+	-disable file associations web service
+
+v0.9.5 (2006-02-02/2006-03-26)
+ * added new features
+	-disable desktop cleanup wizard
+	-open pop-ups in new tabs (internet explorer 7)
+	-disable phishing filter (internet explorer 7)
+	-disable prompt for default browser
+	-disable information bar alert (internet explorer 7)
+ * added dialog for no settings
+ * added better minixpy support to sourcecode
+ * added czech translation
+ * changed method to start/stop services (temporary?)
+ * removed japanese translation
+
+v0.9.4 (2005-12-24)
+ * added upack header compression
+ * disabled upx header compression
+ * fixed missing langstring $(SecUnWMPNoMRU)
+ * fixed /NCRC switch
+
+v0.9.3 (2005-12-04)
+ * added new features
+	-disable classic logon window
+	-disable msn search
+	-disable home page
+ * fixed bug in ssl 2.0 detection
+
+v0.9.2 (2005-11-07)
+ * added new feature
+	-disable ssl 2.0 (internet explorer)
+ * (re-)added french, spanish and ukrainian translations
+
+v0.9.1 (2005-10-16)
+ * added new features
+      -disable thumbnail caching
+      -disable net crawling
+ * added version information
+ * added preliminary minixpy support to sourcecode
+ * added support for non-silent batch files
+ * fixed batch-mode
+
+v0.9 (2005-09-15)
+ * added new features
+      -disable search assistant (internet explorer)
+      -import music as mp3 (windows media player)
+      -disable drm for imported music (windows media player)
+      -integrate command prompt into shell
+      -enable command prompt completion
+      -integrate notepad into shell
+      -disable autorun
+      -disable search assistant
+      -disable task grouping
+      -use classic start menu
+      -show contents of barricaded folders
+      -show hidden files and folders
+      -show all file extensions
+      -display full path in title bar (explorer)
+      -use windows classic theme
+      -delete files
+ * added upx compression
+ * added xpyhelper.dll (written by oliver schneider)
+ * added warning-message for irrevocable settings
+ * added warning-message for the selection of all settings
+ * added version-number to xpy.ini and batch files
+ * added backward compatibility
+ * added website button to help dialog ("xpy.exe /?")
+ * moved UsabBalloonTips to usability group
+ * moved UsabDiskSpace to usability group
+ * modified automatic detection of features
+ * modified sourcecode structure
+ * modified icon and checkboxes (smaller!)
+ * modified gui and colors
+ * removed translations (except english, german, japanese and polish)
+
+v0.8.15 (2005-08-17)
+ * added disabling null sessions (protection from W32.Zotob.E)
+
+v0.8.14 (2005-08-09)
+ * added turkish translation
+ * fixed bug in WMUninstall
+ * fixed typo in SecUnWMP
+
+v0.8.13 (2005-07-19)
+ * added restore feature for uplddrvinfo
+ * added portuguese translation
+ * added polish translation
+ * fixed minor bug in WMUninstall
+
+v0.8.12 (2005-05-30)
+ * added bulgarian translation
+ * added ui resources to source
+ * modified restoration mode
+ * fixed minor bug in regwizc option
+
+v0.8.11 (2005-05-20)
+ * added file association switch ("xpy.exe /?")
+ * added japanese translation
+ * added italian translation
+
+v0.8.10 (2005-04-28)
+ * fixed service start/stop for non-english systems
+ * modified russian translation
+ * modified related.htm
+
+v0.8.9 (2005-03-26)
+ * added ukrainian translation
+ * added russian translation
+ * added spanish translation
+ * added conditional compilation support to source
+ * modified source syntax (definitions)
+ * modified source syntax (SubGroup -> SectionGroup)
+ * modified detailed output
+ * fixed all silent modes
+ * fixed bug in restoration mode
+ * fixed bug in maxconnections option
+ * fixed bug in compressedfolders option
+ * fixed bug in regwizc option
+ * fixed bug in uplddrvinfo option
+ * fixed bug in alexa option
+ * fixed bug in macros UnRegDWORD and UnRegStr
+ * fixed typo in german translation
+ * fixed typo in commandline switches
+
+v0.8.8 (2005-02-27)
+ * added translations for new dialogs
+ * fixed bug in macros RegDWORD and RegStr
+ * fixed icf/ics option
+
+v0.8.7 (2005-02-15)
+ * added three new features
+ * added language-dialogue ("xpy.exe /?")
+ * added batch-mode ("xpy.exe /?")
+ * added french translation
+ * added hungarian translation
+ 
+v0.8.6 (2005-01-21)
+ * added five new features
+ * readded temporary internet files deletion
+ * simplified code through definitions
+ * minor modifications in dialogs
+ * minor language-file fixes
+
+v0.8.5 (2004-10-16)
+ * added commandline switches
+ * modified installtypes
+ * modified gui
+ * fixed commandline switches
+ * removed temporary files deletion
+ * various bugfixes
+
+v0.8.4 (2004-10-03)
+ * added auto-detection for regwizctrl
+ * added auto-detection for messenger uninstallation
+ * added restore support for regwizctrl
+
+v0.8.3 (2004-09-30)
+ * added auto-detection for compressed folders
+ * simplified functions through definitions
+
+v0.8.2 (2004-09-29)
+ * added windows checker (with commandline switch)
+ * added restore support for compressed folders
+ * added german translation
+ * added installtype ("none")
+ * put macros to external file
+ * changed some dialogs
+
+v0.8.1 (2004-09-27)
+ * optimized source for custom translations
+ * disabled p3p and its settings in binary
+ * changed some dialogs
+
+v0.8 (2004-07-21)
+ * added multi-instance checker
+ * added commandline switches ("xpy.exe /?")
+ * added new features
+ * changed directory for xpy.ini
+ * bugfixes
+
+v0.7 (2004-05-09)
+ * added selective restoration
+ * added new features
+ * added detail-prints
+ * added more macros
+ * bugfixes
+
+v0.6 (2004-04-28)
+ * added auto-detection mode
+ * new restoration mode
+
+v0.5 (2004-04-22)
+ * using macros for operations
+ * services get stopped
+
+v0.4 (2004-04-10)
+ * added unxpy (restores original settings)
+ * added black icons
+
+v0.3 (2004-04-09)
+ * disables ie handling chm files (temporary feature?)
+ * fixed windows-directory variables
+
+v0.2 (2004-04-06)
+ * new gui
+ * added descriptions
+ * added alexa removal
+
+v0.1 (2004-03-26)
+ * first release

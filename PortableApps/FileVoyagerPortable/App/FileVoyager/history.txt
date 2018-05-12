@@ -1,0 +1,148 @@
+﻿FileVoyager Changelog
+---------------------
+Note: The release date corresponds to the version of the release. Ex: Release 17.4.7.0 = 17/04/07 = 7 April 2017
+
+Release 17.4.7.0
+----------------
+- New: FileVoyager now contains a Hash tool
+
+Release 17.03.25.0
+------------------
+- Fix: Globally: Complete rework of the various visual components to be DPI aware
+- Fix: Navigation: Many issues due to the bad DPI awareness are now solved (eg: Shell Contextmenu unresponsive outside 96 dpi)
+- Fix: Viewer: "Banned" the Blob audio visualization as it makes Win 10 crash (and maybe other versions too).
+
+Release 17.01.01.0
+------------------
++ New: Language: Added Swedish (Translation by Christer)
+~ Chg: Licensing of FileVoyager changed from Creative Commons to Freeware EULA
+~ Chg: When using custom colors for folder listing, the Selection background color is now used prior to the Odd background color
++ Fix: When system context menu, for file or folder, is trigger through keyboard, the menu did not had the keyboard focus
++ Fix: When showing, the operation confirmation window was topmost, even when FV was deactivated. Now it's topmost to FV only
++ Fix: Comparison window's position and size are now restored
++ Fix: Autoupdate doesn't download the installer when in Portable version 
++ Fix: When Ribbon was collapsed, any change in the preferences made the Ribbon expanded again
++ Fix: Preferences dialog is now closable using ESC
+
+Release 16.12.10.0
+------------------
++ New: Language: Added Spanish (Translation created by myself, so probably not as good as if a perfect spanish speaking one had done it)
+
+Release 16.11.26.0
+------------------
++ New: Navigation Panes: User can use checkboxes to select items
++ New: Navigation Panes: User can use a "Rectangle Marquee" by dragging from an empty area
+~ Chg: General: Removed many pre-creation of secondary forms to speed up the starting
+~ Chg: FTP(S): Upgraded OpenSSL dll to 1.0.2j and Synapse to support TLS 1.2 and the latest security levels
+- Fix: Navigation Panes: Corrected a bug that caused a selection to be changed after a Refresh
+- Fix: Navigation Panes: Resolved a bug causing item to be dragged even when they were not under drag beginning
+- Fix: General: Removed a deprecated parameter that was causing FV to always start in maximized state, discarding the last window position
+
+Release 16.10.15.0
+-----------------
++ New: Folder Sync between panes, even between archive, FTP, ...
++ New: New tools: Compare and Sync for files and folders
++ New: Video rotation detection. If video rotated, switch automatically to embedded VLC (because it supports auto-rotation)
++ New: Thumbs in Thumb Flow are now clickable
++ New: Possibility to put the display of the folder tabs on top or bottom
++ New: Added 'Close to tray' feature
++ New: It possible to use FileVoyager as an independant viewer using -FVViewer parameter. Syntax: {PathToFV}\FileVoyager.exe -FVViewer {PathOfFileToView}. Where PathToFV is the path of FileVoyager's folder, and {PathOfFileToView} is the path of the file, well... to view
+~ Chg: Made 'Show Hide App Bar' available from the Classic UI's menu
+~ Chg: Disabled the theming of the shell's contextmenu as it's completely broken under Windows 10 and had too many bugs
+~ Chg: VLC codecs updated to 2.2.0
+~ Chg: Swapped Tools and Navigate menus in Classic UI toolbar
+- Fix: Choice to show AppBar with 32x32 icons was not restored on restart
+- Fix: Corrected a bug in the single-click for thumbnails. The last hovered item was selected even if mouse didn't last on it
+- Fix: In the Colors options (preferences window), the preview of the color choices is restored
+- Fix: In Viewer's Info Pane, the Rotation info of videos was not shown (must be hidden for non rotated video, but shown otherwise)
+- Fix: In forlder lists, pressing SPACE to toggle the selection was not working for files anymore
+
+Release 16.3.12.0
+-----------------
++ New: It's possible now to switch between the Ribbon UI and the Classic UI
++ New: AppBar can now be displayed with big 32x32 icons
++ New: It's possible to navigate using single-click
+~ Chg: Author news combo is more compact now
+
+Release 16.3.6.0
+-----------------
++ New: Implemented 64 bits stub for context menu. Now FV displays the 64 bits context menu of the Shell (if running on 64 bits system of course) 
+~ Chg: Czech translation almost completed (99.9%) thanks to Vlastimil Vozdecky
+- Fix: Drag & Drop - Resolved issue when dragdropping an item from winrt (win10) into FV
+- Fix: Resolved conflict of ssleay and libeay dlls when an incompatible version is in a registered path of the running system. Solution is to put the dlls in the app folder
+
+Release 16.2.20.0
+-----------------
++ New: Czech translation (65% completed) - thanks to Vozdecky Vlastimil
+~ Chg: Slovak translation (80% completed) - thanks to Martin Machara 
+- Fix: Fixed a few English language errors
+
+Release 16.1.29.0
+-----------------
++ New: Added possibility to disable RSS newsfeed showing at the top of the main window
++ New: Added possibility to never check for update
+~ Chg: Removed the AcidSpunk audio visualisation because it writes data in the registry and it's not possible to disable that
+- Fix: Removed the creation of a "vis.ini" file that was accidentally put in c:\windows folder
+- Fix: A bug in the metadata pane of the viewer that was repeating a line each time the file was scrolled (only in Syntax highlighting mode)
+
+Release 16.1.10.0
+-----------------
++ New: Added 3 new view modes for the files and folders listing: Large Icons, List and Thumbnails in grid mode
++ New: Added in the viewer an information that gives a lot of info about the file currently viewed. In the case of photos, when they contain their geolocalisation, a map of the position is displayed
+~ Chg: Removed the info view from the viewer as it is made obsolete by the new Information pane
+~ Chg: Added Slovak language (about 100% complete)
+~ Chg: The viewer now handles and plays the supported playlists when they are open for view
+~ Chg: Added eps, ps and xps files to file supported by the Sumatra mode in the viewer
+- Fix: Correction of the preview handling of fonts
+- Fix: Corrected the restore of the last position when FV is started
+- Fix: Correction of the display of the file types when browsing a Library folder(win7/8/8.1/10)
+- Fix: FTP(S) - Correction of many bugs
+
+Release 15.6.15.0
+-----------------
+- Fix: Now permanently deleting or moving a Reparse Point (junctions, Symbolic link, ...) doesn't impact the target items anymore
+- Fix: When items are sent to the Recycle Bin, the user is now warned if the Recycle Bin is disabled on the parent volume of the Items
++ New: Now FV is more adapted to handle DPI variantions and font change (all forms have been reingeneerd)
+- Fix: Fixed copy and move issue when destination folder doesn't exist
++ New: Added parameter to enable/disable theming of the Shell Context menu (disabled by default)
++ New: Added parameter to enable/disable the underlining of the folders
++ New: Extended detection of supported Audio/Video formats to VLC supported formats
++ New: Now Last Accessed, Creation Date and Attributes columns are optional (hidden by default)
+~ Chg: Now drag items over any empty space of the list is interpreted as a drag over the parent folder
++ New: Now context menu from background of the list shows the parent folder' shell menu
+- Fix: Resolved issue with icons in treeview
+- Fix: Resolved some display issues with UNICODE
+- Fix: Made uniform the behaviour with Control Panel for 32bits app running on 64bits system (among Explorer list, Treeview and Crumbbar)
+~ Chg: When copying selected items name/path/dir and no item was selected, the focused item was not taken into account resulting in nothing copied
+- Fix: Enable/disable buttons in ribbon according to focused item and current path
+~ Chg: Renamed second search column from 'Folder' to 'Full path'
+~ Chg: View mode buttons are now of variable size, resulting in a more compact toolbar
+
+Release 15.5.7.0
+----------------
++ New: SumatraPDF integrated for viewing of eBooks (.epub, .mobi, .fb2, ...), of pdf, of comicbooks (.crb, .cbz, ...), of (o)xps, of djvu, ...
++ New: Support of operations on System32 on 64bits. System32 is handled now as a virtual folder
++ New: Added "New instance of FileVoyager as Admin" in File menu
++ New: When FV 32bits is running on 64bits, ControlPanel is not browsable in depth. Items are now opened outside FV
+~ Chg: Removed drag source capability of TabFolders as it was not working correctly
+~ Chg: Removed usage of system column sizes when in virtual folders. System sizes were not satisfying
+~ Chg: Russian translation improved by muadib
+~ Chg: Russian translation Locale Identifier value corrected
+~ Chg: Translation file naming pattern now contain language name translated and language name in English. e.g: "Français (French).lng";
+~ Chg: Blog feed is now updated at program startup and then, once a day
+~ Chg: Links in aboutbox\credits are now clickable
+- Fix: Suppression of a memory leak
+- Fix: When in PEInfo mode, "File\Export to HTML" was wrongly enabled
+- Fix: Repaired copy/move to '..'. When setting .. as destination folder, the operation was failing
+
+Release 15.4.5.0
+----------------
++ New: Added a author's post feed below FV's title bar
++ New: Added Russian language created and offered by Muadib
++ New: Added DKLang file in the "Lang" folder, so translators will have the source file to create translations
+- Fix: File Exploration - Corrected the issue preventing file operations from/to virtual folders (like smartphones folders)
+- Fix: Viewer - Repaired the syntax highlighting feature
+
+Release 15.3.1.0
+----------------
++ Initial release

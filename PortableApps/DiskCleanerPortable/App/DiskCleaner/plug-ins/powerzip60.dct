@@ -1,0 +1,6 @@
+[Info]
+Title=PowerZip 6.0
+Description=Erase PowerZip recent extract files
+
+[registry]
+HKEY_CURRENT_USER|Software\Trident Software\PowerZip\Recent File List

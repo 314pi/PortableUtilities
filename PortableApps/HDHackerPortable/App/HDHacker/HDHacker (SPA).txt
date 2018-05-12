@@ -1,0 +1,71 @@
+HDHacker
+
+Se encuentran versiones actualizadas en:
+HDHacker Home: "http://dimio.altervista.org/"
+
+DESCRIPCIÓN:
+
+HDHacker es una pequeña utilidad para Windows que le permite guardar, mirar o restaurar el MBR, el Sector de Arranque o cualquier otro sector de un Disco duro. HDHacker también puede lograr esta tarea para un disco flexible, memoria Usb y otros medios de almacenamiento. HDHacker es un PROGRAMA DE LIBRE DISTRIBUCIÓN. HDHacker no usa ningún instalador, corre directamente desde un ejecutable.
+
+USO:
+
+Junto a ser un gran seguro contra el ataque de virus de MBR, el programa de HDHacker se ha escrito como una herramienta para una dificultad común:
+
+En un PC con Linux y Win2000 o Windows XP (con LILO o GRUB como gestor de arranque) varios sistemas operativos podrían sobreescribir LILO / GRUB (y así hace Linux inaccesible). En este caso, HDHacker le permite salvar el MBR antes de instalar un nuevo Sistema Operativo (o reinstalando Windows), entonces muy fácilmente se recupera el LILO / GRUB original.
+
+Como en versiones anteriores, tiene la opción para escoger la lectura/escritura a/de un medio lógico o físico. Si el primer sector es escogido de un medio físico, corresponderá al MBR. Por otra parte, si un primer sector es escogido de un medio lógico, hará la lectura/escritura a/del Sector de arranque designado.
+
+Actualmente, es posible lograr cualquiera de lss siguientes operaciones:
+
+"LEER UN SECTOR DEL DISCO"
+Carga un sector en la memoria, leyéndolo directamente del disco.
+
+"CARGAR SECTOR DE UN ARCHIVO"
+Carga un sector en memoria que se grabó previamente en un archivo.
+
+"GRABAR SECTOR A UN ARCHIVO"
+Graba el sector en memoria a un archivo en cualquier disco o medio designado.
+
+"ESCRIBIR SECTOR EN DISCO"
+Escribe al disco, el sector que está en la memoria, en la ubicación especificada (MBR o sector de arranque).
+
+Entonces, para guardar los datos (el MBR escogido o sector de arranque), HDHacker pedirá:
+
+1. Seleccionar un Medio Físico.
+2. Seleccionar "LEER UN SECTOR DEL DISCO".
+3. Seleccionar "GRABAR SECTOR A UN ARCHIVO"
+   (si quiere salvar el MBR en un archivo, por ejemplo, como una copia de seguridad).
+
+Durante el RESTORE, las opciones serán:
+
+1. Seleccionar un medio físico.
+2. Seleccionar “CARGAR SECTOR DESDE UN ARCHIVO" 
+   (entonces seleccione el MBR salvado previamente en la copia de seguridad).
+3. Seleccionar "ESCRIBA SECTOR EN DISCO" para completar el procedimiento.
+
+COMPATIBILIDAD/REQUISITOS:
+
+En teoría, HDHacker debe trabajar con todas las versiones de Windows con las restricciones siguientes:
+
+PERMISOS: El programa requiere que el usuario tenga autorización para leer Y escribir en CUALQUIER parte del disco. En Windows 95 y 98 éste es el valor por defecto - si ha firmado en con una contraseña (por otra parte debe crear una cuenta de administrador). Sin embargo, en Windows ME o cualquier sistema basado en NT (Windows 2K, Windows XP, etc.) debe iniciar sesión como "Administrador" para leer, grabar o restaurar cualquier MBR o Sector de arranque.
+
+LINUX: El programa HDHacker trabaja dentro de Linux, usando WINE, pero de nuevo, debe ser "Administrador" y también debe tener los permisos de la lectura/escritura en FSTAB. 
+
+HDHacker requiere MSVBVM60.DLL para correr en Windows 95 o Windows 98.
+(Indicación: MSVBVM60.DLL es un archivo estándar incluído en Windows 2000).
+
+NOTAS:
+
+El programa usa la tecnología UPX (http://upx.sourceforge.net) para aumentar su talla de eficacia/portabilidad.
+
+LICENCIA:
+
+El programa es distribuído con una licencia de Programa de libre distribución (por favor lea la licencia con respecto a las restricciones para el uso, créditos, prohibición contra el decompiling, y limitaciones de daño).
+
+AUTOR/CREADOR DEL CÓDIGO:
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE: katafratto
+ICQ: 145633952
+CORREO ELECTRÓNICO: cyberdimio@gmail.com
+CASA: http://dimio.altervista.org/

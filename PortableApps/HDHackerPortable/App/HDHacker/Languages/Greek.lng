@@ -1,0 +1,48 @@
+1 Sector image
+2 Εικόνα τομέα
+1 About
+2 Περί...
+1 Drive to operate
+2 Δίσκος αναφοράς
+1 Select sector
+2 Επιλογή τομέα
+1 Read commands
+2 Εντολές ανάγνωσης
+1 Write commands
+2 Εντολές εγγραφής
+1 Logical Drive (BootSector)
+2 Λογικός δίσκος (Τομέας εκκίν.)
+1 Logical Drive
+2 Μονάδα λογικού δίσκου
+1 Physical Drive (MBR)
+2 Φυσική μονάδα δίσκου (MBR)
+1 Physical Drive
+2 Φυσική μονάδα δίσκου
+1 First sector (BootSector)
+2 Πρώτος τομέας (Τομέας εκκίνησης)
+1 First sector (MBR)
+2 Πρώτος τομέας (MBR)
+1 Specify a Sector
+2 Καθορισμός ενός τομέα
+1 Number of continuous sectors to read:
+2 Συνεχόμενοι τομείς γι ανάγνωση:
+1 Read sector from disk
+2 Ανάγνωση τομέα από δίσκο
+1 Load sector from file
+2 Φόρτωση τομέα από αρχείο
+1 Save sector to File
+2 Αποθήκευση τομέα σε αρχείο
+1 Write sector on Disk
+2 Εγγραφή τομέα στο δίσκο
+1 The first sector of a Physical Drive is the Master Boot Record (MBR)
+2 Ο πρώτος τομέας μιας φυσικής μονάδας δίσκου είναι η κύρια εγγραφή εκκίνησης (MBR)
+1 The first sector of a Logical Drive is the Boot sector
+2 Ο πρώτος τομέας ενός λογικού δίσκου είναι ο τομέας εκκίνησης
+1 Sector read
+2 Ανάγνωση τομέα
+1 Impossible to read sector on the disk
+2 Δεν είναι δυνατή η ανάγνωση τομέα στο δίσκο
+1 HDHacker (By Dimio)
+2 HDHacker (Από τον Dimio)
+1 HDHacker requires Administrator's Privilenges to start
+2 Το HDHacker χρειάζεται δικαιώματα διαχειριστή για να ξεκινήσει

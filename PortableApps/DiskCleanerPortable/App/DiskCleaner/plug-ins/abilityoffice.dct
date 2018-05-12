@@ -1,0 +1,27 @@
+[Info]
+Title=Ability Office 4 Recent Files
+Description=Delete Ability 4 Recent Documents list
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Spreadsheet\Files
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Write\Files
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Spreadsheet\Recent File List
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Spreadsheet\Dirs
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Write\Recent File List
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Write\Dirs
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability PhotoPaint Studio\Recent File List
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability PhotoPaint Studio\Files
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability PhotoPaint Studio\Dirs
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Database\Recent File List
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Database\Files
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Database\Dirs
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Presentation\Recent File List
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Presentation\Files
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Presentation\Dirs
+HKEY_CURRENT_USER|Software\Ability 4.0\ABDRAW\Recent File List
+HKEY_CURRENT_USER|Software\Ability 4.0\ABDRAW\Files
+HKEY_CURRENT_USER|Software\Ability 4.0\ABDRAW\Dirs
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Photoalbum\Recent File List
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Photoalbum\Files
+HKEY_CURRENT_USER|Software\Ability 4.0\Ability Photoalbum\Dirs

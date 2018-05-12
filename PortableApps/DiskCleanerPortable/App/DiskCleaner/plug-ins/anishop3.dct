@@ -1,0 +1,8 @@
+[Info]
+Title = JASC Animation Shop 3.0
+Description = Erase JASC Animation Shop 3.0's last open folder
+
+[registry]
+HKEY_CURRENT_USER|Software\JASC\Animation Shop 3\Recent File List
+HKEY_CURRENT_USER|Software\JASC\Animation Shop 3\FileOpenDialog|OpenImageDir
+HKEY_CURRENT_USER|Software\JASC\Animation Shop 3\SaveAsDialog|SaveAsDir

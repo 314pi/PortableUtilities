@@ -1,0 +1,7 @@
+[Info]
+Title=Swiff Player
+Description=Deletes Swiff Player mru
+ 
+
+[registry]
+HKEY_CURRENT_USER|Software\GlobFX Technologies\Swiff Player\Recent File List

@@ -1,0 +1,8 @@
+[Info]
+Title=IZArc
+Description=Clears IZArc History
+
+[registry]
+HKEY_CURRENT_USER|Software\IZSoftware\IZArc|AppCurrentDir
+HKEY_CURRENT_USER|Software\IZSoftware\IZArc\Recent
+HKEY_CURRENT_USER|Software\IZSoftware\IZArc\History

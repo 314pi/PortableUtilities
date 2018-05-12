@@ -1,0 +1,41 @@
+* Version 15.0 [2018-05-09]
+
+ADDED: Alternate download for Win XP/Vista for TLS 1.1/1.2 hosts
+ADDED: Support for .NET 2-4 apps
+ADDED: High DPI support in platform's menu, options, about, dialogs
+ADDED: High contrast theme detection and passing of that data to apps
+ADDED: Touch scrolling of menu app list
+ADDED: Save What's New seen on window close, prevent re-show after unsafe exit
+ADDED: Platform setting of Documents, Pictures, etc environment vars for apps
+UPDATED: Delphi compiler to 10.2.3, drops Windows 2000 support
+UPDATED: SHA256 handling switched to built-in
+UPDATED: 7-Zip to 18.05
+UPDATED: Compressed platform graphics to save space
+UPDATED: Eject utility with bug fixes and features
+UPDATED: Updater/app store checkboxes to Windows 10 visuals
+UPDATED: Brazilian Portuguese, Croatian, Finnish, French, German, Korean, Portuguese, Turkish locales
+FIXED: Windows 7+ can't download when TLS 1.1/1.2 disabled
+FIXED: Black boxes around app icons under Wine
+FIXED: Some app store/updater/backup text not visible with high contrast Windows theme
+REMOVED: Hold CTRL to launch apps as admin
+
+* Version 14.4.3 [2018-01-31]
+
+FIXED: 32-bit version of 7-Zip as default
+
+* Version 14.4.2 [2018-01-31]
+
+UPDATED: 7-Zip to 18.01 to address a potential security issue
+UPDATED: Bulgarian, Dutch, Finnish, Hungarian, Polish, Slovak, Slovenian locales
+FIXED: Broken icon display for jdkPortable
+
+* Version 14.4.1 [2017-04-02]
+
+ADDED: Apps may have different names for launchers vs the base app
+UPDATED: Bulgarian, German, Hungarian, and Slovenian locales
+
+* Version 14.4 [2017-03-13]
+
+ADDED: Custom platform security to scan for and mitigate DLL hijacks in: 2048, BabelPad, ClamWin, Foxit, Google Chrome,
+  Kaspersky TDSSKiller, LibreOffice, McAfee Stinger, Opera, Opera Mail, Skype, Thunderbird, and various launchers
+UPDATED: Swedish and Traditional Chinese locales

@@ -1,0 +1,240 @@
+1 DSynchronize (Programmed by Dimio)
+2 DSynchronize (Naprogramoval Dimio)
+1 Sources
+2 Zdroje
+1 C:\Sample 1 Of Source Path
+2 C:\Príklad 1 zdrojovej cesty
+1 C:\Sample 2
+2 C:\Príklad 2
+1 \\RemotePC\Sample 1 Of Destination Path
+2 \\VzdialenéPC\Príklad 1 cie¾ovej cesty
+1 \\\Sample 2
+2 \\VzdialenéPC\Príklad 2
+1 Destinations
+2 Ciele
+1 Insert path and then press "Enter"
+2 Vloi cestu a potom stlaèi "Enter"
+1 Press "Enter" to modify the path, "DEL" to delete it, "PagUp" or "PagDn" to move it up or down
+2 Stlaèi "Enter" na zmenu cesty, "DEL" na zmazanie, "PagUp" alebo "PagDn" na posun hore alebo dole
+1 Filter
+2 Filter
+1 DSynchronize Filter
+2 DSynchronize Filter
+1 Filter settings
+2 Nastavenie filtra
+1 Do not apply filters to folders
+2 Neaplikova filtre na adresáre
+1 Exclusion filter
+2 Vyluèovací filter
+1 Inclusion filter
+2 Zahròovací filter
+1 Do not include subfolders on synchronization
+2 Nezahròova podadresáre do synchronizácie
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Na pouitie viacerıch filtrov je treba ich oddeli ";", napr. *.exe;*.txt;settings.ini;*.da?
+1 Filter Extended
+2 Rozšírenie filtra
+1 Jan
+2 Jan
+1 May
+2 Máj
+1 Jun
+2 Jún
+1 Jul
+2 Júl
+1 Aug
+2 Aug
+1 Sep
+2 Sep
+1 Oct
+2 Okt
+1 Dec
+2 Dec
+1 Exclude files modified before:
+2 Vylúèi súbory zmenené pred:
+1 Cancel
+2 Zruši
+1 Select a folder:
+2 Vybra adresár
+1 Browse
+2 Vybra
+1 &Add New...
+2 &Prida novı...
+1 B&rowse...
+2 &Vybra...
+1 &Edit...
+2 &Editova...
+1 &Select all
+2 &Vybra všetky
+1 &Deselect all
+2 &Odznaèi všetky
+1 Se&t filter...
+2 &Nastavi filter...
+1 S&wap paths
+2 &Odloi cesty
+1 Re&move
+2 O&stráni
+1 About
+2 O...
+1 DSynchronize About
+2 O DSynchronize
+1 Support with a Donation
+2 Podpori darom
+1 Make a Donation
+2 Darova
+1 General options
+2 Hlavné nastavenia
+1 Copy only newer files
+2 Kopírova novšie súbory
+1 Update files into destination folder only if source files are more recent
+2 Aktualizova súbory v cie¾ovıch adresároch iba ak zdrojové súbory sú novšie
+1 Bidirectional synchronization
+2 Obojsmerná synchronizácia
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Synchronizova adresáre so zmenami najnovších súborov, na konci budú oba adresáre totoné
+1 Add date to destination folder
+2 Prida dátum do mena adresára
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Prida k menu cie¾ového adresára aktuálny dátum a èas (napr. "C:\Destination" sa stane "C:\Destination 2004-12-10 22.30"))
+1 Create folder if not exists
+2 Vytvori adresár ak neexistuje
+1 If destination path does not exists it creates a new one
+2 Ak cie¾ neexistuje, vytvori novı
+1 Preview mode
+2 Prezerací mód
+1 Only preview (do not write anything on HD)
+2 Iba prezera (niè nezapísa na harddisk)
+1 Exit at the end
+2 Zavrie po skon.
+1 Closes the program at the end of sync
+2 Zatvori program po skonèení synchronizácie
+1 Shutdown at the end
+2 Vypnú poèítaè
+1 Shutdown the system at the end of sync
+2 Vypnú poèítaè po skonèení synchronizácie
+1 Save on exit
+2 Uloi nastav.
+1 Saves all current settings on exit (source and destination path too)
+2 Uloi všetky nastavenia pri ukonèení aplikácie
+1 Save log
+2 Uloi log
+1 Save log file
+2 Uloi logovací súbor
+1 Play sound when done
+2 Zvukovı signál
+1 Generate a sound advise at the end of syncronization
+2 Generova zvuk po skonèení synchronizácie
+1 Special options
+2 Špeciálne monosti
+1 Antifragmentation
+2 Antifragmentácia
+1 Reduces disk fragmentation deleting files before replacing them (replaced files will appear as added)
+2 Redukova diskovú fragmentáciu mazaním súborov pred ich nahradením
+1 Set idle priority
+2 Nízka priorita
+1 Ignore path errors
+2 Ignorova chyby
+1 If a path (source or destination) does not exists it skips without any error message
+2 Ak cesta k zdroju alebo cie¾u neexistuje, preskoèí sa bez varovania
+1 Backup changes
+2 Uchováva zmeny
+1 No Backup
+2 Neuchova zmeny
+1 Timer sync
+2 Èasovaè
+1 Set/enable timer
+2 Spusti èasovaè
+1 DSynchronize Options
+2 Monosti Options
+1 Timer choice
+2 Monos èasovaèa
+1 Synchronize every
+2 Synchronizova po
+1 Synchronize at
+2 Synchronizova o
+1 Days choice
+2 Vıber dní
+1 Synchronize every day
+2 Synchronizova kadı deò
+1 Specify the month's days on which to synchronize
+2 Špecifikova dni v mesiaci na synchronizáciu
+1 Specify the week's days on which to synchronize
+2 Špecifikova dni v tıdni na synchronizáciu
+1 Sunday
+2 Nede¾a
+1 Monday
+2 Pondelok
+1 Tuesday
+2 Utorok
+1 Wednesday
+2 Streda
+1 Thursday
+2 Štvrtok
+1 Friday
+2 Piatok
+1 Saturday
+2 Sobota
+1 Realtime sync
+2 Reálna synchron.
+1 Real-time syncronization (experimental)
+2 Synchronizácia v reálnom èase
+1 Autostart
+2 Autoštart
+1 Activation of the Real-Time Synchronization.
+2 Aktivácia synchronizácie v reálnom èase
+1 Execute DSynchronize at system startup
+2 Spusti DSynchronize pri štarte systému
+1 Autostart as service...
+2 Autoštart ako servis...
+1 Execute DSyncronize at system startup as service
+2 Spusti DSyncronize po štarte systému ako servis
+1 DSyncronize Start As Service
+2 Spusti DSyncronize ako servis
+1 Install Service
+2 Inštalova servis
+1 Start Service
+2 Štart servisu
+1 Done
+2 Hotovo
+1 Commands
+2 Príkazy
+1 Synchronize
+2 Synchronizova
+1 Pause
+2 Pozastavi
+1 Deleted files
+2 Vymazané súbory
+1 Ask before deleting files
+2 Opıta sa pred vymazaním
+1 Do not delete any file
+2 Nezmaza iaden súbor
+1 Does not delete any file
+2 Nezmaza iadne súbory
+1 Move files
+2 Presunú súbory
+1 Move files from Source to Destination
+2 Presunú súbory zo zdroja do cie¾a
+1 Added files
+2 Pridané súbory
+1 Ask before adding files
+2 Opıta sa pred pridaním
+1 Do not add any file
+2 Neprida iaden súbor
+1 Does not add any new file
+2 Nerpida iadne súbory
+1 Replaced files
+2 Nahradené súbory
+1 Ask before replacing files
+2 Opıta sa pred nahradením
+1 Do not replace any file
+2 Nenahraï iaden súbor
+1 Does not replace any file
+2 Nenahradi iadne súbory
+1 Synchronization complete.
+2 Synchronizácia ukonèená.
+1 Help
+2 Pomoc
+1 Show
+2 Zobraz
+1 Close
+2 Zavri

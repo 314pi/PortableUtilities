@@ -1,0 +1,60 @@
+Core Developers
+---------------
+
+Rob Caelers <robc@krandor.nl>
+Raymond Penners <raymond@dotsphinx.com>
+Ray Satiro <raysatiro@yahoo.com>
+
+
+Contributors
+------------
+
+Ruairi Fullam
+Gabor Kelemen
+Daniel Benamy
+Gary Peck
+Dag Wieers
+Jaap Haitsma
+Brian de Alwis
+Dov Murik
+Stanislav Brabec
+
+Translators
+-----------
+
+Alexandru Szasz <alexxed@gmail.com>
+Artūras Šlajus <x11@h2o.sky.lt>
+Benjamin Siband <translations@wordinfrench.com>
+Christian Vejlbo <christian@vejlbo.dk>
+Claudio Ferreira Filho <filhocf@yahoo.com.br>
+Daniel Nylander <info@danielnylander.se>
+Daniel YC Lin (林原志) <dlin.tw@gmail.com>
+Enver ALTIN <ealtin@parkyeri.com>
+Eraldo Girardi <eraldster@katamail.com>
+Eric lesh <eclesh@pacbell.net>
+FreeWe <free@asdasd.ru>
+Gabor Kelemen <kelemeng@gnome.hu>
+Haggai Eran <he3@bezeqint.net>
+Ivan <ivan.barkovic@gmail.com>
+Johannes Rohr <j.rohr@comlink.apc.org>
+Jordi Mallach <jordi@sindominio.net>
+Juraj Kubelka <Juraj.Kubelka@email.cz>
+Marko Väljaots <aatomik@hotmail.com>
+Masanobu Yokota <masanobu.yokota@nifty.com>
+Mikolaj Machowski <mikmach@wp.pl>
+Moein Gh <tarfandkhaneh@gmail.com>
+Morten Lunde <morten.lunde@broadpark.no>
+Mykola Rykov <mykola.rykov@gmail.com>
+ORY Mate <orymate@gmail.com>
+Pablo Rodriguez <ousia@gmx.net>
+Peter Tuharsky <Peter.Tuharsky@banskabystrica.sk>
+Prokopis Prokopidis <prokopidis@gmail.com>
+Raymond Penners <raymond@dotsphinx.com>
+Rex Tsai <chihchun@linux.org.tw>
+Seanán Ó Coistín <seananoc@gmail.com>
+Sergey Kirkinsky <ksa@pfr.altai.ru>
+Tao WEI <weitao1979@gmail.com>
+Thomas Basset <thomas.basset@netcourrier.com>
+Vanja Cvelbar <cvelbar@gmail.com>
+Иван Димов <idimov@users.sourceforge.net>
+김재용 <nawane@naver.com>

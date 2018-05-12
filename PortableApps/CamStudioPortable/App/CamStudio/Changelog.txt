@@ -1,0 +1,86 @@
+CAMSTUDIO CHANGELOG
+
+
+2.7.2 r326
+
+Added MP4 container support ready for AVI 2.0 function - changed output toolbar to single rotating
+Fixed sync issues when recording is paused and restarted
+
+
+
+Builds r321 - r325 
+
+Internal Builds
+
+
+
+2.7.1 r320
+
+Fixed bug in update notification routine to detect x.x.x minor version updates
+Changed time elapsed during recording in main panel from 'xxxx seconds' to 'x hours xx mins xx secs'
+Removed the "No camstudio.cfg found" notification routine to minimise confusion for new users
+Fixed 'key polling' conflict with CamStudio recording during a Minecraft session
+Fixed long-standing pixelation issue with CamStudio central panel and refreshed design
+Removed unnecessary dialog box from appearing when update xml on CamStudio server not detected
+
+
+2.7 r319
+
+Internal build
+
+
+2.7 r318
+
+Fixed certain audio UI elements that didn't work with Vista and Win7 - now CamStudio autodetects OS <= DONE
+
+Added seperate default output directory (My Documents > My CamStudio Recordings)
+Added new default temporary recording directory (My Documents > My CamStudio Temp Files)
+Removed Use Application Directory as an option for temporary recording directory
+
+
+2.7 r317
+
+Internal build
+
+
+
+2.7 r316
+
+Added warning to Video Options > Capture rate informing of CPU/filesize increase
+
+Added a warning dialog when "Locking" checkbox deselected.
+
+Amended Installer to automatically detect and download VC++ 2010 dependencies from Microsoft if needed
+and added OpenCandy advertising-during-install function
+
+
+2.7 r314
+
+Made Auto Adjust enabled by default with a new second checkbox (also enabled by default) above the slider bar locking the Capture Frame rate and Playback rate to only factors of 1000. 
+
+Also made Key Frame rate independant of Auto Adjust for finer control.
+
+
+
+
+2.7 r312
+
+Addition of update available notification box
+
+Alter default save location from 'Use Windows Temporary Directory' to 'Use Application Installed Diretory'
+CAMSTUDIO NOW SAVES TO 'VIDEOS' FOLDER IN THE APPLICATION INSTALLED DIRECTORY AS DEFAULT.
+
+Removed link to CamStudio Blog from Help menu
+
+=== UPDATED CAMSTUDIO TO 2.7 ===
+
+
+2.6 r310
+
+CamStudio now displaying/able to use most video codecs on system (except certain Windows Media codecs - to be added)
+
+Sometimes lossless codec not showing in codec list in Vista and Win7
+- Fixed by creating separate 64-bit compatible CamStudio Lossless Codec Installer DONE WITH SEPARATE 64-BIT COMPATIBLE CODEC INSTALLER
+
+Added a keyboard shortcut option for Autopan with on-screen notification message
+

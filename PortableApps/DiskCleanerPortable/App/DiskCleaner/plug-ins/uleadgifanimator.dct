@@ -1,0 +1,7 @@
+[Info]
+Title=Ulead GIF Animator
+Description=Erase  Ulead GIF Animator's Recent Files
+
+
+[registry]
+HKEY_CURRENT_USER|Software\Ulead Systems\Ulead GIF Animator\5.0\Recent File List

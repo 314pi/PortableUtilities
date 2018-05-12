@@ -1,0 +1,8 @@
+[Info]
+Title=Windows Memory Dump
+Description=Removes Windows Memory dump files (*.dmp) that are created when Windows crashes.
+Admin=1
+
+[files]
+%windir%\memory.dmp
+%windir%\MiniDump\*.dmp

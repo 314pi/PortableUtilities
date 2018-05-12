@@ -1,0 +1,1 @@
+Your XNResourceEditor settings registry files will go here

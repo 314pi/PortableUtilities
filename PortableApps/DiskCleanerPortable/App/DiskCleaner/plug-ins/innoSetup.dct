@@ -1,0 +1,8 @@
+[Info]
+Title=Inno Setup
+Description=Cleans Inno Setup
+Icon=Disk Cleaner.ICO
+Creator=AC
+
+[registry]
+HKEY_USERS|.DEFAULT\SOFTWARE\Jordan Russell\Inno Setup\ScriptFileHistoryNew

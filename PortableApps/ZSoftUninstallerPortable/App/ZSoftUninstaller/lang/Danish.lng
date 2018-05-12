@@ -1,0 +1,296 @@
+; DANISH LANG FILE
+; THIS WAY YOU CAN EASILY TRANSLATE THIS PROGRAM INTO YOUR OWN LANGUAGE!
+; EVERY LINE !!!STARTING!!! WITH A ";" IS CONSIDERED A COMMENT
+Er du sikker på du vil slette?
+Der er en nyere version tilgængelig! Vil du føres til siden hvor du kan hente den?
+Du har i øjeblikket den seneste version!
+Der skete desværre en fejl! Prøv igen senere...
+Ryd
+Program Navn
+&Filer
+F&iltrer
+F&unktioner
+I&ndstillinger
+&Sprog
+&Hjælp
+&Afslut
+Vis kun 'døde links'
+&Opdater Listen
+Søg Efter O&pdateringer
+Vis Gitter Linier
+Hjælp
+ZSoft Software
+
+O&m
+Unins&tall
+Slet
+Du skal bruge mindst 3 tegn!
+&Eksporter Liste
+Text Filer (*.txt)|*.txt|Alle Filer (*.*)|*.*
+Uninsta&ll
+S&let
+Hjæl&p
+Vis kun "crapware"
+Vis ikke skjulte 'links'
+Skjul
+Rediger Skjul-Filteret
+Rediger Skjul-Filteret
+Slet valgte fra listen og skjul den ikke længere
+Viser %d programmer!
+Info
+Velkommen til ZSoft Uninstaller!\n\nDu vil løbende få information ved at kigge i dette felt.\n\nGod fornøjelse :o)
+Venter i øjeblikket på at afinstallations programmet til %s bliver færdigt.
+%s burde nu være afinstalleret.\n\nListen er blevet opdateret!
+Kan ikke køre afinstallations programmet til %s.
+;
+; OM FORMEN
+;
+Om ZSoft Uninstaller
+- O m -\nUninstaller er et lille, gratis, let-vægts-program der har mere eller mindre\nde samme funktioner som den indbyggede afinstalleringsfunktion der ligger i\nMicrosoft Windows, dog hurtigere at loade.\n\nUninstaller er skrevet, mest til mig selv, fordi jeg synes Windows XP's\nfunktion til at afinstallere med er en rigtigt bitch at åbne...\n\nHusk dog et al brug af dette program foregår på eget ansvar, og at\nprogrammøren ikke kan drages til ansvar for evt. tab af data eller lignende!\n\n- T a k  T i l -\nDette program indeholder kode fra følgende projekter:\nToolbar2000 & TBX (for komponenter der får dette program til at se godt ud)\nIndy (for komponenter der gør programmet i stand til at bruge internettet)\nWisnu Aribowo (for dette rullende tekst komponent)\n\n- C o p y r i g h t  M e d d e l e l s e -\nDette software er copyright (C) 2004-2005 ZSoft.\n\nDele af denne software er Copyright (c) 1993 - 2003, Chad Z. Hower (Kudzu)\nog the Indy Pit Crew - IndyProject.org
+Lu&k
+;
+; Nyt
+;
+Vis/Rediger Info
+Vis/Rediger Info
+Navn
+Værdi
+Gem
+Annuller
+Ændre
+OK
+Annuller
+Vælg Font (kun listen)
+&Analyser
+Analyser Installation
+;
+; Analyse-funktionen
+;
+Velkommen!
+Denne guide vil få dig igennem en proces hvor du enten kan analyserer en installation eller afinstallerer et tidligere analyseret program fuldstændigt.
+Hvad ønsker du at gøre?
+&Analyser en installation
+Af&installer et tidligere analyseret program
+&Annuller
+&Næste >>
+Før du starter med at installere skal der tages 'et billede' af din computer. Vælg nedenfor hvilken/hvilke harddiske du vil analyserer. Normalt er C-drevet og det drev du installerer på (hvis det er et andet drev) nok.
+Diske
+&Før Installationen
+&Efter Installationen
+Filer Fundet (ca.): 
+Reg. Fundet (ca.): 
+Tid taget (i sek.):
+Sammenligner... Vent Venligst!
+Skriv Programmets Navn
+Skriv navnet på programmet du har installeret nedenfor.
+FEJL: Filen Findes @ Skriv Programmets Navn
+FEJL: Filen Findes. Skriv et unikt navn for programmet du har installeret nedenfor.
+Job fuldført. Vinduet vil nu lukke.
+Vælg herunder hvilket af de tidligere analyserede programmer du ønsker at afinstallere.
+Bekræft dernæst følgende:
+Jeg forstår at jeg gør det dette på eget ansvar
+Jeg forstår at de filer der bliver slettet ikke kan gendannes
+Jeg vil ikke holde programmøren ansvarlig for evt. tab af data etc.
+Afinstaller
+Du skal først vælge hvilket program du vil afinstallerer!
+Du skal bekræfte at du forstår: 
+Jeg ønsker ikke at bekræfte hver sletning
+Filen "%s" er ny, vil du slette den?
+Vil du slette filen?
+Vil du slette log filen?
+Slet log filen?
+Slettet: 
+Mappen "%s" kunne ikke blive slettet - måske er den ikke tom
+%d fil(er) synes at være blevet slettet, men dette er ikke et gendannelsesprogram!
+Registreringsdatabase nøglen "%s" er ikke tom og vil ikke blive fjernet!
+Log filen kan ikke læses!
+Færdig
+Tilføj nyt punkt
+Fjern (kan ikke gendannes)
+Ny værdi:
+Navn for nyt punkt:
+Indhold for nyt punkt:
+Er du sikker på at du vil slette dette punkt fra registreringsdatabasen?\nVær opmærksom på at den slettede data ikke kan blive gendannet!\nØnsker du at fortsætte?
+Er du sikker?
+Installerede Programmer
+Analyserede Installationer
+&Temp Fil Finder
+Start Søgning
+Stop Søgning
+Søg på dette drev:
+Filenavn
+Extension
+Sted
+Størrelse
+Søgning stoppet af bruger
+Søger i: 
+Søgning afsluttet
+Slet fil(er) (kan ikke gendannes)
+Er du sikker?
+Er du sikker på at du vil slette den/disse fil(er)?\nVær opmærksom på at den slettede data ikke kan blive gendannet!\nØnsker du at fortsætte?
+Mappe er måske ikke blevet fjernet
+Jeg tror at dette er mappen programmet var installeret i:\n%s\nEr dette korrekt?\nØnsker du at fjerne denne mappe? (Filer og mapper kan ikke gendannes!)
+Backup && slet fil(er)
+Er du sikker?
+Dette vil slette de valgte filer. Du kan dog gendanne dem senere hvis du ønsker.\nØnkser du at fortsætte?
+Backups
+Gendan
+Omdøb
+Skriv det nye ønskede navn herunder
+Omdøb
+Slet
+Nogle filer og/eller poster i registreringsdatabasen kunne ikke slettes. Jeg vil forsøge igen næste gang du åbner dette program!
+Hjælp-filen blev ikke fundet!
+Ikke fundet
+Værdien skal være et helttal!
+Værdien skal vælges, og hvis helttal, skal det være dette!
+Streng
+Udvidelig Streng
+Helttal
+&Færdigør en analyse der allerede er startet
+Der skete en fejl under oprettelse af mappen, funktionen vil ikke fortsætte.
+Fejl!
+Vis optaget info
+Ignorerings Liste
+Sektion
+Lokation
+&Rediger Ignorerings Liste
+&Tilføj
+Slet
+Sektion:
+Lokation:
+&Angiv
+Denne mappe vil skal ignoreres
+&Fil
+&Registreringsdatabasen
+A&nnuller
+&Tilføj!
+Søg:
+Uninstall Prioterie
+Høj
+Normal
+Lav
+Elementet er allerede ignoreret.
+Du skal udfylde formen korrekt.
+Indstillinger
+Ignorer Internet Explorer cache
+Ignorer Firefox cache
+Ca. størrelse:
+Installations Dato:
+Ændrings Dato:
+Tilgangs Dato:
+Vis ikke Windows Opdateringer
+Gendan Alle
+Vis kun nye 'links'
+Marker nye 'links'
+Skjulte Programmer
+Registreringsdatabase Angiver
+Slet filer til papirkurven
+Vis ikoner
+Filen '%s' kunne ikke findes. Backuppen er (måske) ødelagt.
+Gem som...
+Som store ikoner
+Som små ikoner i listen
+Kunne ikke slettes: 
+Mappe slettet: 
+Registreringsdatabasen værdi slettet: 
+Registreringsdatabasen værdi oprettet: 
+Registreringsdatabasen værdi IKKE oprettet: 
+Registreringsdatabasen værdi IKKE slettet: 
+Registreringsdatabasen nøgle slettet: 
+Registreringsdatabasen nøgle oprettet: 
+Registreringsdatabasen nøgle IKKE oprettet: 
+Vent venligst...
+Slet til papirkurven
+Slet Fil(er) til Papirkurven
+Er du sikker på at du vil slette den/disse fil(er) til papirkurven?
+Vælg Alle
+%d filer fundet, totalt %s.
+Sorter Liste Efter
+Navn (stigende)
+Navn (faldende)
+Tid (stigende)
+Tid (faldende)
+Fjern fra Skjul Filteret
+Rediger
+Filsystem
+Registreringsdatabasen
+Rediger Analyseret Log
+Du har ændret i logfilen. Ønsker du at gemme ændringerne?
+Ønsker du at gemme ændringerne?
+Skift Baggrundsfarve For
+Tilføj element til ignorerings-listen (Analyser-funktionen)
+I dette vindue kan du se (og navigerer) i de optagne ændringer foretaget af den analyserede installation.\nDu kan slette elementer fra loggen (der vil for en sikkerhedsskyld blive lavet en backup),\nog du kan tilføje elementer til ignoreringslisten, så de ikke bliver optaget i fremtiden.
+Tomme Mapper Finder
+Skan denne mappe for tomme mapper:
+Scan kun øvre lag
+Start Skan
+Mappe
+Skan denne mappe
+Fjern valgte
+Værktøjer
+Startup Manager
+Navn
+Kører
+Deaktiver
+Aktiver
+Kopier programnavn til udklipsholderen
+Teksten '%s' er blevet kopieret til udklipsholderen!
+Skjul Søgebar
+Programmet %s skulle nu være blevet afinstalleret. Vil du søge efter 'rester'?
+Søg efter 'rester'?
+Jeg har fundet følgende nøgleord at søge efter. Det anbefales at du ændre dem, hvis det er nødvendigt. Brug et nøgleord per linje. Klik på 'Næste' når du er færdig.
+Næste >>
+Hop Til
+Gå et level op
+Placering
+Type
+Sti
+Værdi
+Post Uninstall Manager
+Program Navn
+Lav et 'Post-Uninstall' på det valgte program
+Af
+Version
+Åbn Installationsmappen
+Nogle filer eller poster i registreringsdatabasen kunne ikke slettes, eller gendannes.\nVil du gemme disse poster i en ny logfil?
+Vil du gemme en ny logfil?
+Vil du søge efter 'rester' fra programmet?
+Post Uninstall Skanner
+Søger... Vent venligst.
+Fjern
+Er du sikker?
+Er du sikker på du ønsker at fortsætte?
+Brug denne mulighed, hvis du allerede har startet en analyse - \nfor eksempel hvis installationen har krævet et genstart af computern.
+For en mere nøjagtig installations log, anbefales det at du starter programmet\nog konfigurerer det, før du starter 'Efter Installationen' skanningen.
+Det anbefales at du afinstallerer programmet med dennes egen\nafinstallerings-funktion (i hovedvinduet af ZSoft Uninstaller),\nog dernæst fjerner alle spor med denne funktion.
+Her kan du se alle ændringer der er blevet optaget.\nHvis du vil ændre dataen, kan du gøre dette vel at\nvælge 'Rediger' fra højre-kliks popup'en i hovedvinduet.
+Dette er listen over programmer du har afinstalleret i denne session,\nmen stadig mangler at køre et Post Uninstall på.\nDobbelt-klik på et programnavn for at starter Post Uninstall.
+Mappen indeholder megen data
+Du prøver at slette mappen\n%s\nDenne mappe indeholder imidlertid megen data. Er du sikker på at du vil fortsætte?
+Registreringsdatabase Backups
+Sletninger fra Installerede Programmer Listen
+Sletninger fra Post Uninstalleren
+Navn
+Backup Størrelse
+Sletnings Tidspunkt
+Vis Data
+Alternativ Uninstall
+Stille Uninstall
+Ændre
+Uninstall Ekstern Applikation
+Badware
+Find Badware
+Søg efter Badware
+TMP Fil Finder
+Returner kun resultater, hvor hele ord matcher
+Er du sikker?
+Er du sikker på du vil fjerne denne backup-fil? Hvis du fjerner den, vil du ikke længere kunne gendanne dataen.
+Slet Backup
+Er du sikker?
+Er du sikker på du vil slette post-uninstall-filen? Hvis du sletter den, vil du ikke længere kunne søge efter 'rester' for programmet.
+Slet Denne Post-Uninstall Fil
+Her vil resultaterne for søgningen blive vist.\nBrug højre-kliks menuen for at hoppe til den fundne data og derved foretage en bedre beslutning, eller til det gøre resultatet bredere.\nNår du finder noget du vil fjerne, så afkryds det. Tryk på 'Fjern' knappen når du er færdig...\n\nMapper og filer vil blive fjernet til computerens papirkurv, og registreringsdatabase nøgler og værdier vil blive sikkerhedskopieret, og slettet.\nRegistreringsdatabase backups kan gendannes fra menuen Funktioner -> Registreringsdatabase Backups.
+Kopier log til udklipsholderen
+Doner med Paypal
+Doner med Trialpay

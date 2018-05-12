@@ -1,0 +1,220 @@
+1 File
+2 File
+1 New task (Run...)
+2 Nuovo processo (esegui...)
+1 New task (Run as user...)
+2 Nuovo processo (esegui come utente...)
+1 Exit
+2 Esci
+1 Options
+2 Opzioni
+1 Set default Task Manager
+2 Imposta il task manager predefinito
+1 Windows TaskManager
+2 Task Manager di Windows
+1 Start in Separate Desktop (requires restart)
+2 Esegui in un desktop separato (richiede riavvio)
+1 Show all windows
+2 Mostra tutte le finestre
+1 Select columns...
+2 Seleziona colonne...
+1 Graphical CPU usage
+2 Visualizazione grafica utilizzo CPU
+1 Graphical MEM usage
+2 Visualizzione grafica utilizzo memoria
+1 Hide loopback IP 
+2 Nascondi IP di loopback
+1 Resolve IP addresses and port services
+2 Risolvi gli indirizzi IP e i servizi delle porte
+1 Show bytes exchanged (requires fast pc)
+2 Mostra i byte scambiati (necessario un PC veloce)
+1 Save on exit
+2 Salva all'uscita
+1 View
+2 Visualizza
+1 Always on top
+2 Sempre in primo piano
+1 Transparent window
+2 Finestra trasparente
+1 Show in traybar
+2 Mostra nella barra delle applicazioni
+1 CPU Usage
+2 Utilizzo CPU
+1 Mem usage
+2 Utilizzo RAM
+1 Numeric tray bar
+2 Icona numerica nella barra delle applicazioni
+1 Shutdown
+2 Chiudi sessione
+1 Lock workstation
+2 Blocca
+1 Suspend to RAM
+2 Sospendi
+1 Logoff
+2 Disconnetti
+1 Reboot 
+2 Riavvia
+1 Shutdown
+2 Spegni
+1 Shutdown force
+2 Spegni forzatamente
+1 Shutdown force (hard)
+2 Spegni forzatamente (hard)
+1 Tools
+2 Strumenti
+1 Auto manage priority of processes
+2 Gestisci automaticamente la priorità dei processi
+1 Sound advise for variation of CPU usage
+2 Avviso sonoro per variazioni dell'uso della CPU
+1 Enable hotkeys (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12)
+2 Abilita scorciatoie da tastiera (CTRL+ALT+BACKSPACE, CTRL+ALT+F8...F12) 
+1 About
+2 ?
+1 Support with donation...
+2 Supporta con una donazione...
+1 About Dtaskmanager
+2 Informazioni su Dtaskmanager
+1 Applications
+2 Applicazioni
+1 Freeze
+2 Ferma
+1 End Task
+2 Chiudi processo
+1 Go to process
+2 Vai al processo
+1 Switch to
+2 Porta in primo piano
+1 New Task
+2 Nuovo processo
+1 Processes
+2 Processi
+1 Suspend task
+2 Sospendi processo
+1 Resume task
+2 Riprende processo
+1 Find target file
+2 Trova file
+1 Kill Task
+2 Termina processo
+1 Kill Task Override
+2 Forza termina
+1 Performances
+2 Prestazioni
+1 CPU usage history
+2 Storico utilizzo CPU
+1 Memory usage history
+2 Storico utilizzo memoria
+1 System details
+2 Dettagli di sistema
+1 Memory usage
+2 Utilizzo della memoria
+1 Total
+2 Totale
+1 Physical
+2 Fisica
+1 Physical Memory
+2 Memoria fisica
+1 Installed
+2 Installata
+1 Available
+2 Disponibile
+1 System cache
+2 Cache sistema
+1 Commit charge memory
+2 Memoria virtuale
+1 Current
+2 Attuale
+1 Limit
+2 Limite
+1 Kernel memory
+2 Memoria del kernel
+1 Paged
+2 Paginata
+1 Nonpaged
+2 Non paginata
+1 Pagefile
+2 File di paging
+1 Size
+2 Dimensione
+1 Usage
+2 Utilizzo
+1 Peak
+2 Picco
+1 Ports
+2 Porte
+1 Networking
+2 Rete
+1 Bandwidth
+2 Larghezza banda
+1 Bandwith hystory
+2 Cronologia della larghezza di banda
+1 Details
+2 Dettagli
+1 PC name
+2 Nome PC
+1 IP address
+2 Indirizzo IP
+1 MAC Address
+2 Indirizzo MAC
+1 User Modules
+2 Moduli utente
+1 View by modules
+2 Vedi per moduli
+1 Kernel Modules
+2 Moduli kernel
+1 Show Bytes
+2 Mostra i bytes
+1 Find target file...
+2 Trova file nel disco...
+1 Set Priority
+2 Imposta priorità
+1 Realtime
+2 Tempo reale
+1 High
+2 Alta
+1 Above Normal
+2 SupNormale
+1 Normal
+2 Normale
+1 Below Normal
+2 InfNormale
+1 Low
+2 Bassa
+1 Low To All Processes
+2 Inferiore a tutto
+1 Set Affinity...
+2 Imposta affinità...
+1 Trim RAM Usage
+2 Risparmia memoria
+1 Trim RAM to all processes
+2 Risparmia memoria su tutti i processi
+1 Reveal All Windows
+2 Mostra le finestre nascoste
+1 Suspend
+2 Sospendi
+1 Resume
+2 Riprende
+1 End Process
+2 Termina processo
+1 End Process Tree
+2 Termina struttura processo
+1 Quit Process
+2 Chiudi processo
+1 Quit Process Tree
+2 Chiudi struttura processo
+1 Kill Process
+2 Terminazione forzata processo
+1 Kill Process Tree
+2 Terminazione forzata struttura processo
+1 Kill Process Override
+2 Terminazione forzata con bypass SO del processo
+1 Kill Process Tree Override
+2 Terminazione forzata con bypass SO della struttura processo 
+1 Kill Task (Override)
+2 Forza il termina processo
+1 Show Window
+2 Mostra finestra
+1 Hide Window
+2 Nascondi finestra
+1 Close Connection
+2 Chiudi connessione 

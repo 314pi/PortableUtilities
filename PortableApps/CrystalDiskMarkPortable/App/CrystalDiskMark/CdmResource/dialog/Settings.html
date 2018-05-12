@@ -1,0 +1,66 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html onmousewheel="return !event.shiftKey" oncontextmenu="if(event.srcElement.id!='Comment'){return false}" onselectstart="if(event.srcElement.id!='Comment'){return false}" ondragover="return false">
+<head>
+  <title>Queues &amp; Threads</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link id="StyleSheet" href="../theme/default/Main.css" rel="stylesheet" type="text/css" />
+</head>
+<body onmousewheel="return !event.shiftKey" oncontextmenu="if(event.srcElement.id!='Comment'){return false}" onselectstart="if(event.srcElement.id!='Comment'){return false}" ondragover="return false">
+<table border="0" cellspacing="0" cellpadding="4" align="center">
+  <tr>
+    <td>&nbsp;</td><td align="center">Queues</td><td align="center">Threads</td>
+  </tr>
+  <tr>
+    <td>Sequential</td>
+    <td align="center">
+      <select name="SequentialQueues1" id="SequentialQueues1" title="Sequential Queues">
+      </select>
+    </td>
+    <td align="center">
+      <select name="SequentialThreads1" id="SequentialThreads1" title="Sequential Threads">
+      </select>
+    </td>
+  </tr>
+  <tr>
+    <td>Random 4KiB (1)</td>
+    <td align="center">
+      <select name="RandomQueues1" id="RandomQueues1" title="Random Queues (1)">
+      </select>
+    </td>
+    <td align="center">
+      <select name="RandomThreads1" id="RandomThreads1" title="Random Threads (1)">
+      </select>
+    </td>
+  </tr>
+  <tr>
+    <td>Random 4KiB (2)</td>
+    <td align="center">
+      <select name="RandomQueues2" id="RandomQueues2" title="Random Queues (2)">
+      </select>
+    </td>
+    <td align="center">
+      <select name="RandomThreads2" id="RandomThreads2" title="Random Threads (2)">
+      </select>
+    </td>
+  </tr>
+  <tr>
+    <td>Random 4KiB (3)</td>
+    <td align="center">
+      <select name="RandomQueues3" id="RandomQueues3" title="Random Queues (3)">
+      </select>
+    </td>
+    <td align="center">
+      <select name="RandomThreads3" id="RandomThreads3" title="Random Threads (3)">
+      </select>
+    </td>
+  </tr>    
+</table>
+<center>
+<table align="center">
+  <tr>
+    <td><button id="Default" title="Default">Default</button></td>
+  </tr>
+</table>
+</center>
+</body>
+</html>

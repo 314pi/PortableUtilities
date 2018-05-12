@@ -1,0 +1,17 @@
+[Info]
+Title=Windows Log Files
+Description=Removes Windows log files
+Icon=Disk Cleaner Mod.ico
+
+[files]
+%windir%\system32\wbem\Logs\*.log
+%windir%\system32\wbem\Logs\*.lo_
+%windir%\SYSTEM\WBEM\logs
+%windir%\*.log
+%windir%\*.bak
+%windir%\*log.txt
+%allusersprofile%\Application Data\Microsoft\Dr Watson\*.log
+%allusersprofile%\Application Data\Microsoft\Dr Watson\*.dmp
+C:\SCANDISK.LOG
+%windir%\Faultlog.txt
+%windir%\SchedLog.Txt

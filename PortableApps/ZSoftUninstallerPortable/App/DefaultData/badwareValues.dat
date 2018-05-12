@@ -1,0 +1,14 @@
+Zango	HKLM	SOFTWARE\Mozilla\Firefox\Extensions	Zango@Zango.com
+Zango	HKLM	SOFTWARE\Microsoft\Internet Explorer\Toolbar	{90B8B761-DF2B-48AC-BBE0-BCC03A819B3B}
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\User Agent\Post Platform	Zango 10.3.74.0
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Run	ZangoOE
+Zango	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Run	ZangoSA
+Zango	HKCU	Software\Microsoft\Internet Explorer\Extensions\CmdMapping	{C5428486-50A0-4a02-9D20-520B59A9F9B2}
+Zango	HKCU	Software\Microsoft\Internet Explorer\Extensions\CmdMapping	{C5428486-50A0-4a02-9D20-520B59A9F9B3}
+Zango	HKCU	Software\Microsoft\Internet Explorer\Toolbar\WebBrowser	{90B8B761-DF2B-48AC-BBE0-BCC03A819B3B}
+Zango	HKCU	Software\Microsoft\Windows\CurrentVersion\Run	WeatherDPA
+PC MightyMax	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\Folders	<AppData>\Microsoft\Installer\{94D5AF0F-E6EE-4A75-BE31-9C9C9A87AD45}\
+PC MightyMax	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\Folders	<Start Menu>\Programmer\PC MightyMax\
+PC MightyMax	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\Folders	<PROGRAM_FILES>\PC MightyMax\
+PC MightyMax	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Run	PCMMRealtime
+PC MightyMax	HKLM	SOFTWARE\Microsoft\Windows\CurrentVersion\Run	PC MightyMax 2009 Tray Icon

@@ -1,0 +1,25 @@
+[Info]
+Title=FreshDownload
+Description=Erase FreshDownload History
+
+[Registry]
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List0
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List1
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List2
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List3
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List4
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List5
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List6
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List7
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List8
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List9
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List10
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List11
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List12
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List13
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List14
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List15
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List16
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List17
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List18
+HKEY_CURRENT_USER|Software\FreshDevices\FreshDownload\History|List19
